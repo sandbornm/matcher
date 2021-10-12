@@ -24,12 +24,12 @@ class Part:
         # for peaks
         print("Fe peaks")
         self.fe = FuzzyExtractor(length, tolerance)
-        self.k, self.h = self.fe.generate(self.peakBytes[:tolerance])
+        self.k, self.h = self.fe.generate(self.peakBytes[:length])
 
         # for impedance
         print("Fe impedance")
         self.fei = FuzzyExtractor(length, tolerance)
-        self.ki, self.hi = self.fe.generate(self.impBytes[:tolerance])
+        self.ki, self.hi = self.fe.generate(self.impBytes[:length])
         
     def loadData(self):
         df = pd.read_csv(os.path.join(os.path.dirname(os.getcwd()), "data", self.filename), header=None)
@@ -47,8 +47,14 @@ class Part:
         return s
 
     def getPeaks(self, numPeaks=10):
-        pks = find_peaks(self.realImp, prominence=1)[0]
-        self.peaks = pks[:numPeaks]
+        # todo sort and select n most prominent
+        # peak properties has prominence, sort by prominence
+        # 
+        pks, props = find_peaks(self.realImp, prominence=1)
+        peakIdx = np.flip(np.argsort(props['prominences']))[:numPeaks] # this is sorted peak prominence in descending order
+        self.peaks = pks[peakIdx]
+        self.prom = props['prominences'][peakIdx]
+        self.peakFrq = self.freq[self.peaks]
 
     def normData(self):
         real = self.realImp
@@ -59,10 +65,12 @@ class Part:
     def packImpedance(self):
         print("packing")
         print(self.normReal[:self.tolerance])
+        # todo numpy tobytes() vs struct pack
         bytes = self.normReal[:self.tolerance].tobytes()
         print("packed impedance")
         print(bytes)
-        return b''.join(bytearray(byte) for byte in bytes)
+        return bytes
+        #return b''.join(bytearray(byte) for byte in bytes)
     
         
 
@@ -79,8 +87,8 @@ class Comparator:
         self.base, self.sub = (part1, part2) if baseline == '1' else (part2, part1)
 
         # keep peaks byte data 
-        self.peakBase = self.base.peakBytes[:self.base.tolerance]
-        self.peakSub = self.sub.peakBytes[:self.base.tolerance]
+        self.peakBase = self.base.peakBytes[:self.base.length]
+        self.peakSub = self.sub.peakBytes[:self.base.length]
         
         # keys for peaks
         self.peakTargetKey, self.peakHelpers = self.base.k, self.base.h
@@ -109,6 +117,7 @@ class Comparator:
 
 
 def peaksToByteArray(peaks):
+    # todo check default to floor, output of peaks are floats 
     return b''.join([int(x).to_bytes(2, byteorder='big') for x in peaks])
 
     
@@ -116,7 +125,11 @@ def compare(base, sub):
     basePart = Part(base)
     subPart = Part(sub)
     cmp = Comparator(basePart, subPart)
-    # todo add viz
+    # todo add viz - 
+    # todo perturb the baseline to "damage" change every 100 values by some noise
+    # todo check byte symbols in python peak sub data: b'\x00\x13\x00F\x00' from AD2_DitherA5.csv
+    # todo add binary strings corresponding
+
     return (cmp.peakBase,
             cmp.peakSub,
             cmp.peakTargetKey,
@@ -124,4 +137,8 @@ def compare(base, sub):
             cmp.impBase,
             cmp.impSub,
             cmp.impTargetKey, 
-            cmp.impActualKey)
+            cmp.impActualKey,
+            cmp.base.peakFrq,
+            cmp.base.prom, 
+            cmp.sub.peakFrq,
+            cmp.sub.prom)
