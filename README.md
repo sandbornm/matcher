@@ -10,7 +10,7 @@ The core challenge here is to convert the impedance signature $I \in \mathbb{R}^
 
 # Data
 
-To upload data that persists in the application, upload `.csv` files into the `data` folder. Be sure to adhere to the naming convention of `AnalyzerID_SpecimenID_(scan #).csv` for consistency. Otherwise, you can upload your own local files for comparison by checking the `Upload files` option as shown below
+To upload data that persists in the application, upload `.csv` files into the `data` folder. Be sure to adhere to the naming convention of `AnalyzerID_SpecimenID_(scan #).csv` for consistency. The assumed format is `frequency, real impedance, imaginary impedance` (e.g. `5000,1108.602325,-2860.849288`) If you wish, you can upload local files for comparison by checking the `Upload files` option as shown below
 
 ![select](assets/select.png)
 
