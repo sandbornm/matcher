@@ -8,18 +8,7 @@ from fuzzyExtractor import FuzzyExtractor
 from sklearn.metrics import mean_squared_error
 import plotly.graph_objects as go
 
-
-class DataGenerator():
-    def __init__(self, mu=0, sigma=0.05):
-        self.mu = mu
-        self.sigma = sigma
-    
-    def generate(self, lo=5000, hi=100000, step=20):
-        self.freqRange = np.arange(lo, hi+step, step)
-        self.size = len(self.freqRange)
-
-    # todo generate data according to desired shape?
-    # todo gaussian vs non-gaussian noise
+import plotly.express as px
 
 
 class Part:
@@ -33,8 +22,8 @@ class Part:
             self.loadData(upload=True, data=file) 
         
         self.getPeaks()
-        self.getBinary()
         self.normData()
+        self.getBinary()
         self.length = length
         self.tolerance = tolerance
         self.peakBytes = peaksToByteArray(self.peaks)
@@ -214,8 +203,45 @@ def plotly(base, sub):
     return fig
 
 
-""" create a data generator based on selected mu and sigma
-    for the noise distribution and generate samples number 
-    of data points (1 sample is a single impedance signature)"""
-def generate(mu, sigma, samples):
+""" generate data from a base measurement and given sigma 
+    to control the variance"""
+def generate(file, samples, sigma):
+    prt = Part(file)
+    data = prt.normReal
+    freq = prt.freq
+    noisyData = []
+    for _ in range(samples):
+        noise = np.random.normal(0, sigma, len(data))
+        noised = data + noise
+        noisyData.append(noised)
+    noisyData = np.asarray(noisyData)
+    pl = plotNoise(data, noisyData, freq, sigma, samples)
+
+    return noisyData, pl
+
+""" create a plotly chart of the """
+def plotNoise(orig, noise, freq, sigma, samples):
+    fig = go.Figure({'layout': {'title' : {'text' : f'Base with noise (sigma={sigma}, n={samples})'} } })
+
+    # base
+    fig.add_trace(go.Scatter(
+        x=freq,
+        y=orig,
+        mode="lines", 
+        name="base signature"
+    ))
+
+    # noise
+    for i in range(samples):
+        fig.add_trace(go.Scatter(
+            x=freq,
+            y=noise[i],
+            mode="lines", 
+        ))
+
+    return fig
+
+
+""" used for noise data- convert the array of floats into a binary string"""
+def toBinary(data):
     pass
