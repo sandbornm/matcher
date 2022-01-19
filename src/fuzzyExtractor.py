@@ -55,7 +55,7 @@ class FuzzyExtractor(object):
 
         # num_helpers needs to be an integer
         self.num_helpers = round(num_helpers)
-        print(f"num helpers: {self.num_helpers}")
+        #print(f"num helpers: {self.num_helpers}")
 
     def parse_locker_args(self, hash_func='sha256', sec_len=2, nonce_len=16):
         """Parse arguments for digital lockers
