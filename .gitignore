@@ -5,3 +5,5 @@ scratch.py
 plots.py
 .vscode/
 src/
+*.egg
+*.egg-info
