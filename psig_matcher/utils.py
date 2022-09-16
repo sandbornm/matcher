@@ -253,15 +253,6 @@ class Comparator:
         print(f"comparing {self.sig1.part_type}_{self.sig1.instance_id} with {self.sig2.part_type}_{self.sig2.instance_id}")
         mse = mean_squared_error(self.sig1.real_imp, self.sig2.real_imp)
         rmse = np.sqrt(mse)  # same as RMSD
-        l1 = np.average(self.sig1.real_imp - self.sig2.real_imp)  # avg pointwise distance between response vals
+        l1 = np.average(np.abs(self.sig1.real_imp - self.sig2.real_imp))  # avg pointwise distance between response vals
         metrics = {'mse': mse, 'rmse': rmse, 'l1': l1}
         print(f"comparison metrics: {metrics}")
-
-def compare(instance_1, instance_2, metrics=["l1", "l2", "hamming", "rmsd"]):
-    """ compare two psigs with each of metric, return a dictionary of their distances """
-    pass
-
-def generate_with_noise(ps, n_sigs=50, noise_type=["perlin"], octaves=8, seed=42, real_only=False):
-    """ generate n_sigs given a real piezoelectric signature with noise_type noise"""
-    pass
-
