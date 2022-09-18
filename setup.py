@@ -24,6 +24,11 @@ setup(
     install_requires=[
         "matplotlib",
         "numpy",
+        "pandas",
+        "scipy",
+        "sklearn",
+        "perlin_noise",
+        "plotly",
     ],
     entry_points={
         'console_scripts': [
