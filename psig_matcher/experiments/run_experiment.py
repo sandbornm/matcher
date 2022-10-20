@@ -50,28 +50,25 @@ def compute_normal_ci(x: List[float], confidence: float) -> Tuple[float, float]:
     """Computes the confidence interval for a given confidence bound."""
     
     if sum(x) == 0: return (0, 0)
-    return stats.norm.interval(confidence, loc=np.mean(x), scale=np.std(x))
+    
+    if len(x) < 30:
+        return st.t.interval(confidence, len(x)-1, loc=np.mean(x), scale=st.sem(x))
+    else:
+        return stats.norm.interval(confidence, loc=np.mean(x), scale=np.std(x))
 
 def estimate_normal_dist(x: List[float], confidence: float) -> NormalDistribution:
     """Estimate the normal distribution for the given data.
     This is done using: https://handbook-5-1.cochrane.org/chapter_7/7_7_3_2_obtaining_standard_deviations_from_standard_errors_and.htm#:~:text=The%20standard%20deviation%20for%20each,should%20be%20replaced%20by%205.15.
     
-    TODO (henry): I'm not sure this is correct.
     """
     
-    # Use T distribution for small sample sizes
-    if len(x) < 30:
-        lower, upper = st.t.interval(confidence, len(x)-1, loc=np.mean(x), scale=st.sem(x))
-        t_value = st.t.ppf(confidence, len(x)-1)
-        std = np.sqrt(len(x))*(upper-lower)*t_value
-    
-    # Use normal distribution for larger sample sizes
-    else:
-        lower, upper = st.norm.interval(confidence, loc=np.mean(x), scale=st.sem(x))
-        z_value = st.norm.ppf(confidence)
-        std = np.sqrt(len(x))*(upper-lower)*z_value
-    
+    val_comp = st.t.ppf if len(x) < 30 else stats.norm.ppf
+    lower, upper = compute_normal_ci(x, confidence)
+   
+    val = val_comp(confidence, len(x)-1)
+    std = np.sqrt(len(x))*(upper-lower)*val
     return NormalDistribution(np.mean(x, axis=0), std)
+   
 
 def probability_of_multivariant_point(mu: List[float], cov: List[List[float]], x: List[float]) -> float:
     
