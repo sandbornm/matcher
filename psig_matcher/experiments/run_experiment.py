@@ -109,7 +109,7 @@ def estimate_overlap_of_set_with_sample_signals(parts: List[Part], samples: int,
 
 def run_meta_markov_multivariant_analysis(parts: List[Part], part_dim: int, num_samples: int, meta_pdf_ci: float, part_pdf_ci: float, confidence_bound: float):
     """ Runs the Monte Carlo Approximation of multivariant collision using the signal sample meta
-    pdf methodoly. The Monte Carlo Approximation will continually be run until the confidence interval
+    pdf methodology. The Monte Carlo Approximation will continually be run until the confidence interval
     converges and the average of the previous 10 runs is not smaller than the average of the previous 100 runs."""
     
     collisions = []
@@ -125,6 +125,24 @@ def run_meta_markov_multivariant_analysis(parts: List[Part], part_dim: int, num_
         # print(f"Estimated collision rate from sample distributiion has range: {upper - lower}")
         
         if len(confidence_ranges) > 100 and np.mean(confidence_ranges[-10:]) >= np.mean(confidence_ranges[-100:]):
+            return upper
+
+def simulate_part_pdf_convergence(part_signals: np.ndarray, part_dim: int, part_pdf_ci: float):
+    """ Given a discrete set of signals, this will simulate the part PDF CI convergence methodology.
+    This function pretend that the set of the signals is infinite, Also incorporate logic to handle
+    if we didn't converge before we ran out of data. Have modular connection style such that we could
+    add streaming data source in the future. """
+    sub_samples = []
+    confidence_ranges = []
+    while part_signals:
+        part_signal = part_signals[0]
+        part_signals = part_signals[1:]
+        sub_samples.append(part_signal)
+        
+        lower, upper = compute_normal_ci(sub_samples, part_pdf_ci)
+        confidence_ranges.append(upper - lower)
+
+        if len(confidence_range) > 100 and np.mean(confidence_ranges[-10:]) >= np.mean(confidence_ranges[-100:]):
             return upper
     
 def run_experiment(part_type: str, part_dim: int, num_samples: int, meta_pdf_ci: float, part_pdf_ci: float, confidence_bound: float):
