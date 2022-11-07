@@ -109,7 +109,7 @@ def estimate_overlap_of_set_with_sample_signals(parts: List[Part], samples: int,
 
 def run_meta_markov_multivariant_analysis(parts: List[Part], part_dim: int, num_samples: int, meta_pdf_ci: float, part_pdf_ci: float, confidence_bound: float):
     """ Runs the Monte Carlo Approximation of multivariant collision using the signal sample meta
-    pdf methodoly. The Monte Carlo Approximation will continually be run until the confidence interval
+    pdf methodology. The Monte Carlo Approximation will continually be run until the confidence interval
     converges and the average of the previous 10 runs is not smaller than the average of the previous 100 runs."""
     
     collisions = []
@@ -118,18 +118,47 @@ def run_meta_markov_multivariant_analysis(parts: List[Part], part_dim: int, num_
         
         multivariant_parts = limit_deminsionality(parts, list(range(part_dim)))
         collision_rate = estimate_overlap_of_set_with_sample_signals(multivariant_parts, num_samples, meta_pdf_ci, part_pdf_ci, confidence_bound)
-        log_metric("collision_rate", collision_rate)
         
         collisions.append(collision_rate)
+        log_metric("monte_carlo_collision_rate", collision_rate)
+
         lower, upper = compute_normal_ci(collisions, 0.95)
         confidence_ranges.append(upper - lower)
-        log_metric("ci", upper - lower)
+        log_metric("monte_carlo_confidence_interval", upper - lower)
+
         # print(f"Estimated collision rate from sample distributiion has range: {upper - lower}")
         
         if len(confidence_ranges) > 100 and np.mean(confidence_ranges[-10:]) >= np.mean(confidence_ranges[-100:]):
+
             # final approximated collision rate, and its associated CI
-            log_metric("final_collision_rate", collision_rate)
-            log_metric("final_ci", upper - lower)
+            log_metric("monte_carlo_final_collision_rate", collision_rate)
+            log_metric("monte_carlo_final_confidence_interval", upper - lower)
+
+            return upper
+
+def simulate_part_pdf_convergence(part_signals: np.ndarray, part_dim: int, part_pdf_ci: float):
+    """ Given a discrete set of signals, this will simulate the part PDF CI convergence methodology.
+    This function pretend that the set of the signals is infinite, Also incorporate logic to handle
+    if we didn't converge before we ran out of data. Have modular connection style such that we could
+    add streaming data source in the future. """
+    sub_samples = []
+    confidence_ranges = []
+    while part_signals:
+        part_signal = part_signals[0]
+        part_signals = part_signals[1:]
+        sub_samples.append(part_signal)
+        
+        lower, upper = compute_normal_ci(sub_samples, part_pdf_ci)
+        confidence_ranges.append(upper - lower)
+
+        log_metric("part_pdf_confidence_interval", upper - lower)
+
+        if len(confidence_range) > 100 and np.mean(confidence_ranges[-10:]) >= np.mean(confidence_ranges[-100:]):
+
+            # final approximated collision rate, and its associated CI
+            log_metric("part_pdf_final_collision_rate", collision_rate)
+            log_metric("part_pdf_final_confidence_interval", upper - lower)
+
             return upper
     
 def run_experiment(part_type: str, part_dim: int, num_samples: int, meta_pdf_ci: float, part_pdf_ci: float, confidence_bound: float):
@@ -151,7 +180,7 @@ def main():
     parser.add_argument('--confidence_bound', type=float, required=True)
     
     args = parser.parse_args()
-    
+
     # capture the system hyperparameters that were used when running the experiment 
     log_param("part_type", args.part_type)
     log_param("part_dim", args.part_dim)
@@ -159,7 +188,7 @@ def main():
     log_param("meta_pdf_ci", args.meta_pdf_ci)
     log_param("part_pdf_ci", args.part_pdf_ci)
     log_param("confidence_bound", args.confidence_bound)
-    
+
     run_experiment(args.part_type, args.part_dim, args.num_samples, args.meta_pdf_ci, args.part_pdf_ci, args.confidence_bound)
     
 if __name__ == '__main__':
