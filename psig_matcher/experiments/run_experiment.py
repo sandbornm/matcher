@@ -13,44 +13,44 @@ import sys
 class NormalDistribution:
     mean: float
     std: float
-    
+
 @dataclass
 class Part:
-    
+
     type: str
     sub_part_name: str
     sensor: str
     signals: List   # Signal is numpy array of (500,3) with [frequency, Z, X]
-    
-    
+
+
 def load_part_data(part_type: str) -> List[Part]:
-    
+
     parts = []
     for part_dir in os.listdir(f'psig_matcher/data/{part_type}'):
-        
+
         sensor = part_dir[1:]
         measurement_files = glob.glob(f'psig_matcher/data/{part_type}/{part_dir}/*.npy')
         measurements = [np.load(f) for f in measurement_files]
         parts.append(Part(part_type, part_dir, sensor, measurements))
-    
+
     return parts
 
 def limit_deminsionality(parts: List[Part], frequeny_indexes: List[int]) -> List[Part]:
-    """Use only a subset of the frequencies for the analysis. This effectivley transforms the 
+    """Use only a subset of the frequencies for the analysis. This effectivley transforms the
     500 dimension multivariant distribution to a n-dimentional distribution where n is the
     length of the frequency_indexes.
-    
+
     Further, this assumes use of the X axis"""
-    
+
     return [
         dataclasses.replace(part, signals=[[signal[index][1] for index in frequeny_indexes] for signal in part.signals])
         for part in parts]
 
 def compute_normal_ci(x: List[float], confidence: float) -> Tuple[float, float]:
     """Computes the confidence interval for a given confidence bound."""
-    
+
     if sum(x) == 0: return (0, 0)
-    
+
     if len(x) < 30:
         return st.t.interval(confidence, len(x)-1, loc=np.mean(x), scale=st.sem(x))
     else:
@@ -59,19 +59,19 @@ def compute_normal_ci(x: List[float], confidence: float) -> Tuple[float, float]:
 def estimate_normal_dist(x: List[float], confidence: float) -> NormalDistribution:
     """Estimate the normal distribution for the given data.
     This is done using: https://handbook-5-1.cochrane.org/chapter_7/7_7_3_2_obtaining_standard_deviations_from_standard_errors_and.htm#:~:text=The%20standard%20deviation%20for%20each,should%20be%20replaced%20by%205.15.
-    
+
     """
-    
+
     val_comp = st.t.ppf if len(x) < 30 else stats.norm.ppf
     lower, upper = compute_normal_ci(x, confidence)
-   
+
     val = val_comp(confidence, len(x)-1)
     std = np.sqrt(len(x))*(upper-lower)*val
     return NormalDistribution(np.mean(x, axis=0), std)
-   
+
 
 def probability_of_multivariant_point(mu: List[float], cov: List[List[float]], x: List[float]) -> float:
-    
+
     #https://stats.stackexchange.com/questions/331283/how-to-calculate-the-probability-of-a-data-point-belonging-to-a-multivariate-nor
     # Double check this math
     m_dist_x = np.dot((x-mu).transpose(),np.linalg.inv(cov))
@@ -82,17 +82,17 @@ def estimate_overlap_of_set_with_sample_signals(parts: List[Part], samples: int,
     """ I believe this is the best solution out of all them. We are directly modeling the distribution/state space that
     the signals come from, and sampling from that. This directly correlates with the CI and is intuitive. See notion for
     more details and defense. """
-    
+
     min_confidence = 1 - confidence_bound
     signals = [
-        signal for part in parts 
+        signal for part in parts
         for signal in part.signals]
-    
+
     part_pdfs = [estimate_normal_dist(part.signals, part_pdf_ci) for part in parts]
     sample_pdf = estimate_normal_dist(signals, meta_pdf_ci)
-    
+
     state_space_samples = np.random.multivariate_normal(sample_pdf.mean, np.diag(sample_pdf.std), samples)
-    
+
     # using probability_of_multivariant_point no longer directly equates to false negative rate.
     # TODO (henry): Figure out relationship between integrated pdf range and false negative rate
     sample_confidences = [
@@ -111,14 +111,14 @@ def run_meta_markov_multivariant_analysis(parts: List[Part], part_dim: int, num_
     """ Runs the Monte Carlo Approximation of multivariant collision using the signal sample meta
     pdf methodology. The Monte Carlo Approximation will continually be run until the confidence interval
     converges and the average of the previous 10 runs is not smaller than the average of the previous 100 runs."""
-    
+
     collisions = []
     confidence_ranges = []
     while True:
-        
+
         multivariant_parts = limit_deminsionality(parts, list(range(part_dim)))
         collision_rate = estimate_overlap_of_set_with_sample_signals(multivariant_parts, num_samples, meta_pdf_ci, part_pdf_ci, confidence_bound)
-        
+
         collisions.append(collision_rate)
         log_metric("monte_carlo_collision_rate", collision_rate)
 
@@ -127,13 +127,8 @@ def run_meta_markov_multivariant_analysis(parts: List[Part], part_dim: int, num_
         log_metric("monte_carlo_confidence_interval", upper - lower)
 
         # print(f"Estimated collision rate from sample distributiion has range: {upper - lower}")
-        
+
         if len(confidence_ranges) > 100 and np.mean(confidence_ranges[-10:]) >= np.mean(confidence_ranges[-100:]):
-
-            # final approximated collision rate, and its associated CI
-            log_metric("monte_carlo_final_collision_rate", collision_rate)
-            log_metric("monte_carlo_final_confidence_interval", upper - lower)
-
             return upper
 
 def simulate_part_pdf_convergence(part_signals: np.ndarray, part_dim: int, part_pdf_ci: float):
@@ -144,23 +139,22 @@ def simulate_part_pdf_convergence(part_signals: np.ndarray, part_dim: int, part_
     sub_samples = []
     confidence_ranges = []
     while part_signals:
-        part_signal = part_signals[0]
+        # The below code is equivalent to sub_samples.append(part_signals.pop())
+        # 1. remove the first element of the part_signals
+        # 2. stores it in a new variable part_sig
+        # 3. append part_sig to sub_samples
+        part_sig = part_signals[0]
         part_signals = part_signals[1:]
-        sub_samples.append(part_signal)
-        
+        sub_samples.append(part_sig)
+
         lower, upper = compute_normal_ci(sub_samples, part_pdf_ci)
         confidence_ranges.append(upper - lower)
 
         log_metric("part_pdf_confidence_interval", upper - lower)
 
         if len(confidence_range) > 100 and np.mean(confidence_ranges[-10:]) >= np.mean(confidence_ranges[-100:]):
-
-            # final approximated collision rate, and its associated CI
-            log_metric("part_pdf_final_collision_rate", collision_rate)
-            log_metric("part_pdf_final_confidence_interval", upper - lower)
-
             return upper
-    
+
 def run_experiment(part_type: str, part_dim: int, num_samples: int, meta_pdf_ci: float, part_pdf_ci: float, confidence_bound: float):
 
     con_parts = load_part_data(part_type)
@@ -170,7 +164,7 @@ def run_experiment(part_type: str, part_dim: int, num_samples: int, meta_pdf_ci:
 def main():
     """ This script can be run as such:
     python3 psig_matcher/experiments/run_experiment.py --part_type=CON --part_dim=5 --num_samples=100 --meta_pdf_ci=0.999 --part_pdf_ci=0.999 --confidence_bound=0.999 """
-    
+
     parser = argparse.ArgumentParser()
     parser.add_argument('--part_type', type=str, required=True)
     parser.add_argument('--part_dim', type=int, required=True)
@@ -178,10 +172,10 @@ def main():
     parser.add_argument('--meta_pdf_ci', type=float, required=True)
     parser.add_argument('--part_pdf_ci', type=float, required=True)
     parser.add_argument('--confidence_bound', type=float, required=True)
-    
+
     args = parser.parse_args()
 
-    # capture the system hyperparameters that were used when running the experiment 
+    # capture the system hyperparameters that were used when running the experiment
     log_param("part_type", args.part_type)
     log_param("part_dim", args.part_dim)
     log_param("num_samples", args.num_samples)
@@ -190,6 +184,6 @@ def main():
     log_param("confidence_bound", args.confidence_bound)
 
     run_experiment(args.part_type, args.part_dim, args.num_samples, args.meta_pdf_ci, args.part_pdf_ci, args.confidence_bound)
-    
+
 if __name__ == '__main__':
     main()
