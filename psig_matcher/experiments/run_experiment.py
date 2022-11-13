@@ -139,10 +139,7 @@ def simulate_part_pdf_convergence(part_signals: np.ndarray, part_dim: int, part_
     sub_samples = []
     confidence_ranges = []
     while part_signals:
-        # The below code is equivalent to sub_samples.append(part_signals.pop())
-        # 1. remove the first element of the part_signals
-        # 2. stores it in a new variable part_sig
-        # 3. append part_sig to sub_samples
+        # The below segment is equivalent to sub_samples.append(part_signals.pop())
         part_sig = part_signals[0]
         part_signals = part_signals[1:]
         sub_samples.append(part_sig)
@@ -154,7 +151,7 @@ def simulate_part_pdf_convergence(part_signals: np.ndarray, part_dim: int, part_
 
         if len(confidence_range) > 100 and np.mean(confidence_ranges[-10:]) >= np.mean(confidence_ranges[-100:]):
             return upper
-
+            
 def run_experiment(part_type: str, part_dim: int, num_samples: int, meta_pdf_ci: float, part_pdf_ci: float, confidence_bound: float):
 
     con_parts = load_part_data(part_type)
