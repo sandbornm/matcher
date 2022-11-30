@@ -8,6 +8,7 @@ from scipy import stats
 import dataclasses
 import argparse
 import sys
+import mlflow
 
 @dataclass
 class NormalDistribution:
@@ -120,11 +121,11 @@ def run_meta_markov_multivariant_analysis(parts: List[Part], part_dim: int, num_
         collision_rate = estimate_overlap_of_set_with_sample_signals(multivariant_parts, num_samples, meta_pdf_ci, part_pdf_ci, confidence_bound)
 
         collisions.append(collision_rate)
-        log_metric("monte_carlo_collision_rate", collision_rate)
+        mlflow.log_metric("monte_carlo_collision_rate", collision_rate)
 
         lower, upper = compute_normal_ci(collisions, 0.95)
         confidence_ranges.append(upper - lower)
-        log_metric("monte_carlo_confidence_interval", upper - lower)
+        mlflow.log_metric("monte_carlo_confidence_interval", upper - lower)
 
         # print(f"Estimated collision rate from sample distributiion has range: {upper - lower}")
 
@@ -147,7 +148,7 @@ def simulate_part_pdf_convergence(part_signals: np.ndarray, part_dim: int, part_
         lower, upper = compute_normal_ci(sub_samples, part_pdf_ci)
         confidence_ranges.append(upper - lower)
 
-        log_metric("part_pdf_confidence_interval", upper - lower)
+        mlflow.log_metric("part_pdf_confidence_interval", upper - lower)
 
         if len(confidence_range) > 100 and np.mean(confidence_ranges[-10:]) >= np.mean(confidence_ranges[-100:]):
             return upper
@@ -173,12 +174,12 @@ def main():
     args = parser.parse_args()
 
     # capture the system hyperparameters that were used when running the experiment
-    log_param("part_type", args.part_type)
-    log_param("part_dim", args.part_dim)
-    log_param("num_samples", args.num_samples)
-    log_param("meta_pdf_ci", args.meta_pdf_ci)
-    log_param("part_pdf_ci", args.part_pdf_ci)
-    log_param("confidence_bound", args.confidence_bound)
+    mlflow.log_param("part_type", args.part_type)
+    mlflow.log_param("part_dim", args.part_dim)
+    mlflow.log_param("num_samples", args.num_samples)
+    mlflow.log_param("meta_pdf_ci", args.meta_pdf_ci)
+    mlflow.log_param("part_pdf_ci", args.part_pdf_ci)
+    mlflow.log_param("confidence_bound", args.confidence_bound)
 
     run_experiment(args.part_type, args.part_dim, args.num_samples, args.meta_pdf_ci, args.part_pdf_ci, args.confidence_bound)
 
