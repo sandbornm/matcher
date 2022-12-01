@@ -50,7 +50,7 @@ def limit_deminsionality(parts: List[Part], frequeny_indexes: List[int]) -> List
 def compute_normal_ci(x: List[float], confidence: float) -> Tuple[float, float]:
     """Computes the confidence interval for a given confidence bound."""
 
-    if sum(x) == 0: return (0, 0)
+    if np.mean(x) == 0: return (0, 0)
 
     if len(x) < 30:
         return st.t.interval(confidence, len(x)-1, loc=np.mean(x), scale=st.sem(x))
