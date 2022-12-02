@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/0/789c4e6c63d242ef8a9a8def343058f7/artifacts
+end_time: 1670010141945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 789c4e6c63d242ef8a9a8def343058f7
+run_name: loud-fish-353
+run_uuid: 789c4e6c63d242ef8a9a8def343058f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670010141935
+status: 4
+tags: []
+user_id: henrygilbert

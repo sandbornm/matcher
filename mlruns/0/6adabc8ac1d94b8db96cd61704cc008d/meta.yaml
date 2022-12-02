@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/0/6adabc8ac1d94b8db96cd61704cc008d/artifacts
+end_time: 1670010279422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6adabc8ac1d94b8db96cd61704cc008d
+run_name: judicious-ram-753
+run_uuid: 6adabc8ac1d94b8db96cd61704cc008d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670010279405
+status: 4
+tags: []
+user_id: henrygilbert

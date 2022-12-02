@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/0/9ed1bdcc815d462bbf76cf221e54783b/artifacts
+end_time: 1670010488565
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ed1bdcc815d462bbf76cf221e54783b
+run_name: invincible-frog-373
+run_uuid: 9ed1bdcc815d462bbf76cf221e54783b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670010488551
+status: 4
+tags: []
+user_id: henrygilbert

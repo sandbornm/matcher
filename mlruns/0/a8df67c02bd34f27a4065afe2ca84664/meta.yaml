@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/0/a8df67c02bd34f27a4065afe2ca84664/artifacts
+end_time: 1670010453583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8df67c02bd34f27a4065afe2ca84664
+run_name: beautiful-midge-187
+run_uuid: a8df67c02bd34f27a4065afe2ca84664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670010453556
+status: 4
+tags: []
+user_id: henrygilbert

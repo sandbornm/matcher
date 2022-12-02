@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/0/7de0ecacaa374410a39d7ac82f46b444/artifacts
+end_time: 1670010586647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7de0ecacaa374410a39d7ac82f46b444
+run_name: spiffy-lynx-913
+run_uuid: 7de0ecacaa374410a39d7ac82f46b444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670010578309
+status: 4
+tags: []
+user_id: henrygilbert
