@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/0/7f0cc8aea0b942f3a7d174ec3a932fa5/artifacts
+end_time: 1670011021664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f0cc8aea0b942f3a7d174ec3a932fa5
+run_name: selective-perch-944
+run_uuid: 7f0cc8aea0b942f3a7d174ec3a932fa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670011021658
+status: 4
+tags: []
+user_id: henrygilbert
