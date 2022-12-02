@@ -9,6 +9,8 @@ import dataclasses
 import argparse
 import sys
 import mlflow
+from sklearn.model_selection import ParameterGrid
+import multiprocessing as mp
 
 @dataclass
 class NormalDistribution:
@@ -50,8 +52,15 @@ def limit_deminsionality(parts: List[Part], frequeny_indexes: List[int]) -> List
 def compute_normal_ci(x: List[float], confidence: float) -> Tuple[float, float]:
     """Computes the confidence interval for a given confidence bound."""
 
-    if sum(x) == 0: return (0, 0)
-
+    if np.all(np.isclose(x, 0)):
+        
+        if np.array(x).ndim==1:
+            return 0,0
+        elif np.array(x).ndim==2: 
+            return np.zeros(np.array(x).shape[1]), np.zeros(np.array(x).shape[1])
+        else: 
+            raise ValueError('x must be 1 or 2 dimensional')
+    
     if len(x) < 30:
         return st.t.interval(confidence, len(x)-1, loc=np.mean(x), scale=st.sem(x))
     else:
@@ -91,11 +100,8 @@ def estimate_overlap_of_set_with_sample_signals(parts: List[Part], samples: int,
 
     part_pdfs = [estimate_normal_dist(part.signals, part_pdf_ci) for part in parts]
     sample_pdf = estimate_normal_dist(signals, meta_pdf_ci)
-
     state_space_samples = np.random.multivariate_normal(sample_pdf.mean, np.diag(sample_pdf.std), samples)
-
-    # using probability_of_multivariant_point no longer directly equates to false negative rate.
-    # TODO (henry): Figure out relationship between integrated pdf range and false negative rate
+        
     sample_confidences = [
         [probability_of_multivariant_point(pdf.mean, np.diag(pdf.std), sample) for pdf in part_pdfs]
         for sample in state_space_samples]
@@ -108,7 +114,7 @@ def estimate_overlap_of_set_with_sample_signals(parts: List[Part], samples: int,
     collisions = [max(len(confidences)-1, 0) for confidences in filtered_confidences]
     return sum(collisions)/(samples*len(part_pdfs))
 
-def run_meta_markov_multivariant_analysis(parts: List[Part], part_dim: int, num_samples: int, meta_pdf_ci: float, part_pdf_ci: float, confidence_bound: float):
+def run_meta_markov_multivariant_analysis(client: mlflow.tracking.MlflowClient, run_id: int, parts: List[Part], part_dim: int, num_samples: int, meta_pdf_ci: float, part_pdf_ci: float, confidence_bound: float):
     """ Runs the Monte Carlo Approximation of multivariant collision using the signal sample meta
     pdf methodology. The Monte Carlo Approximation will continually be run until the confidence interval
     converges and the average of the previous 10 runs is not smaller than the average of the previous 100 runs."""
@@ -121,14 +127,13 @@ def run_meta_markov_multivariant_analysis(parts: List[Part], part_dim: int, num_
         collision_rate = estimate_overlap_of_set_with_sample_signals(multivariant_parts, num_samples, meta_pdf_ci, part_pdf_ci, confidence_bound)
 
         collisions.append(collision_rate)
-        mlflow.log_metric("monte_carlo_collision_rate", collision_rate)
+        client.log_metric(run_id, "monte_carlo_collision_rate", collision_rate)
 
         lower, upper = compute_normal_ci(collisions, 0.95)
         confidence_ranges.append(upper - lower)
-        mlflow.log_metric("monte_carlo_confidence_interval", upper - lower)
-
-        # print(f"Estimated collision rate from sample distributiion has range: {upper - lower}")
-
+        client.log_metric(run_id, "monte_carlo_confidence_interval", upper - lower)
+        print(len(confidence_ranges))
+        
         if len(confidence_ranges) > 100 and np.mean(confidence_ranges[-10:]) >= np.mean(confidence_ranges[-100:]):
             return upper
 
@@ -137,9 +142,11 @@ def simulate_part_pdf_convergence(part_signals: np.ndarray, part_dim: int, part_
     This function pretend that the set of the signals is infinite, Also incorporate logic to handle
     if we didn't converge before we ran out of data. Have modular connection style such that we could
     add streaming data source in the future. """
+    
     sub_samples = []
     confidence_ranges = []
     while part_signals:
+        
         # The below segment is equivalent to sub_samples.append(part_signals.pop())
         part_sig = part_signals[0]
         part_signals = part_signals[1:]
@@ -149,14 +156,25 @@ def simulate_part_pdf_convergence(part_signals: np.ndarray, part_dim: int, part_
         confidence_ranges.append(upper - lower)
 
         mlflow.log_metric("part_pdf_confidence_interval", upper - lower)
-
-        if len(confidence_range) > 100 and np.mean(confidence_ranges[-10:]) >= np.mean(confidence_ranges[-100:]):
+        if len(confidence_ranges) > 100 and np.mean(confidence_ranges[-10:]) >= np.mean(confidence_ranges[-100:]):
             return upper
             
-def run_experiment(part_type: str, part_dim: int, num_samples: int, meta_pdf_ci: float, part_pdf_ci: float, confidence_bound: float):
+def run_experiment(experiment_id: int, part_type: str, part_dim: int, num_samples: int, meta_pdf_ci: float, part_pdf_ci: float, confidence_bound: float):
 
+    print("in run experiment")
+    client = mlflow.tracking.MlflowClient()
+    run_id = client.create_run(experiment_id).info.run_id
+    
+    client.log_param(run_id, "part_type", part_type)
+    client.log_param(run_id, "part_type", part_type)
+    client.log_param(run_id, "part_dim", part_dim)
+    client.log_param(run_id, "num_samples", num_samples)
+    client.log_param(run_id, "meta_pdf_ci", meta_pdf_ci)
+    client.log_param(run_id, "part_pdf_ci", part_pdf_ci)
+    client.log_param(run_id, "confidence_bound", confidence_bound)
+        
     con_parts = load_part_data(part_type)
-    upper_collision_rate = run_meta_markov_multivariant_analysis(con_parts, part_dim, num_samples, meta_pdf_ci, part_pdf_ci, confidence_bound)
+    upper_collision_rate = run_meta_markov_multivariant_analysis(client, run_id, con_parts, part_dim, num_samples, meta_pdf_ci, part_pdf_ci, confidence_bound)
     print(f"Upper collision rate: {upper_collision_rate * 100}%")
 
 def main():
@@ -172,16 +190,33 @@ def main():
     parser.add_argument('--confidence_bound', type=float, required=True)
 
     args = parser.parse_args()
-
-    # capture the system hyperparameters that were used when running the experiment
-    mlflow.log_param("part_type", args.part_type)
-    mlflow.log_param("part_dim", args.part_dim)
-    mlflow.log_param("num_samples", args.num_samples)
-    mlflow.log_param("meta_pdf_ci", args.meta_pdf_ci)
-    mlflow.log_param("part_pdf_ci", args.part_pdf_ci)
-    mlflow.log_param("confidence_bound", args.confidence_bound)
-
     run_experiment(args.part_type, args.part_dim, args.num_samples, args.meta_pdf_ci, args.part_pdf_ci, args.confidence_bound)
 
+def run_parallel_experiment():
+    
+    mlflow.set_experiment("Experiment 2")
+    experiment_id = mlflow.get_experiment_by_name(name='Experiment 2').experiment_id
+    param_values = {
+        'part_type': ["CON"],
+        'part_dim' : [2],
+        'num_samples': [1000],
+        'meta_pdf_ci' : [0.6],
+        'part_pdf_ci' : [0.5],
+        'confidence_bound' : [0.5, 0.999, 0.99, 0.95],
+        'experiment_id': [experiment_id]}
+    
+    parameter_grid = list(ParameterGrid(param_values))
+    print(f"Running {len(parameter_grid)} experiments")
+    
+    pool = mp.Pool(mp.cpu_count())
+    for params in parameter_grid:
+        pool.apply_async(run_experiment, kwds=params)
+        #run_experiment(**params)
+
+    pool.close()
+    pool.join()
+    
+    
 if __name__ == '__main__':
-    main()
+    #main()
+    run_parallel_experiment()

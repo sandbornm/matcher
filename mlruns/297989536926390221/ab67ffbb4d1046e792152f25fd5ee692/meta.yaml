@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/297989536926390221/ab67ffbb4d1046e792152f25fd5ee692/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '297989536926390221'
+lifecycle_stage: active
+run_id: ab67ffbb4d1046e792152f25fd5ee692
+run_name: fearless-shark-216
+run_uuid: ab67ffbb4d1046e792152f25fd5ee692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670014197745
+status: 1
+tags: []
+user_id: unknown
