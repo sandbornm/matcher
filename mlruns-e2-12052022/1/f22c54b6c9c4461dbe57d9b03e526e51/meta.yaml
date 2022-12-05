@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f22c54b6c9c4461dbe57d9b03e526e51/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f22c54b6c9c4461dbe57d9b03e526e51
+run_name: bustling-lamb-652
+run_uuid: f22c54b6c9c4461dbe57d9b03e526e51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231160857
+status: 1
+tags: []
+user_id: unknown

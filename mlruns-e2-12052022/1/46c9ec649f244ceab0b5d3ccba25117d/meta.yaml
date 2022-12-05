@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/46c9ec649f244ceab0b5d3ccba25117d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 46c9ec649f244ceab0b5d3ccba25117d
+run_name: mercurial-goat-579
+run_uuid: 46c9ec649f244ceab0b5d3ccba25117d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231171546
+status: 1
+tags: []
+user_id: unknown

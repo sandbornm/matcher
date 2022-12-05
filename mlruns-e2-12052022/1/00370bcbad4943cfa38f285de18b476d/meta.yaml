@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/00370bcbad4943cfa38f285de18b476d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 00370bcbad4943cfa38f285de18b476d
+run_name: bouncy-donkey-337
+run_uuid: 00370bcbad4943cfa38f285de18b476d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231197086
+status: 1
+tags: []
+user_id: unknown

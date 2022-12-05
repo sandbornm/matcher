@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/eba3aa5dec94432298e654134d10285b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eba3aa5dec94432298e654134d10285b
+run_name: stately-frog-323
+run_uuid: eba3aa5dec94432298e654134d10285b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233149199
+status: 1
+tags: []
+user_id: unknown

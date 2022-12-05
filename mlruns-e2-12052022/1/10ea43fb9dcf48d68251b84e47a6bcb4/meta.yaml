@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/10ea43fb9dcf48d68251b84e47a6bcb4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 10ea43fb9dcf48d68251b84e47a6bcb4
+run_name: masked-donkey-55
+run_uuid: 10ea43fb9dcf48d68251b84e47a6bcb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233036872
+status: 1
+tags: []
+user_id: unknown

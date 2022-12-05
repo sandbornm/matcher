@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/10c39069627f4756a39677870017dd3c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 10c39069627f4756a39677870017dd3c
+run_name: adorable-asp-417
+run_uuid: 10c39069627f4756a39677870017dd3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231162118
+status: 1
+tags: []
+user_id: unknown

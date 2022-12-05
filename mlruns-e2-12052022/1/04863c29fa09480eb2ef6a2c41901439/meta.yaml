@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/04863c29fa09480eb2ef6a2c41901439/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 04863c29fa09480eb2ef6a2c41901439
+run_name: popular-vole-423
+run_uuid: 04863c29fa09480eb2ef6a2c41901439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231166499
+status: 1
+tags: []
+user_id: unknown

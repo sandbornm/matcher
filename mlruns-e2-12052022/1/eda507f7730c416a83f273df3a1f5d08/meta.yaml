@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/eda507f7730c416a83f273df3a1f5d08/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eda507f7730c416a83f273df3a1f5d08
+run_name: gaudy-lark-710
+run_uuid: eda507f7730c416a83f273df3a1f5d08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233051962
+status: 1
+tags: []
+user_id: unknown

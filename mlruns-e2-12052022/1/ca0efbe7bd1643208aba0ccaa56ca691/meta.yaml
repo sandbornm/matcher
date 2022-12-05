@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ca0efbe7bd1643208aba0ccaa56ca691/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca0efbe7bd1643208aba0ccaa56ca691
+run_name: nebulous-shark-376
+run_uuid: ca0efbe7bd1643208aba0ccaa56ca691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231222128
+status: 1
+tags: []
+user_id: unknown

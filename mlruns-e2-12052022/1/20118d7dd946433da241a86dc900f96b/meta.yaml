@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/20118d7dd946433da241a86dc900f96b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 20118d7dd946433da241a86dc900f96b
+run_name: chill-hawk-127
+run_uuid: 20118d7dd946433da241a86dc900f96b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231249774
+status: 1
+tags: []
+user_id: unknown

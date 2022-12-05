@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/99a10cc2ac84485087015c8ba86a84be/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 99a10cc2ac84485087015c8ba86a84be
+run_name: bemused-vole-568
+run_uuid: 99a10cc2ac84485087015c8ba86a84be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233057393
+status: 1
+tags: []
+user_id: unknown

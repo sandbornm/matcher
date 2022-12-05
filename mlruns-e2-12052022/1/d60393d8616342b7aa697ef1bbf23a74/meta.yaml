@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d60393d8616342b7aa697ef1bbf23a74/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d60393d8616342b7aa697ef1bbf23a74
+run_name: youthful-pig-284
+run_uuid: d60393d8616342b7aa697ef1bbf23a74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231192494
+status: 1
+tags: []
+user_id: unknown

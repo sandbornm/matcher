@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1fe9b82506854b8aa90faabfb0a0db3a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1fe9b82506854b8aa90faabfb0a0db3a
+run_name: polite-worm-164
+run_uuid: 1fe9b82506854b8aa90faabfb0a0db3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231228667
+status: 1
+tags: []
+user_id: unknown

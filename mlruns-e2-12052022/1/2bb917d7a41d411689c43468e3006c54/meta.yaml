@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2bb917d7a41d411689c43468e3006c54/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2bb917d7a41d411689c43468e3006c54
+run_name: sedate-sloth-379
+run_uuid: 2bb917d7a41d411689c43468e3006c54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231264624
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/30533e7170df42d1a0ed2cc64b60b51c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 30533e7170df42d1a0ed2cc64b60b51c
+run_name: carefree-shad-196
+run_uuid: 30533e7170df42d1a0ed2cc64b60b51c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231223420
+status: 1
+tags: []
+user_id: unknown

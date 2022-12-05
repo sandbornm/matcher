@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0d02d7a40eec4bbeb1a92ec5c379fe5e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0d02d7a40eec4bbeb1a92ec5c379fe5e
+run_name: crawling-donkey-618
+run_uuid: 0d02d7a40eec4bbeb1a92ec5c379fe5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231148348
+status: 1
+tags: []
+user_id: unknown

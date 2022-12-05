@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9301a405b24d432ebae04291df822fda/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9301a405b24d432ebae04291df822fda
+run_name: silent-crane-461
+run_uuid: 9301a405b24d432ebae04291df822fda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231167571
+status: 1
+tags: []
+user_id: unknown

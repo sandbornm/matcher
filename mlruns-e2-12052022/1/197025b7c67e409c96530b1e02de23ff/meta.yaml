@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/197025b7c67e409c96530b1e02de23ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 197025b7c67e409c96530b1e02de23ff
+run_name: orderly-dog-464
+run_uuid: 197025b7c67e409c96530b1e02de23ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231193646
+status: 1
+tags: []
+user_id: unknown

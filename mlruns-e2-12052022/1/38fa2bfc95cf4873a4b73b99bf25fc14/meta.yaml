@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/38fa2bfc95cf4873a4b73b99bf25fc14/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 38fa2bfc95cf4873a4b73b99bf25fc14
+run_name: wistful-doe-131
+run_uuid: 38fa2bfc95cf4873a4b73b99bf25fc14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231203867
+status: 1
+tags: []
+user_id: unknown

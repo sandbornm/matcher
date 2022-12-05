@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/23b3a6ce4060439692fd150a3bfa0bcc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 23b3a6ce4060439692fd150a3bfa0bcc
+run_name: clean-loon-647
+run_uuid: 23b3a6ce4060439692fd150a3bfa0bcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231149390
+status: 1
+tags: []
+user_id: unknown

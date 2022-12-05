@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/40fdd3a44c4344bd98c964fb9add36fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 40fdd3a44c4344bd98c964fb9add36fa
+run_name: auspicious-boar-772
+run_uuid: 40fdd3a44c4344bd98c964fb9add36fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231158550
+status: 1
+tags: []
+user_id: unknown

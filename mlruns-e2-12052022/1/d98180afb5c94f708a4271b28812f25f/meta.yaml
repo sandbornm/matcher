@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d98180afb5c94f708a4271b28812f25f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d98180afb5c94f708a4271b28812f25f
+run_name: awesome-mouse-829
+run_uuid: d98180afb5c94f708a4271b28812f25f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231201871
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cc69aea56a444cbdafa44bb5e06f269b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cc69aea56a444cbdafa44bb5e06f269b
+run_name: stately-zebra-872
+run_uuid: cc69aea56a444cbdafa44bb5e06f269b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231208947
+status: 1
+tags: []
+user_id: unknown

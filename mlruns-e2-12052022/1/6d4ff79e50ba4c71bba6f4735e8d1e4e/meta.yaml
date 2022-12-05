@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6d4ff79e50ba4c71bba6f4735e8d1e4e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6d4ff79e50ba4c71bba6f4735e8d1e4e
+run_name: charming-frog-553
+run_uuid: 6d4ff79e50ba4c71bba6f4735e8d1e4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231191263
+status: 1
+tags: []
+user_id: unknown

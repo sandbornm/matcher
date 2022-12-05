@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a949e19ff4314599bead0387595ba5c7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a949e19ff4314599bead0387595ba5c7
+run_name: colorful-quail-888
+run_uuid: a949e19ff4314599bead0387595ba5c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231236348
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/fc0cd78d7d504606bb4eaa40f019e291/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc0cd78d7d504606bb4eaa40f019e291
+run_name: upset-squirrel-974
+run_uuid: fc0cd78d7d504606bb4eaa40f019e291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231196605
+status: 1
+tags: []
+user_id: unknown

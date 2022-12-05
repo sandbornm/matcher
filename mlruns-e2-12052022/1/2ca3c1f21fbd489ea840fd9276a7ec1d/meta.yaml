@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2ca3c1f21fbd489ea840fd9276a7ec1d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ca3c1f21fbd489ea840fd9276a7ec1d
+run_name: shivering-tern-788
+run_uuid: 2ca3c1f21fbd489ea840fd9276a7ec1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233064220
+status: 1
+tags: []
+user_id: unknown

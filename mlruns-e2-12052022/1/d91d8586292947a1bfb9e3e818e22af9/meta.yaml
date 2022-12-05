@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d91d8586292947a1bfb9e3e818e22af9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d91d8586292947a1bfb9e3e818e22af9
+run_name: polite-wren-547
+run_uuid: d91d8586292947a1bfb9e3e818e22af9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231158527
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d5ea0c11ef6d43ed95c919c46f8c0999/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d5ea0c11ef6d43ed95c919c46f8c0999
+run_name: delicate-toad-497
+run_uuid: d5ea0c11ef6d43ed95c919c46f8c0999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231250032
+status: 1
+tags: []
+user_id: unknown

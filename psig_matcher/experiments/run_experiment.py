@@ -179,7 +179,7 @@ def run_experiment(experiment_id: int, part_type: str, part_dim: int, num_sample
 
 def main():
     """ This script can be run as such:
-    python3 psig_matcher/experiments/run_experiment.py --part_type=CON --part_dim=5 --num_samples=100 --meta_pdf_ci=0.999 --part_pdf_ci=0.999 --confidence_bound=0.999 """
+    python3 psig_matcher/experiments/run_experiment.py --part_type=CONTAINER --part_dim=5 --num_samples=100 --meta_pdf_ci=0.999 --part_pdf_ci=0.999 --confidence_bound=0.999 """
 
     parser = argparse.ArgumentParser()
     parser.add_argument('--part_type', type=str, required=True)
@@ -197,12 +197,12 @@ def run_parallel_experiment():
     mlflow.set_experiment("Experiment 2")
     experiment_id = mlflow.get_experiment_by_name(name='Experiment 2').experiment_id
     param_values = {
-        'part_type': ["CON"],
-        'part_dim' : [2],
+        'part_type': ["BEAM", "CONTAINER", "CONLID", "LID", "SEN", "TUBE"],
+        'part_dim' : [1, 5, 10, 50],
         'num_samples': [1000],
-        'meta_pdf_ci' : [0.6],
-        'part_pdf_ci' : [0.5],
-        'confidence_bound' : [0.5, 0.999, 0.99, 0.95],
+        'meta_pdf_ci' : [0.5, 0.8, 0.9, 0.95, 0.99, 0.999],
+        'part_pdf_ci' : [0.5, 0.8, 0.9, 0.95, 0.99, 0.999],
+        'confidence_bound' : [0.5, 0.8, 0.9, 0.95, 0.99, 0.999],
         'experiment_id': [experiment_id]}
     
     parameter_grid = list(ParameterGrid(param_values))

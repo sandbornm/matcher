@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/498b7c91213d46c6b54715770a5a2beb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 498b7c91213d46c6b54715770a5a2beb
+run_name: unleashed-chimp-865
+run_uuid: 498b7c91213d46c6b54715770a5a2beb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231246582
+status: 1
+tags: []
+user_id: unknown

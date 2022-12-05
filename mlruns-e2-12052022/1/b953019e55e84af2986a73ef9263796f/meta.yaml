@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b953019e55e84af2986a73ef9263796f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b953019e55e84af2986a73ef9263796f
+run_name: salty-snail-406
+run_uuid: b953019e55e84af2986a73ef9263796f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231199266
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/708c4538b7dc4e51a2ed2acc15bf112d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 708c4538b7dc4e51a2ed2acc15bf112d
+run_name: bustling-gnu-1
+run_uuid: 708c4538b7dc4e51a2ed2acc15bf112d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233032882
+status: 1
+tags: []
+user_id: unknown

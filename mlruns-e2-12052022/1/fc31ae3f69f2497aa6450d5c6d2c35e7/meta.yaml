@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/fc31ae3f69f2497aa6450d5c6d2c35e7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc31ae3f69f2497aa6450d5c6d2c35e7
+run_name: mysterious-hare-640
+run_uuid: fc31ae3f69f2497aa6450d5c6d2c35e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231201021
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/fa0dd66e4d7349b49a0d64315f5bbd54/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fa0dd66e4d7349b49a0d64315f5bbd54
+run_name: lyrical-crow-593
+run_uuid: fa0dd66e4d7349b49a0d64315f5bbd54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231152175
+status: 1
+tags: []
+user_id: unknown

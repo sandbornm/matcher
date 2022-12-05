@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/80401eed01614ea7894ea752646e780d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 80401eed01614ea7894ea752646e780d
+run_name: rebellious-fox-530
+run_uuid: 80401eed01614ea7894ea752646e780d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231178570
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bcced895da804fbaa25a7c6dbb226329/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bcced895da804fbaa25a7c6dbb226329
+run_name: aged-mole-176
+run_uuid: bcced895da804fbaa25a7c6dbb226329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231215677
+status: 1
+tags: []
+user_id: unknown

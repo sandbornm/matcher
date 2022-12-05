@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/da6d7ded28684a549e7b5fc1aaf52949/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da6d7ded28684a549e7b5fc1aaf52949
+run_name: salty-colt-781
+run_uuid: da6d7ded28684a549e7b5fc1aaf52949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231150396
+status: 1
+tags: []
+user_id: unknown

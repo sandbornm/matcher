@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/defea3c5118a438b87ff4f309fd37414/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: defea3c5118a438b87ff4f309fd37414
+run_name: amazing-bug-934
+run_uuid: defea3c5118a438b87ff4f309fd37414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233043336
+status: 1
+tags: []
+user_id: unknown

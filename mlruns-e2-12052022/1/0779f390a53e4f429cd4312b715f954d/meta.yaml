@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0779f390a53e4f429cd4312b715f954d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0779f390a53e4f429cd4312b715f954d
+run_name: rare-smelt-405
+run_uuid: 0779f390a53e4f429cd4312b715f954d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233149966
+status: 1
+tags: []
+user_id: unknown

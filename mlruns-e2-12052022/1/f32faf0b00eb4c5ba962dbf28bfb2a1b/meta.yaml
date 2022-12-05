@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f32faf0b00eb4c5ba962dbf28bfb2a1b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f32faf0b00eb4c5ba962dbf28bfb2a1b
+run_name: placid-turtle-793
+run_uuid: f32faf0b00eb4c5ba962dbf28bfb2a1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233105734
+status: 1
+tags: []
+user_id: unknown

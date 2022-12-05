@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/38ce902071d745d6b9761866f3e47fe5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 38ce902071d745d6b9761866f3e47fe5
+run_name: resilient-cat-859
+run_uuid: 38ce902071d745d6b9761866f3e47fe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231166810
+status: 1
+tags: []
+user_id: unknown

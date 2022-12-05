@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/caaee3c3875040b9b7f8ed8dc3b24b5f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: caaee3c3875040b9b7f8ed8dc3b24b5f
+run_name: serious-koi-84
+run_uuid: caaee3c3875040b9b7f8ed8dc3b24b5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231256738
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a915f7e33b9f4c3b80a30dcf3aff07c4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a915f7e33b9f4c3b80a30dcf3aff07c4
+run_name: sneaky-crab-180
+run_uuid: a915f7e33b9f4c3b80a30dcf3aff07c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233121658
+status: 1
+tags: []
+user_id: unknown

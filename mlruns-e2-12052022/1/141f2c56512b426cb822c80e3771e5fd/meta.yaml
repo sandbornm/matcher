@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/141f2c56512b426cb822c80e3771e5fd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 141f2c56512b426cb822c80e3771e5fd
+run_name: awesome-worm-907
+run_uuid: 141f2c56512b426cb822c80e3771e5fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231199563
+status: 1
+tags: []
+user_id: unknown

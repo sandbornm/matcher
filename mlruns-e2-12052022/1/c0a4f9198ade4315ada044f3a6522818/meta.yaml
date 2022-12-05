@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c0a4f9198ade4315ada044f3a6522818/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c0a4f9198ade4315ada044f3a6522818
+run_name: painted-crow-580
+run_uuid: c0a4f9198ade4315ada044f3a6522818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231245752
+status: 1
+tags: []
+user_id: unknown

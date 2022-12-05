@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/08f0a25371e742c0b71bb15d3605df75/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 08f0a25371e742c0b71bb15d3605df75
+run_name: bittersweet-deer-86
+run_uuid: 08f0a25371e742c0b71bb15d3605df75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231156505
+status: 1
+tags: []
+user_id: unknown

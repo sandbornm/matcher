@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/54d4cdc2584f4d2d8e43eae8dc1bc27f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 54d4cdc2584f4d2d8e43eae8dc1bc27f
+run_name: awesome-robin-732
+run_uuid: 54d4cdc2584f4d2d8e43eae8dc1bc27f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233063399
+status: 1
+tags: []
+user_id: unknown

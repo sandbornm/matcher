@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e83d245843e04c8ea8ebefff3268e2ed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e83d245843e04c8ea8ebefff3268e2ed
+run_name: wise-ray-874
+run_uuid: e83d245843e04c8ea8ebefff3268e2ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233111005
+status: 1
+tags: []
+user_id: unknown

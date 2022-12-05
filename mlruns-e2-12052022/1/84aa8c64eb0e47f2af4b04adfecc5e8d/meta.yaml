@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/84aa8c64eb0e47f2af4b04adfecc5e8d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 84aa8c64eb0e47f2af4b04adfecc5e8d
+run_name: bedecked-cow-593
+run_uuid: 84aa8c64eb0e47f2af4b04adfecc5e8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233085768
+status: 1
+tags: []
+user_id: unknown

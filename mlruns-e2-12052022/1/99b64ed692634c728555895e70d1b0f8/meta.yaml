@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/99b64ed692634c728555895e70d1b0f8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 99b64ed692634c728555895e70d1b0f8
+run_name: brawny-moth-812
+run_uuid: 99b64ed692634c728555895e70d1b0f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231192090
+status: 1
+tags: []
+user_id: unknown

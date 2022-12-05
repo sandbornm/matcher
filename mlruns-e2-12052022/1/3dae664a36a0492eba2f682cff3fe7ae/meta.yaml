@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3dae664a36a0492eba2f682cff3fe7ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3dae664a36a0492eba2f682cff3fe7ae
+run_name: casual-jay-294
+run_uuid: 3dae664a36a0492eba2f682cff3fe7ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231166973
+status: 1
+tags: []
+user_id: unknown

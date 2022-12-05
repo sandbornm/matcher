@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a9f093a6473b4bce95f9137e92f22636/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a9f093a6473b4bce95f9137e92f22636
+run_name: gifted-dolphin-15
+run_uuid: a9f093a6473b4bce95f9137e92f22636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231250613
+status: 1
+tags: []
+user_id: unknown

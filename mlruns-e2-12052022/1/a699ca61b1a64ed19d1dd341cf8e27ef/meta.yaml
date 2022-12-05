@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a699ca61b1a64ed19d1dd341cf8e27ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a699ca61b1a64ed19d1dd341cf8e27ef
+run_name: worried-crane-253
+run_uuid: a699ca61b1a64ed19d1dd341cf8e27ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233045289
+status: 1
+tags: []
+user_id: unknown

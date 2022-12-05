@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7b52983619394f5fa10151b07c338964/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7b52983619394f5fa10151b07c338964
+run_name: shivering-duck-586
+run_uuid: 7b52983619394f5fa10151b07c338964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233073585
+status: 1
+tags: []
+user_id: unknown

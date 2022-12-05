@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8854f037cf504109a25f1ab3e46a0246/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8854f037cf504109a25f1ab3e46a0246
+run_name: delicate-bee-361
+run_uuid: 8854f037cf504109a25f1ab3e46a0246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233086463
+status: 1
+tags: []
+user_id: unknown

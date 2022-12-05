@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3e6f8d6f0de84a73ad1728f0459dc5be/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3e6f8d6f0de84a73ad1728f0459dc5be
+run_name: funny-jay-767
+run_uuid: 3e6f8d6f0de84a73ad1728f0459dc5be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231148820
+status: 1
+tags: []
+user_id: unknown

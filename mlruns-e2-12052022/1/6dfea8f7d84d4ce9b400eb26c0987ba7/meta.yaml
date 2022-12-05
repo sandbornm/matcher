@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6dfea8f7d84d4ce9b400eb26c0987ba7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6dfea8f7d84d4ce9b400eb26c0987ba7
+run_name: ambitious-vole-413
+run_uuid: 6dfea8f7d84d4ce9b400eb26c0987ba7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231270734
+status: 1
+tags: []
+user_id: unknown

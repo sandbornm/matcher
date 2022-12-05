@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/33ae887f109846b5bb8bb5d3d4b39e63/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 33ae887f109846b5bb8bb5d3d4b39e63
+run_name: incongruous-lynx-755
+run_uuid: 33ae887f109846b5bb8bb5d3d4b39e63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231226080
+status: 1
+tags: []
+user_id: unknown

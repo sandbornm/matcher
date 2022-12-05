@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6ad9635f2aa642eaa69f8e0bfa6af9a3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6ad9635f2aa642eaa69f8e0bfa6af9a3
+run_name: unleashed-stag-243
+run_uuid: 6ad9635f2aa642eaa69f8e0bfa6af9a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231185832
+status: 1
+tags: []
+user_id: unknown

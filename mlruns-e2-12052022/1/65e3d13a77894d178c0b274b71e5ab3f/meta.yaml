@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/65e3d13a77894d178c0b274b71e5ab3f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 65e3d13a77894d178c0b274b71e5ab3f
+run_name: traveling-ape-679
+run_uuid: 65e3d13a77894d178c0b274b71e5ab3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231175389
+status: 1
+tags: []
+user_id: unknown

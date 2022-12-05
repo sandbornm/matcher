@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dbfe98ef2a23439590754632748291d5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dbfe98ef2a23439590754632748291d5
+run_name: popular-yak-404
+run_uuid: dbfe98ef2a23439590754632748291d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233096388
+status: 1
+tags: []
+user_id: unknown

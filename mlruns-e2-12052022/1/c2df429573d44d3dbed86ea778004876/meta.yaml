@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c2df429573d44d3dbed86ea778004876/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c2df429573d44d3dbed86ea778004876
+run_name: clean-hen-971
+run_uuid: c2df429573d44d3dbed86ea778004876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231218204
+status: 1
+tags: []
+user_id: unknown

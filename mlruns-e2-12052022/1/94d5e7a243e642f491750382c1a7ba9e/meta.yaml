@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/94d5e7a243e642f491750382c1a7ba9e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 94d5e7a243e642f491750382c1a7ba9e
+run_name: wise-mouse-710
+run_uuid: 94d5e7a243e642f491750382c1a7ba9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231226443
+status: 1
+tags: []
+user_id: unknown

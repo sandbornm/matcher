@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c43a224f72574dff9cdb1da6a7ce2702/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c43a224f72574dff9cdb1da6a7ce2702
+run_name: clumsy-bird-129
+run_uuid: c43a224f72574dff9cdb1da6a7ce2702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231226576
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/99ac6db79abc46a7b92f87768db77638/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 99ac6db79abc46a7b92f87768db77638
+run_name: useful-mouse-598
+run_uuid: 99ac6db79abc46a7b92f87768db77638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231171202
+status: 1
+tags: []
+user_id: unknown

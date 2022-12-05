@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8bb6723174084062a54d3f8728d54b09/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8bb6723174084062a54d3f8728d54b09
+run_name: agreeable-duck-19
+run_uuid: 8bb6723174084062a54d3f8728d54b09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231150249
+status: 1
+tags: []
+user_id: unknown

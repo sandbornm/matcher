@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3d85725876db4c3fb1e8e7825137414b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3d85725876db4c3fb1e8e7825137414b
+run_name: gregarious-fly-205
+run_uuid: 3d85725876db4c3fb1e8e7825137414b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231226843
+status: 1
+tags: []
+user_id: unknown

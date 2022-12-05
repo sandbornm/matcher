@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c8d91d5502504683bc7514ab2750fc3b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c8d91d5502504683bc7514ab2750fc3b
+run_name: colorful-robin-145
+run_uuid: c8d91d5502504683bc7514ab2750fc3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231153374
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a7826919641a4e7e9c08ff469f448cba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a7826919641a4e7e9c08ff469f448cba
+run_name: invincible-pig-864
+run_uuid: a7826919641a4e7e9c08ff469f448cba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231186504
+status: 1
+tags: []
+user_id: unknown

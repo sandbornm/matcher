@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d7a68fb1d9a543d8907a93911ce44c7f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d7a68fb1d9a543d8907a93911ce44c7f
+run_name: casual-zebra-424
+run_uuid: d7a68fb1d9a543d8907a93911ce44c7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233081618
+status: 1
+tags: []
+user_id: unknown

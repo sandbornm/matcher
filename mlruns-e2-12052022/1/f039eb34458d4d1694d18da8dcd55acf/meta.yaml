@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f039eb34458d4d1694d18da8dcd55acf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f039eb34458d4d1694d18da8dcd55acf
+run_name: hilarious-grub-189
+run_uuid: f039eb34458d4d1694d18da8dcd55acf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231203081
+status: 1
+tags: []
+user_id: unknown

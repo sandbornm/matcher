@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c558a939a23e45a0b776a4e4c9b9c6df/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c558a939a23e45a0b776a4e4c9b9c6df
+run_name: puzzled-dove-526
+run_uuid: c558a939a23e45a0b776a4e4c9b9c6df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233029078
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0ff8b8d03040430ebe82e41dd9f11863/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0ff8b8d03040430ebe82e41dd9f11863
+run_name: skittish-shad-141
+run_uuid: 0ff8b8d03040430ebe82e41dd9f11863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233030924
+status: 1
+tags: []
+user_id: unknown

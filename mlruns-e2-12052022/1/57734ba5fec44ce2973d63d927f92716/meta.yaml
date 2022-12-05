@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/57734ba5fec44ce2973d63d927f92716/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 57734ba5fec44ce2973d63d927f92716
+run_name: rumbling-colt-430
+run_uuid: 57734ba5fec44ce2973d63d927f92716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231194617
+status: 1
+tags: []
+user_id: unknown

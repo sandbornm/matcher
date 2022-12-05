@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/41d3a7653bda486e8a698c45a17f6477/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 41d3a7653bda486e8a698c45a17f6477
+run_name: trusting-pig-656
+run_uuid: 41d3a7653bda486e8a698c45a17f6477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233007817
+status: 1
+tags: []
+user_id: unknown

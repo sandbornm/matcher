@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c4cf389e95854e8db1e4d7e771fc46c4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c4cf389e95854e8db1e4d7e771fc46c4
+run_name: sincere-tern-284
+run_uuid: c4cf389e95854e8db1e4d7e771fc46c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231170379
+status: 1
+tags: []
+user_id: unknown

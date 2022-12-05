@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a8ed7b0208b744699c402a7c5fcf4812/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8ed7b0208b744699c402a7c5fcf4812
+run_name: secretive-sheep-525
+run_uuid: a8ed7b0208b744699c402a7c5fcf4812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231175197
+status: 1
+tags: []
+user_id: unknown

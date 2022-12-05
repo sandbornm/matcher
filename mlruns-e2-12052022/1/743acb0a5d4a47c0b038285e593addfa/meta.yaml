@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/743acb0a5d4a47c0b038285e593addfa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 743acb0a5d4a47c0b038285e593addfa
+run_name: capricious-wolf-95
+run_uuid: 743acb0a5d4a47c0b038285e593addfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231151089
+status: 1
+tags: []
+user_id: unknown

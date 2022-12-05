@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5192c3ac2c044df186f3030ad43a25a4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5192c3ac2c044df186f3030ad43a25a4
+run_name: redolent-crow-313
+run_uuid: 5192c3ac2c044df186f3030ad43a25a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233031368
+status: 1
+tags: []
+user_id: unknown

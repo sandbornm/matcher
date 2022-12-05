@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cdc4660647844d6cb39a59f3cc1985dc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cdc4660647844d6cb39a59f3cc1985dc
+run_name: chill-hog-967
+run_uuid: cdc4660647844d6cb39a59f3cc1985dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231151728
+status: 1
+tags: []
+user_id: unknown

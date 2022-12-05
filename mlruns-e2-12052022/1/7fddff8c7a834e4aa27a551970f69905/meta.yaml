@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7fddff8c7a834e4aa27a551970f69905/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7fddff8c7a834e4aa27a551970f69905
+run_name: bright-fish-682
+run_uuid: 7fddff8c7a834e4aa27a551970f69905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233125764
+status: 1
+tags: []
+user_id: unknown

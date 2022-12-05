@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/de521c4904b6478e8eef6e18635696e3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: de521c4904b6478e8eef6e18635696e3
+run_name: receptive-asp-484
+run_uuid: de521c4904b6478e8eef6e18635696e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231208308
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8c63d0889a444129902a7f200cd44161/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8c63d0889a444129902a7f200cd44161
+run_name: chill-stork-882
+run_uuid: 8c63d0889a444129902a7f200cd44161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231176480
+status: 1
+tags: []
+user_id: unknown

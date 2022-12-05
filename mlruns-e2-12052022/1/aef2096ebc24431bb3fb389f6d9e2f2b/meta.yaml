@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/aef2096ebc24431bb3fb389f6d9e2f2b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aef2096ebc24431bb3fb389f6d9e2f2b
+run_name: bold-flea-862
+run_uuid: aef2096ebc24431bb3fb389f6d9e2f2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233130407
+status: 1
+tags: []
+user_id: unknown

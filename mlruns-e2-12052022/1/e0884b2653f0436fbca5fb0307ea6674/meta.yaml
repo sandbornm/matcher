@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e0884b2653f0436fbca5fb0307ea6674/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e0884b2653f0436fbca5fb0307ea6674
+run_name: amazing-finch-565
+run_uuid: e0884b2653f0436fbca5fb0307ea6674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231221924
+status: 1
+tags: []
+user_id: unknown

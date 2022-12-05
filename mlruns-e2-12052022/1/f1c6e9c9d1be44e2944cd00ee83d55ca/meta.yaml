@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f1c6e9c9d1be44e2944cd00ee83d55ca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f1c6e9c9d1be44e2944cd00ee83d55ca
+run_name: big-frog-748
+run_uuid: f1c6e9c9d1be44e2944cd00ee83d55ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231183168
+status: 1
+tags: []
+user_id: unknown

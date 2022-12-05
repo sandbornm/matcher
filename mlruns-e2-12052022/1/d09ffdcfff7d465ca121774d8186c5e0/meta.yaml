@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d09ffdcfff7d465ca121774d8186c5e0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d09ffdcfff7d465ca121774d8186c5e0
+run_name: bold-steed-750
+run_uuid: d09ffdcfff7d465ca121774d8186c5e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231244871
+status: 1
+tags: []
+user_id: unknown

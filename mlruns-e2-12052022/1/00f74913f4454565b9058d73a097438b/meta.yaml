@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/00f74913f4454565b9058d73a097438b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 00f74913f4454565b9058d73a097438b
+run_name: salty-cat-840
+run_uuid: 00f74913f4454565b9058d73a097438b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231169211
+status: 1
+tags: []
+user_id: unknown

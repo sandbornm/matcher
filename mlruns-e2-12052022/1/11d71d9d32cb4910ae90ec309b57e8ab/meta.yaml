@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/11d71d9d32cb4910ae90ec309b57e8ab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 11d71d9d32cb4910ae90ec309b57e8ab
+run_name: powerful-trout-199
+run_uuid: 11d71d9d32cb4910ae90ec309b57e8ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231196357
+status: 1
+tags: []
+user_id: unknown

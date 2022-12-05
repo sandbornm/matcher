@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e9b328e6b3f34a48bd6519f65dbad641/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e9b328e6b3f34a48bd6519f65dbad641
+run_name: fortunate-gull-504
+run_uuid: e9b328e6b3f34a48bd6519f65dbad641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233027637
+status: 1
+tags: []
+user_id: unknown

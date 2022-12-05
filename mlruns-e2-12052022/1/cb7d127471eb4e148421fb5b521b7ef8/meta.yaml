@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cb7d127471eb4e148421fb5b521b7ef8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cb7d127471eb4e148421fb5b521b7ef8
+run_name: calm-skunk-396
+run_uuid: cb7d127471eb4e148421fb5b521b7ef8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231179958
+status: 1
+tags: []
+user_id: unknown

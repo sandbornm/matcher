@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ce38661a63714d60bead783d6edb8436/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ce38661a63714d60bead783d6edb8436
+run_name: abundant-ray-424
+run_uuid: ce38661a63714d60bead783d6edb8436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231156505
+status: 1
+tags: []
+user_id: unknown

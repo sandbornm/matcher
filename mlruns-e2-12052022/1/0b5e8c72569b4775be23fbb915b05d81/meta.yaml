@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0b5e8c72569b4775be23fbb915b05d81/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0b5e8c72569b4775be23fbb915b05d81
+run_name: selective-sloth-245
+run_uuid: 0b5e8c72569b4775be23fbb915b05d81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231180211
+status: 1
+tags: []
+user_id: unknown

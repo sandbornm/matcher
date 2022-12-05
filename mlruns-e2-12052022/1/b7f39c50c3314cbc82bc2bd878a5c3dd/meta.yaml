@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b7f39c50c3314cbc82bc2bd878a5c3dd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b7f39c50c3314cbc82bc2bd878a5c3dd
+run_name: stately-grub-840
+run_uuid: b7f39c50c3314cbc82bc2bd878a5c3dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231260029
+status: 1
+tags: []
+user_id: unknown

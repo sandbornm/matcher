@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7e7c9db5c5c2489e96292c2c38c8e258/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7e7c9db5c5c2489e96292c2c38c8e258
+run_name: merciful-snipe-199
+run_uuid: 7e7c9db5c5c2489e96292c2c38c8e258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233046248
+status: 1
+tags: []
+user_id: unknown

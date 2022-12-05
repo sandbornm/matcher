@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ad7f6a02e35e4b40a836580e4f629773/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad7f6a02e35e4b40a836580e4f629773
+run_name: bedecked-moose-595
+run_uuid: ad7f6a02e35e4b40a836580e4f629773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233077792
+status: 1
+tags: []
+user_id: unknown

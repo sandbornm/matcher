@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/956ff9c2c944495f8fa78ac8fcff8455/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 956ff9c2c944495f8fa78ac8fcff8455
+run_name: receptive-tern-559
+run_uuid: 956ff9c2c944495f8fa78ac8fcff8455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231235694
+status: 1
+tags: []
+user_id: unknown

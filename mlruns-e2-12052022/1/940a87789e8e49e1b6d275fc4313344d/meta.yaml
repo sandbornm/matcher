@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/940a87789e8e49e1b6d275fc4313344d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 940a87789e8e49e1b6d275fc4313344d
+run_name: monumental-snake-991
+run_uuid: 940a87789e8e49e1b6d275fc4313344d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231150920
+status: 1
+tags: []
+user_id: unknown

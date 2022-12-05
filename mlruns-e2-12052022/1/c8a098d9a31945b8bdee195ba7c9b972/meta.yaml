@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c8a098d9a31945b8bdee195ba7c9b972/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c8a098d9a31945b8bdee195ba7c9b972
+run_name: capable-hen-829
+run_uuid: c8a098d9a31945b8bdee195ba7c9b972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233118686
+status: 1
+tags: []
+user_id: unknown

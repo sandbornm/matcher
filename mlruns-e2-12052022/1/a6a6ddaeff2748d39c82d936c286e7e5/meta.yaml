@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a6a6ddaeff2748d39c82d936c286e7e5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a6a6ddaeff2748d39c82d936c286e7e5
+run_name: delicate-dog-231
+run_uuid: a6a6ddaeff2748d39c82d936c286e7e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231262425
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f1a4678f37bf4a1e9e37ddb12aef375f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f1a4678f37bf4a1e9e37ddb12aef375f
+run_name: likeable-seal-710
+run_uuid: f1a4678f37bf4a1e9e37ddb12aef375f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233082969
+status: 1
+tags: []
+user_id: unknown

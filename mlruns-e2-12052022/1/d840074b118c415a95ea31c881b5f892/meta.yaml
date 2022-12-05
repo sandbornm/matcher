@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d840074b118c415a95ea31c881b5f892/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d840074b118c415a95ea31c881b5f892
+run_name: nervous-finch-557
+run_uuid: d840074b118c415a95ea31c881b5f892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231218012
+status: 1
+tags: []
+user_id: unknown

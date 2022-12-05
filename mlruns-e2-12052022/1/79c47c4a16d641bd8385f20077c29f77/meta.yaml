@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/79c47c4a16d641bd8385f20077c29f77/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 79c47c4a16d641bd8385f20077c29f77
+run_name: beautiful-sheep-286
+run_uuid: 79c47c4a16d641bd8385f20077c29f77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233069845
+status: 1
+tags: []
+user_id: unknown

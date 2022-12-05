@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a2a2bb345c8d46c7be6ae7344b8fadb8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a2a2bb345c8d46c7be6ae7344b8fadb8
+run_name: bright-colt-394
+run_uuid: a2a2bb345c8d46c7be6ae7344b8fadb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233031920
+status: 1
+tags: []
+user_id: unknown

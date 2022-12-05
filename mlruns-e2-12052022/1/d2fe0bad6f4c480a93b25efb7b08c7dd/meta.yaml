@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d2fe0bad6f4c480a93b25efb7b08c7dd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d2fe0bad6f4c480a93b25efb7b08c7dd
+run_name: worried-skunk-257
+run_uuid: d2fe0bad6f4c480a93b25efb7b08c7dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233046261
+status: 1
+tags: []
+user_id: unknown

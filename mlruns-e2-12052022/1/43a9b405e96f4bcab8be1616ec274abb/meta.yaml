@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/43a9b405e96f4bcab8be1616ec274abb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 43a9b405e96f4bcab8be1616ec274abb
+run_name: rumbling-lynx-217
+run_uuid: 43a9b405e96f4bcab8be1616ec274abb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233044673
+status: 1
+tags: []
+user_id: unknown

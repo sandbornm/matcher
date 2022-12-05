@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cf5a5e049e034026b49d5165addd0929/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf5a5e049e034026b49d5165addd0929
+run_name: judicious-calf-930
+run_uuid: cf5a5e049e034026b49d5165addd0929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233146323
+status: 1
+tags: []
+user_id: unknown

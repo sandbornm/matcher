@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/28d4d4f3e7d04a0fb26013d9dba9b5ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 28d4d4f3e7d04a0fb26013d9dba9b5ae
+run_name: omniscient-jay-644
+run_uuid: 28d4d4f3e7d04a0fb26013d9dba9b5ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231173299
+status: 1
+tags: []
+user_id: unknown

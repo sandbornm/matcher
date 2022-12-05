@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cf8bb662799649e09c0fee47d1852158/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf8bb662799649e09c0fee47d1852158
+run_name: awesome-squirrel-722
+run_uuid: cf8bb662799649e09c0fee47d1852158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233111844
+status: 1
+tags: []
+user_id: unknown

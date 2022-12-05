@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e86ea9ca35d1436ca02aa46e5ecc9e04/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e86ea9ca35d1436ca02aa46e5ecc9e04
+run_name: caring-hound-481
+run_uuid: e86ea9ca35d1436ca02aa46e5ecc9e04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233145995
+status: 1
+tags: []
+user_id: unknown

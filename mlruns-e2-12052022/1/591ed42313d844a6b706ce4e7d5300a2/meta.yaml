@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/591ed42313d844a6b706ce4e7d5300a2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 591ed42313d844a6b706ce4e7d5300a2
+run_name: crawling-ram-237
+run_uuid: 591ed42313d844a6b706ce4e7d5300a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233133765
+status: 1
+tags: []
+user_id: unknown

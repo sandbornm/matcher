@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e3cc6b196043495bb0cde4d72e6f139c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e3cc6b196043495bb0cde4d72e6f139c
+run_name: handsome-loon-571
+run_uuid: e3cc6b196043495bb0cde4d72e6f139c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231160392
+status: 1
+tags: []
+user_id: unknown

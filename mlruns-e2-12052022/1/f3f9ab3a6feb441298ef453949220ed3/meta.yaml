@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f3f9ab3a6feb441298ef453949220ed3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f3f9ab3a6feb441298ef453949220ed3
+run_name: rambunctious-fox-165
+run_uuid: f3f9ab3a6feb441298ef453949220ed3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233042456
+status: 1
+tags: []
+user_id: unknown

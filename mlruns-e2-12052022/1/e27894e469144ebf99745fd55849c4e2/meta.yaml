@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e27894e469144ebf99745fd55849c4e2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e27894e469144ebf99745fd55849c4e2
+run_name: salty-crab-280
+run_uuid: e27894e469144ebf99745fd55849c4e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231259540
+status: 1
+tags: []
+user_id: unknown

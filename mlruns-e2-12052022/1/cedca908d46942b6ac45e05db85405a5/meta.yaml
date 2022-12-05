@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cedca908d46942b6ac45e05db85405a5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cedca908d46942b6ac45e05db85405a5
+run_name: dashing-trout-758
+run_uuid: cedca908d46942b6ac45e05db85405a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231177809
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3cb5dd6e577e40008407aefbefb4b4af/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3cb5dd6e577e40008407aefbefb4b4af
+run_name: rumbling-snail-851
+run_uuid: 3cb5dd6e577e40008407aefbefb4b4af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231184246
+status: 1
+tags: []
+user_id: unknown

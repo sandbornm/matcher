@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c1adf20f3f344abaadd4f38061b09861/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c1adf20f3f344abaadd4f38061b09861
+run_name: bold-smelt-692
+run_uuid: c1adf20f3f344abaadd4f38061b09861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233129608
+status: 1
+tags: []
+user_id: unknown

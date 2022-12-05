@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e356b639ac564d3a86f0d976a8fc57a6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e356b639ac564d3a86f0d976a8fc57a6
+run_name: calm-lark-125
+run_uuid: e356b639ac564d3a86f0d976a8fc57a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231220383
+status: 1
+tags: []
+user_id: unknown

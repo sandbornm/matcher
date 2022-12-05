@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/35bd6a56031b43f58666761dc8887675/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 35bd6a56031b43f58666761dc8887675
+run_name: inquisitive-ram-912
+run_uuid: 35bd6a56031b43f58666761dc8887675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231235218
+status: 1
+tags: []
+user_id: unknown

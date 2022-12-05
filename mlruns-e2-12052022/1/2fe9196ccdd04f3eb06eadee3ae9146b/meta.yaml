@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2fe9196ccdd04f3eb06eadee3ae9146b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2fe9196ccdd04f3eb06eadee3ae9146b
+run_name: adorable-pig-192
+run_uuid: 2fe9196ccdd04f3eb06eadee3ae9146b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231150418
+status: 1
+tags: []
+user_id: unknown

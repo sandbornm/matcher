@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d2815a11e28549c59a802d7039caea6c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d2815a11e28549c59a802d7039caea6c
+run_name: powerful-gnat-231
+run_uuid: d2815a11e28549c59a802d7039caea6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233089384
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7989795308324e25a1633dbcf8ad4642/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7989795308324e25a1633dbcf8ad4642
+run_name: receptive-trout-390
+run_uuid: 7989795308324e25a1633dbcf8ad4642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231175663
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/51e64fb0b28a477ca3aaaf3c231b933f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 51e64fb0b28a477ca3aaaf3c231b933f
+run_name: serious-bug-501
+run_uuid: 51e64fb0b28a477ca3aaaf3c231b933f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231149347
+status: 1
+tags: []
+user_id: unknown

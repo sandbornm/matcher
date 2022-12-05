@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4dbc8a970320488da6a9bd2c79a08583/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4dbc8a970320488da6a9bd2c79a08583
+run_name: peaceful-perch-453
+run_uuid: 4dbc8a970320488da6a9bd2c79a08583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231169282
+status: 1
+tags: []
+user_id: unknown

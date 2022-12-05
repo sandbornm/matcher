@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/978cefce3b684ef8ac73ddb0cfabf5fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 978cefce3b684ef8ac73ddb0cfabf5fc
+run_name: colorful-toad-920
+run_uuid: 978cefce3b684ef8ac73ddb0cfabf5fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231239308
+status: 1
+tags: []
+user_id: unknown

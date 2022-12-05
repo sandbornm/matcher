@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9aee5f32b54b4a4fb97031d6910f9669/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9aee5f32b54b4a4fb97031d6910f9669
+run_name: calm-crane-601
+run_uuid: 9aee5f32b54b4a4fb97031d6910f9669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231204020
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f428404f7b5c42c781152a9f41813d8b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f428404f7b5c42c781152a9f41813d8b
+run_name: melodic-moose-130
+run_uuid: f428404f7b5c42c781152a9f41813d8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231183175
+status: 1
+tags: []
+user_id: unknown

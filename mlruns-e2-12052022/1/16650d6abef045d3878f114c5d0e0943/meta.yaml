@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/16650d6abef045d3878f114c5d0e0943/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 16650d6abef045d3878f114c5d0e0943
+run_name: stately-kit-181
+run_uuid: 16650d6abef045d3878f114c5d0e0943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233062444
+status: 1
+tags: []
+user_id: unknown

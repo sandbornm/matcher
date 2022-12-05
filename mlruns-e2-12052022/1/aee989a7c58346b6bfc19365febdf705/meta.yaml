@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/aee989a7c58346b6bfc19365febdf705/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aee989a7c58346b6bfc19365febdf705
+run_name: dashing-chimp-275
+run_uuid: aee989a7c58346b6bfc19365febdf705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233047017
+status: 1
+tags: []
+user_id: unknown

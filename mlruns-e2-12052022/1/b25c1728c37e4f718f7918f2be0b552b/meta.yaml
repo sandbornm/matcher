@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b25c1728c37e4f718f7918f2be0b552b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b25c1728c37e4f718f7918f2be0b552b
+run_name: capricious-moose-650
+run_uuid: b25c1728c37e4f718f7918f2be0b552b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231207086
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e72ce64f70f54ab49b21419282ff2b2c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e72ce64f70f54ab49b21419282ff2b2c
+run_name: redolent-fowl-69
+run_uuid: e72ce64f70f54ab49b21419282ff2b2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231162388
+status: 1
+tags: []
+user_id: unknown

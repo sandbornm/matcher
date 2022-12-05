@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a64de913f79c4902871a297d46a60cf3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a64de913f79c4902871a297d46a60cf3
+run_name: sophisticated-yak-22
+run_uuid: a64de913f79c4902871a297d46a60cf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231232959
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f3c3bd85af09458f9a89c6c74b177bac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f3c3bd85af09458f9a89c6c74b177bac
+run_name: overjoyed-sponge-32
+run_uuid: f3c3bd85af09458f9a89c6c74b177bac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233143418
+status: 1
+tags: []
+user_id: unknown

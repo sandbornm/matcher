@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ca9f26e80b314b84812d8907d7698817/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca9f26e80b314b84812d8907d7698817
+run_name: illustrious-bug-659
+run_uuid: ca9f26e80b314b84812d8907d7698817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231188411
+status: 1
+tags: []
+user_id: unknown

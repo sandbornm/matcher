@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/690b9398ddd74f6f99a13ca4595f0996/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 690b9398ddd74f6f99a13ca4595f0996
+run_name: resilient-bird-504
+run_uuid: 690b9398ddd74f6f99a13ca4595f0996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233033220
+status: 1
+tags: []
+user_id: unknown

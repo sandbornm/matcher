@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ba75e8d00b7e421fb9d54c0fbe797bdb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ba75e8d00b7e421fb9d54c0fbe797bdb
+run_name: peaceful-shrike-208
+run_uuid: ba75e8d00b7e421fb9d54c0fbe797bdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233113268
+status: 1
+tags: []
+user_id: unknown

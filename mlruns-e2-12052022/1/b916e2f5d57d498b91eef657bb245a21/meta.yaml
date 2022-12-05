@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b916e2f5d57d498b91eef657bb245a21/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b916e2f5d57d498b91eef657bb245a21
+run_name: crawling-moth-239
+run_uuid: b916e2f5d57d498b91eef657bb245a21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231174521
+status: 1
+tags: []
+user_id: unknown

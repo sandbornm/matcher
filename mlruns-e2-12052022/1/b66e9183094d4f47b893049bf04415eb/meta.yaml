@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b66e9183094d4f47b893049bf04415eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b66e9183094d4f47b893049bf04415eb
+run_name: abrasive-shrike-675
+run_uuid: b66e9183094d4f47b893049bf04415eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231223716
+status: 1
+tags: []
+user_id: unknown

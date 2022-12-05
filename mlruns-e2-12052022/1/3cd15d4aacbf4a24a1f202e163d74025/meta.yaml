@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3cd15d4aacbf4a24a1f202e163d74025/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3cd15d4aacbf4a24a1f202e163d74025
+run_name: unique-panda-639
+run_uuid: 3cd15d4aacbf4a24a1f202e163d74025
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233140932
+status: 1
+tags: []
+user_id: unknown

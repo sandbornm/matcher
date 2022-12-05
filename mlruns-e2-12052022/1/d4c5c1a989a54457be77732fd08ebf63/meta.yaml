@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d4c5c1a989a54457be77732fd08ebf63/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d4c5c1a989a54457be77732fd08ebf63
+run_name: clumsy-gnat-931
+run_uuid: d4c5c1a989a54457be77732fd08ebf63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233144606
+status: 1
+tags: []
+user_id: unknown

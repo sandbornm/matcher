@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/69be4108694a46099964c6a13cd4b9ca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 69be4108694a46099964c6a13cd4b9ca
+run_name: resilient-gnat-357
+run_uuid: 69be4108694a46099964c6a13cd4b9ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231252660
+status: 1
+tags: []
+user_id: unknown

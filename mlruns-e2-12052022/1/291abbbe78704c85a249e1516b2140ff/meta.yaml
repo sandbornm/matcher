@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/291abbbe78704c85a249e1516b2140ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 291abbbe78704c85a249e1516b2140ff
+run_name: bemused-finch-307
+run_uuid: 291abbbe78704c85a249e1516b2140ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233060922
+status: 1
+tags: []
+user_id: unknown

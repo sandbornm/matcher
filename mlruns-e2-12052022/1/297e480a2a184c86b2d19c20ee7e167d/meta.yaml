@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/297e480a2a184c86b2d19c20ee7e167d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 297e480a2a184c86b2d19c20ee7e167d
+run_name: gregarious-toad-724
+run_uuid: 297e480a2a184c86b2d19c20ee7e167d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231181587
+status: 1
+tags: []
+user_id: unknown

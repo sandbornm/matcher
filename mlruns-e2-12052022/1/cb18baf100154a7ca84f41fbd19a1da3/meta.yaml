@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cb18baf100154a7ca84f41fbd19a1da3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cb18baf100154a7ca84f41fbd19a1da3
+run_name: bedecked-yak-9
+run_uuid: cb18baf100154a7ca84f41fbd19a1da3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231171196
+status: 1
+tags: []
+user_id: unknown

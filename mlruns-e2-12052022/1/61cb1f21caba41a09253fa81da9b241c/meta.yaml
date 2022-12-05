@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/61cb1f21caba41a09253fa81da9b241c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 61cb1f21caba41a09253fa81da9b241c
+run_name: brawny-deer-373
+run_uuid: 61cb1f21caba41a09253fa81da9b241c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231175216
+status: 1
+tags: []
+user_id: unknown

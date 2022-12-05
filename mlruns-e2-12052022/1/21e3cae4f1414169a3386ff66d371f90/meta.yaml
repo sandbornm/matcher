@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/21e3cae4f1414169a3386ff66d371f90/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 21e3cae4f1414169a3386ff66d371f90
+run_name: rogue-grouse-650
+run_uuid: 21e3cae4f1414169a3386ff66d371f90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231253361
+status: 1
+tags: []
+user_id: unknown

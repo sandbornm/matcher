@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/097c8a2d70994e209885fcd9c9a12c37/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 097c8a2d70994e209885fcd9c9a12c37
+run_name: bold-koi-71
+run_uuid: 097c8a2d70994e209885fcd9c9a12c37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231228527
+status: 1
+tags: []
+user_id: unknown

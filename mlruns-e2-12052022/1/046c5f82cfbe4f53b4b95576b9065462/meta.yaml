@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/046c5f82cfbe4f53b4b95576b9065462/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 046c5f82cfbe4f53b4b95576b9065462
+run_name: puzzled-lark-563
+run_uuid: 046c5f82cfbe4f53b4b95576b9065462
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231187268
+status: 1
+tags: []
+user_id: unknown

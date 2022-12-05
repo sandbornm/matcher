@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e623113c0f604c978d8559a12cdec5ed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e623113c0f604c978d8559a12cdec5ed
+run_name: bittersweet-colt-547
+run_uuid: e623113c0f604c978d8559a12cdec5ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233071807
+status: 1
+tags: []
+user_id: unknown

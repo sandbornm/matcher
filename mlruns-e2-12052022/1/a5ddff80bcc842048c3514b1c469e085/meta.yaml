@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a5ddff80bcc842048c3514b1c469e085/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a5ddff80bcc842048c3514b1c469e085
+run_name: respected-frog-950
+run_uuid: a5ddff80bcc842048c3514b1c469e085
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233116596
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cf99df0d559346af941927d15c436fa6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf99df0d559346af941927d15c436fa6
+run_name: thoughtful-gull-353
+run_uuid: cf99df0d559346af941927d15c436fa6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231168661
+status: 1
+tags: []
+user_id: unknown

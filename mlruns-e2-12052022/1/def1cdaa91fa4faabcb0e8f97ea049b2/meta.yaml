@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/def1cdaa91fa4faabcb0e8f97ea049b2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: def1cdaa91fa4faabcb0e8f97ea049b2
+run_name: unique-trout-271
+run_uuid: def1cdaa91fa4faabcb0e8f97ea049b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231232691
+status: 1
+tags: []
+user_id: unknown

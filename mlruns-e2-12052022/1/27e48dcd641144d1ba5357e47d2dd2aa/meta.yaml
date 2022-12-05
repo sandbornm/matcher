@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/27e48dcd641144d1ba5357e47d2dd2aa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 27e48dcd641144d1ba5357e47d2dd2aa
+run_name: silent-snail-398
+run_uuid: 27e48dcd641144d1ba5357e47d2dd2aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231160397
+status: 1
+tags: []
+user_id: unknown

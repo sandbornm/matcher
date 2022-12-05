@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b5ff59a7a8f24dcd996848d39e210dc4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b5ff59a7a8f24dcd996848d39e210dc4
+run_name: masked-conch-125
+run_uuid: b5ff59a7a8f24dcd996848d39e210dc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233133045
+status: 1
+tags: []
+user_id: unknown

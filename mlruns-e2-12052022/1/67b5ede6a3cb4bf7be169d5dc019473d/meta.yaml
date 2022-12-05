@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/67b5ede6a3cb4bf7be169d5dc019473d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 67b5ede6a3cb4bf7be169d5dc019473d
+run_name: loud-hen-590
+run_uuid: 67b5ede6a3cb4bf7be169d5dc019473d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231152596
+status: 1
+tags: []
+user_id: unknown

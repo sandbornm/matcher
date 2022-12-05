@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dbd7f3e2136d4fcba69ff016c4a12303/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dbd7f3e2136d4fcba69ff016c4a12303
+run_name: dazzling-fawn-786
+run_uuid: dbd7f3e2136d4fcba69ff016c4a12303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231154361
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/76ab7733fb434d80824b09f44e4cbeab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 76ab7733fb434d80824b09f44e4cbeab
+run_name: popular-dolphin-108
+run_uuid: 76ab7733fb434d80824b09f44e4cbeab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233061890
+status: 1
+tags: []
+user_id: unknown

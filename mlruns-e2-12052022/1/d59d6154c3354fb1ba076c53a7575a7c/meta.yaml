@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d59d6154c3354fb1ba076c53a7575a7c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d59d6154c3354fb1ba076c53a7575a7c
+run_name: salty-dog-233
+run_uuid: d59d6154c3354fb1ba076c53a7575a7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231148562
+status: 1
+tags: []
+user_id: unknown

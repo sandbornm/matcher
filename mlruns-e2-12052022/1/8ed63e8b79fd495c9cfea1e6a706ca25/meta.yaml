@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8ed63e8b79fd495c9cfea1e6a706ca25/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8ed63e8b79fd495c9cfea1e6a706ca25
+run_name: suave-finch-465
+run_uuid: 8ed63e8b79fd495c9cfea1e6a706ca25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231153271
+status: 1
+tags: []
+user_id: unknown

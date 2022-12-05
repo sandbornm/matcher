@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f9e83a1cfd1d4e10a8ead1b6977e40dc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f9e83a1cfd1d4e10a8ead1b6977e40dc
+run_name: gentle-donkey-158
+run_uuid: f9e83a1cfd1d4e10a8ead1b6977e40dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233021439
+status: 1
+tags: []
+user_id: unknown

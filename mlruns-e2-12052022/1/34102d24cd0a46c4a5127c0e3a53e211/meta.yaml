@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/34102d24cd0a46c4a5127c0e3a53e211/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 34102d24cd0a46c4a5127c0e3a53e211
+run_name: chill-turtle-612
+run_uuid: 34102d24cd0a46c4a5127c0e3a53e211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231150676
+status: 1
+tags: []
+user_id: unknown

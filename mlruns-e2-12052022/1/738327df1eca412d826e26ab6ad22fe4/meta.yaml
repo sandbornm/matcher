@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/738327df1eca412d826e26ab6ad22fe4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 738327df1eca412d826e26ab6ad22fe4
+run_name: sedate-whale-694
+run_uuid: 738327df1eca412d826e26ab6ad22fe4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233055048
+status: 1
+tags: []
+user_id: unknown

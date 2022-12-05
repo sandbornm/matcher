@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5bacd31fc9fa4968b0ad37619a13207b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5bacd31fc9fa4968b0ad37619a13207b
+run_name: funny-wasp-701
+run_uuid: 5bacd31fc9fa4968b0ad37619a13207b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233061821
+status: 1
+tags: []
+user_id: unknown

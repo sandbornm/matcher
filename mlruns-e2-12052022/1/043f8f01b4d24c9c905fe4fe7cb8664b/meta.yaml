@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/043f8f01b4d24c9c905fe4fe7cb8664b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 043f8f01b4d24c9c905fe4fe7cb8664b
+run_name: abrasive-grub-726
+run_uuid: 043f8f01b4d24c9c905fe4fe7cb8664b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231148697
+status: 1
+tags: []
+user_id: unknown

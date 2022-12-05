@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6fc093b0b4e74a4e94873d74a6a12d40/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6fc093b0b4e74a4e94873d74a6a12d40
+run_name: sneaky-mule-413
+run_uuid: 6fc093b0b4e74a4e94873d74a6a12d40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233140838
+status: 1
+tags: []
+user_id: unknown

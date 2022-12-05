@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/972c524d9466411ebfbf3a8ff256e512/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 972c524d9466411ebfbf3a8ff256e512
+run_name: classy-stag-110
+run_uuid: 972c524d9466411ebfbf3a8ff256e512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233119697
+status: 1
+tags: []
+user_id: unknown

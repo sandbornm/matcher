@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d8585456c4944883895158d04b7138ea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d8585456c4944883895158d04b7138ea
+run_name: gentle-worm-736
+run_uuid: d8585456c4944883895158d04b7138ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231152482
+status: 1
+tags: []
+user_id: unknown

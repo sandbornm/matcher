@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ecef820e03684544be73e42ec5d57093/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ecef820e03684544be73e42ec5d57093
+run_name: adventurous-ox-350
+run_uuid: ecef820e03684544be73e42ec5d57093
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233119921
+status: 1
+tags: []
+user_id: unknown

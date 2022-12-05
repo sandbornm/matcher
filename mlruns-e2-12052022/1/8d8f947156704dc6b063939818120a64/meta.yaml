@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8d8f947156704dc6b063939818120a64/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8d8f947156704dc6b063939818120a64
+run_name: agreeable-zebra-553
+run_uuid: 8d8f947156704dc6b063939818120a64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231224227
+status: 1
+tags: []
+user_id: unknown

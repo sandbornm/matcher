@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ecfaad99631240c7b11d0f823b629a68/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ecfaad99631240c7b11d0f823b629a68
+run_name: bold-carp-856
+run_uuid: ecfaad99631240c7b11d0f823b629a68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231190466
+status: 1
+tags: []
+user_id: unknown

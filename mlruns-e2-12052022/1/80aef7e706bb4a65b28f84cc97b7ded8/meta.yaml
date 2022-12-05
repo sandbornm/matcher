@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/80aef7e706bb4a65b28f84cc97b7ded8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 80aef7e706bb4a65b28f84cc97b7ded8
+run_name: beautiful-flea-15
+run_uuid: 80aef7e706bb4a65b28f84cc97b7ded8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233055213
+status: 1
+tags: []
+user_id: unknown

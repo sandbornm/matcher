@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bec69cb6932040259b43fa312d5fa00d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bec69cb6932040259b43fa312d5fa00d
+run_name: upset-owl-666
+run_uuid: bec69cb6932040259b43fa312d5fa00d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233155409
+status: 1
+tags: []
+user_id: unknown

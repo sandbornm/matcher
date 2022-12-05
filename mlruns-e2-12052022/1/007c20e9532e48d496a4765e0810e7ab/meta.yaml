@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/007c20e9532e48d496a4765e0810e7ab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 007c20e9532e48d496a4765e0810e7ab
+run_name: persistent-mole-884
+run_uuid: 007c20e9532e48d496a4765e0810e7ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231255417
+status: 1
+tags: []
+user_id: unknown

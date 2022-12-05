@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d7cb1abac11746a694da125389bbac92/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d7cb1abac11746a694da125389bbac92
+run_name: dapper-ray-844
+run_uuid: d7cb1abac11746a694da125389bbac92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233069568
+status: 1
+tags: []
+user_id: unknown

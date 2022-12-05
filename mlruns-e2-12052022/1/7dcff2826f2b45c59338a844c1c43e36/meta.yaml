@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7dcff2826f2b45c59338a844c1c43e36/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7dcff2826f2b45c59338a844c1c43e36
+run_name: gentle-tern-518
+run_uuid: 7dcff2826f2b45c59338a844c1c43e36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231206613
+status: 1
+tags: []
+user_id: unknown

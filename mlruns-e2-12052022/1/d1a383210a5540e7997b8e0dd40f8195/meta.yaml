@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d1a383210a5540e7997b8e0dd40f8195/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d1a383210a5540e7997b8e0dd40f8195
+run_name: zealous-mole-741
+run_uuid: d1a383210a5540e7997b8e0dd40f8195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231216987
+status: 1
+tags: []
+user_id: unknown

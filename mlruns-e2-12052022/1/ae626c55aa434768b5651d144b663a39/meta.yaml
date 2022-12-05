@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ae626c55aa434768b5651d144b663a39/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ae626c55aa434768b5651d144b663a39
+run_name: whimsical-yak-497
+run_uuid: ae626c55aa434768b5651d144b663a39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231154077
+status: 1
+tags: []
+user_id: unknown

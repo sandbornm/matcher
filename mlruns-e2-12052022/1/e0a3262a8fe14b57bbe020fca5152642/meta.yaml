@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e0a3262a8fe14b57bbe020fca5152642/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e0a3262a8fe14b57bbe020fca5152642
+run_name: awesome-midge-454
+run_uuid: e0a3262a8fe14b57bbe020fca5152642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231159379
+status: 1
+tags: []
+user_id: unknown

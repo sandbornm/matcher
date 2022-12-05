@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ec175cc977de42eb862265d0fbdda957/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ec175cc977de42eb862265d0fbdda957
+run_name: fun-midge-875
+run_uuid: ec175cc977de42eb862265d0fbdda957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231166583
+status: 1
+tags: []
+user_id: unknown

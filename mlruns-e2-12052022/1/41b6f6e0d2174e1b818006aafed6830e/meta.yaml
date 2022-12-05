@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/41b6f6e0d2174e1b818006aafed6830e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 41b6f6e0d2174e1b818006aafed6830e
+run_name: unique-stork-836
+run_uuid: 41b6f6e0d2174e1b818006aafed6830e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231235690
+status: 1
+tags: []
+user_id: unknown

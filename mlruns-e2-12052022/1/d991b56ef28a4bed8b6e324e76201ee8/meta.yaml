@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d991b56ef28a4bed8b6e324e76201ee8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d991b56ef28a4bed8b6e324e76201ee8
+run_name: resilient-sloth-87
+run_uuid: d991b56ef28a4bed8b6e324e76201ee8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233028626
+status: 1
+tags: []
+user_id: unknown

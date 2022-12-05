@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/df63ff82ae164f2c928dad0e404ac9bb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: df63ff82ae164f2c928dad0e404ac9bb
+run_name: resilient-shad-263
+run_uuid: df63ff82ae164f2c928dad0e404ac9bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233150294
+status: 1
+tags: []
+user_id: unknown

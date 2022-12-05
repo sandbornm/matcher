@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2733ecf611834f44bdd8ccbfaf17e7df/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2733ecf611834f44bdd8ccbfaf17e7df
+run_name: clumsy-shrew-448
+run_uuid: 2733ecf611834f44bdd8ccbfaf17e7df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233132336
+status: 1
+tags: []
+user_id: unknown

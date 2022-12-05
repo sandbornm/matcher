@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ab227713244f49de8d7785d6ba34800c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab227713244f49de8d7785d6ba34800c
+run_name: spiffy-shrimp-380
+run_uuid: ab227713244f49de8d7785d6ba34800c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231228119
+status: 1
+tags: []
+user_id: unknown

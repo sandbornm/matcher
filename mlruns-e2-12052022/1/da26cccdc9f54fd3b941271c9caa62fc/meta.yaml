@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/da26cccdc9f54fd3b941271c9caa62fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da26cccdc9f54fd3b941271c9caa62fc
+run_name: stately-snake-244
+run_uuid: da26cccdc9f54fd3b941271c9caa62fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231155912
+status: 1
+tags: []
+user_id: unknown

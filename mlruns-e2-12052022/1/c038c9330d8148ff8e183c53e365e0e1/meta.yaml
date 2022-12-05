@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c038c9330d8148ff8e183c53e365e0e1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c038c9330d8148ff8e183c53e365e0e1
+run_name: debonair-moth-703
+run_uuid: c038c9330d8148ff8e183c53e365e0e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231232108
+status: 1
+tags: []
+user_id: unknown

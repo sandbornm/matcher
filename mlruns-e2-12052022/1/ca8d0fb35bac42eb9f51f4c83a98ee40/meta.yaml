@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ca8d0fb35bac42eb9f51f4c83a98ee40/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca8d0fb35bac42eb9f51f4c83a98ee40
+run_name: rogue-kit-425
+run_uuid: ca8d0fb35bac42eb9f51f4c83a98ee40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231153535
+status: 1
+tags: []
+user_id: unknown

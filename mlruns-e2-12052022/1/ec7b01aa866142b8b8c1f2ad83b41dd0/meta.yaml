@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ec7b01aa866142b8b8c1f2ad83b41dd0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ec7b01aa866142b8b8c1f2ad83b41dd0
+run_name: popular-sheep-946
+run_uuid: ec7b01aa866142b8b8c1f2ad83b41dd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231250079
+status: 1
+tags: []
+user_id: unknown

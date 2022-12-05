@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b622ec95112d4ee0bfd5fa40d74a7a30/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b622ec95112d4ee0bfd5fa40d74a7a30
+run_name: nervous-mole-562
+run_uuid: b622ec95112d4ee0bfd5fa40d74a7a30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231160382
+status: 1
+tags: []
+user_id: unknown

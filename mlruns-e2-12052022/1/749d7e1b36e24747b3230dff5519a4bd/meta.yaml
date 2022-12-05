@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/749d7e1b36e24747b3230dff5519a4bd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 749d7e1b36e24747b3230dff5519a4bd
+run_name: languid-fish-709
+run_uuid: 749d7e1b36e24747b3230dff5519a4bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231148891
+status: 1
+tags: []
+user_id: unknown

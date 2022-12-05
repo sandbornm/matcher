@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f3198ae949c648559e1a81ef96988b25/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f3198ae949c648559e1a81ef96988b25
+run_name: unruly-gnu-4
+run_uuid: f3198ae949c648559e1a81ef96988b25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231260332
+status: 1
+tags: []
+user_id: unknown

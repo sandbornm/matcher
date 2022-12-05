@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/eff2e195f53b460580cb0bb8e2e589e3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eff2e195f53b460580cb0bb8e2e589e3
+run_name: worried-moose-807
+run_uuid: eff2e195f53b460580cb0bb8e2e589e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231172580
+status: 1
+tags: []
+user_id: unknown

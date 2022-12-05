@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/75c0f648c83046ab91c4f65aeba554e2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 75c0f648c83046ab91c4f65aeba554e2
+run_name: capricious-sheep-953
+run_uuid: 75c0f648c83046ab91c4f65aeba554e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233135551
+status: 1
+tags: []
+user_id: unknown

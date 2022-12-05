@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0a3d72f37f7140f0a4411a859663501d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0a3d72f37f7140f0a4411a859663501d
+run_name: puzzled-hawk-805
+run_uuid: 0a3d72f37f7140f0a4411a859663501d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233046625
+status: 1
+tags: []
+user_id: unknown

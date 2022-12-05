@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a8529493850141cebf10696a3408b5a5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8529493850141cebf10696a3408b5a5
+run_name: nebulous-steed-424
+run_uuid: a8529493850141cebf10696a3408b5a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231197944
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/afe1c1a8eb9d4c81a118246014549cde/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: afe1c1a8eb9d4c81a118246014549cde
+run_name: efficient-ape-356
+run_uuid: afe1c1a8eb9d4c81a118246014549cde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231241992
+status: 1
+tags: []
+user_id: unknown

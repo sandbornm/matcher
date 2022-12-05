@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1b1b2faa68ed42a480d6b78e869e6469/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1b1b2faa68ed42a480d6b78e869e6469
+run_name: auspicious-mouse-517
+run_uuid: 1b1b2faa68ed42a480d6b78e869e6469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233086080
+status: 1
+tags: []
+user_id: unknown

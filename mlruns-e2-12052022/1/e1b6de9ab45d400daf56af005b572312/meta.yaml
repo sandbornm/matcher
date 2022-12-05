@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e1b6de9ab45d400daf56af005b572312/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e1b6de9ab45d400daf56af005b572312
+run_name: puzzled-lynx-3
+run_uuid: e1b6de9ab45d400daf56af005b572312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231262464
+status: 1
+tags: []
+user_id: unknown

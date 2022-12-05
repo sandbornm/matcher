@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2674af6ccc614f20ad9a248500d3319f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2674af6ccc614f20ad9a248500d3319f
+run_name: luminous-koi-723
+run_uuid: 2674af6ccc614f20ad9a248500d3319f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231205260
+status: 1
+tags: []
+user_id: unknown

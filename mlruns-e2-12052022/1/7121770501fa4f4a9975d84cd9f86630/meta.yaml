@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7121770501fa4f4a9975d84cd9f86630/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7121770501fa4f4a9975d84cd9f86630
+run_name: salty-shrew-119
+run_uuid: 7121770501fa4f4a9975d84cd9f86630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233097968
+status: 1
+tags: []
+user_id: unknown

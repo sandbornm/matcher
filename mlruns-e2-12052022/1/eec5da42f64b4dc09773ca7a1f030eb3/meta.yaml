@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/eec5da42f64b4dc09773ca7a1f030eb3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eec5da42f64b4dc09773ca7a1f030eb3
+run_name: zealous-sow-770
+run_uuid: eec5da42f64b4dc09773ca7a1f030eb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231183244
+status: 1
+tags: []
+user_id: unknown

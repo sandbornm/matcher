@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e997f391a7ed4551b0cc5dff6d2f38be/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e997f391a7ed4551b0cc5dff6d2f38be
+run_name: secretive-cow-568
+run_uuid: e997f391a7ed4551b0cc5dff6d2f38be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231213831
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/50fd85beaced41848568ac7fe6131e71/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 50fd85beaced41848568ac7fe6131e71
+run_name: adaptable-zebra-724
+run_uuid: 50fd85beaced41848568ac7fe6131e71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231176108
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9fa06adf001b423587c83360885a74d3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9fa06adf001b423587c83360885a74d3
+run_name: aged-perch-701
+run_uuid: 9fa06adf001b423587c83360885a74d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231231020
+status: 1
+tags: []
+user_id: unknown

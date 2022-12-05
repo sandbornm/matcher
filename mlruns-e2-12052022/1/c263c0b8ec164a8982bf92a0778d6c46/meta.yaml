@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c263c0b8ec164a8982bf92a0778d6c46/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c263c0b8ec164a8982bf92a0778d6c46
+run_name: nosy-ray-860
+run_uuid: c263c0b8ec164a8982bf92a0778d6c46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231164565
+status: 1
+tags: []
+user_id: unknown

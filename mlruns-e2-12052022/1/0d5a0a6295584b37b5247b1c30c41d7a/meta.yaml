@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0d5a0a6295584b37b5247b1c30c41d7a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0d5a0a6295584b37b5247b1c30c41d7a
+run_name: monumental-asp-873
+run_uuid: 0d5a0a6295584b37b5247b1c30c41d7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233136812
+status: 1
+tags: []
+user_id: unknown

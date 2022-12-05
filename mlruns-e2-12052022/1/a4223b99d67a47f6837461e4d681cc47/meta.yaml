@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a4223b99d67a47f6837461e4d681cc47/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a4223b99d67a47f6837461e4d681cc47
+run_name: unique-carp-77
+run_uuid: a4223b99d67a47f6837461e4d681cc47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231198318
+status: 1
+tags: []
+user_id: unknown

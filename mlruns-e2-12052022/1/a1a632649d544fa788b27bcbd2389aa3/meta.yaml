@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a1a632649d544fa788b27bcbd2389aa3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a1a632649d544fa788b27bcbd2389aa3
+run_name: sassy-snail-272
+run_uuid: a1a632649d544fa788b27bcbd2389aa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231217006
+status: 1
+tags: []
+user_id: unknown

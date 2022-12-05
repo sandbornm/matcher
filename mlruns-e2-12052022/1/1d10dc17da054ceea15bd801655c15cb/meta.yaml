@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1d10dc17da054ceea15bd801655c15cb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1d10dc17da054ceea15bd801655c15cb
+run_name: inquisitive-ox-345
+run_uuid: 1d10dc17da054ceea15bd801655c15cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233023680
+status: 1
+tags: []
+user_id: unknown

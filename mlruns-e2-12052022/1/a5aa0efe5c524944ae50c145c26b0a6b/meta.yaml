@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a5aa0efe5c524944ae50c145c26b0a6b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a5aa0efe5c524944ae50c145c26b0a6b
+run_name: gifted-chimp-286
+run_uuid: a5aa0efe5c524944ae50c145c26b0a6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231150560
+status: 1
+tags: []
+user_id: unknown

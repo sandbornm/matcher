@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b1c3f73e7eeb4922b5a8d982f7195ea8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b1c3f73e7eeb4922b5a8d982f7195ea8
+run_name: salty-hog-742
+run_uuid: b1c3f73e7eeb4922b5a8d982f7195ea8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231234166
+status: 1
+tags: []
+user_id: unknown

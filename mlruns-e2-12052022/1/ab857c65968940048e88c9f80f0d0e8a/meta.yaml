@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ab857c65968940048e88c9f80f0d0e8a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab857c65968940048e88c9f80f0d0e8a
+run_name: powerful-conch-190
+run_uuid: ab857c65968940048e88c9f80f0d0e8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231164183
+status: 1
+tags: []
+user_id: unknown

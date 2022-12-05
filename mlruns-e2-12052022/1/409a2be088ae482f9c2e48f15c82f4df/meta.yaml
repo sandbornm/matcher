@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/409a2be088ae482f9c2e48f15c82f4df/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 409a2be088ae482f9c2e48f15c82f4df
+run_name: auspicious-lynx-925
+run_uuid: 409a2be088ae482f9c2e48f15c82f4df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233149213
+status: 1
+tags: []
+user_id: unknown

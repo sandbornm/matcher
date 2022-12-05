@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7a69905788c2471c9fe79e4335ede2f1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7a69905788c2471c9fe79e4335ede2f1
+run_name: ambitious-sow-850
+run_uuid: 7a69905788c2471c9fe79e4335ede2f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231190235
+status: 1
+tags: []
+user_id: unknown

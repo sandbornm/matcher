@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e236fe31157c43b8924a04bfa2e3fedb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e236fe31157c43b8924a04bfa2e3fedb
+run_name: clumsy-elk-904
+run_uuid: e236fe31157c43b8924a04bfa2e3fedb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233095250
+status: 1
+tags: []
+user_id: unknown

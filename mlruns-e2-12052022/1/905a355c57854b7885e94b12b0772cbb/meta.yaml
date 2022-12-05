@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/905a355c57854b7885e94b12b0772cbb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 905a355c57854b7885e94b12b0772cbb
+run_name: adventurous-gull-864
+run_uuid: 905a355c57854b7885e94b12b0772cbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231163203
+status: 1
+tags: []
+user_id: unknown

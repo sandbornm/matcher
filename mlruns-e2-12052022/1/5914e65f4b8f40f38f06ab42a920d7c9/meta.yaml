@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5914e65f4b8f40f38f06ab42a920d7c9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5914e65f4b8f40f38f06ab42a920d7c9
+run_name: amusing-fly-825
+run_uuid: 5914e65f4b8f40f38f06ab42a920d7c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231152641
+status: 1
+tags: []
+user_id: unknown

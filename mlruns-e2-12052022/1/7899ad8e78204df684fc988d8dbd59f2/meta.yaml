@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7899ad8e78204df684fc988d8dbd59f2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7899ad8e78204df684fc988d8dbd59f2
+run_name: awesome-colt-449
+run_uuid: 7899ad8e78204df684fc988d8dbd59f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231170043
+status: 1
+tags: []
+user_id: unknown

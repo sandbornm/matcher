@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4df2d0e148e9436e8954aeadf1160e01/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4df2d0e148e9436e8954aeadf1160e01
+run_name: classy-grub-816
+run_uuid: 4df2d0e148e9436e8954aeadf1160e01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233131034
+status: 1
+tags: []
+user_id: unknown

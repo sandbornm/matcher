@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/72977b26a0654d1894bb8bd5f2f655db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 72977b26a0654d1894bb8bd5f2f655db
+run_name: receptive-mare-44
+run_uuid: 72977b26a0654d1894bb8bd5f2f655db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231179652
+status: 1
+tags: []
+user_id: unknown

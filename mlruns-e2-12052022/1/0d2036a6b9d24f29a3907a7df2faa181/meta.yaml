@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0d2036a6b9d24f29a3907a7df2faa181/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0d2036a6b9d24f29a3907a7df2faa181
+run_name: capable-frog-924
+run_uuid: 0d2036a6b9d24f29a3907a7df2faa181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233150189
+status: 1
+tags: []
+user_id: unknown

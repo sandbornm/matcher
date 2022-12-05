@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/aa555174f8954d36ab007b4b3a7f8998/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aa555174f8954d36ab007b4b3a7f8998
+run_name: nebulous-hog-672
+run_uuid: aa555174f8954d36ab007b4b3a7f8998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233059738
+status: 1
+tags: []
+user_id: unknown

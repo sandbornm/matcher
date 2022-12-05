@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/32ab6da7a3bb4e91b1dfb36c2cf97c6f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 32ab6da7a3bb4e91b1dfb36c2cf97c6f
+run_name: tasteful-bee-719
+run_uuid: 32ab6da7a3bb4e91b1dfb36c2cf97c6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233100541
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/01a171f6ff3d43d79aff87ecddbfdb07/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 01a171f6ff3d43d79aff87ecddbfdb07
+run_name: clumsy-lamb-843
+run_uuid: 01a171f6ff3d43d79aff87ecddbfdb07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231248151
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a7743377b9cd4eb0afe83d34bf2093fb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a7743377b9cd4eb0afe83d34bf2093fb
+run_name: shivering-swan-617
+run_uuid: a7743377b9cd4eb0afe83d34bf2093fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233009086
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7c199a98e8d345a4875f9a70793a236b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7c199a98e8d345a4875f9a70793a236b
+run_name: upset-snail-645
+run_uuid: 7c199a98e8d345a4875f9a70793a236b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231154733
+status: 1
+tags: []
+user_id: unknown

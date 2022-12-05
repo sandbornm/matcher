@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f62316cc8a8c403781cc37c6b08ff33f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f62316cc8a8c403781cc37c6b08ff33f
+run_name: rare-loon-659
+run_uuid: f62316cc8a8c403781cc37c6b08ff33f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231149750
+status: 1
+tags: []
+user_id: unknown

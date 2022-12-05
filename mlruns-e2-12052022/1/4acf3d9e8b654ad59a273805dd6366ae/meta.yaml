@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4acf3d9e8b654ad59a273805dd6366ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4acf3d9e8b654ad59a273805dd6366ae
+run_name: melodic-rook-410
+run_uuid: 4acf3d9e8b654ad59a273805dd6366ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231250641
+status: 1
+tags: []
+user_id: unknown

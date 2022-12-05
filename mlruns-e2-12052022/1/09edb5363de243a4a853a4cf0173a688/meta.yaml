@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/09edb5363de243a4a853a4cf0173a688/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 09edb5363de243a4a853a4cf0173a688
+run_name: secretive-swan-337
+run_uuid: 09edb5363de243a4a853a4cf0173a688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231264253
+status: 1
+tags: []
+user_id: unknown

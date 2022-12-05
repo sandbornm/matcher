@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2a159bfa501142bea631304de72cbf8c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2a159bfa501142bea631304de72cbf8c
+run_name: welcoming-moth-130
+run_uuid: 2a159bfa501142bea631304de72cbf8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231153459
+status: 1
+tags: []
+user_id: unknown

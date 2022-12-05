@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/abc5265884a04723b1e390c61dc53262/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: abc5265884a04723b1e390c61dc53262
+run_name: spiffy-koi-370
+run_uuid: abc5265884a04723b1e390c61dc53262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231212835
+status: 1
+tags: []
+user_id: unknown

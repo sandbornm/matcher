@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3a15e6f58daf479daf84aaaf15c4160e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3a15e6f58daf479daf84aaaf15c4160e
+run_name: caring-vole-106
+run_uuid: 3a15e6f58daf479daf84aaaf15c4160e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231161596
+status: 1
+tags: []
+user_id: unknown

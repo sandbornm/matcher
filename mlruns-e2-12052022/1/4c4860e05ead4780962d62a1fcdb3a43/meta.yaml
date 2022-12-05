@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4c4860e05ead4780962d62a1fcdb3a43/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4c4860e05ead4780962d62a1fcdb3a43
+run_name: aged-stoat-566
+run_uuid: 4c4860e05ead4780962d62a1fcdb3a43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231227949
+status: 1
+tags: []
+user_id: unknown

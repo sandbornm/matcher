@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d306f19670044e1e8982b777931c9b04/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d306f19670044e1e8982b777931c9b04
+run_name: stylish-boar-629
+run_uuid: d306f19670044e1e8982b777931c9b04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233010569
+status: 1
+tags: []
+user_id: unknown

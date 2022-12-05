@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9b80629a45244542b4913c2b5ba503fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9b80629a45244542b4913c2b5ba503fa
+run_name: chill-chimp-272
+run_uuid: 9b80629a45244542b4913c2b5ba503fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231219516
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9daaec3721f346deb20b1cdfcb0aaa49/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9daaec3721f346deb20b1cdfcb0aaa49
+run_name: polite-shrike-878
+run_uuid: 9daaec3721f346deb20b1cdfcb0aaa49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231262080
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/38e96201894341e580317b1f1f958b5d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 38e96201894341e580317b1f1f958b5d
+run_name: orderly-hen-27
+run_uuid: 38e96201894341e580317b1f1f958b5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233107430
+status: 1
+tags: []
+user_id: unknown

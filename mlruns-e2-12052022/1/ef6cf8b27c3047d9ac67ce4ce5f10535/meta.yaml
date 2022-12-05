@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ef6cf8b27c3047d9ac67ce4ce5f10535/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ef6cf8b27c3047d9ac67ce4ce5f10535
+run_name: adaptable-mouse-916
+run_uuid: ef6cf8b27c3047d9ac67ce4ce5f10535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233018609
+status: 1
+tags: []
+user_id: unknown

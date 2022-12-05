@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/de29c1581a054581ba45c86fe30f5d25/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: de29c1581a054581ba45c86fe30f5d25
+run_name: gaudy-smelt-481
+run_uuid: de29c1581a054581ba45c86fe30f5d25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231217709
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/28b52caf2f2d45a28c9e5b6bd6f0f01b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 28b52caf2f2d45a28c9e5b6bd6f0f01b
+run_name: abrasive-elk-858
+run_uuid: 28b52caf2f2d45a28c9e5b6bd6f0f01b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231212356
+status: 1
+tags: []
+user_id: unknown

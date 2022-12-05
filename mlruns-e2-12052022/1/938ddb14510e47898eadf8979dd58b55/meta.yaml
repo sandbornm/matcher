@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/938ddb14510e47898eadf8979dd58b55/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 938ddb14510e47898eadf8979dd58b55
+run_name: silent-asp-490
+run_uuid: 938ddb14510e47898eadf8979dd58b55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233020757
+status: 1
+tags: []
+user_id: unknown

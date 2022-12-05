@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/15e1f93d45f24ef68a9f25c3621ad94f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 15e1f93d45f24ef68a9f25c3621ad94f
+run_name: omniscient-smelt-201
+run_uuid: 15e1f93d45f24ef68a9f25c3621ad94f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231196995
+status: 1
+tags: []
+user_id: unknown

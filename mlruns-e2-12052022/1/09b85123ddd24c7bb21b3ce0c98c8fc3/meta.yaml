@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/09b85123ddd24c7bb21b3ce0c98c8fc3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 09b85123ddd24c7bb21b3ce0c98c8fc3
+run_name: chill-crow-703
+run_uuid: 09b85123ddd24c7bb21b3ce0c98c8fc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231195908
+status: 1
+tags: []
+user_id: unknown

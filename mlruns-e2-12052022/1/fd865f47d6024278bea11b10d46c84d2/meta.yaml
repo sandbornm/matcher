@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/fd865f47d6024278bea11b10d46c84d2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fd865f47d6024278bea11b10d46c84d2
+run_name: big-grouse-10
+run_uuid: fd865f47d6024278bea11b10d46c84d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231223316
+status: 1
+tags: []
+user_id: unknown

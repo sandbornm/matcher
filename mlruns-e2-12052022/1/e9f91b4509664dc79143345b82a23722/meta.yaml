@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e9f91b4509664dc79143345b82a23722/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e9f91b4509664dc79143345b82a23722
+run_name: industrious-moth-503
+run_uuid: e9f91b4509664dc79143345b82a23722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231239703
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/827e1f30640047d9b0c06086bc8bf408/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 827e1f30640047d9b0c06086bc8bf408
+run_name: caring-ram-801
+run_uuid: 827e1f30640047d9b0c06086bc8bf408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233087395
+status: 1
+tags: []
+user_id: unknown

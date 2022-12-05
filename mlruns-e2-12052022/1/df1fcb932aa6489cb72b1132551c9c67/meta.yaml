@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/df1fcb932aa6489cb72b1132551c9c67/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: df1fcb932aa6489cb72b1132551c9c67
+run_name: capable-worm-141
+run_uuid: df1fcb932aa6489cb72b1132551c9c67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231208016
+status: 1
+tags: []
+user_id: unknown

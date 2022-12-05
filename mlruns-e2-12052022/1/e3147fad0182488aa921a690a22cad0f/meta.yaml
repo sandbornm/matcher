@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e3147fad0182488aa921a690a22cad0f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e3147fad0182488aa921a690a22cad0f
+run_name: bouncy-skunk-244
+run_uuid: e3147fad0182488aa921a690a22cad0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231148752
+status: 1
+tags: []
+user_id: unknown

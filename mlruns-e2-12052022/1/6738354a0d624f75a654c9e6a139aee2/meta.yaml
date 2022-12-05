@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6738354a0d624f75a654c9e6a139aee2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6738354a0d624f75a654c9e6a139aee2
+run_name: unique-ram-469
+run_uuid: 6738354a0d624f75a654c9e6a139aee2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231237566
+status: 1
+tags: []
+user_id: unknown

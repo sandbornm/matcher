@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/09b8eeee6b184418b070b5708ee132ce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 09b8eeee6b184418b070b5708ee132ce
+run_name: loud-stork-992
+run_uuid: 09b8eeee6b184418b070b5708ee132ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231148629
+status: 1
+tags: []
+user_id: unknown

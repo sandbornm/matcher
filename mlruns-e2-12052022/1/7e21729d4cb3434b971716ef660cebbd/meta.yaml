@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7e21729d4cb3434b971716ef660cebbd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7e21729d4cb3434b971716ef660cebbd
+run_name: magnificent-owl-575
+run_uuid: 7e21729d4cb3434b971716ef660cebbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231166908
+status: 1
+tags: []
+user_id: unknown

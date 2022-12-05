@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/919901c8cfed42ab92746cebd334e642/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 919901c8cfed42ab92746cebd334e642
+run_name: defiant-asp-578
+run_uuid: 919901c8cfed42ab92746cebd334e642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233144989
+status: 1
+tags: []
+user_id: unknown

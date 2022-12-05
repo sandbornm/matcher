@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2c5a3e0fd312484fb393c55318c63176/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2c5a3e0fd312484fb393c55318c63176
+run_name: rare-whale-555
+run_uuid: 2c5a3e0fd312484fb393c55318c63176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231175996
+status: 1
+tags: []
+user_id: unknown

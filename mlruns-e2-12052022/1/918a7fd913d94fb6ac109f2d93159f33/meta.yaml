@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/918a7fd913d94fb6ac109f2d93159f33/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 918a7fd913d94fb6ac109f2d93159f33
+run_name: awesome-ram-501
+run_uuid: 918a7fd913d94fb6ac109f2d93159f33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231154396
+status: 1
+tags: []
+user_id: unknown

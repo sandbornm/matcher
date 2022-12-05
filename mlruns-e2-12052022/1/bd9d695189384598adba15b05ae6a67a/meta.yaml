@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bd9d695189384598adba15b05ae6a67a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bd9d695189384598adba15b05ae6a67a
+run_name: painted-sow-995
+run_uuid: bd9d695189384598adba15b05ae6a67a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231208348
+status: 1
+tags: []
+user_id: unknown

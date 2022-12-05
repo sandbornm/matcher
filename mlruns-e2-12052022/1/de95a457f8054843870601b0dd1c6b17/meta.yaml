@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/de95a457f8054843870601b0dd1c6b17/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: de95a457f8054843870601b0dd1c6b17
+run_name: likeable-lark-472
+run_uuid: de95a457f8054843870601b0dd1c6b17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231179194
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ad9499e1cbda4ac09a1486a6f17f257d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad9499e1cbda4ac09a1486a6f17f257d
+run_name: flawless-gnat-882
+run_uuid: ad9499e1cbda4ac09a1486a6f17f257d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231207729
+status: 1
+tags: []
+user_id: unknown

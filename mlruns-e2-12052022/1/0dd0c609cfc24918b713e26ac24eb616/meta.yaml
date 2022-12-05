@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0dd0c609cfc24918b713e26ac24eb616/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0dd0c609cfc24918b713e26ac24eb616
+run_name: monumental-sow-103
+run_uuid: 0dd0c609cfc24918b713e26ac24eb616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231240301
+status: 1
+tags: []
+user_id: unknown

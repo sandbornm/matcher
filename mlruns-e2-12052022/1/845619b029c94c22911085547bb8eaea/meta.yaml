@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/845619b029c94c22911085547bb8eaea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 845619b029c94c22911085547bb8eaea
+run_name: upbeat-fish-722
+run_uuid: 845619b029c94c22911085547bb8eaea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231150897
+status: 1
+tags: []
+user_id: unknown

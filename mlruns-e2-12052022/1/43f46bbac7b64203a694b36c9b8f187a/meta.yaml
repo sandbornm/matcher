@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/43f46bbac7b64203a694b36c9b8f187a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 43f46bbac7b64203a694b36c9b8f187a
+run_name: gifted-ape-492
+run_uuid: 43f46bbac7b64203a694b36c9b8f187a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231151004
+status: 1
+tags: []
+user_id: unknown

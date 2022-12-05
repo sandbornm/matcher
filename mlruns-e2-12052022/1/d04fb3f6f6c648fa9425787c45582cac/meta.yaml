@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d04fb3f6f6c648fa9425787c45582cac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d04fb3f6f6c648fa9425787c45582cac
+run_name: persistent-stoat-262
+run_uuid: d04fb3f6f6c648fa9425787c45582cac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231192351
+status: 1
+tags: []
+user_id: unknown

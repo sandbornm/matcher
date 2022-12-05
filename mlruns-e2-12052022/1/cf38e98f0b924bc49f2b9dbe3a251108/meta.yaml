@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cf38e98f0b924bc49f2b9dbe3a251108/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf38e98f0b924bc49f2b9dbe3a251108
+run_name: orderly-whale-27
+run_uuid: cf38e98f0b924bc49f2b9dbe3a251108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231197411
+status: 1
+tags: []
+user_id: unknown

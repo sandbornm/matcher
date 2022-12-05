@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c760599d966e480182c0a134fd49613f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c760599d966e480182c0a134fd49613f
+run_name: sneaky-kite-325
+run_uuid: c760599d966e480182c0a134fd49613f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231151995
+status: 1
+tags: []
+user_id: unknown

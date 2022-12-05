@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cdb01b17fbd844c397496438a083d3e3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cdb01b17fbd844c397496438a083d3e3
+run_name: caring-frog-557
+run_uuid: cdb01b17fbd844c397496438a083d3e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231205438
+status: 1
+tags: []
+user_id: unknown

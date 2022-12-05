@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c239e22996c84552867b37a40404f74a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c239e22996c84552867b37a40404f74a
+run_name: efficient-gnat-87
+run_uuid: c239e22996c84552867b37a40404f74a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231260978
+status: 1
+tags: []
+user_id: unknown

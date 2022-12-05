@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d95bd1a046a34c0699e82b4b128a724a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d95bd1a046a34c0699e82b4b128a724a
+run_name: sincere-sheep-534
+run_uuid: d95bd1a046a34c0699e82b4b128a724a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231176256
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/233b83fa0a2d4615845a90c6dee6efe6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 233b83fa0a2d4615845a90c6dee6efe6
+run_name: big-skunk-628
+run_uuid: 233b83fa0a2d4615845a90c6dee6efe6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231156436
+status: 1
+tags: []
+user_id: unknown

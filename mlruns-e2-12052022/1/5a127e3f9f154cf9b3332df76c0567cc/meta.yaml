@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5a127e3f9f154cf9b3332df76c0567cc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5a127e3f9f154cf9b3332df76c0567cc
+run_name: efficient-loon-194
+run_uuid: 5a127e3f9f154cf9b3332df76c0567cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233137761
+status: 1
+tags: []
+user_id: unknown

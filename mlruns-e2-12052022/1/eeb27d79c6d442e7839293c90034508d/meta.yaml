@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/eeb27d79c6d442e7839293c90034508d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eeb27d79c6d442e7839293c90034508d
+run_name: colorful-grouse-871
+run_uuid: eeb27d79c6d442e7839293c90034508d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233150052
+status: 1
+tags: []
+user_id: unknown

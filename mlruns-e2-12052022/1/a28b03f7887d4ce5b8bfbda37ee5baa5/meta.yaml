@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a28b03f7887d4ce5b8bfbda37ee5baa5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a28b03f7887d4ce5b8bfbda37ee5baa5
+run_name: upbeat-finch-611
+run_uuid: a28b03f7887d4ce5b8bfbda37ee5baa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231149750
+status: 1
+tags: []
+user_id: unknown

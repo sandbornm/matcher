@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/08ed0fd99b2844beb5c0f6a3f0077f6c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 08ed0fd99b2844beb5c0f6a3f0077f6c
+run_name: clumsy-perch-470
+run_uuid: 08ed0fd99b2844beb5c0f6a3f0077f6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231201936
+status: 1
+tags: []
+user_id: unknown

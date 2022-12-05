@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/52dc32dddc9b45498219fa612820094c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 52dc32dddc9b45498219fa612820094c
+run_name: amusing-ray-430
+run_uuid: 52dc32dddc9b45498219fa612820094c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231226292
+status: 1
+tags: []
+user_id: unknown

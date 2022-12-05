@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c7e33cc5d6d2458b85010c801f296fcd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c7e33cc5d6d2458b85010c801f296fcd
+run_name: calm-gnu-248
+run_uuid: c7e33cc5d6d2458b85010c801f296fcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231233890
+status: 1
+tags: []
+user_id: unknown

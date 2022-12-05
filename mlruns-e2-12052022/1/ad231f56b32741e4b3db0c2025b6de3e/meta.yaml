@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ad231f56b32741e4b3db0c2025b6de3e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad231f56b32741e4b3db0c2025b6de3e
+run_name: unruly-koi-158
+run_uuid: ad231f56b32741e4b3db0c2025b6de3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233066514
+status: 1
+tags: []
+user_id: unknown

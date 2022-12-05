@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/79a3857f3a2f438b8299cfaf733b2260/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 79a3857f3a2f438b8299cfaf733b2260
+run_name: nervous-ape-15
+run_uuid: 79a3857f3a2f438b8299cfaf733b2260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231153201
+status: 1
+tags: []
+user_id: unknown

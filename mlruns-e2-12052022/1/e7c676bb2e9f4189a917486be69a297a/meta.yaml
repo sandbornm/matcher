@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e7c676bb2e9f4189a917486be69a297a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e7c676bb2e9f4189a917486be69a297a
+run_name: adaptable-trout-439
+run_uuid: e7c676bb2e9f4189a917486be69a297a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231210952
+status: 1
+tags: []
+user_id: unknown

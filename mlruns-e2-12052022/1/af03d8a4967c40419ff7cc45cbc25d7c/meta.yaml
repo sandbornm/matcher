@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/af03d8a4967c40419ff7cc45cbc25d7c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: af03d8a4967c40419ff7cc45cbc25d7c
+run_name: marvelous-cow-821
+run_uuid: af03d8a4967c40419ff7cc45cbc25d7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233107854
+status: 1
+tags: []
+user_id: unknown

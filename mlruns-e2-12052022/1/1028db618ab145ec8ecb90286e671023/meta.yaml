@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1028db618ab145ec8ecb90286e671023/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1028db618ab145ec8ecb90286e671023
+run_name: grandiose-bird-436
+run_uuid: 1028db618ab145ec8ecb90286e671023
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231178041
+status: 1
+tags: []
+user_id: unknown

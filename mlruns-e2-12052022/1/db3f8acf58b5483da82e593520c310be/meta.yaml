@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/db3f8acf58b5483da82e593520c310be/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: db3f8acf58b5483da82e593520c310be
+run_name: salty-shad-961
+run_uuid: db3f8acf58b5483da82e593520c310be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231191337
+status: 1
+tags: []
+user_id: unknown

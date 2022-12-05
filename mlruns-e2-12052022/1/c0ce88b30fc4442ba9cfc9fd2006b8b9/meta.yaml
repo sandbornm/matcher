@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c0ce88b30fc4442ba9cfc9fd2006b8b9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c0ce88b30fc4442ba9cfc9fd2006b8b9
+run_name: fortunate-pig-266
+run_uuid: c0ce88b30fc4442ba9cfc9fd2006b8b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233026142
+status: 1
+tags: []
+user_id: unknown

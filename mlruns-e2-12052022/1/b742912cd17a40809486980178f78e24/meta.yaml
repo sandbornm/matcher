@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b742912cd17a40809486980178f78e24/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b742912cd17a40809486980178f78e24
+run_name: bedecked-wolf-736
+run_uuid: b742912cd17a40809486980178f78e24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231148600
+status: 1
+tags: []
+user_id: unknown

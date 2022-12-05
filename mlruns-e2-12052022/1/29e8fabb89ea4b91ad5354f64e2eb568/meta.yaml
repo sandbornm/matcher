@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/29e8fabb89ea4b91ad5354f64e2eb568/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 29e8fabb89ea4b91ad5354f64e2eb568
+run_name: painted-snipe-37
+run_uuid: 29e8fabb89ea4b91ad5354f64e2eb568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231192053
+status: 1
+tags: []
+user_id: unknown
