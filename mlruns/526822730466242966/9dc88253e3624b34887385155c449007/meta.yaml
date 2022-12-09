@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9dc88253e3624b34887385155c449007/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9dc88253e3624b34887385155c449007
+run_name: capricious-quail-873
+run_uuid: 9dc88253e3624b34887385155c449007
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670622064991
+status: 1
+tags: []
+user_id: unknown

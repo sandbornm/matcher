@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2400e6bb70c74342a61f1174f68b1509/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2400e6bb70c74342a61f1174f68b1509
+run_name: traveling-jay-595
+run_uuid: 2400e6bb70c74342a61f1174f68b1509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670619504479
+status: 1
+tags: []
+user_id: unknown

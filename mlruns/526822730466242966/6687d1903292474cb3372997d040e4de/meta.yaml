@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6687d1903292474cb3372997d040e4de/artifacts
+deleted_time: 1670621445406
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 6687d1903292474cb3372997d040e4de
+run_name: enthused-mink-658
+run_uuid: 6687d1903292474cb3372997d040e4de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670621066475
+status: 1
+tags: []
+user_id: unknown

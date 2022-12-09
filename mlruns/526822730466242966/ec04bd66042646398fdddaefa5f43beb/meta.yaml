@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ec04bd66042646398fdddaefa5f43beb/artifacts
+deleted_time: 1670620357146
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: ec04bd66042646398fdddaefa5f43beb
+run_name: placid-foal-409
+run_uuid: ec04bd66042646398fdddaefa5f43beb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670619038028
+status: 1
+tags: []
+user_id: unknown

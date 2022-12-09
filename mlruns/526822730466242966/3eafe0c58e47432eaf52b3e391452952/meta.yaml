@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3eafe0c58e47432eaf52b3e391452952/artifacts
+deleted_time: 1670620357163
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 3eafe0c58e47432eaf52b3e391452952
+run_name: painted-wolf-542
+run_uuid: 3eafe0c58e47432eaf52b3e391452952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670618625914
+status: 1
+tags: []
+user_id: unknown

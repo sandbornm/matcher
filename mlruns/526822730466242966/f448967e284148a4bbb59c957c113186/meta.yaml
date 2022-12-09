@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f448967e284148a4bbb59c957c113186/artifacts
+deleted_time: 1670621445462
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: f448967e284148a4bbb59c957c113186
+run_name: delightful-ape-602
+run_uuid: f448967e284148a4bbb59c957c113186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620819370
+status: 1
+tags: []
+user_id: unknown

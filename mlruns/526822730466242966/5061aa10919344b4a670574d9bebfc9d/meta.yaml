@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5061aa10919344b4a670574d9bebfc9d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5061aa10919344b4a670574d9bebfc9d
+run_name: luxuriant-mule-590
+run_uuid: 5061aa10919344b4a670574d9bebfc9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670619628990
+status: 1
+tags: []
+user_id: unknown

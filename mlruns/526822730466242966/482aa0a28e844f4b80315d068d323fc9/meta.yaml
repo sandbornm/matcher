@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/482aa0a28e844f4b80315d068d323fc9/artifacts
+deleted_time: 1670621445488
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 482aa0a28e844f4b80315d068d323fc9
+run_name: shivering-mole-53
+run_uuid: 482aa0a28e844f4b80315d068d323fc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620360563
+status: 1
+tags: []
+user_id: unknown

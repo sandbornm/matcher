@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a67c631fb36b4409815f9366e8426bf8/artifacts
+deleted_time: 1670620357160
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: a67c631fb36b4409815f9366e8426bf8
+run_name: whimsical-crow-13
+run_uuid: a67c631fb36b4409815f9366e8426bf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670618740222
+status: 1
+tags: []
+user_id: unknown

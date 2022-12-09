@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/79ffb3c72aa1424c831d2f455c6920c4/artifacts
+deleted_time: 1670620357078
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 79ffb3c72aa1424c831d2f455c6920c4
+run_name: debonair-crab-86
+run_uuid: 79ffb3c72aa1424c831d2f455c6920c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620137148
+status: 1
+tags: []
+user_id: unknown

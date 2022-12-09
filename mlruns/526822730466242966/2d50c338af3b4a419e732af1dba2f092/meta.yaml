@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2d50c338af3b4a419e732af1dba2f092/artifacts
+deleted_time: 1670620357120
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 2d50c338af3b4a419e732af1dba2f092
+run_name: thundering-cub-537
+run_uuid: 2d50c338af3b4a419e732af1dba2f092
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670619808426
+status: 1
+tags: []
+user_id: unknown

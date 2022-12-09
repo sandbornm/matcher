@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/23dedd8375ba4377befb56d3d026a0f4/artifacts
+deleted_time: 1670621713603
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 23dedd8375ba4377befb56d3d026a0f4
+run_name: persistent-moose-903
+run_uuid: 23dedd8375ba4377befb56d3d026a0f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670621489761
+status: 1
+tags: []
+user_id: unknown

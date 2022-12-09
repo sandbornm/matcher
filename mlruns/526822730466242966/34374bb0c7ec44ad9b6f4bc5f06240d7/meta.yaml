@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/34374bb0c7ec44ad9b6f4bc5f06240d7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 34374bb0c7ec44ad9b6f4bc5f06240d7
+run_name: sedate-dove-955
+run_uuid: 34374bb0c7ec44ad9b6f4bc5f06240d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670618795848
+status: 1
+tags: []
+user_id: unknown

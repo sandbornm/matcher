@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/26d72b8cf99c4e5eb0a4a30a06bc1d8f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 26d72b8cf99c4e5eb0a4a30a06bc1d8f
+run_name: casual-rook-21
+run_uuid: 26d72b8cf99c4e5eb0a4a30a06bc1d8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670619032172
+status: 1
+tags: []
+user_id: unknown

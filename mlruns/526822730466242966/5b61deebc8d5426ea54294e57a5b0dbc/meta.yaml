@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5b61deebc8d5426ea54294e57a5b0dbc/artifacts
+deleted_time: 1670620357189
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5b61deebc8d5426ea54294e57a5b0dbc
 run_name: zealous-moth-731
 run_uuid: 5b61deebc8d5426ea54294e57a5b0dbc

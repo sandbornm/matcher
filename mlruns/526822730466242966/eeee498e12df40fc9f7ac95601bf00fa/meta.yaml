@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/eeee498e12df40fc9f7ac95601bf00fa/artifacts
+deleted_time: 1670621445491
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: eeee498e12df40fc9f7ac95601bf00fa
+run_name: trusting-wolf-996
+run_uuid: eeee498e12df40fc9f7ac95601bf00fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620360541
+status: 1
+tags: []
+user_id: unknown

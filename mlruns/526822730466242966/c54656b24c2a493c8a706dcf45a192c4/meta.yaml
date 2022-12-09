@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c54656b24c2a493c8a706dcf45a192c4/artifacts
+deleted_time: 1670620357169
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: c54656b24c2a493c8a706dcf45a192c4
+run_name: sneaky-goat-0
+run_uuid: c54656b24c2a493c8a706dcf45a192c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670618532078
+status: 1
+tags: []
+user_id: unknown

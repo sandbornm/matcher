@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b551fad1ad2a495a8eac063f993dfe6d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b551fad1ad2a495a8eac063f993dfe6d
+run_name: flawless-mink-977
+run_uuid: b551fad1ad2a495a8eac063f993dfe6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670619846464
+status: 1
+tags: []
+user_id: unknown

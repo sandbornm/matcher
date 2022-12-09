@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cb3311b486ee4212a1d277b6e36ac23a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: cb3311b486ee4212a1d277b6e36ac23a
+run_name: bouncy-fish-534
+run_uuid: cb3311b486ee4212a1d277b6e36ac23a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620361187
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2a2ca268d1fb4626b963ca30597f557e/artifacts
+deleted_time: 1670621445445
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 2a2ca268d1fb4626b963ca30597f557e
+run_name: caring-lamb-751
+run_uuid: 2a2ca268d1fb4626b963ca30597f557e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620859866
+status: 1
+tags: []
+user_id: unknown

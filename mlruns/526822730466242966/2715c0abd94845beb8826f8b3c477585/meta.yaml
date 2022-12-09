@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2715c0abd94845beb8826f8b3c477585/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2715c0abd94845beb8826f8b3c477585
+run_name: upbeat-fish-276
+run_uuid: 2715c0abd94845beb8826f8b3c477585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670618815180
+status: 1
+tags: []
+user_id: unknown

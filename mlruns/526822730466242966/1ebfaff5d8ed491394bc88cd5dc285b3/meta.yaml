@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1ebfaff5d8ed491394bc88cd5dc285b3/artifacts
+deleted_time: 1670620357153
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 1ebfaff5d8ed491394bc88cd5dc285b3
+run_name: upbeat-gnat-701
+run_uuid: 1ebfaff5d8ed491394bc88cd5dc285b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670618814846
+status: 1
+tags: []
+user_id: unknown

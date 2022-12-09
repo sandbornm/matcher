@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c604d29787f342dabf1e18bec5ac76dd/artifacts
+deleted_time: 1670621445511
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: c604d29787f342dabf1e18bec5ac76dd
+run_name: traveling-boar-500
+run_uuid: c604d29787f342dabf1e18bec5ac76dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620360227
+status: 1
+tags: []
+user_id: unknown

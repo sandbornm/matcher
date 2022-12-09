@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/117a6f6cb927450bb76e4593d7f781ff/artifacts
+deleted_time: 1670621445412
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 117a6f6cb927450bb76e4593d7f781ff
+run_name: adventurous-owl-836
+run_uuid: 117a6f6cb927450bb76e4593d7f781ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670621065385
+status: 1
+tags: []
+user_id: unknown

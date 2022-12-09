@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ac14c8439f894fcb927850dccbdbb60e/artifacts
+deleted_time: 1670620357111
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: ac14c8439f894fcb927850dccbdbb60e
+run_name: fearless-goat-25
+run_uuid: ac14c8439f894fcb927850dccbdbb60e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670619888225
+status: 1
+tags: []
+user_id: unknown

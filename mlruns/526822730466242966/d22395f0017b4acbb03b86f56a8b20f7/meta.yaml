@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d22395f0017b4acbb03b86f56a8b20f7/artifacts
+deleted_time: 1670620357085
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: d22395f0017b4acbb03b86f56a8b20f7
+run_name: kindly-dog-297
+run_uuid: d22395f0017b4acbb03b86f56a8b20f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620096026
+status: 1
+tags: []
+user_id: unknown

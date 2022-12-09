@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b7df2c5260a845879e4f1ed8dcb355c9/artifacts
+deleted_time: 1670620357065
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: b7df2c5260a845879e4f1ed8dcb355c9
+run_name: upset-slug-520
+run_uuid: b7df2c5260a845879e4f1ed8dcb355c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620181753
+status: 1
+tags: []
+user_id: unknown

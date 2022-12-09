@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e9411338a13142c198a7fd621aab3a3f/artifacts
+deleted_time: 1670621445495
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: e9411338a13142c198a7fd621aab3a3f
+run_name: charming-crane-538
+run_uuid: e9411338a13142c198a7fd621aab3a3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620360523
+status: 1
+tags: []
+user_id: unknown

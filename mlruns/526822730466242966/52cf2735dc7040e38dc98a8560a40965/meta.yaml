@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/52cf2735dc7040e38dc98a8560a40965/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 52cf2735dc7040e38dc98a8560a40965
+run_name: serious-shrimp-92
+run_uuid: 52cf2735dc7040e38dc98a8560a40965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670618333135
+status: 1
+tags: []
+user_id: unknown

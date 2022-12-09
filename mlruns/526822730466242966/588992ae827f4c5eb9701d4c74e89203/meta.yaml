@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/588992ae827f4c5eb9701d4c74e89203/artifacts
+deleted_time: 1670621445504
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 588992ae827f4c5eb9701d4c74e89203
+run_name: indecisive-jay-342
+run_uuid: 588992ae827f4c5eb9701d4c74e89203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620360254
+status: 1
+tags: []
+user_id: unknown

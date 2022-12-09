@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f42666bbd7b8496ab0b32eb4896ef4f0/artifacts
+deleted_time: 1670620357133
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: f42666bbd7b8496ab0b32eb4896ef4f0
+run_name: suave-squid-499
+run_uuid: f42666bbd7b8496ab0b32eb4896ef4f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670619541780
+status: 1
+tags: []
+user_id: unknown

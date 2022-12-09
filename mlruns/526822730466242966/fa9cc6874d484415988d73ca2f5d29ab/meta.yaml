@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fa9cc6874d484415988d73ca2f5d29ab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fa9cc6874d484415988d73ca2f5d29ab
+run_name: bedecked-lamb-774
+run_uuid: fa9cc6874d484415988d73ca2f5d29ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670618532716
+status: 1
+tags: []
+user_id: unknown

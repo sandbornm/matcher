@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f2c448c6a83e468da3da8ced282abf14/artifacts
+deleted_time: 1670620357209
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f2c448c6a83e468da3da8ced282abf14
 run_name: dapper-hog-868
 run_uuid: f2c448c6a83e468da3da8ced282abf14

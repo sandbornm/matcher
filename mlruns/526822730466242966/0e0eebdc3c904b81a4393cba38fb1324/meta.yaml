@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0e0eebdc3c904b81a4393cba38fb1324/artifacts
+deleted_time: 1670621445396
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 0e0eebdc3c904b81a4393cba38fb1324
+run_name: judicious-shoat-561
+run_uuid: 0e0eebdc3c904b81a4393cba38fb1324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670621338508
+status: 1
+tags: []
+user_id: unknown

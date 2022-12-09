@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fcab81f5894c4fa48e62b05268d874e3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fcab81f5894c4fa48e62b05268d874e3
+run_name: melodic-koi-569
+run_uuid: fcab81f5894c4fa48e62b05268d874e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670618764331
+status: 1
+tags: []
+user_id: unknown

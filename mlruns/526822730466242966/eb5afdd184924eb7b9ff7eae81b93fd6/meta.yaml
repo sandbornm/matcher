@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/eb5afdd184924eb7b9ff7eae81b93fd6/artifacts
+deleted_time: 1670620357058
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: eb5afdd184924eb7b9ff7eae81b93fd6
+run_name: powerful-toad-479
+run_uuid: eb5afdd184924eb7b9ff7eae81b93fd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620268651
+status: 1
+tags: []
+user_id: unknown

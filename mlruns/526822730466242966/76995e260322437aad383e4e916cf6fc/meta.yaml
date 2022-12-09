@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/76995e260322437aad383e4e916cf6fc/artifacts
+deleted_time: 1670621445531
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 76995e260322437aad383e4e916cf6fc
+run_name: valuable-wasp-788
+run_uuid: 76995e260322437aad383e4e916cf6fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620360217
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9db55263d8d24a5db25cec348f71ff0f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9db55263d8d24a5db25cec348f71ff0f
+run_name: youthful-moth-132
+run_uuid: 9db55263d8d24a5db25cec348f71ff0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670619291528
+status: 1
+tags: []
+user_id: unknown

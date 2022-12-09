@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/443f04f7a2fe40489516cd1e9b138ca3/artifacts
+deleted_time: 1670621445432
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 443f04f7a2fe40489516cd1e9b138ca3
+run_name: carefree-koi-494
+run_uuid: 443f04f7a2fe40489516cd1e9b138ca3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620942803
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5c0b48c0c702444886a5172370c2246d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5c0b48c0c702444886a5172370c2246d
+run_name: colorful-grouse-839
+run_uuid: 5c0b48c0c702444886a5172370c2246d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670622064990
+status: 1
+tags: []
+user_id: unknown

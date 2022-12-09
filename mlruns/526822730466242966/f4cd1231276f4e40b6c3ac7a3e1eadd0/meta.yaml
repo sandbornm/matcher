@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f4cd1231276f4e40b6c3ac7a3e1eadd0/artifacts
+deleted_time: 1670620357186
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: f4cd1231276f4e40b6c3ac7a3e1eadd0
+run_name: abundant-swan-238
+run_uuid: f4cd1231276f4e40b6c3ac7a3e1eadd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670618285208
+status: 1
+tags: []
+user_id: unknown

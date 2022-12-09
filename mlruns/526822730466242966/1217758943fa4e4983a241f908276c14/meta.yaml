@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1217758943fa4e4983a241f908276c14/artifacts
+deleted_time: 1670621445524
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 1217758943fa4e4983a241f908276c14
+run_name: glamorous-bat-858
+run_uuid: 1217758943fa4e4983a241f908276c14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620360221
+status: 1
+tags: []
+user_id: unknown

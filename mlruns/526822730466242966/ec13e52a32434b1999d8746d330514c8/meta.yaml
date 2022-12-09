@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ec13e52a32434b1999d8746d330514c8/artifacts
+deleted_time: 1670621445439
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: ec13e52a32434b1999d8746d330514c8
+run_name: sassy-pig-445
+run_uuid: ec13e52a32434b1999d8746d330514c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620860143
+status: 1
+tags: []
+user_id: unknown

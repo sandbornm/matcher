@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3e8294dca2394164ad7ed30e12b6293b/artifacts
+deleted_time: 1670620357088
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 3e8294dca2394164ad7ed30e12b6293b
+run_name: bedecked-cow-181
+run_uuid: 3e8294dca2394164ad7ed30e12b6293b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620095685
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ab9c9f3f73f24e4d92692c09798d8dae/artifacts
+deleted_time: 1670620357140
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: ab9c9f3f73f24e4d92692c09798d8dae
+run_name: debonair-shrimp-775
+run_uuid: ab9c9f3f73f24e4d92692c09798d8dae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670619290818
+status: 1
+tags: []
+user_id: unknown

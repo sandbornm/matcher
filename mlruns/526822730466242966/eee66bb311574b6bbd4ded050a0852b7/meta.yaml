@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/eee66bb311574b6bbd4ded050a0852b7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: eee66bb311574b6bbd4ded050a0852b7
+run_name: casual-newt-427
+run_uuid: eee66bb311574b6bbd4ded050a0852b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670622064991
+status: 1
+tags: []
+user_id: unknown

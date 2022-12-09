@@ -100,12 +100,18 @@ def estimate_normal_dist(x: List[float], confidence: float) -> MultivariateNorma
     desired_std = data_std + (data_std * scaling_factor)
     derived_data = (x - data_mean) / data_std * desired_std + data_mean
     derived_data_cov = np.cov(derived_data, rowvar=False)
+    
+    regularization_term = 1e-3
+    if derived_data_cov.shape[0] >= derived_data.shape[0]:
+        derived_data_cov += np.eye(derived_data_cov.shape[0]) * regularization_term
+        
     return MultivariateNormalDistribution(data_mean, derived_data_cov)
 
 def probability_of_multivariant_point(mu: np.ndarray, cov: np.ndarray, x: np.ndarray) -> float:
 
     #https://stats.stackexchange.com/questions/331283/how-to-calculate-the-probability-of-a-data-point-belonging-to-a-multivariate-nor
     # Double check this math
+    
     m_dist_x = np.dot((x-mu).transpose(),np.linalg.inv(cov))
     m_dist_x = np.dot(m_dist_x, (x-mu))
     return 1-stats.chi2.cdf(m_dist_x, 3)
@@ -197,11 +203,14 @@ def run_experiment(experiment_id: int, part_type: str, part_dim: int, num_sample
     client.log_param(run_id, "part_pdf_ci", part_pdf_ci)
     client.log_param(run_id, "confidence_bound", confidence_bound)
 
-    con_parts = load_part_data(part_type)
-    print(con_parts)
-    upper_collision_rate = run_meta_markov_multivariant_analysis(client, run_id, con_parts, part_dim, num_samples, meta_pdf_ci, part_pdf_ci, confidence_bound)
-    client.log_metric(run_id, "monte_carlo_upper_collision_rate", upper_collision_rate)
-    print(f"Upper collision rate: {upper_collision_rate * 100}%")
+    try:
+        con_parts = load_part_data(part_type)
+        upper_collision_rate = run_meta_markov_multivariant_analysis(client, run_id, con_parts, part_dim, num_samples, meta_pdf_ci, part_pdf_ci, confidence_bound)
+        client.log_metric(run_id, "monte_carlo_upper_collision_rate", upper_collision_rate)
+        print(f"Upper collision rate: {upper_collision_rate * 100}%")
+    except Exception as e:
+        print(f"Error: {e} - Params: {part_type}, {part_dim}, {num_samples}, {meta_pdf_ci}, {part_pdf_ci}, {confidence_bound}")
+        client.set_terminated(run_id, str(e))
 
 def main():
     """ This script can be run as such:

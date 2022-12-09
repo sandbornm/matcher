@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/75be0046ee5b4afa94b1ef2ad011e286/artifacts
+deleted_time: 1670621445567
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 75be0046ee5b4afa94b1ef2ad011e286
+run_name: capricious-mouse-124
+run_uuid: 75be0046ee5b4afa94b1ef2ad011e286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620360110
+status: 1
+tags: []
+user_id: unknown

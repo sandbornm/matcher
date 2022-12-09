@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8898f0cd901d40e78a38604b2db277a6/artifacts
+deleted_time: 1670620357206
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8898f0cd901d40e78a38604b2db277a6
 run_name: overjoyed-sow-488
 run_uuid: 8898f0cd901d40e78a38604b2db277a6

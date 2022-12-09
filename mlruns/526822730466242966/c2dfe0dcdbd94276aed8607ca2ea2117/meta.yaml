@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c2dfe0dcdbd94276aed8607ca2ea2117/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: c2dfe0dcdbd94276aed8607ca2ea2117
+run_name: skillful-trout-951
+run_uuid: c2dfe0dcdbd94276aed8607ca2ea2117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670622064990
+status: 1
+tags: []
+user_id: unknown

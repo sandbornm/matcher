@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fcdc9cc486cd4af7aeb48dc36117f955/artifacts
+deleted_time: 1670621445521
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: fcdc9cc486cd4af7aeb48dc36117f955
+run_name: crawling-bird-554
+run_uuid: fcdc9cc486cd4af7aeb48dc36117f955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620360223
+status: 1
+tags: []
+user_id: unknown

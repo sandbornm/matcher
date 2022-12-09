@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1e7d756d30374c049308273eecca9f0d/artifacts
+deleted_time: 1670621445458
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 1e7d756d30374c049308273eecca9f0d
+run_name: crawling-steed-139
+run_uuid: 1e7d756d30374c049308273eecca9f0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620819590
+status: 1
+tags: []
+user_id: unknown

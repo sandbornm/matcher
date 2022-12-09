@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/41a797ecb53b4c408085f38ae9da90a7/artifacts
+deleted_time: 1670621445468
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 41a797ecb53b4c408085f38ae9da90a7
+run_name: valuable-shrimp-611
+run_uuid: 41a797ecb53b4c408085f38ae9da90a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620361013
+status: 1
+tags: []
+user_id: unknown

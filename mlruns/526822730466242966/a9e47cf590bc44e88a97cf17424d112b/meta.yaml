@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a9e47cf590bc44e88a97cf17424d112b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a9e47cf590bc44e88a97cf17424d112b
+run_name: beautiful-turtle-697
+run_uuid: a9e47cf590bc44e88a97cf17424d112b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670618338718
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7cf00050e3074a5599988cb5e92294a4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7cf00050e3074a5599988cb5e92294a4
+run_name: defiant-wren-270
+run_uuid: 7cf00050e3074a5599988cb5e92294a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670621903013
+status: 1
+tags: []
+user_id: unknown

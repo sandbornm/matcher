@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e8c7632f8da74d349cd4a9fac236f7a1/artifacts
+deleted_time: 1670620357068
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: e8c7632f8da74d349cd4a9fac236f7a1
+run_name: languid-bear-248
+run_uuid: e8c7632f8da74d349cd4a9fac236f7a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620181408
+status: 1
+tags: []
+user_id: unknown

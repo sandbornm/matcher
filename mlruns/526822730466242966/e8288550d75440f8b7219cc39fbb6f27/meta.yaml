@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e8288550d75440f8b7219cc39fbb6f27/artifacts
+deleted_time: 1670620357045
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: e8288550d75440f8b7219cc39fbb6f27
+run_name: skillful-stoat-575
+run_uuid: e8288550d75440f8b7219cc39fbb6f27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620318154
+status: 1
+tags: []
+user_id: unknown

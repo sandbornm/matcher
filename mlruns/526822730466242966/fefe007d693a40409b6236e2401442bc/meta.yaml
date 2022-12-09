@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fefe007d693a40409b6236e2401442bc/artifacts
+deleted_time: 1670620357199
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: fefe007d693a40409b6236e2401442bc
 run_name: worried-donkey-242
 run_uuid: fefe007d693a40409b6236e2401442bc

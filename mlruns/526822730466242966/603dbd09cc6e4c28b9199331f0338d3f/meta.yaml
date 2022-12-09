@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/603dbd09cc6e4c28b9199331f0338d3f/artifacts
+deleted_time: 1670621486921
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 603dbd09cc6e4c28b9199331f0338d3f
+run_name: gregarious-skunk-344
+run_uuid: 603dbd09cc6e4c28b9199331f0338d3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670621448415
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/308262240f5c4cb2a9d9429491372d37/artifacts
+deleted_time: 1670620357098
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 308262240f5c4cb2a9d9429491372d37
+run_name: silent-roo-847
+run_uuid: 308262240f5c4cb2a9d9429491372d37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670619937680
+status: 1
+tags: []
+user_id: unknown

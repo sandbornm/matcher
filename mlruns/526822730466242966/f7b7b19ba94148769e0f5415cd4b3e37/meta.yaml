@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f7b7b19ba94148769e0f5415cd4b3e37/artifacts
+deleted_time: 1670621445591
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: f7b7b19ba94148769e0f5415cd4b3e37
+run_name: shivering-hawk-214
+run_uuid: f7b7b19ba94148769e0f5415cd4b3e37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620360110
+status: 1
+tags: []
+user_id: unknown

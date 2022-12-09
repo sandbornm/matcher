@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/dcf1251a7bb446748d978a41313531da/artifacts
+deleted_time: 1670620357143
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: dcf1251a7bb446748d978a41313531da
+run_name: amusing-gnat-143
+run_uuid: dcf1251a7bb446748d978a41313531da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670619038430
+status: 1
+tags: []
+user_id: unknown

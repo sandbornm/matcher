@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2a35b91fe76c4849a275400d93d27602/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2a35b91fe76c4849a275400d93d27602
+run_name: loud-zebra-206
+run_uuid: 2a35b91fe76c4849a275400d93d27602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670618285631
+status: 1
+tags: []
+user_id: unknown

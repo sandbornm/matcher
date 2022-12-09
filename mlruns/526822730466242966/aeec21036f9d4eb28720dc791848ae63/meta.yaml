@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/aeec21036f9d4eb28720dc791848ae63/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: aeec21036f9d4eb28720dc791848ae63
+run_name: inquisitive-moth-651
+run_uuid: aeec21036f9d4eb28720dc791848ae63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670618439919
+status: 1
+tags: []
+user_id: unknown

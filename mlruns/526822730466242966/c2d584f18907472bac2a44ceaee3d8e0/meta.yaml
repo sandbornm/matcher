@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c2d584f18907472bac2a44ceaee3d8e0/artifacts
+deleted_time: 1670620357107
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: c2d584f18907472bac2a44ceaee3d8e0
+run_name: spiffy-ram-955
+run_uuid: c2d584f18907472bac2a44ceaee3d8e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670619888530
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a89af42fdb53484da1e839f9767688ee/artifacts
+deleted_time: 1670620357173
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: a89af42fdb53484da1e839f9767688ee
+run_name: zealous-sow-195
+run_uuid: a89af42fdb53484da1e839f9767688ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670618530074
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/764501eb42d7426ebff703674a48db6b/artifacts
+deleted_time: 1670621445571
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 764501eb42d7426ebff703674a48db6b
+run_name: delicate-mule-636
+run_uuid: 764501eb42d7426ebff703674a48db6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620360110
+status: 1
+tags: []
+user_id: unknown

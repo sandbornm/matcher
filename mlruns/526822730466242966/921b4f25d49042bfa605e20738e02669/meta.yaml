@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/921b4f25d49042bfa605e20738e02669/artifacts
+deleted_time: 1670620357091
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 921b4f25d49042bfa605e20738e02669
+run_name: beautiful-newt-820
+run_uuid: 921b4f25d49042bfa605e20738e02669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620014014
+status: 1
+tags: []
+user_id: unknown

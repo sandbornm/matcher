@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b313539713e34504b7cb99ed10d2d94a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b313539713e34504b7cb99ed10d2d94a
+run_name: handsome-carp-474
+run_uuid: b313539713e34504b7cb99ed10d2d94a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670619416907
+status: 1
+tags: []
+user_id: unknown

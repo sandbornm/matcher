@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/91fb202df2654116897bcf0531b4cca9/artifacts
+deleted_time: 1670621445449
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 91fb202df2654116897bcf0531b4cca9
+run_name: sneaky-foal-232
+run_uuid: 91fb202df2654116897bcf0531b4cca9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620853234
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/298016bd3da549afb680d225cbc913ae/artifacts
+deleted_time: 1670621445455
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 298016bd3da549afb680d225cbc913ae
+run_name: grandiose-donkey-675
+run_uuid: 298016bd3da549afb680d225cbc913ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620819883
+status: 1
+tags: []
+user_id: unknown

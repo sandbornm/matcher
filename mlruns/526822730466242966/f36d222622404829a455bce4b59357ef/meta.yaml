@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f36d222622404829a455bce4b59357ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f36d222622404829a455bce4b59357ef
+run_name: merciful-goose-711
+run_uuid: f36d222622404829a455bce4b59357ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670618740874
+status: 1
+tags: []
+user_id: unknown

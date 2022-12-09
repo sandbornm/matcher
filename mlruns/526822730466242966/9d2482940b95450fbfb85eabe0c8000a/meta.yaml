@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9d2482940b95450fbfb85eabe0c8000a/artifacts
+deleted_time: 1670621445508
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 9d2482940b95450fbfb85eabe0c8000a
+run_name: gifted-seal-741
+run_uuid: 9d2482940b95450fbfb85eabe0c8000a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620360233
+status: 1
+tags: []
+user_id: unknown

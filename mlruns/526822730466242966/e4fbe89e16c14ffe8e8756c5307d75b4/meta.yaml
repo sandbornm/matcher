@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e4fbe89e16c14ffe8e8756c5307d75b4/artifacts
+deleted_time: 1670620357183
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: e4fbe89e16c14ffe8e8756c5307d75b4
+run_name: adventurous-wasp-190
+run_uuid: e4fbe89e16c14ffe8e8756c5307d75b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670618332797
+status: 1
+tags: []
+user_id: unknown

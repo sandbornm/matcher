@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2d417fe9823c4409b122ff4f6d9d354e/artifacts
+deleted_time: 1670621445501
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 2d417fe9823c4409b122ff4f6d9d354e
+run_name: whimsical-bug-728
+run_uuid: 2d417fe9823c4409b122ff4f6d9d354e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670620360265
+status: 1
+tags: []
+user_id: unknown
