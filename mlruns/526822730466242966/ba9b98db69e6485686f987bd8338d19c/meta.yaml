@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ba9b98db69e6485686f987bd8338d19c/artifacts
+deleted_time: 1670614154750
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: ba9b98db69e6485686f987bd8338d19c
+run_name: valuable-shoat-848
+run_uuid: ba9b98db69e6485686f987bd8338d19c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077406
+status: 1
+tags: []
+user_id: unknown

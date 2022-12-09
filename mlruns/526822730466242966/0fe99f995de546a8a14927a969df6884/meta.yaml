@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0fe99f995de546a8a14927a969df6884/artifacts
+deleted_time: 1670614154932
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 0fe99f995de546a8a14927a969df6884
+run_name: debonair-lynx-315
+run_uuid: 0fe99f995de546a8a14927a969df6884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076445
+status: 1
+tags: []
+user_id: unknown

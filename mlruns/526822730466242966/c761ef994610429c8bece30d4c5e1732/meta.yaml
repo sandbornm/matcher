@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c761ef994610429c8bece30d4c5e1732/artifacts
+deleted_time: 1670617521666
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: c761ef994610429c8bece30d4c5e1732
+run_name: upset-moth-687
+run_uuid: c761ef994610429c8bece30d4c5e1732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160316
+status: 1
+tags: []
+user_id: unknown

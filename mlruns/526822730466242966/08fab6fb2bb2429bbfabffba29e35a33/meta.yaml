@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/08fab6fb2bb2429bbfabffba29e35a33/artifacts
+deleted_time: 1670614072843
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 08fab6fb2bb2429bbfabffba29e35a33
 run_name: nervous-foal-918
 run_uuid: 08fab6fb2bb2429bbfabffba29e35a33

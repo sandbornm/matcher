@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fc6847f821d240fd9c20eacefec1548f/artifacts
+deleted_time: 1670617473918
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: fc6847f821d240fd9c20eacefec1548f
+run_name: omniscient-ram-838
+run_uuid: fc6847f821d240fd9c20eacefec1548f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614163772
+status: 1
+tags: []
+user_id: unknown

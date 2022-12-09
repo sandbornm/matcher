@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/79e7a0ed10c44a52bd6667b2a539e601/artifacts
+deleted_time: 1670614072537
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 79e7a0ed10c44a52bd6667b2a539e601
 run_name: honorable-lark-537
 run_uuid: 79e7a0ed10c44a52bd6667b2a539e601

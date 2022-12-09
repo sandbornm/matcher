@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7cda2d1144be48e088050e83de4db010/artifacts
+deleted_time: 1670614073111
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7cda2d1144be48e088050e83de4db010
 run_name: smiling-fish-580
 run_uuid: 7cda2d1144be48e088050e83de4db010

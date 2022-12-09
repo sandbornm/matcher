@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2f0cc76aff29449a914cd9f9a146e545/artifacts
+deleted_time: 1670614072629
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2f0cc76aff29449a914cd9f9a146e545
 run_name: bold-gnat-277
 run_uuid: 2f0cc76aff29449a914cd9f9a146e545

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/57f1135910c6451a9125b9612b7bfabd/artifacts
+deleted_time: 1670614072874
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 57f1135910c6451a9125b9612b7bfabd
 run_name: abrasive-rook-872
 run_uuid: 57f1135910c6451a9125b9612b7bfabd

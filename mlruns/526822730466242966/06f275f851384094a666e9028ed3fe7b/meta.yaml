@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/06f275f851384094a666e9028ed3fe7b/artifacts
+deleted_time: 1670617521732
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 06f275f851384094a666e9028ed3fe7b
+run_name: calm-wasp-942
+run_uuid: 06f275f851384094a666e9028ed3fe7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160019
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/dd8c05741fa1449c864ea2e17075c30e/artifacts
+deleted_time: 1670617522254
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: dd8c05741fa1449c864ea2e17075c30e
+run_name: intrigued-panda-777
+run_uuid: dd8c05741fa1449c864ea2e17075c30e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614157760
+status: 1
+tags: []
+user_id: unknown

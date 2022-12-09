@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7c56dff04e5a48398bb83a18882b7593/artifacts
+deleted_time: 1670614072552
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7c56dff04e5a48398bb83a18882b7593
 run_name: rebellious-lamb-409
 run_uuid: 7c56dff04e5a48398bb83a18882b7593

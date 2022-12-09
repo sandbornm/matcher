@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f3ce534a54554661b628c9e10720063d/artifacts
+deleted_time: 1670614155016
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: f3ce534a54554661b628c9e10720063d
+run_name: chill-rook-580
+run_uuid: f3ce534a54554661b628c9e10720063d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076162
+status: 1
+tags: []
+user_id: unknown

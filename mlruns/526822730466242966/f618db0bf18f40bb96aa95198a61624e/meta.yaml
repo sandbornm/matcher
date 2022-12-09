@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f618db0bf18f40bb96aa95198a61624e/artifacts
+deleted_time: 1670614073191
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f618db0bf18f40bb96aa95198a61624e
 run_name: vaunted-vole-530
 run_uuid: f618db0bf18f40bb96aa95198a61624e

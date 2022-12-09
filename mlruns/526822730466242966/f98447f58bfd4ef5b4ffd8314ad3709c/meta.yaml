@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f98447f58bfd4ef5b4ffd8314ad3709c/artifacts
+deleted_time: 1670614073023
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f98447f58bfd4ef5b4ffd8314ad3709c
 run_name: popular-donkey-387
 run_uuid: f98447f58bfd4ef5b4ffd8314ad3709c

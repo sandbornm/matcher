@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8364019b188644138798628e48673ef7/artifacts
+deleted_time: 1670617521704
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 8364019b188644138798628e48673ef7
+run_name: selective-cat-177
+run_uuid: 8364019b188644138798628e48673ef7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160167
+status: 1
+tags: []
+user_id: unknown

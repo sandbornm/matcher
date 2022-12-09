@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a9277570f60943f987594e758e6f7d8c/artifacts
+deleted_time: 1670614072659
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a9277570f60943f987594e758e6f7d8c
 run_name: efficient-eel-484
 run_uuid: a9277570f60943f987594e758e6f7d8c

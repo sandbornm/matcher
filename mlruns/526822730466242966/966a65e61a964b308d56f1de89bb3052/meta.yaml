@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/966a65e61a964b308d56f1de89bb3052/artifacts
+deleted_time: 1670617473816
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 966a65e61a964b308d56f1de89bb3052
+run_name: flawless-goat-339
+run_uuid: 966a65e61a964b308d56f1de89bb3052
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670617186993
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/075856f2097343d5b15fb07660956528/artifacts
+deleted_time: 1670617473965
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 075856f2097343d5b15fb07660956528
+run_name: wistful-bee-423
+run_uuid: 075856f2097343d5b15fb07660956528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614163331
+status: 1
+tags: []
+user_id: unknown

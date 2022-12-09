@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1da6f81ab89e4ac6bc36b78eaa72d362/artifacts
+deleted_time: 1670614072840
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1da6f81ab89e4ac6bc36b78eaa72d362
 run_name: vaunted-owl-339
 run_uuid: 1da6f81ab89e4ac6bc36b78eaa72d362

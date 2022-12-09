@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e754d86404be478393ad5772728c2e26/artifacts
+deleted_time: 1670614154755
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: e754d86404be478393ad5772728c2e26
+run_name: awesome-cub-413
+run_uuid: e754d86404be478393ad5772728c2e26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077370
+status: 1
+tags: []
+user_id: unknown

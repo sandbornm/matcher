@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/59d792a0627e4928979cea4f69fc59ac/artifacts
+deleted_time: 1670614073295
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 59d792a0627e4928979cea4f69fc59ac
 run_name: fun-bee-979
 run_uuid: 59d792a0627e4928979cea4f69fc59ac

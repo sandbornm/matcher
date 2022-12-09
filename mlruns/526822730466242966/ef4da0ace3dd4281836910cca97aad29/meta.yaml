@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ef4da0ace3dd4281836910cca97aad29/artifacts
+deleted_time: 1670617521754
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: ef4da0ace3dd4281836910cca97aad29
+run_name: stately-fish-821
+run_uuid: ef4da0ace3dd4281836910cca97aad29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159938
+status: 1
+tags: []
+user_id: unknown

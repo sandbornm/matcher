@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/de9ba186f7014a0e912245ea5e0f18cb/artifacts
+deleted_time: 1670614072910
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: de9ba186f7014a0e912245ea5e0f18cb
 run_name: magnificent-carp-466
 run_uuid: de9ba186f7014a0e912245ea5e0f18cb

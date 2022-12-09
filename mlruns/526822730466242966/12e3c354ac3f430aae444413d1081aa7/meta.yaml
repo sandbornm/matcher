@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/12e3c354ac3f430aae444413d1081aa7/artifacts
+deleted_time: 1670614072690
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 12e3c354ac3f430aae444413d1081aa7
 run_name: bold-wren-579
 run_uuid: 12e3c354ac3f430aae444413d1081aa7

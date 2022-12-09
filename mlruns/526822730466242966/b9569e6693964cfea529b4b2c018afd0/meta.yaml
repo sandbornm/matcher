@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b9569e6693964cfea529b4b2c018afd0/artifacts
+deleted_time: 1670617473892
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: b9569e6693964cfea529b4b2c018afd0
+run_name: illustrious-boar-870
+run_uuid: b9569e6693964cfea529b4b2c018afd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670615245909
+status: 1
+tags: []
+user_id: unknown

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f5c9dc95eb5c41349d4633284573abc8/artifacts
+deleted_time: 1670614073326
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f5c9dc95eb5c41349d4633284573abc8
 run_name: indecisive-bee-891
 run_uuid: f5c9dc95eb5c41349d4633284573abc8

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a9b04468c2f94835a223a5422d8c62c5/artifacts
+deleted_time: 1670617521679
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: a9b04468c2f94835a223a5422d8c62c5
+run_name: gaudy-hen-0
+run_uuid: a9b04468c2f94835a223a5422d8c62c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160224
+status: 1
+tags: []
+user_id: unknown

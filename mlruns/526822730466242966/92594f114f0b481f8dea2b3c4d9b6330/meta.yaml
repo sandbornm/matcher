@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/92594f114f0b481f8dea2b3c4d9b6330/artifacts
+deleted_time: 1670614072532
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 92594f114f0b481f8dea2b3c4d9b6330
 run_name: treasured-grouse-903
 run_uuid: 92594f114f0b481f8dea2b3c4d9b6330

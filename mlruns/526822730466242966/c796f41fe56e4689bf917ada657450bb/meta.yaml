@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c796f41fe56e4689bf917ada657450bb/artifacts
+deleted_time: 1670614154717
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: c796f41fe56e4689bf917ada657450bb
+run_name: victorious-rook-30
+run_uuid: c796f41fe56e4689bf917ada657450bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077557
+status: 1
+tags: []
+user_id: unknown

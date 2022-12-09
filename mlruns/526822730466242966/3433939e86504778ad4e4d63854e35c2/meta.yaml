@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3433939e86504778ad4e4d63854e35c2/artifacts
+deleted_time: 1670614072871
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3433939e86504778ad4e4d63854e35c2
 run_name: bustling-steed-817
 run_uuid: 3433939e86504778ad4e4d63854e35c2

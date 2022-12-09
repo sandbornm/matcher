@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/57355753c4cf4b9386de2cb914a9f3c8/artifacts
+deleted_time: 1670617473826
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 57355753c4cf4b9386de2cb914a9f3c8
+run_name: bright-ray-958
+run_uuid: 57355753c4cf4b9386de2cb914a9f3c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670617078374
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/842574af1a184df0a5a8291eb51c9a94/artifacts
+deleted_time: 1670617474245
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 842574af1a184df0a5a8291eb51c9a94
+run_name: resilient-croc-520
+run_uuid: 842574af1a184df0a5a8291eb51c9a94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162005
+status: 1
+tags: []
+user_id: unknown

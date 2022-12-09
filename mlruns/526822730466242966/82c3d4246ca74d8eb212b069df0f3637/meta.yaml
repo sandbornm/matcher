@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/82c3d4246ca74d8eb212b069df0f3637/artifacts
+deleted_time: 1670617474057
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 82c3d4246ca74d8eb212b069df0f3637
+run_name: defiant-swan-126
+run_uuid: 82c3d4246ca74d8eb212b069df0f3637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162932
+status: 1
+tags: []
+user_id: unknown

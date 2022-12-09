@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a749aca5c9054854acef85f3f179ad2c/artifacts
+deleted_time: 1670614073220
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a749aca5c9054854acef85f3f179ad2c
 run_name: orderly-crane-718
 run_uuid: a749aca5c9054854acef85f3f179ad2c

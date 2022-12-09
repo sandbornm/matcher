@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ef0775da18c549519962b1a19a8dde7a/artifacts
+deleted_time: 1670614073548
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ef0775da18c549519962b1a19a8dde7a
 run_name: charming-kite-786
 run_uuid: ef0775da18c549519962b1a19a8dde7a

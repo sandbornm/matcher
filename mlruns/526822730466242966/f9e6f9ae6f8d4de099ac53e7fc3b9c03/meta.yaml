@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f9e6f9ae6f8d4de099ac53e7fc3b9c03/artifacts
+deleted_time: 1670614073233
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f9e6f9ae6f8d4de099ac53e7fc3b9c03
 run_name: bedecked-goat-407
 run_uuid: f9e6f9ae6f8d4de099ac53e7fc3b9c03

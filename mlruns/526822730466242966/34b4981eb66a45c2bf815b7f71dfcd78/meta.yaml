@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/34b4981eb66a45c2bf815b7f71dfcd78/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 34b4981eb66a45c2bf815b7f71dfcd78
+run_name: delicate-flea-216
+run_uuid: 34b4981eb66a45c2bf815b7f71dfcd78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670616283635
+status: 1
+tags: []
+user_id: unknown

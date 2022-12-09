@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c70e0e9b9b194a27ba1240a8ea700c2f/artifacts
+deleted_time: 1670617473924
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: c70e0e9b9b194a27ba1240a8ea700c2f
+run_name: fearless-mole-792
+run_uuid: c70e0e9b9b194a27ba1240a8ea700c2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614163663
+status: 1
+tags: []
+user_id: unknown

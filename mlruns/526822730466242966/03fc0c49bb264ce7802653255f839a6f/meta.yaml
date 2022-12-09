@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/03fc0c49bb264ce7802653255f839a6f/artifacts
+deleted_time: 1670617521845
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 03fc0c49bb264ce7802653255f839a6f
+run_name: suave-stoat-400
+run_uuid: 03fc0c49bb264ce7802653255f839a6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159498
+status: 1
+tags: []
+user_id: unknown

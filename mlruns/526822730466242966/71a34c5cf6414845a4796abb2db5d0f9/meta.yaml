@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/71a34c5cf6414845a4796abb2db5d0f9/artifacts
+deleted_time: 1670614073002
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 71a34c5cf6414845a4796abb2db5d0f9
 run_name: clumsy-penguin-552
 run_uuid: 71a34c5cf6414845a4796abb2db5d0f9

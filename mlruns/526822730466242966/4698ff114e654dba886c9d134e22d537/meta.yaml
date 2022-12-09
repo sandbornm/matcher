@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4698ff114e654dba886c9d134e22d537/artifacts
+deleted_time: 1670614072723
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4698ff114e654dba886c9d134e22d537
 run_name: gentle-slug-626
 run_uuid: 4698ff114e654dba886c9d134e22d537

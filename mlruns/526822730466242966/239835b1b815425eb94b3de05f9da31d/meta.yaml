@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/239835b1b815425eb94b3de05f9da31d/artifacts
+deleted_time: 1670614072828
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 239835b1b815425eb94b3de05f9da31d
 run_name: nervous-ape-956
 run_uuid: 239835b1b815425eb94b3de05f9da31d

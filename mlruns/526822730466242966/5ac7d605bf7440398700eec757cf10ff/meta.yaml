@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5ac7d605bf7440398700eec757cf10ff/artifacts
+deleted_time: 1670614072876
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5ac7d605bf7440398700eec757cf10ff
 run_name: kindly-calf-222
 run_uuid: 5ac7d605bf7440398700eec757cf10ff

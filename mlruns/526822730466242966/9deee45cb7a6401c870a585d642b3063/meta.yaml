@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9deee45cb7a6401c870a585d642b3063/artifacts
+deleted_time: 1670617521914
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 9deee45cb7a6401c870a585d642b3063
+run_name: crawling-quail-706
+run_uuid: 9deee45cb7a6401c870a585d642b3063
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159150
+status: 1
+tags: []
+user_id: unknown

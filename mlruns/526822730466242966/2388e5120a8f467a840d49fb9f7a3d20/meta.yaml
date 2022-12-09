@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2388e5120a8f467a840d49fb9f7a3d20/artifacts
+deleted_time: 1670617474108
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 2388e5120a8f467a840d49fb9f7a3d20
+run_name: thoughtful-steed-417
+run_uuid: 2388e5120a8f467a840d49fb9f7a3d20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162678
+status: 1
+tags: []
+user_id: unknown

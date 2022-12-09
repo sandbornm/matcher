@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/580343dafc184cad9b1e27f8b0b5ab6c/artifacts
+deleted_time: 1670614073251
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 580343dafc184cad9b1e27f8b0b5ab6c
 run_name: peaceful-whale-615
 run_uuid: 580343dafc184cad9b1e27f8b0b5ab6c

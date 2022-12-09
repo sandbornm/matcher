@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0fc3918678704917947c4ad96ad12d6e/artifacts
+deleted_time: 1670614154905
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 0fc3918678704917947c4ad96ad12d6e
+run_name: mercurial-panda-15
+run_uuid: 0fc3918678704917947c4ad96ad12d6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076613
+status: 1
+tags: []
+user_id: unknown

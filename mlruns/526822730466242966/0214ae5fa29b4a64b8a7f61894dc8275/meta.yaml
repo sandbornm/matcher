@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0214ae5fa29b4a64b8a7f61894dc8275/artifacts
+deleted_time: 1670617522244
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 0214ae5fa29b4a64b8a7f61894dc8275
+run_name: ambitious-hare-703
+run_uuid: 0214ae5fa29b4a64b8a7f61894dc8275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614157765
+status: 1
+tags: []
+user_id: unknown

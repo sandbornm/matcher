@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0c397087e53b461c88283e4c8049bea1/artifacts
+deleted_time: 1670614154813
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 0c397087e53b461c88283e4c8049bea1
+run_name: handsome-flea-280
+run_uuid: 0c397087e53b461c88283e4c8049bea1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077070
+status: 1
+tags: []
+user_id: unknown

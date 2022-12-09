@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cdb6ec81bcfb4bfe9013ff5cdd774c48/artifacts
+deleted_time: 1670614154733
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: cdb6ec81bcfb4bfe9013ff5cdd774c48
+run_name: blushing-hawk-247
+run_uuid: cdb6ec81bcfb4bfe9013ff5cdd774c48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077509
+status: 1
+tags: []
+user_id: unknown

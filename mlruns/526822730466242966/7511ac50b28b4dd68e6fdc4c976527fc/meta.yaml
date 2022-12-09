@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7511ac50b28b4dd68e6fdc4c976527fc/artifacts
+deleted_time: 1670614073163
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7511ac50b28b4dd68e6fdc4c976527fc
 run_name: bustling-moose-491
 run_uuid: 7511ac50b28b4dd68e6fdc4c976527fc

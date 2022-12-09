@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c7946f44eeb5460a95ca03eb8d1cec80/artifacts
+deleted_time: 1670614072570
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c7946f44eeb5460a95ca03eb8d1cec80
 run_name: sassy-slug-464
 run_uuid: c7946f44eeb5460a95ca03eb8d1cec80

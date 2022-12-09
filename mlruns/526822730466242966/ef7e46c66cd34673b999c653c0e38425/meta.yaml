@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ef7e46c66cd34673b999c653c0e38425/artifacts
+deleted_time: 1670617522200
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: ef7e46c66cd34673b999c653c0e38425
+run_name: unique-deer-643
+run_uuid: ef7e46c66cd34673b999c653c0e38425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614157960
+status: 1
+tags: []
+user_id: unknown

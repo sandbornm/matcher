@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f6ff17a384074733a34bc7dbe4c1c509/artifacts
+deleted_time: 1670614072810
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f6ff17a384074733a34bc7dbe4c1c509
 run_name: defiant-loon-997
 run_uuid: f6ff17a384074733a34bc7dbe4c1c509

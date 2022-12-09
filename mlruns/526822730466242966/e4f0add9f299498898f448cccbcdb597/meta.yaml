@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e4f0add9f299498898f448cccbcdb597/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e4f0add9f299498898f448cccbcdb597
+run_name: worried-panda-983
+run_uuid: e4f0add9f299498898f448cccbcdb597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614164012
+status: 1
+tags: []
+user_id: unknown

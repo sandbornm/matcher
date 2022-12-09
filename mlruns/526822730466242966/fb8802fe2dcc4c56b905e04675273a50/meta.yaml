@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fb8802fe2dcc4c56b905e04675273a50/artifacts
+deleted_time: 1670614072562
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: fb8802fe2dcc4c56b905e04675273a50
 run_name: rogue-seal-469
 run_uuid: fb8802fe2dcc4c56b905e04675273a50

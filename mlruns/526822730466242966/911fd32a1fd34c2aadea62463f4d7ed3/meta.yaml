@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/911fd32a1fd34c2aadea62463f4d7ed3/artifacts
+deleted_time: 1670614073424
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 911fd32a1fd34c2aadea62463f4d7ed3
 run_name: smiling-sloth-770
 run_uuid: 911fd32a1fd34c2aadea62463f4d7ed3

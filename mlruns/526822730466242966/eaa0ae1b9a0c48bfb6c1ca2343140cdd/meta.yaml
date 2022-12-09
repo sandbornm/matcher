@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/eaa0ae1b9a0c48bfb6c1ca2343140cdd/artifacts
+deleted_time: 1670614154777
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: eaa0ae1b9a0c48bfb6c1ca2343140cdd
+run_name: enchanting-hound-803
+run_uuid: eaa0ae1b9a0c48bfb6c1ca2343140cdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077268
+status: 1
+tags: []
+user_id: unknown

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b7e5384b3ff54a4d8f109b10a3904fcb/artifacts
+deleted_time: 1670614073434
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b7e5384b3ff54a4d8f109b10a3904fcb
 run_name: clean-lynx-9
 run_uuid: b7e5384b3ff54a4d8f109b10a3904fcb

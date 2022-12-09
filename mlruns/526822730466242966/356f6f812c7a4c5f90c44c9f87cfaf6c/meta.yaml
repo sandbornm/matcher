@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/356f6f812c7a4c5f90c44c9f87cfaf6c/artifacts
+deleted_time: 1670614154938
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 356f6f812c7a4c5f90c44c9f87cfaf6c
+run_name: receptive-cod-123
+run_uuid: 356f6f812c7a4c5f90c44c9f87cfaf6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076424
+status: 1
+tags: []
+user_id: unknown

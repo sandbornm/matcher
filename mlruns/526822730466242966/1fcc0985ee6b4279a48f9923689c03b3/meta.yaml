@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1fcc0985ee6b4279a48f9923689c03b3/artifacts
+deleted_time: 1670614072805
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1fcc0985ee6b4279a48f9923689c03b3
 run_name: indecisive-koi-744
 run_uuid: 1fcc0985ee6b4279a48f9923689c03b3

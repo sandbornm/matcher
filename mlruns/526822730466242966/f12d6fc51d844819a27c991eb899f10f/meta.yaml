@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f12d6fc51d844819a27c991eb899f10f/artifacts
+deleted_time: 1670614073406
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f12d6fc51d844819a27c991eb899f10f
 run_name: rumbling-conch-690
 run_uuid: f12d6fc51d844819a27c991eb899f10f

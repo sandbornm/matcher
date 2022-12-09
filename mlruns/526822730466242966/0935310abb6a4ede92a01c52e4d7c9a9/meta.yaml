@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0935310abb6a4ede92a01c52e4d7c9a9/artifacts
+deleted_time: 1670614072858
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0935310abb6a4ede92a01c52e4d7c9a9
 run_name: nosy-dog-520
 run_uuid: 0935310abb6a4ede92a01c52e4d7c9a9

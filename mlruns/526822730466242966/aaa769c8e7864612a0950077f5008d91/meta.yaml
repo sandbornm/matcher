@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/aaa769c8e7864612a0950077f5008d91/artifacts
+deleted_time: 1670614073370
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: aaa769c8e7864612a0950077f5008d91
 run_name: abundant-croc-592
 run_uuid: aaa769c8e7864612a0950077f5008d91

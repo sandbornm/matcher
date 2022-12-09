@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/624f553948464a7eb2fd4d42e2ce8356/artifacts
+deleted_time: 1670614154775
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 624f553948464a7eb2fd4d42e2ce8356
+run_name: resilient-swan-235
+run_uuid: 624f553948464a7eb2fd4d42e2ce8356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077268
+status: 1
+tags: []
+user_id: unknown

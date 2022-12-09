@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1398dfbec4f24f50bd4b8dd7a63b4575/artifacts
+deleted_time: 1670614073150
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1398dfbec4f24f50bd4b8dd7a63b4575
 run_name: luxuriant-sloth-80
 run_uuid: 1398dfbec4f24f50bd4b8dd7a63b4575

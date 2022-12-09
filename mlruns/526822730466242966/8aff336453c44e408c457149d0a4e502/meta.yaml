@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8aff336453c44e408c457149d0a4e502/artifacts
+deleted_time: 1670614072938
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8aff336453c44e408c457149d0a4e502
 run_name: colorful-robin-196
 run_uuid: 8aff336453c44e408c457149d0a4e502

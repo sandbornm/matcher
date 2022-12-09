@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d8be89aed5164a5b8e35241ca6ba37c7/artifacts
+deleted_time: 1670614073543
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d8be89aed5164a5b8e35241ca6ba37c7
 run_name: debonair-goat-737
 run_uuid: d8be89aed5164a5b8e35241ca6ba37c7

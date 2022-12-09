@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3bacf37130474355b7ebf06acb6daf49/artifacts
+deleted_time: 1670617473987
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 3bacf37130474355b7ebf06acb6daf49
+run_name: serious-midge-218
+run_uuid: 3bacf37130474355b7ebf06acb6daf49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614163258
+status: 1
+tags: []
+user_id: unknown

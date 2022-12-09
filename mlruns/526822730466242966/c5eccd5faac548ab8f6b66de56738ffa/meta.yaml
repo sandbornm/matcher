@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c5eccd5faac548ab8f6b66de56738ffa/artifacts
+deleted_time: 1670617473968
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: c5eccd5faac548ab8f6b66de56738ffa
+run_name: stylish-ox-702
+run_uuid: c5eccd5faac548ab8f6b66de56738ffa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614163326
+status: 1
+tags: []
+user_id: unknown

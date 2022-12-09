@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/adbff7cc203f4a64b6e6ce8377384aec/artifacts
+deleted_time: 1670617521497
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: adbff7cc203f4a64b6e6ce8377384aec
+run_name: rogue-trout-637
+run_uuid: adbff7cc203f4a64b6e6ce8377384aec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161077
+status: 1
+tags: []
+user_id: unknown

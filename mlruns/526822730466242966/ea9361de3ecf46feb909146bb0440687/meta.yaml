@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ea9361de3ecf46feb909146bb0440687/artifacts
+deleted_time: 1670614154978
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: ea9361de3ecf46feb909146bb0440687
+run_name: exultant-lynx-747
+run_uuid: ea9361de3ecf46feb909146bb0440687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076172
+status: 1
+tags: []
+user_id: unknown

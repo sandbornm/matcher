@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/70f95160227e478aaabcc96627d6cee3/artifacts
+deleted_time: 1670617521738
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 70f95160227e478aaabcc96627d6cee3
+run_name: nebulous-mule-331
+run_uuid: 70f95160227e478aaabcc96627d6cee3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159962
+status: 1
+tags: []
+user_id: unknown

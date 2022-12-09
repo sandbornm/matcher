@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/db2a2ef566bf47aeaea3d15e4a589c97/artifacts
+deleted_time: 1670617521522
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: db2a2ef566bf47aeaea3d15e4a589c97
+run_name: funny-fish-313
+run_uuid: db2a2ef566bf47aeaea3d15e4a589c97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160993
+status: 1
+tags: []
+user_id: unknown

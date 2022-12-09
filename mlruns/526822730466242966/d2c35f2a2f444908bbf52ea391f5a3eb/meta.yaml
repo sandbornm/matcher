@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d2c35f2a2f444908bbf52ea391f5a3eb/artifacts
+deleted_time: 1670614073489
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d2c35f2a2f444908bbf52ea391f5a3eb
 run_name: gregarious-wasp-112
 run_uuid: d2c35f2a2f444908bbf52ea391f5a3eb

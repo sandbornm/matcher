@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ed656c7dadcb49c5a284612ef6672a42/artifacts
+deleted_time: 1670614073313
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ed656c7dadcb49c5a284612ef6672a42
 run_name: thundering-zebra-623
 run_uuid: ed656c7dadcb49c5a284612ef6672a42

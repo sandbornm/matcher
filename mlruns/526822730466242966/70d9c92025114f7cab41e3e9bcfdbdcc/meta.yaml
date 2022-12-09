@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/70d9c92025114f7cab41e3e9bcfdbdcc/artifacts
+deleted_time: 1670614072557
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 70d9c92025114f7cab41e3e9bcfdbdcc
 run_name: handsome-sloth-850
 run_uuid: 70d9c92025114f7cab41e3e9bcfdbdcc

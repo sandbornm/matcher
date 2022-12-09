@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ee51f14d12004dee911c236df3a1da70/artifacts
+deleted_time: 1670617521503
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: ee51f14d12004dee911c236df3a1da70
+run_name: mercurial-yak-904
+run_uuid: ee51f14d12004dee911c236df3a1da70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161057
+status: 1
+tags: []
+user_id: unknown

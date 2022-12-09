@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c8e4457f81ff44a69b9d210ada0c8cd4/artifacts
+deleted_time: 1670617474428
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: c8e4457f81ff44a69b9d210ada0c8cd4
+run_name: serious-zebra-784
+run_uuid: c8e4457f81ff44a69b9d210ada0c8cd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161219
+status: 1
+tags: []
+user_id: unknown

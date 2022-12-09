@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7c078ecdbf504196bb8ede1d5a34376f/artifacts
+deleted_time: 1670614073483
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7c078ecdbf504196bb8ede1d5a34376f
 run_name: thoughtful-owl-722
 run_uuid: 7c078ecdbf504196bb8ede1d5a34376f

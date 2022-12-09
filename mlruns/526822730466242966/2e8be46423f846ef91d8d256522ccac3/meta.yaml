@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2e8be46423f846ef91d8d256522ccac3/artifacts
+deleted_time: 1670617521510
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 2e8be46423f846ef91d8d256522ccac3
+run_name: gifted-kite-0
+run_uuid: 2e8be46423f846ef91d8d256522ccac3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161054
+status: 1
+tags: []
+user_id: unknown

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/511d7e1b0bf94fbe92da2ac4deb9d03d/artifacts
+deleted_time: 1670614073153
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 511d7e1b0bf94fbe92da2ac4deb9d03d
 run_name: learned-ox-42
 run_uuid: 511d7e1b0bf94fbe92da2ac4deb9d03d

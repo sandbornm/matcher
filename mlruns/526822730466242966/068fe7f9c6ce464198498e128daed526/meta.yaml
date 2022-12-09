@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/068fe7f9c6ce464198498e128daed526/artifacts
+deleted_time: 1670614154843
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 068fe7f9c6ce464198498e128daed526
+run_name: suave-ray-77
+run_uuid: 068fe7f9c6ce464198498e128daed526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076940
+status: 1
+tags: []
+user_id: unknown

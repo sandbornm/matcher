@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4c7abe91f3064028a66ea2da0cdaaf75/artifacts
+deleted_time: 1670617474079
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 4c7abe91f3064028a66ea2da0cdaaf75
+run_name: capricious-moth-115
+run_uuid: 4c7abe91f3064028a66ea2da0cdaaf75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162845
+status: 1
+tags: []
+user_id: unknown

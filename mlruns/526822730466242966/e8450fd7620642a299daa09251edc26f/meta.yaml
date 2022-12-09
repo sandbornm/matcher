@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e8450fd7620642a299daa09251edc26f/artifacts
+deleted_time: 1670617521857
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: e8450fd7620642a299daa09251edc26f
+run_name: thundering-dove-51
+run_uuid: e8450fd7620642a299daa09251edc26f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159461
+status: 1
+tags: []
+user_id: unknown

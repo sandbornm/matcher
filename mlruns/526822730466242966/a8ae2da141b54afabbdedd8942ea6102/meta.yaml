@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a8ae2da141b54afabbdedd8942ea6102/artifacts
+deleted_time: 1670614072590
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a8ae2da141b54afabbdedd8942ea6102
 run_name: unruly-dove-466
 run_uuid: a8ae2da141b54afabbdedd8942ea6102

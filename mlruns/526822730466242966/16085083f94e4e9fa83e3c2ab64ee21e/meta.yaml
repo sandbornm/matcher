@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/16085083f94e4e9fa83e3c2ab64ee21e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 16085083f94e4e9fa83e3c2ab64ee21e
+run_name: youthful-wolf-536
+run_uuid: 16085083f94e4e9fa83e3c2ab64ee21e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670616225695
+status: 1
+tags: []
+user_id: unknown

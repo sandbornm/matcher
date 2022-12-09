@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/66c6701eb03d4ceda18892b588cba55c/artifacts
+deleted_time: 1670614154927
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 66c6701eb03d4ceda18892b588cba55c
+run_name: bemused-slug-138
+run_uuid: 66c6701eb03d4ceda18892b588cba55c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076547
+status: 1
+tags: []
+user_id: unknown

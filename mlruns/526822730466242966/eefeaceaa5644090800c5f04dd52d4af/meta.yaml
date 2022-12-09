@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/eefeaceaa5644090800c5f04dd52d4af/artifacts
+deleted_time: 1670617474346
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: eefeaceaa5644090800c5f04dd52d4af
+run_name: burly-owl-349
+run_uuid: eefeaceaa5644090800c5f04dd52d4af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161567
+status: 1
+tags: []
+user_id: unknown

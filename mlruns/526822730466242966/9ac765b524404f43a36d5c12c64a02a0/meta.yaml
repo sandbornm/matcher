@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9ac765b524404f43a36d5c12c64a02a0/artifacts
+deleted_time: 1670617474409
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 9ac765b524404f43a36d5c12c64a02a0
+run_name: intrigued-calf-146
+run_uuid: 9ac765b524404f43a36d5c12c64a02a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161313
+status: 1
+tags: []
+user_id: unknown

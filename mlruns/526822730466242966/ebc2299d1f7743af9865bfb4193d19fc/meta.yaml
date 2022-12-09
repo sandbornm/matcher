@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ebc2299d1f7743af9865bfb4193d19fc/artifacts
+deleted_time: 1670617522077
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: ebc2299d1f7743af9865bfb4193d19fc
+run_name: skittish-colt-299
+run_uuid: ebc2299d1f7743af9865bfb4193d19fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614158421
+status: 1
+tags: []
+user_id: unknown

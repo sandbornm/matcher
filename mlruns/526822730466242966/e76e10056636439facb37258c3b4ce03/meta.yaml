@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e76e10056636439facb37258c3b4ce03/artifacts
+deleted_time: 1670614072766
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e76e10056636439facb37258c3b4ce03
 run_name: flawless-moth-870
 run_uuid: e76e10056636439facb37258c3b4ce03

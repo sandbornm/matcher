@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/beb133a73469484792c6761502c0e377/artifacts
+deleted_time: 1670617522045
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: beb133a73469484792c6761502c0e377
+run_name: useful-midge-947
+run_uuid: beb133a73469484792c6761502c0e377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614158559
+status: 1
+tags: []
+user_id: unknown

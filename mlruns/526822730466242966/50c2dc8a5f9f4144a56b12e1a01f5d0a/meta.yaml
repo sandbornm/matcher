@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/50c2dc8a5f9f4144a56b12e1a01f5d0a/artifacts
+deleted_time: 1670617474035
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 50c2dc8a5f9f4144a56b12e1a01f5d0a
+run_name: angry-duck-585
+run_uuid: 50c2dc8a5f9f4144a56b12e1a01f5d0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614163030
+status: 1
+tags: []
+user_id: unknown

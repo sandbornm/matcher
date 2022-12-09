@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e62b08d290a3405eab6ee935a38db2e8/artifacts
+deleted_time: 1670614072731
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e62b08d290a3405eab6ee935a38db2e8
 run_name: puzzled-stork-416
 run_uuid: e62b08d290a3405eab6ee935a38db2e8

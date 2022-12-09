@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4618a03e6974492cbda6862094215aae/artifacts
+deleted_time: 1670617473994
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 4618a03e6974492cbda6862094215aae
+run_name: polite-asp-548
+run_uuid: 4618a03e6974492cbda6862094215aae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614163229
+status: 1
+tags: []
+user_id: unknown

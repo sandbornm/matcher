@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9106537239cf43349b1578fb4303ff7b/artifacts
+deleted_time: 1670614154859
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 9106537239cf43349b1578fb4303ff7b
+run_name: gaudy-panda-284
+run_uuid: 9106537239cf43349b1578fb4303ff7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076856
+status: 1
+tags: []
+user_id: unknown

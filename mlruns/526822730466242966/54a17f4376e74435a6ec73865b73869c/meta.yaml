@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/54a17f4376e74435a6ec73865b73869c/artifacts
+deleted_time: 1670614073331
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 54a17f4376e74435a6ec73865b73869c
 run_name: serious-gnat-76
 run_uuid: 54a17f4376e74435a6ec73865b73869c

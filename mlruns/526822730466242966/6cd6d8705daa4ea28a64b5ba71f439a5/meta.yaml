@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6cd6d8705daa4ea28a64b5ba71f439a5/artifacts
+deleted_time: 1670614154857
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 6cd6d8705daa4ea28a64b5ba71f439a5
+run_name: calm-cub-27
+run_uuid: 6cd6d8705daa4ea28a64b5ba71f439a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076894
+status: 1
+tags: []
+user_id: unknown

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ed9ec03fbe694335bf217031e8940df6/artifacts
+deleted_time: 1670614073541
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ed9ec03fbe694335bf217031e8940df6
 run_name: languid-dolphin-366
 run_uuid: ed9ec03fbe694335bf217031e8940df6

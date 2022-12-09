@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a24e84d7cf82485ea0168107e6274f73/artifacts
+deleted_time: 1670617521823
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: a24e84d7cf82485ea0168107e6274f73
+run_name: merciful-grub-990
+run_uuid: a24e84d7cf82485ea0168107e6274f73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159605
+status: 1
+tags: []
+user_id: unknown

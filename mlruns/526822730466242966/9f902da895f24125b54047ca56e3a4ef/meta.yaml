@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9f902da895f24125b54047ca56e3a4ef/artifacts
+deleted_time: 1670617521660
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 9f902da895f24125b54047ca56e3a4ef
+run_name: wistful-asp-221
+run_uuid: 9f902da895f24125b54047ca56e3a4ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160335
+status: 1
+tags: []
+user_id: unknown

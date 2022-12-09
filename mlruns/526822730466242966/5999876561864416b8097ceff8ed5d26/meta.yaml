@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5999876561864416b8097ceff8ed5d26/artifacts
+deleted_time: 1670617474425
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 5999876561864416b8097ceff8ed5d26
+run_name: nosy-fish-306
+run_uuid: 5999876561864416b8097ceff8ed5d26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161221
+status: 1
+tags: []
+user_id: unknown

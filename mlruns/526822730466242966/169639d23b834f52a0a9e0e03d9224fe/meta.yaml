@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/169639d23b834f52a0a9e0e03d9224fe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 169639d23b834f52a0a9e0e03d9224fe
+run_name: brawny-dolphin-427
+run_uuid: 169639d23b834f52a0a9e0e03d9224fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614728852
+status: 1
+tags: []
+user_id: unknown

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5eea6f91b82743c2bacee87e6a9d6028/artifacts
+deleted_time: 1670614072705
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5eea6f91b82743c2bacee87e6a9d6028
 run_name: unruly-horse-260
 run_uuid: 5eea6f91b82743c2bacee87e6a9d6028

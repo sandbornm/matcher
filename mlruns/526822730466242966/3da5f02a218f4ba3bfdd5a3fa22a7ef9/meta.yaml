@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3da5f02a218f4ba3bfdd5a3fa22a7ef9/artifacts
+deleted_time: 1670617474298
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 3da5f02a218f4ba3bfdd5a3fa22a7ef9
+run_name: merciful-hawk-110
+run_uuid: 3da5f02a218f4ba3bfdd5a3fa22a7ef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161791
+status: 1
+tags: []
+user_id: unknown

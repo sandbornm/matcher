@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f0be1155efc84388aa7c1feb7efc9cee/artifacts
+deleted_time: 1670617473943
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: f0be1155efc84388aa7c1feb7efc9cee
+run_name: blushing-crane-582
+run_uuid: f0be1155efc84388aa7c1feb7efc9cee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614163480
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9d712149dd29444fba7b69a23ac68b34/artifacts
+deleted_time: 1670617521544
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 9d712149dd29444fba7b69a23ac68b34
+run_name: thundering-fowl-908
+run_uuid: 9d712149dd29444fba7b69a23ac68b34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160904
+status: 1
+tags: []
+user_id: unknown

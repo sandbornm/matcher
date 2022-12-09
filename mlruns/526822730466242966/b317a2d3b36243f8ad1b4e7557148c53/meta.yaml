@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b317a2d3b36243f8ad1b4e7557148c53/artifacts
+deleted_time: 1670614072777
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b317a2d3b36243f8ad1b4e7557148c53
 run_name: resilient-donkey-299
 run_uuid: b317a2d3b36243f8ad1b4e7557148c53

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a856bb5e4494422d99c4e8f1645431e6/artifacts
+deleted_time: 1670614073171
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a856bb5e4494422d99c4e8f1645431e6
 run_name: redolent-bear-132
 run_uuid: a856bb5e4494422d99c4e8f1645431e6

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d3eee4eadf8e49dda5c3351b5fa9ab83/artifacts
+deleted_time: 1670614073507
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d3eee4eadf8e49dda5c3351b5fa9ab83
 run_name: bittersweet-grub-464
 run_uuid: d3eee4eadf8e49dda5c3351b5fa9ab83

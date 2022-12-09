@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c77d718112464efe93bc87e7af7986eb/artifacts
+deleted_time: 1670614072664
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c77d718112464efe93bc87e7af7986eb
 run_name: nimble-sloth-796
 run_uuid: c77d718112464efe93bc87e7af7986eb

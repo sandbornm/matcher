@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c3141c34816d43cd8e48bc99e76cf13f/artifacts
+deleted_time: 1670617473981
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: c3141c34816d43cd8e48bc99e76cf13f
+run_name: crawling-swan-676
+run_uuid: c3141c34816d43cd8e48bc99e76cf13f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614163285
+status: 1
+tags: []
+user_id: unknown

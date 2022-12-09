@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d02a560b14cc4b5ba6707da690ae17a7/artifacts
+deleted_time: 1670614073113
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d02a560b14cc4b5ba6707da690ae17a7
 run_name: selective-snake-54
 run_uuid: d02a560b14cc4b5ba6707da690ae17a7

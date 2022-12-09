@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/16e83ba9468a4caa863239aace3da3b2/artifacts
+deleted_time: 1670617521735
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 16e83ba9468a4caa863239aace3da3b2
+run_name: powerful-fowl-7
+run_uuid: 16e83ba9468a4caa863239aace3da3b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159974
+status: 1
+tags: []
+user_id: unknown

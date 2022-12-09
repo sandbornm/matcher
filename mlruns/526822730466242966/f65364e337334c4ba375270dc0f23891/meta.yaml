@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f65364e337334c4ba375270dc0f23891/artifacts
+deleted_time: 1670617474137
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: f65364e337334c4ba375270dc0f23891
+run_name: rare-goose-332
+run_uuid: f65364e337334c4ba375270dc0f23891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162545
+status: 1
+tags: []
+user_id: unknown

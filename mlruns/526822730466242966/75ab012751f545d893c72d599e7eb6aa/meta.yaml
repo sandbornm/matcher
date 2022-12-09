@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/75ab012751f545d893c72d599e7eb6aa/artifacts
+deleted_time: 1670617522149
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 75ab012751f545d893c72d599e7eb6aa
+run_name: awesome-moth-959
+run_uuid: 75ab012751f545d893c72d599e7eb6aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614158142
+status: 1
+tags: []
+user_id: unknown

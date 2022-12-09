@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/63c3de27bc3f4ece9124181d58b68788/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 63c3de27bc3f4ece9124181d58b68788
+run_name: resilient-midge-313
+run_uuid: 63c3de27bc3f4ece9124181d58b68788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614164435
+status: 1
+tags: []
+user_id: unknown

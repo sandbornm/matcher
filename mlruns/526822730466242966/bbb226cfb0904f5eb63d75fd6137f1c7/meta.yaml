@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bbb226cfb0904f5eb63d75fd6137f1c7/artifacts
+deleted_time: 1670614073007
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: bbb226cfb0904f5eb63d75fd6137f1c7
 run_name: orderly-loon-721
 run_uuid: bbb226cfb0904f5eb63d75fd6137f1c7

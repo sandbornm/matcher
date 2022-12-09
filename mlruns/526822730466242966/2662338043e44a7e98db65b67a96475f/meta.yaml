@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2662338043e44a7e98db65b67a96475f/artifacts
+deleted_time: 1670614072772
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2662338043e44a7e98db65b67a96475f
 run_name: wistful-sponge-243
 run_uuid: 2662338043e44a7e98db65b67a96475f

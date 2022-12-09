@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5ee5d51742754c609a1746c7de29bd22/artifacts
+deleted_time: 1670614072800
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5ee5d51742754c609a1746c7de29bd22
 run_name: overjoyed-owl-510
 run_uuid: 5ee5d51742754c609a1746c7de29bd22

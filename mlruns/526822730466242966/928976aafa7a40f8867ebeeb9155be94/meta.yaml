@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/928976aafa7a40f8867ebeeb9155be94/artifacts
+deleted_time: 1670617522112
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 928976aafa7a40f8867ebeeb9155be94
+run_name: unique-finch-52
+run_uuid: 928976aafa7a40f8867ebeeb9155be94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614158279
+status: 1
+tags: []
+user_id: unknown

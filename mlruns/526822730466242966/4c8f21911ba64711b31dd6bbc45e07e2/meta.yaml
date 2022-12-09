@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4c8f21911ba64711b31dd6bbc45e07e2/artifacts
+deleted_time: 1670614073567
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4c8f21911ba64711b31dd6bbc45e07e2
 run_name: funny-crow-882
 run_uuid: 4c8f21911ba64711b31dd6bbc45e07e2

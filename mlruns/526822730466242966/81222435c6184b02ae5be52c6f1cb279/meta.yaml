@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/81222435c6184b02ae5be52c6f1cb279/artifacts
+deleted_time: 1670617521676
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 81222435c6184b02ae5be52c6f1cb279
+run_name: aged-moth-624
+run_uuid: 81222435c6184b02ae5be52c6f1cb279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160257
+status: 1
+tags: []
+user_id: unknown

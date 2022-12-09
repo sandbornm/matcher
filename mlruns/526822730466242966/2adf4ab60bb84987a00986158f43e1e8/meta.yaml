@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2adf4ab60bb84987a00986158f43e1e8/artifacts
+deleted_time: 1670617474317
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 2adf4ab60bb84987a00986158f43e1e8
+run_name: gregarious-bee-832
+run_uuid: 2adf4ab60bb84987a00986158f43e1e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161702
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5b885e12054d488b86bce27ca17699eb/artifacts
+deleted_time: 1670617474181
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 5b885e12054d488b86bce27ca17699eb
+run_name: skittish-smelt-113
+run_uuid: 5b885e12054d488b86bce27ca17699eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162333
+status: 1
+tags: []
+user_id: unknown

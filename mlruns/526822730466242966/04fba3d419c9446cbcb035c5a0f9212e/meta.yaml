@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/04fba3d419c9446cbcb035c5a0f9212e/artifacts
+deleted_time: 1670614154808
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 04fba3d419c9446cbcb035c5a0f9212e
+run_name: luminous-mouse-667
+run_uuid: 04fba3d419c9446cbcb035c5a0f9212e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077080
+status: 1
+tags: []
+user_id: unknown

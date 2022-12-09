@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a92c572a588d46ddadddc12e319341c1/artifacts
+deleted_time: 1670614072866
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a92c572a588d46ddadddc12e319341c1
 run_name: crawling-wasp-908
 run_uuid: a92c572a588d46ddadddc12e319341c1

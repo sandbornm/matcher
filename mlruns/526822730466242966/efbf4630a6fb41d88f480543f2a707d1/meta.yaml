@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/efbf4630a6fb41d88f480543f2a707d1/artifacts
+deleted_time: 1670614073429
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: efbf4630a6fb41d88f480543f2a707d1
 run_name: industrious-crow-975
 run_uuid: efbf4630a6fb41d88f480543f2a707d1

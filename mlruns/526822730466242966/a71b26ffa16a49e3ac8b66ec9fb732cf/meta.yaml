@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a71b26ffa16a49e3ac8b66ec9fb732cf/artifacts
+deleted_time: 1670617522064
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: a71b26ffa16a49e3ac8b66ec9fb732cf
+run_name: nimble-steed-671
+run_uuid: a71b26ffa16a49e3ac8b66ec9fb732cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614158455
+status: 1
+tags: []
+user_id: unknown

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/05728f0beacb4eb098759e956c6f0090/artifacts
+deleted_time: 1670614073367
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 05728f0beacb4eb098759e956c6f0090
 run_name: polite-sloth-693
 run_uuid: 05728f0beacb4eb098759e956c6f0090

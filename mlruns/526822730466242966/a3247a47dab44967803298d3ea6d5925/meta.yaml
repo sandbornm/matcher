@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a3247a47dab44967803298d3ea6d5925/artifacts
+deleted_time: 1670614072478
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a3247a47dab44967803298d3ea6d5925
 run_name: crawling-sheep-864
 run_uuid: a3247a47dab44967803298d3ea6d5925

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d50319d23bed4a68b706cfe1ecb1a6b1/artifacts
+deleted_time: 1670617474073
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: d50319d23bed4a68b706cfe1ecb1a6b1
+run_name: mercurial-newt-449
+run_uuid: d50319d23bed4a68b706cfe1ecb1a6b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162881
+status: 1
+tags: []
+user_id: unknown

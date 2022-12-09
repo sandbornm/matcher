@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c98a032fcde54ce1a6cd99a582ff4701/artifacts
+deleted_time: 1670614073378
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c98a032fcde54ce1a6cd99a582ff4701
 run_name: valuable-sow-333
 run_uuid: c98a032fcde54ce1a6cd99a582ff4701

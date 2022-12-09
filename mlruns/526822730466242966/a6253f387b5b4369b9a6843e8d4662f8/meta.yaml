@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a6253f387b5b4369b9a6843e8d4662f8/artifacts
+deleted_time: 1670614072652
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a6253f387b5b4369b9a6843e8d4662f8
 run_name: orderly-squid-484
 run_uuid: a6253f387b5b4369b9a6843e8d4662f8

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b9cdc472445b411bb04fac4c5d638929/artifacts
+deleted_time: 1670617521973
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: b9cdc472445b411bb04fac4c5d638929
+run_name: enthused-fish-943
+run_uuid: b9cdc472445b411bb04fac4c5d638929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614158914
+status: 1
+tags: []
+user_id: unknown

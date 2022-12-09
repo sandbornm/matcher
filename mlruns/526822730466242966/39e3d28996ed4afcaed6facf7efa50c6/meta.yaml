@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/39e3d28996ed4afcaed6facf7efa50c6/artifacts
+deleted_time: 1670617473883
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 39e3d28996ed4afcaed6facf7efa50c6
+run_name: gentle-roo-603
+run_uuid: 39e3d28996ed4afcaed6facf7efa50c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670615931213
+status: 1
+tags: []
+user_id: unknown

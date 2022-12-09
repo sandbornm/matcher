@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/afa63efdd8954bf881449eb64f380890/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: afa63efdd8954bf881449eb64f380890
+run_name: beautiful-zebra-197
+run_uuid: afa63efdd8954bf881449eb64f380890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670615246001
+status: 1
+tags: []
+user_id: unknown

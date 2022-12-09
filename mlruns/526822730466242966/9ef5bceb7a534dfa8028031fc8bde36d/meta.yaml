@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9ef5bceb7a534dfa8028031fc8bde36d/artifacts
+deleted_time: 1670617521594
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 9ef5bceb7a534dfa8028031fc8bde36d
+run_name: illustrious-hawk-512
+run_uuid: 9ef5bceb7a534dfa8028031fc8bde36d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160645
+status: 1
+tags: []
+user_id: unknown

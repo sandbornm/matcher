@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/05ca2b26022e459591f5d5074d671018/artifacts
+deleted_time: 1670617521626
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 05ca2b26022e459591f5d5074d671018
+run_name: melodic-steed-876
+run_uuid: 05ca2b26022e459591f5d5074d671018
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160475
+status: 1
+tags: []
+user_id: unknown

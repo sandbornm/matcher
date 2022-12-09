@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8c2b7e6bfd9343b18b25a38690db6f10/artifacts
+deleted_time: 1670614073504
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8c2b7e6bfd9343b18b25a38690db6f10
 run_name: stylish-bee-838
 run_uuid: 8c2b7e6bfd9343b18b25a38690db6f10

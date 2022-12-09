@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/561c0c31d5f943eda75b1b6e25047005/artifacts
+deleted_time: 1670614072741
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 561c0c31d5f943eda75b1b6e25047005
 run_name: unruly-gnu-637
 run_uuid: 561c0c31d5f943eda75b1b6e25047005

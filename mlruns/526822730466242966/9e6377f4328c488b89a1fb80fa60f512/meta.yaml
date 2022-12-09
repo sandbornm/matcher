@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9e6377f4328c488b89a1fb80fa60f512/artifacts
+deleted_time: 1670614154846
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 9e6377f4328c488b89a1fb80fa60f512
+run_name: wistful-duck-559
+run_uuid: 9e6377f4328c488b89a1fb80fa60f512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076939
+status: 1
+tags: []
+user_id: unknown

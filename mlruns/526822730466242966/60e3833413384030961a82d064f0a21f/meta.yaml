@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/60e3833413384030961a82d064f0a21f/artifacts
+deleted_time: 1670617474216
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 60e3833413384030961a82d064f0a21f
+run_name: chill-worm-900
+run_uuid: 60e3833413384030961a82d064f0a21f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162170
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c735ee76d52a4e24a1fd7e61c2709186/artifacts
+deleted_time: 1670617521513
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: c735ee76d52a4e24a1fd7e61c2709186
+run_name: capricious-perch-213
+run_uuid: c735ee76d52a4e24a1fd7e61c2709186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161051
+status: 1
+tags: []
+user_id: unknown

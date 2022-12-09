@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/17e0d44a5b6444f1b5e75cc4834dea21/artifacts
+deleted_time: 1670614073025
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 17e0d44a5b6444f1b5e75cc4834dea21
 run_name: painted-duck-776
 run_uuid: 17e0d44a5b6444f1b5e75cc4834dea21

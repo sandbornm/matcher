@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6e2fdb71298f43fcac2d3900c94e20ae/artifacts
+deleted_time: 1670614072649
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6e2fdb71298f43fcac2d3900c94e20ae
 run_name: burly-ray-683
 run_uuid: 6e2fdb71298f43fcac2d3900c94e20ae

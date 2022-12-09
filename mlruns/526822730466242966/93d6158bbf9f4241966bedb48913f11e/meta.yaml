@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/93d6158bbf9f4241966bedb48913f11e/artifacts
+deleted_time: 1670617473905
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 93d6158bbf9f4241966bedb48913f11e
+run_name: enchanting-stork-612
+run_uuid: 93d6158bbf9f4241966bedb48913f11e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614793547
+status: 1
+tags: []
+user_id: unknown

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ea45df9ee81147cbae8f1789c81109ae/artifacts
+deleted_time: 1670614073230
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ea45df9ee81147cbae8f1789c81109ae
 run_name: rambunctious-deer-34
 run_uuid: ea45df9ee81147cbae8f1789c81109ae

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f81eb17f8a364c82aa73273f25c3e44a/artifacts
+deleted_time: 1670614154742
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: f81eb17f8a364c82aa73273f25c3e44a
+run_name: clean-trout-959
+run_uuid: f81eb17f8a364c82aa73273f25c3e44a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077461
+status: 1
+tags: []
+user_id: unknown

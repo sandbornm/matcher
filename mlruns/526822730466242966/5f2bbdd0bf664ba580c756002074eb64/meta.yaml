@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5f2bbdd0bf664ba580c756002074eb64/artifacts
+deleted_time: 1670617474131
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 5f2bbdd0bf664ba580c756002074eb64
+run_name: learned-hound-191
+run_uuid: 5f2bbdd0bf664ba580c756002074eb64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162583
+status: 1
+tags: []
+user_id: unknown

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7e3986280f8e4e449fcbb94760b6edfa/artifacts
+deleted_time: 1670614072527
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7e3986280f8e4e449fcbb94760b6edfa
 run_name: learned-mouse-547
 run_uuid: 7e3986280f8e4e449fcbb94760b6edfa

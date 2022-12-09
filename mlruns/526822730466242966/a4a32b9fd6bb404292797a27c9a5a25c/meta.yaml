@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a4a32b9fd6bb404292797a27c9a5a25c/artifacts
+deleted_time: 1670614072792
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a4a32b9fd6bb404292797a27c9a5a25c
 run_name: handsome-snail-407
 run_uuid: a4a32b9fd6bb404292797a27c9a5a25c

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/166b28668b144bef9d44fa964598725b/artifacts
+deleted_time: 1670614073119
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 166b28668b144bef9d44fa964598725b
 run_name: clumsy-dog-173
 run_uuid: 166b28668b144bef9d44fa964598725b

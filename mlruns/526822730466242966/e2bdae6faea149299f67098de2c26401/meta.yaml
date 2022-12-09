@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e2bdae6faea149299f67098de2c26401/artifacts
+deleted_time: 1670617521942
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: e2bdae6faea149299f67098de2c26401
+run_name: efficient-newt-62
+run_uuid: e2bdae6faea149299f67098de2c26401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159070
+status: 1
+tags: []
+user_id: unknown

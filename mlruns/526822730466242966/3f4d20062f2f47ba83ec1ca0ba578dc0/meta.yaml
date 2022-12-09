@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3f4d20062f2f47ba83ec1ca0ba578dc0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3f4d20062f2f47ba83ec1ca0ba578dc0
+run_name: nebulous-cow-281
+run_uuid: 3f4d20062f2f47ba83ec1ca0ba578dc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614163640
+status: 1
+tags: []
+user_id: unknown

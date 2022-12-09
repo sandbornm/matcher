@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ebe4b5ca4a1342aea5bed533ba2da244/artifacts
+deleted_time: 1670614073329
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ebe4b5ca4a1342aea5bed533ba2da244
 run_name: clean-moose-239
 run_uuid: ebe4b5ca4a1342aea5bed533ba2da244

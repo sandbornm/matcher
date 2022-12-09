@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d4a8b45e7be942f6ad3bd0d361790970/artifacts
+deleted_time: 1670617522039
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: d4a8b45e7be942f6ad3bd0d361790970
+run_name: secretive-fish-955
+run_uuid: d4a8b45e7be942f6ad3bd0d361790970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614158587
+status: 1
+tags: []
+user_id: unknown

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7cc1b8943f6c4d909ad1a69368542d12/artifacts
+deleted_time: 1670614072480
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7cc1b8943f6c4d909ad1a69368542d12
 run_name: amusing-vole-214
 run_uuid: 7cc1b8943f6c4d909ad1a69368542d12

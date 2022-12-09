@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0903346053be447f84089034bf8698db/artifacts
+deleted_time: 1670617521898
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 0903346053be447f84089034bf8698db
+run_name: skillful-bear-770
+run_uuid: 0903346053be447f84089034bf8698db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159230
+status: 1
+tags: []
+user_id: unknown

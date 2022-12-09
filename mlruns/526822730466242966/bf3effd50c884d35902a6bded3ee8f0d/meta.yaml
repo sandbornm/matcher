@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bf3effd50c884d35902a6bded3ee8f0d/artifacts
+deleted_time: 1670617474358
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: bf3effd50c884d35902a6bded3ee8f0d
+run_name: shivering-cod-958
+run_uuid: bf3effd50c884d35902a6bded3ee8f0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161506
+status: 1
+tags: []
+user_id: unknown

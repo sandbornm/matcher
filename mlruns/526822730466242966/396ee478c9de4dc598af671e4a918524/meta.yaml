@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/396ee478c9de4dc598af671e4a918524/artifacts
+deleted_time: 1670617521560
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 396ee478c9de4dc598af671e4a918524
+run_name: stylish-crab-128
+run_uuid: 396ee478c9de4dc598af671e4a918524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160846
+status: 1
+tags: []
+user_id: unknown

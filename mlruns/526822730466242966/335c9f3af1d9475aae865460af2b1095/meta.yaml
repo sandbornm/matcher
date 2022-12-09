@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/335c9f3af1d9475aae865460af2b1095/artifacts
+deleted_time: 1670617473975
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 335c9f3af1d9475aae865460af2b1095
+run_name: nebulous-stag-174
+run_uuid: 335c9f3af1d9475aae865460af2b1095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614163309
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a2cd3e6aa4f44cbf9a93b2a368d8511e/artifacts
+deleted_time: 1670617474403
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: a2cd3e6aa4f44cbf9a93b2a368d8511e
+run_name: abrasive-hare-273
+run_uuid: a2cd3e6aa4f44cbf9a93b2a368d8511e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161318
+status: 1
+tags: []
+user_id: unknown

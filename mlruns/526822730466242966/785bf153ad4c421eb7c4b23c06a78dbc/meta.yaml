@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/785bf153ad4c421eb7c4b23c06a78dbc/artifacts
+deleted_time: 1670614073056
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 785bf153ad4c421eb7c4b23c06a78dbc
 run_name: whimsical-kite-423
 run_uuid: 785bf153ad4c421eb7c4b23c06a78dbc

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bacfffc6b41d449b9da2790b49eab6af/artifacts
+deleted_time: 1670617474089
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: bacfffc6b41d449b9da2790b49eab6af
+run_name: dashing-dolphin-413
+run_uuid: bacfffc6b41d449b9da2790b49eab6af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162814
+status: 1
+tags: []
+user_id: unknown

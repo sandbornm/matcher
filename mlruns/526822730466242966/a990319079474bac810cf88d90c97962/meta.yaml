@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a990319079474bac810cf88d90c97962/artifacts
+deleted_time: 1670614073481
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a990319079474bac810cf88d90c97962
 run_name: sassy-hound-927
 run_uuid: a990319079474bac810cf88d90c97962

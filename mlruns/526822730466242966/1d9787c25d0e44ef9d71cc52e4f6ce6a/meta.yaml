@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1d9787c25d0e44ef9d71cc52e4f6ce6a/artifacts
+deleted_time: 1670614072692
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1d9787c25d0e44ef9d71cc52e4f6ce6a
 run_name: likeable-fly-896
 run_uuid: 1d9787c25d0e44ef9d71cc52e4f6ce6a

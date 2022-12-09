@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3c59f491c47f41db98d01ff1ab634f77/artifacts
+deleted_time: 1670617521600
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 3c59f491c47f41db98d01ff1ab634f77
+run_name: placid-robin-101
+run_uuid: 3c59f491c47f41db98d01ff1ab634f77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160613
+status: 1
+tags: []
+user_id: unknown

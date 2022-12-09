@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6832f7e1df5341478b15735b3e7feacb/artifacts
+deleted_time: 1670617474051
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 6832f7e1df5341478b15735b3e7feacb
+run_name: welcoming-mare-788
+run_uuid: 6832f7e1df5341478b15735b3e7feacb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162969
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/91a52f2ca13a441a9e1e86fbd8b3ac1d/artifacts
+deleted_time: 1670617521566
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 91a52f2ca13a441a9e1e86fbd8b3ac1d
+run_name: stately-skink-339
+run_uuid: 91a52f2ca13a441a9e1e86fbd8b3ac1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160788
+status: 1
+tags: []
+user_id: unknown

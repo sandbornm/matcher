@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/af254ea0921e4d7c8a464b1a3f028e0e/artifacts
+deleted_time: 1670614072524
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: af254ea0921e4d7c8a464b1a3f028e0e
 run_name: unequaled-sheep-856
 run_uuid: af254ea0921e4d7c8a464b1a3f028e0e

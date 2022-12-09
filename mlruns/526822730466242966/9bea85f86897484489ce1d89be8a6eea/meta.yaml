@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9bea85f86897484489ce1d89be8a6eea/artifacts
+deleted_time: 1670614072700
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9bea85f86897484489ce1d89be8a6eea
 run_name: thundering-midge-615
 run_uuid: 9bea85f86897484489ce1d89be8a6eea

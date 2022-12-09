@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a316961820eb47f69c6b964621b18fb2/artifacts
+deleted_time: 1670614072951
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a316961820eb47f69c6b964621b18fb2
 run_name: silent-vole-391
 run_uuid: a316961820eb47f69c6b964621b18fb2

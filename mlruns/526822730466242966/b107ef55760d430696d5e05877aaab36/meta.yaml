@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b107ef55760d430696d5e05877aaab36/artifacts
+deleted_time: 1670614072743
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b107ef55760d430696d5e05877aaab36
 run_name: flawless-sponge-700
 run_uuid: b107ef55760d430696d5e05877aaab36

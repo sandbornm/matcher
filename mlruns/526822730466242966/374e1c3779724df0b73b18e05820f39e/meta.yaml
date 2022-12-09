@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/374e1c3779724df0b73b18e05820f39e/artifacts
+deleted_time: 1670614072779
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 374e1c3779724df0b73b18e05820f39e
 run_name: capable-dog-199
 run_uuid: 374e1c3779724df0b73b18e05820f39e

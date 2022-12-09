@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/eb2c23dbfe57415086ca67eb978aeda9/artifacts
+deleted_time: 1670614072782
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: eb2c23dbfe57415086ca67eb978aeda9
 run_name: respected-perch-50
 run_uuid: eb2c23dbfe57415086ca67eb978aeda9

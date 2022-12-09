@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6b91896a9f72400a8805cc94f4794c94/artifacts
+deleted_time: 1670617522270
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 6b91896a9f72400a8805cc94f4794c94
+run_name: bemused-snipe-608
+run_uuid: 6b91896a9f72400a8805cc94f4794c94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614157681
+status: 1
+tags: []
+user_id: unknown

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6ba496e95b374eca9faa387710743e77/artifacts
+deleted_time: 1670614073512
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6ba496e95b374eca9faa387710743e77
 run_name: wistful-smelt-528
 run_uuid: 6ba496e95b374eca9faa387710743e77

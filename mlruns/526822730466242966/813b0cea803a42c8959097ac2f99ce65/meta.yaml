@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/813b0cea803a42c8959097ac2f99ce65/artifacts
+deleted_time: 1670617522219
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 813b0cea803a42c8959097ac2f99ce65
+run_name: smiling-slug-255
+run_uuid: 813b0cea803a42c8959097ac2f99ce65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614157829
+status: 1
+tags: []
+user_id: unknown

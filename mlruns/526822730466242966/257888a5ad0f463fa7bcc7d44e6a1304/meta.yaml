@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/257888a5ad0f463fa7bcc7d44e6a1304/artifacts
+deleted_time: 1670617474178
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 257888a5ad0f463fa7bcc7d44e6a1304
+run_name: stately-moose-408
+run_uuid: 257888a5ad0f463fa7bcc7d44e6a1304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162338
+status: 1
+tags: []
+user_id: unknown

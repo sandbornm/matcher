@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e927c3538f6c4ddb967379176e569ea8/artifacts
+deleted_time: 1670614154714
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: e927c3538f6c4ddb967379176e569ea8
+run_name: hilarious-sponge-230
+run_uuid: e927c3538f6c4ddb967379176e569ea8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077616
+status: 1
+tags: []
+user_id: unknown

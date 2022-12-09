@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/eea113c613cd49a9a4d96417e17f1f79/artifacts
+deleted_time: 1670614154973
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: eea113c613cd49a9a4d96417e17f1f79
+run_name: rumbling-flea-820
+run_uuid: eea113c613cd49a9a4d96417e17f1f79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076296
+status: 1
+tags: []
+user_id: unknown

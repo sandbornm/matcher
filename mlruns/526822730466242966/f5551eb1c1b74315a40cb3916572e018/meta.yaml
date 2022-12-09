@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f5551eb1c1b74315a40cb3916572e018/artifacts
+deleted_time: 1670614072470
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f5551eb1c1b74315a40cb3916572e018
 run_name: fun-moth-533
 run_uuid: f5551eb1c1b74315a40cb3916572e018

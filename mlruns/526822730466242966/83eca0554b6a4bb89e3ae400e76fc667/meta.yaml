@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/83eca0554b6a4bb89e3ae400e76fc667/artifacts
+deleted_time: 1670614073499
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 83eca0554b6a4bb89e3ae400e76fc667
 run_name: hilarious-toad-816
 run_uuid: 83eca0554b6a4bb89e3ae400e76fc667

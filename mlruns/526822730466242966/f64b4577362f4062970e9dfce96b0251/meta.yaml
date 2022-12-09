@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f64b4577362f4062970e9dfce96b0251/artifacts
+deleted_time: 1670617521613
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: f64b4577362f4062970e9dfce96b0251
+run_name: receptive-frog-368
+run_uuid: f64b4577362f4062970e9dfce96b0251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160568
+status: 1
+tags: []
+user_id: unknown

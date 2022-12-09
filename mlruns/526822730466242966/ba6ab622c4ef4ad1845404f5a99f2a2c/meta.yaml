@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ba6ab622c4ef4ad1845404f5a99f2a2c/artifacts
+deleted_time: 1670617522092
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: ba6ab622c4ef4ad1845404f5a99f2a2c
+run_name: dazzling-mole-82
+run_uuid: ba6ab622c4ef4ad1845404f5a99f2a2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614158402
+status: 1
+tags: []
+user_id: unknown

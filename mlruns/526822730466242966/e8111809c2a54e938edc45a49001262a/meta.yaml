@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e8111809c2a54e938edc45a49001262a/artifacts
+deleted_time: 1670617474153
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: e8111809c2a54e938edc45a49001262a
+run_name: thoughtful-yak-64
+run_uuid: e8111809c2a54e938edc45a49001262a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162479
+status: 1
+tags: []
+user_id: unknown

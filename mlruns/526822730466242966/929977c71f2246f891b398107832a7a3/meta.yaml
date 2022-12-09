@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/929977c71f2246f891b398107832a7a3/artifacts
+deleted_time: 1670614072675
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 929977c71f2246f891b398107832a7a3
 run_name: bright-slug-764
 run_uuid: 929977c71f2246f891b398107832a7a3

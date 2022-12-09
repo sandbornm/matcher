@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d324a3422aa94d6e97d6363915a32b49/artifacts
+deleted_time: 1670614072728
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d324a3422aa94d6e97d6363915a32b49
 run_name: victorious-lark-411
 run_uuid: d324a3422aa94d6e97d6363915a32b49

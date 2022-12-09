@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6d004a1a0d5c4da3ab80bf8d023954ff/artifacts
+deleted_time: 1670614072606
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6d004a1a0d5c4da3ab80bf8d023954ff
 run_name: vaunted-hen-569
 run_uuid: 6d004a1a0d5c4da3ab80bf8d023954ff

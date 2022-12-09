@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/318e49a8d2d14da09f7dad8eabd92aae/artifacts
+deleted_time: 1670617522011
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 318e49a8d2d14da09f7dad8eabd92aae
+run_name: skittish-bat-482
+run_uuid: 318e49a8d2d14da09f7dad8eabd92aae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614158750
+status: 1
+tags: []
+user_id: unknown

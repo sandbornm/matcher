@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/85b8259a49cc4abc8e3887c3608b7598/artifacts
+deleted_time: 1670614155005
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 85b8259a49cc4abc8e3887c3608b7598
+run_name: useful-newt-526
+run_uuid: 85b8259a49cc4abc8e3887c3608b7598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076163
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fa67bb8ca9144ce9b32aa85a396291b9/artifacts
+deleted_time: 1670614154873
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: fa67bb8ca9144ce9b32aa85a396291b9
+run_name: rumbling-slug-902
+run_uuid: fa67bb8ca9144ce9b32aa85a396291b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076806
+status: 1
+tags: []
+user_id: unknown

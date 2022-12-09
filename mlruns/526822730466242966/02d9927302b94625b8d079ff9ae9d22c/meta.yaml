@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/02d9927302b94625b8d079ff9ae9d22c/artifacts
+deleted_time: 1670614072677
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 02d9927302b94625b8d079ff9ae9d22c
 run_name: funny-rat-836
 run_uuid: 02d9927302b94625b8d079ff9ae9d22c

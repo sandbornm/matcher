@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c4aa6a40b84b442d88cd97a7fdadccb0/artifacts
+deleted_time: 1670614073432
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c4aa6a40b84b442d88cd97a7fdadccb0
 run_name: flawless-croc-692
 run_uuid: c4aa6a40b84b442d88cd97a7fdadccb0

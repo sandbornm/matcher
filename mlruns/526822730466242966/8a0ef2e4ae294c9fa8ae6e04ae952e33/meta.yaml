@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8a0ef2e4ae294c9fa8ae6e04ae952e33/artifacts
+deleted_time: 1670614073142
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8a0ef2e4ae294c9fa8ae6e04ae952e33
 run_name: salty-hen-839
 run_uuid: 8a0ef2e4ae294c9fa8ae6e04ae952e33

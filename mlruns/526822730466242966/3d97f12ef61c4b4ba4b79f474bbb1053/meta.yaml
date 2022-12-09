@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3d97f12ef61c4b4ba4b79f474bbb1053/artifacts
+deleted_time: 1670614072974
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3d97f12ef61c4b4ba4b79f474bbb1053
 run_name: serious-cub-49
 run_uuid: 3d97f12ef61c4b4ba4b79f474bbb1053

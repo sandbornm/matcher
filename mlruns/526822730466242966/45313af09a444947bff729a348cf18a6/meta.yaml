@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/45313af09a444947bff729a348cf18a6/artifacts
+deleted_time: 1670614154895
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 45313af09a444947bff729a348cf18a6
+run_name: sneaky-carp-612
+run_uuid: 45313af09a444947bff729a348cf18a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076678
+status: 1
+tags: []
+user_id: unknown

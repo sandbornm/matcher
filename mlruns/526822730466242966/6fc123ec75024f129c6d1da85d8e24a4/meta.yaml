@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6fc123ec75024f129c6d1da85d8e24a4/artifacts
+deleted_time: 1670617474273
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 6fc123ec75024f129c6d1da85d8e24a4
+run_name: casual-fowl-659
+run_uuid: 6fc123ec75024f129c6d1da85d8e24a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161886
+status: 1
+tags: []
+user_id: unknown

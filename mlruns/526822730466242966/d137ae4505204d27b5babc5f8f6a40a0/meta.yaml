@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d137ae4505204d27b5babc5f8f6a40a0/artifacts
+deleted_time: 1670614073528
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d137ae4505204d27b5babc5f8f6a40a0
 run_name: invincible-lamb-239
 run_uuid: d137ae4505204d27b5babc5f8f6a40a0

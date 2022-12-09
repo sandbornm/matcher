@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2beb274d43c640ca8507542913ebf3f5/artifacts
+deleted_time: 1670617474330
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 2beb274d43c640ca8507542913ebf3f5
+run_name: incongruous-fly-312
+run_uuid: 2beb274d43c640ca8507542913ebf3f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161660
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e607d2cab01d45edb8a0b04fc336b425/artifacts
+deleted_time: 1670617521814
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: e607d2cab01d45edb8a0b04fc336b425
+run_name: unique-bee-898
+run_uuid: e607d2cab01d45edb8a0b04fc336b425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159678
+status: 1
+tags: []
+user_id: unknown

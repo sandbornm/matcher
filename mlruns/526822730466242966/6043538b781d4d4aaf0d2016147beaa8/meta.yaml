@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6043538b781d4d4aaf0d2016147beaa8/artifacts
+deleted_time: 1670614073396
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6043538b781d4d4aaf0d2016147beaa8
 run_name: thundering-bear-29
 run_uuid: 6043538b781d4d4aaf0d2016147beaa8

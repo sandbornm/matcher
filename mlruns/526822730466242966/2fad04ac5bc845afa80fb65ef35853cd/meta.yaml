@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2fad04ac5bc845afa80fb65ef35853cd/artifacts
+deleted_time: 1670614073533
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2fad04ac5bc845afa80fb65ef35853cd
 run_name: loud-chimp-596
 run_uuid: 2fad04ac5bc845afa80fb65ef35853cd

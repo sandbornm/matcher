@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ff122969b6ce47c488bf8bb917f2ed4e/artifacts
+deleted_time: 1670614072488
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ff122969b6ce47c488bf8bb917f2ed4e
 run_name: classy-goat-521
 run_uuid: ff122969b6ce47c488bf8bb917f2ed4e

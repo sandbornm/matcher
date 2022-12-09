@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/63a5c470828f48718d34d22ccb12974c/artifacts
+deleted_time: 1670614073087
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 63a5c470828f48718d34d22ccb12974c
 run_name: zealous-crane-370
 run_uuid: 63a5c470828f48718d34d22ccb12974c

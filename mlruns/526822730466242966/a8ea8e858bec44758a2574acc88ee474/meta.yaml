@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a8ea8e858bec44758a2574acc88ee474/artifacts
+deleted_time: 1670617521829
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: a8ea8e858bec44758a2574acc88ee474
+run_name: indecisive-sow-730
+run_uuid: a8ea8e858bec44758a2574acc88ee474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159587
+status: 1
+tags: []
+user_id: unknown

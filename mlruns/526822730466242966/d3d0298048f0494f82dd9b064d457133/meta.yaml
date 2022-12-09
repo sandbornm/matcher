@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d3d0298048f0494f82dd9b064d457133/artifacts
+deleted_time: 1670614072585
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d3d0298048f0494f82dd9b064d457133
 run_name: resilient-croc-436
 run_uuid: d3d0298048f0494f82dd9b064d457133

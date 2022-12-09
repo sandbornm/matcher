@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e83cc31bb3b4400583312a3c600ca882/artifacts
+deleted_time: 1670614072685
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e83cc31bb3b4400583312a3c600ca882
 run_name: sneaky-perch-23
 run_uuid: e83cc31bb3b4400583312a3c600ca882

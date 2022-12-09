@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9d417e401a024547be1842a733eb4327/artifacts
+deleted_time: 1670617521782
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 9d417e401a024547be1842a733eb4327
+run_name: youthful-cub-856
+run_uuid: 9d417e401a024547be1842a733eb4327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159801
+status: 1
+tags: []
+user_id: unknown

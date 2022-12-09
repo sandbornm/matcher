@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/921c9d98ea1b487a91cbde0a11f8ca73/artifacts
+deleted_time: 1670617473908
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 921c9d98ea1b487a91cbde0a11f8ca73
+run_name: tasteful-frog-468
+run_uuid: 921c9d98ea1b487a91cbde0a11f8ca73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614488612
+status: 1
+tags: []
+user_id: unknown

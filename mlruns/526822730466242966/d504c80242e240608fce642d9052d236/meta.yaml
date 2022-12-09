@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d504c80242e240608fce642d9052d236/artifacts
+deleted_time: 1670617473978
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: d504c80242e240608fce642d9052d236
+run_name: dapper-bug-995
+run_uuid: d504c80242e240608fce642d9052d236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614163297
+status: 1
+tags: []
+user_id: unknown

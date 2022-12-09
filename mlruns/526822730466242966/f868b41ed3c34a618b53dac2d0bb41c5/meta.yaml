@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f868b41ed3c34a618b53dac2d0bb41c5/artifacts
+deleted_time: 1670614072682
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f868b41ed3c34a618b53dac2d0bb41c5
 run_name: burly-lamb-308
 run_uuid: f868b41ed3c34a618b53dac2d0bb41c5

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5acbbc878eb8446daeb775f85a33a794/artifacts
+deleted_time: 1670617521923
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 5acbbc878eb8446daeb775f85a33a794
+run_name: caring-cow-570
+run_uuid: 5acbbc878eb8446daeb775f85a33a794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159122
+status: 1
+tags: []
+user_id: unknown

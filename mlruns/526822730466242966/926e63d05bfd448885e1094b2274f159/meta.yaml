@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/926e63d05bfd448885e1094b2274f159/artifacts
+deleted_time: 1670617739282
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 926e63d05bfd448885e1094b2274f159
+run_name: burly-hawk-623
+run_uuid: 926e63d05bfd448885e1094b2274f159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670617646937
+status: 1
+tags: []
+user_id: unknown

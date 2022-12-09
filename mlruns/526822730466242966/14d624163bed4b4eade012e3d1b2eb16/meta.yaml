@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/14d624163bed4b4eade012e3d1b2eb16/artifacts
+deleted_time: 1670617473860
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 14d624163bed4b4eade012e3d1b2eb16
+run_name: bustling-wolf-305
+run_uuid: 14d624163bed4b4eade012e3d1b2eb16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670616643672
+status: 1
+tags: []
+user_id: unknown

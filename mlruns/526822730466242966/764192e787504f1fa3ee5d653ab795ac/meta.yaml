@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/764192e787504f1fa3ee5d653ab795ac/artifacts
+deleted_time: 1670614073085
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 764192e787504f1fa3ee5d653ab795ac
 run_name: fortunate-fowl-912
 run_uuid: 764192e787504f1fa3ee5d653ab795ac

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/10a2df5b2f754c0ba2beb2f78ce48d9c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 10a2df5b2f754c0ba2beb2f78ce48d9c
+run_name: exultant-whale-730
+run_uuid: 10a2df5b2f754c0ba2beb2f78ce48d9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614163423
+status: 1
+tags: []
+user_id: unknown

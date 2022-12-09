@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f52e8062dc9b4f5ca7015ab72c3e415f/artifacts
+deleted_time: 1670617521795
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: f52e8062dc9b4f5ca7015ab72c3e415f
+run_name: debonair-fox-573
+run_uuid: f52e8062dc9b4f5ca7015ab72c3e415f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159743
+status: 1
+tags: []
+user_id: unknown

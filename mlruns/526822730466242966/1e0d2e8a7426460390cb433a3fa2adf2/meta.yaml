@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1e0d2e8a7426460390cb433a3fa2adf2/artifacts
+deleted_time: 1670614154935
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 1e0d2e8a7426460390cb433a3fa2adf2
+run_name: bold-koi-572
+run_uuid: 1e0d2e8a7426460390cb433a3fa2adf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076440
+status: 1
+tags: []
+user_id: unknown

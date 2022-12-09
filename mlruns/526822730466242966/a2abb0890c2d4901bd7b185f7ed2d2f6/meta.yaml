@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a2abb0890c2d4901bd7b185f7ed2d2f6/artifacts
+deleted_time: 1670617521673
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: a2abb0890c2d4901bd7b185f7ed2d2f6
+run_name: lyrical-asp-809
+run_uuid: a2abb0890c2d4901bd7b185f7ed2d2f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160290
+status: 1
+tags: []
+user_id: unknown

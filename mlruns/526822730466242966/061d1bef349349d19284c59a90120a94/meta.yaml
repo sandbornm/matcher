@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/061d1bef349349d19284c59a90120a94/artifacts
+deleted_time: 1670614072964
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 061d1bef349349d19284c59a90120a94
 run_name: persistent-fawn-920
 run_uuid: 061d1bef349349d19284c59a90120a94

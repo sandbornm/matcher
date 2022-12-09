@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a58c54950881485fae9e31f81af6b30d/artifacts
+deleted_time: 1670617522181
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: a58c54950881485fae9e31f81af6b30d
+run_name: amazing-sheep-331
+run_uuid: a58c54950881485fae9e31f81af6b30d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614157998
+status: 1
+tags: []
+user_id: unknown

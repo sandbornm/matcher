@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/40d5063b55ef497bbaca557890226ed3/artifacts
+deleted_time: 1670617474396
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 40d5063b55ef497bbaca557890226ed3
+run_name: marvelous-vole-344
+run_uuid: 40d5063b55ef497bbaca557890226ed3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161336
+status: 1
+tags: []
+user_id: unknown

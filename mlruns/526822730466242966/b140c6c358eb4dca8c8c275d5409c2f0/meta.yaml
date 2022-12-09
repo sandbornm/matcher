@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b140c6c358eb4dca8c8c275d5409c2f0/artifacts
+deleted_time: 1670614073064
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b140c6c358eb4dca8c8c275d5409c2f0
 run_name: whimsical-stork-186
 run_uuid: b140c6c358eb4dca8c8c275d5409c2f0

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/35c194feb0e6448c8b0d3200a628fd35/artifacts
+deleted_time: 1670614154711
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 35c194feb0e6448c8b0d3200a628fd35
+run_name: rebellious-ray-579
+run_uuid: 35c194feb0e6448c8b0d3200a628fd35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077637
+status: 1
+tags: []
+user_id: unknown

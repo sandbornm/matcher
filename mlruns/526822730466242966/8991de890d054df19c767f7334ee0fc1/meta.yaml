@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8991de890d054df19c767f7334ee0fc1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8991de890d054df19c767f7334ee0fc1
+run_name: popular-mink-881
+run_uuid: 8991de890d054df19c767f7334ee0fc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670617789236
+status: 1
+tags: []
+user_id: unknown

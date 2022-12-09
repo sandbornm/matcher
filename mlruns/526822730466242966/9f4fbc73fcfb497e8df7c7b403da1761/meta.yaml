@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9f4fbc73fcfb497e8df7c7b403da1761/artifacts
+deleted_time: 1670614072995
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9f4fbc73fcfb497e8df7c7b403da1761
 run_name: wise-croc-769
 run_uuid: 9f4fbc73fcfb497e8df7c7b403da1761

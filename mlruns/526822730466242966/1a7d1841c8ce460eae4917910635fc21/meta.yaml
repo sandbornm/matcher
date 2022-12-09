@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1a7d1841c8ce460eae4917910635fc21/artifacts
+deleted_time: 1670614073582
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1a7d1841c8ce460eae4917910635fc21
 run_name: omniscient-shark-936
 run_uuid: 1a7d1841c8ce460eae4917910635fc21

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/77ee4b805afa4596af149a3037c59511/artifacts
+deleted_time: 1670614072475
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 77ee4b805afa4596af149a3037c59511
 run_name: stately-dog-871
 run_uuid: 77ee4b805afa4596af149a3037c59511

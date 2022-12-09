@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6bfae7b2c2a84ab4a088cc029fe3d8c4/artifacts
+deleted_time: 1670617522212
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 6bfae7b2c2a84ab4a088cc029fe3d8c4
+run_name: melodic-frog-203
+run_uuid: 6bfae7b2c2a84ab4a088cc029fe3d8c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614157839
+status: 1
+tags: []
+user_id: unknown

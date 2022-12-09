@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bba85cc403f94a8daa4a62e3ebeceaa2/artifacts
+deleted_time: 1670617473997
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: bba85cc403f94a8daa4a62e3ebeceaa2
+run_name: judicious-gnu-59
+run_uuid: bba85cc403f94a8daa4a62e3ebeceaa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614163219
+status: 1
+tags: []
+user_id: unknown

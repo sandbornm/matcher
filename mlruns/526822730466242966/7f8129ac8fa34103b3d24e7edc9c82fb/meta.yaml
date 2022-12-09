@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7f8129ac8fa34103b3d24e7edc9c82fb/artifacts
+deleted_time: 1670614073465
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7f8129ac8fa34103b3d24e7edc9c82fb
 run_name: clumsy-cub-883
 run_uuid: 7f8129ac8fa34103b3d24e7edc9c82fb

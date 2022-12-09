@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/06f3c07f9d08475eb182796e20d3b705/artifacts
+deleted_time: 1670617522165
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 06f3c07f9d08475eb182796e20d3b705
+run_name: unruly-lamb-532
+run_uuid: 06f3c07f9d08475eb182796e20d3b705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614158035
+status: 1
+tags: []
+user_id: unknown

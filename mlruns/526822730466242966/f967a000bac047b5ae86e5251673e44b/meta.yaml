@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f967a000bac047b5ae86e5251673e44b/artifacts
+deleted_time: 1670614154986
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: f967a000bac047b5ae86e5251673e44b
+run_name: resilient-cow-321
+run_uuid: f967a000bac047b5ae86e5251673e44b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076165
+status: 1
+tags: []
+user_id: unknown

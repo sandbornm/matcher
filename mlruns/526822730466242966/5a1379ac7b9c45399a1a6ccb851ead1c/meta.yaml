@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5a1379ac7b9c45399a1a6ccb851ead1c/artifacts
+deleted_time: 1670614154772
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 5a1379ac7b9c45399a1a6ccb851ead1c
+run_name: melodic-seal-84
+run_uuid: 5a1379ac7b9c45399a1a6ccb851ead1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077268
+status: 1
+tags: []
+user_id: unknown

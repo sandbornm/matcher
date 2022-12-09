@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f1b4662215284cdea3069797e54d2f0c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f1b4662215284cdea3069797e54d2f0c
+run_name: delicate-ape-852
+run_uuid: f1b4662215284cdea3069797e54d2f0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670617788876
+status: 1
+tags: []
+user_id: unknown

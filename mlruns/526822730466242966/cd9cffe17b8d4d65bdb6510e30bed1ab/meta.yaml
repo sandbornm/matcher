@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cd9cffe17b8d4d65bdb6510e30bed1ab/artifacts
+deleted_time: 1670617521616
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: cd9cffe17b8d4d65bdb6510e30bed1ab
+run_name: popular-lamb-165
+run_uuid: cd9cffe17b8d4d65bdb6510e30bed1ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160556
+status: 1
+tags: []
+user_id: unknown

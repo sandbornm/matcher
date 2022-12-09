@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/48e9bcc0cfbc4635b7760223012f54e8/artifacts
+deleted_time: 1670617474314
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 48e9bcc0cfbc4635b7760223012f54e8
+run_name: intrigued-swan-257
+run_uuid: 48e9bcc0cfbc4635b7760223012f54e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161710
+status: 1
+tags: []
+user_id: unknown

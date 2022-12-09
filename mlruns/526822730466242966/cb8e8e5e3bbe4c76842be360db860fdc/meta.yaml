@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cb8e8e5e3bbe4c76842be360db860fdc/artifacts
+deleted_time: 1670617474156
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: cb8e8e5e3bbe4c76842be360db860fdc
+run_name: secretive-stag-117
+run_uuid: cb8e8e5e3bbe4c76842be360db860fdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162473
+status: 1
+tags: []
+user_id: unknown

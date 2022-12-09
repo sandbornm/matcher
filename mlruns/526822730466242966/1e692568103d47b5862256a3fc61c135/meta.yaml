@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1e692568103d47b5862256a3fc61c135/artifacts
+deleted_time: 1670614073121
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1e692568103d47b5862256a3fc61c135
 run_name: inquisitive-hen-556
 run_uuid: 1e692568103d47b5862256a3fc61c135

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3b8b537f5e58425d8fa05f1b6eacf49b/artifacts
+deleted_time: 1670617521707
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 3b8b537f5e58425d8fa05f1b6eacf49b
+run_name: awesome-hawk-255
+run_uuid: 3b8b537f5e58425d8fa05f1b6eacf49b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160166
+status: 1
+tags: []
+user_id: unknown

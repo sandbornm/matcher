@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d3572036b1de4891a5006da368fc1a70/artifacts
+deleted_time: 1670614073095
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d3572036b1de4891a5006da368fc1a70
 run_name: receptive-robin-530
 run_uuid: d3572036b1de4891a5006da368fc1a70

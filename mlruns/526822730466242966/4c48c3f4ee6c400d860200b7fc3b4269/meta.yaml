@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4c48c3f4ee6c400d860200b7fc3b4269/artifacts
+deleted_time: 1670617473794
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 4c48c3f4ee6c400d860200b7fc3b4269
+run_name: unleashed-sloth-652
+run_uuid: 4c48c3f4ee6c400d860200b7fc3b4269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670617280949
+status: 1
+tags: []
+user_id: unknown

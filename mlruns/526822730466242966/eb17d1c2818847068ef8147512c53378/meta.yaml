@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/eb17d1c2818847068ef8147512c53378/artifacts
+deleted_time: 1670614154725
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: eb17d1c2818847068ef8147512c53378
+run_name: aged-sheep-646
+run_uuid: eb17d1c2818847068ef8147512c53378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077542
+status: 1
+tags: []
+user_id: unknown

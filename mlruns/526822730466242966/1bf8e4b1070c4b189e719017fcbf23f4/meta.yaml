@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1bf8e4b1070c4b189e719017fcbf23f4/artifacts
+deleted_time: 1670617521682
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 1bf8e4b1070c4b189e719017fcbf23f4
+run_name: lyrical-moth-37
+run_uuid: 1bf8e4b1070c4b189e719017fcbf23f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160222
+status: 1
+tags: []
+user_id: unknown

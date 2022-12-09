@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/508b96928fa64e5cb0ebe5a4e3d19080/artifacts
+deleted_time: 1670614073311
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 508b96928fa64e5cb0ebe5a4e3d19080
 run_name: skittish-stork-659
 run_uuid: 508b96928fa64e5cb0ebe5a4e3d19080

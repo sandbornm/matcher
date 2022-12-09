@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7ac23df1498a4ccf828dc431390c1f7e/artifacts
+deleted_time: 1670617521785
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 7ac23df1498a4ccf828dc431390c1f7e
+run_name: colorful-grub-731
+run_uuid: 7ac23df1498a4ccf828dc431390c1f7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159785
+status: 1
+tags: []
+user_id: unknown

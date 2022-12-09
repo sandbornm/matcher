@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/16d9795644bf474e8251122528c88e44/artifacts
+deleted_time: 1670617522288
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 16d9795644bf474e8251122528c88e44
+run_name: enchanting-gnat-736
+run_uuid: 16d9795644bf474e8251122528c88e44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614157680
+status: 1
+tags: []
+user_id: unknown

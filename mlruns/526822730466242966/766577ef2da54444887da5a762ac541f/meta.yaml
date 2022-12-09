@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/766577ef2da54444887da5a762ac541f/artifacts
+deleted_time: 1670617521607
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 766577ef2da54444887da5a762ac541f
+run_name: unleashed-trout-140
+run_uuid: 766577ef2da54444887da5a762ac541f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160571
+status: 1
+tags: []
+user_id: unknown

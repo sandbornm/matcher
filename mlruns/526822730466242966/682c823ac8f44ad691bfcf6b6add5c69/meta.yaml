@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/682c823ac8f44ad691bfcf6b6add5c69/artifacts
+deleted_time: 1670614073158
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 682c823ac8f44ad691bfcf6b6add5c69
 run_name: victorious-skink-283
 run_uuid: 682c823ac8f44ad691bfcf6b6add5c69

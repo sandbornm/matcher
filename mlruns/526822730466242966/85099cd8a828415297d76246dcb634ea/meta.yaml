@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/85099cd8a828415297d76246dcb634ea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 85099cd8a828415297d76246dcb634ea
+run_name: ambitious-hawk-294
+run_uuid: 85099cd8a828415297d76246dcb634ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614724605
+status: 1
+tags: []
+user_id: unknown

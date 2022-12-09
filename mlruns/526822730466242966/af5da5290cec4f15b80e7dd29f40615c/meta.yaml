@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/af5da5290cec4f15b80e7dd29f40615c/artifacts
+deleted_time: 1670614072529
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: af5da5290cec4f15b80e7dd29f40615c
 run_name: adventurous-duck-486
 run_uuid: af5da5290cec4f15b80e7dd29f40615c

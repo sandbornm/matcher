@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cfab0620f5a143348a76c4d5bffc9d75/artifacts
+deleted_time: 1670614154968
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: cfab0620f5a143348a76c4d5bffc9d75
+run_name: bright-shoat-737
+run_uuid: cfab0620f5a143348a76c4d5bffc9d75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076309
+status: 1
+tags: []
+user_id: unknown

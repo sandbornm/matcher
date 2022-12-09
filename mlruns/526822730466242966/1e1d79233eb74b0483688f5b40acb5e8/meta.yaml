@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1e1d79233eb74b0483688f5b40acb5e8/artifacts
+deleted_time: 1670617521485
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 1e1d79233eb74b0483688f5b40acb5e8
+run_name: awesome-wren-222
+run_uuid: 1e1d79233eb74b0483688f5b40acb5e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161158
+status: 1
+tags: []
+user_id: unknown

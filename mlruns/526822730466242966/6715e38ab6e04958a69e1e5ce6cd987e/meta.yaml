@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6715e38ab6e04958a69e1e5ce6cd987e/artifacts
+deleted_time: 1670617473899
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 6715e38ab6e04958a69e1e5ce6cd987e
+run_name: fun-ant-679
+run_uuid: 6715e38ab6e04958a69e1e5ce6cd987e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670615072411
+status: 1
+tags: []
+user_id: unknown

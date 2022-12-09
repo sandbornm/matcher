@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b6b38a09888f4148a8fc308eb074dfc0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b6b38a09888f4148a8fc308eb074dfc0
+run_name: popular-hog-592
+run_uuid: b6b38a09888f4148a8fc308eb074dfc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670616298460
+status: 1
+tags: []
+user_id: unknown

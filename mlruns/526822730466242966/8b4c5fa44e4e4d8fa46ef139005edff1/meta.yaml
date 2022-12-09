@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8b4c5fa44e4e4d8fa46ef139005edff1/artifacts
+deleted_time: 1670614073470
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8b4c5fa44e4e4d8fa46ef139005edff1
 run_name: zealous-newt-308
 run_uuid: 8b4c5fa44e4e4d8fa46ef139005edff1

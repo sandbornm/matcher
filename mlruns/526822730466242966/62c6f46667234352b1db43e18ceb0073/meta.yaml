@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/62c6f46667234352b1db43e18ceb0073/artifacts
+deleted_time: 1670617474387
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 62c6f46667234352b1db43e18ceb0073
+run_name: legendary-hound-884
+run_uuid: 62c6f46667234352b1db43e18ceb0073
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161403
+status: 1
+tags: []
+user_id: unknown

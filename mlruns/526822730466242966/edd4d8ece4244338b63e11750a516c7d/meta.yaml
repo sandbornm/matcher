@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/edd4d8ece4244338b63e11750a516c7d/artifacts
+deleted_time: 1670614073166
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: edd4d8ece4244338b63e11750a516c7d
 run_name: painted-hawk-540
 run_uuid: edd4d8ece4244338b63e11750a516c7d

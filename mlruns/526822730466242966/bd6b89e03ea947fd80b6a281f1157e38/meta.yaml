@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bd6b89e03ea947fd80b6a281f1157e38/artifacts
+deleted_time: 1670614154997
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: bd6b89e03ea947fd80b6a281f1157e38
+run_name: orderly-turtle-213
+run_uuid: bd6b89e03ea947fd80b6a281f1157e38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076164
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8782a0f1c6e14d95a2cd87d1e649ad0d/artifacts
+deleted_time: 1670617522273
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 8782a0f1c6e14d95a2cd87d1e649ad0d
+run_name: wistful-swan-307
+run_uuid: 8782a0f1c6e14d95a2cd87d1e649ad0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614157681
+status: 1
+tags: []
+user_id: unknown

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b07239ec430b43d29c909b47942070a1/artifacts
+deleted_time: 1670614073051
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b07239ec430b43d29c909b47942070a1
 run_name: welcoming-rat-770
 run_uuid: b07239ec430b43d29c909b47942070a1

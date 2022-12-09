@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3c158a376ae741b5922f5ef7fc6dab4e/artifacts
+deleted_time: 1670617522080
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 3c158a376ae741b5922f5ef7fc6dab4e
+run_name: illustrious-cub-552
+run_uuid: 3c158a376ae741b5922f5ef7fc6dab4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614158412
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b5753607c889437c99e8635bf9fd9649/artifacts
+deleted_time: 1670614154766
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: b5753607c889437c99e8635bf9fd9649
+run_name: handsome-robin-222
+run_uuid: b5753607c889437c99e8635bf9fd9649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077298
+status: 1
+tags: []
+user_id: unknown

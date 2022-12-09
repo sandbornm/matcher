@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f0f24ea4e4624ab58b9416a6fc943dc4/artifacts
+deleted_time: 1670614072608
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f0f24ea4e4624ab58b9416a6fc943dc4
 run_name: sneaky-turtle-879
 run_uuid: f0f24ea4e4624ab58b9416a6fc943dc4

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cdb1f2e60a654bcb9e6e40bc81247a96/artifacts
+deleted_time: 1670617474232
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: cdb1f2e60a654bcb9e6e40bc81247a96
+run_name: agreeable-sow-932
+run_uuid: cdb1f2e60a654bcb9e6e40bc81247a96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162067
+status: 1
+tags: []
+user_id: unknown

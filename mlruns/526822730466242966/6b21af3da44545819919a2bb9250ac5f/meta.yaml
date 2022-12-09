@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6b21af3da44545819919a2bb9250ac5f/artifacts
+deleted_time: 1670617473864
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 6b21af3da44545819919a2bb9250ac5f
+run_name: fun-cow-34
+run_uuid: 6b21af3da44545819919a2bb9250ac5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670616588436
+status: 1
+tags: []
+user_id: unknown

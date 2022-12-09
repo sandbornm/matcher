@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1e9c65bb580743889c50fbce1c4a4913/artifacts
+deleted_time: 1670614073127
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1e9c65bb580743889c50fbce1c4a4913
 run_name: mercurial-frog-374
 run_uuid: 1e9c65bb580743889c50fbce1c4a4913

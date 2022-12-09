@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/07df9732eb63434a97d0a9b7278a3440/artifacts
+deleted_time: 1670614073342
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 07df9732eb63434a97d0a9b7278a3440
 run_name: languid-ray-215
 run_uuid: 07df9732eb63434a97d0a9b7278a3440

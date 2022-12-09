@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d284afcf60aa435fa3494334cc87b49a/artifacts
+deleted_time: 1670617474248
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: d284afcf60aa435fa3494334cc87b49a
+run_name: welcoming-ox-293
+run_uuid: d284afcf60aa435fa3494334cc87b49a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161996
+status: 1
+tags: []
+user_id: unknown

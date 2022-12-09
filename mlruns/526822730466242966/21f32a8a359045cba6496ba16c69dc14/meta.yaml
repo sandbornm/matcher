@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/21f32a8a359045cba6496ba16c69dc14/artifacts
+deleted_time: 1670617474393
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 21f32a8a359045cba6496ba16c69dc14
+run_name: dazzling-steed-964
+run_uuid: 21f32a8a359045cba6496ba16c69dc14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161393
+status: 1
+tags: []
+user_id: unknown

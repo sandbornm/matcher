@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a0372ebb730247458face8bd164529b4/artifacts
+deleted_time: 1670617521619
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: a0372ebb730247458face8bd164529b4
+run_name: luxuriant-croc-176
+run_uuid: a0372ebb730247458face8bd164529b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160555
+status: 1
+tags: []
+user_id: unknown

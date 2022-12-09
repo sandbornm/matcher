@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/16911466b4a44ab880872375ea7017e2/artifacts
+deleted_time: 1670614154952
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 16911466b4a44ab880872375ea7017e2
+run_name: gentle-worm-521
+run_uuid: 16911466b4a44ab880872375ea7017e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076397
+status: 1
+tags: []
+user_id: unknown

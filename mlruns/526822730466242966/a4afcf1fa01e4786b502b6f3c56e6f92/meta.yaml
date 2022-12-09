@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a4afcf1fa01e4786b502b6f3c56e6f92/artifacts
+deleted_time: 1670617474044
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: a4afcf1fa01e4786b502b6f3c56e6f92
+run_name: fun-turtle-724
+run_uuid: a4afcf1fa01e4786b502b6f3c56e6f92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162983
+status: 1
+tags: []
+user_id: unknown

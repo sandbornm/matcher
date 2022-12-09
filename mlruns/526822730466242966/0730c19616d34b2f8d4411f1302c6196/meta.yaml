@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0730c19616d34b2f8d4411f1302c6196/artifacts
+deleted_time: 1670614154739
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 0730c19616d34b2f8d4411f1302c6196
+run_name: upset-hog-551
+run_uuid: 0730c19616d34b2f8d4411f1302c6196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077475
+status: 1
+tags: []
+user_id: unknown

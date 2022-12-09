@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8b3dd4244dec4a08a2444bebe2c563ba/artifacts
+deleted_time: 1670617474254
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 8b3dd4244dec4a08a2444bebe2c563ba
+run_name: glamorous-grouse-438
+run_uuid: 8b3dd4244dec4a08a2444bebe2c563ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161988
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/15e0bef56ff44a75a3e4287135864bde/artifacts
+deleted_time: 1670617473873
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 15e0bef56ff44a75a3e4287135864bde
+run_name: rogue-panda-206
+run_uuid: 15e0bef56ff44a75a3e4287135864bde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670616060664
+status: 1
+tags: []
+user_id: unknown

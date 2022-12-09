@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bf6455a0651d40ca9b476282223c2034/artifacts
+deleted_time: 1670617473791
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: bf6455a0651d40ca9b476282223c2034
+run_name: languid-zebra-835
+run_uuid: bf6455a0651d40ca9b476282223c2034
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670617281244
+status: 1
+tags: []
+user_id: unknown

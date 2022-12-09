@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e17ae8fdbeb44ca487c432898f636f14/artifacts
+deleted_time: 1670614073398
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e17ae8fdbeb44ca487c432898f636f14
 run_name: sedate-cod-466
 run_uuid: e17ae8fdbeb44ca487c432898f636f14

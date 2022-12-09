@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0641baafd0cc40cf9f0554b830cf92c4/artifacts
+deleted_time: 1670614073217
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0641baafd0cc40cf9f0554b830cf92c4
 run_name: traveling-wren-708
 run_uuid: 0641baafd0cc40cf9f0554b830cf92c4

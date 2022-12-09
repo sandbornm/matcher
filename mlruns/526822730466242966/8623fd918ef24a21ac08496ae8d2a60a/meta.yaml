@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8623fd918ef24a21ac08496ae8d2a60a/artifacts
+deleted_time: 1670614073308
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8623fd918ef24a21ac08496ae8d2a60a
 run_name: invincible-crab-593
 run_uuid: 8623fd918ef24a21ac08496ae8d2a60a

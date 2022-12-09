@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/67e4320f4d294a0d9cac082a16b1d536/artifacts
+deleted_time: 1670617473880
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 67e4320f4d294a0d9cac082a16b1d536
+run_name: legendary-cod-723
+run_uuid: 67e4320f4d294a0d9cac082a16b1d536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670615989847
+status: 1
+tags: []
+user_id: unknown

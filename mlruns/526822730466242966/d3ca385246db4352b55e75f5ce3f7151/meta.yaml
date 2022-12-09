@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d3ca385246db4352b55e75f5ce3f7151/artifacts
+deleted_time: 1670617522206
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: d3ca385246db4352b55e75f5ce3f7151
+run_name: aged-hare-130
+run_uuid: d3ca385246db4352b55e75f5ce3f7151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614157950
+status: 1
+tags: []
+user_id: unknown

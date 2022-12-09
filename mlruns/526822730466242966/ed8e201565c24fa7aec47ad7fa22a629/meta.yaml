@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ed8e201565c24fa7aec47ad7fa22a629/artifacts
+deleted_time: 1670614154753
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: ed8e201565c24fa7aec47ad7fa22a629
+run_name: mercurial-slug-829
+run_uuid: ed8e201565c24fa7aec47ad7fa22a629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077404
+status: 1
+tags: []
+user_id: unknown

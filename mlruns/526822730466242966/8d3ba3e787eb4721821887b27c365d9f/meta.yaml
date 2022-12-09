@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8d3ba3e787eb4721821887b27c365d9f/artifacts
+deleted_time: 1670614072738
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8d3ba3e787eb4721821887b27c365d9f
 run_name: carefree-wren-452
 run_uuid: 8d3ba3e787eb4721821887b27c365d9f

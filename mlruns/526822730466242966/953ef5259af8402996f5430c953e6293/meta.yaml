@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/953ef5259af8402996f5430c953e6293/artifacts
+deleted_time: 1670614072881
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 953ef5259af8402996f5430c953e6293
 run_name: amazing-stoat-959
 run_uuid: 953ef5259af8402996f5430c953e6293

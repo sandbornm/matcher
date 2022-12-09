@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8fac0b2350e149a9a11f1d797191262a/artifacts
+deleted_time: 1670614073238
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8fac0b2350e149a9a11f1d797191262a
 run_name: capricious-sloth-347
 run_uuid: 8fac0b2350e149a9a11f1d797191262a

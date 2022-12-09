@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/956023ff48ad485eb749e24f2337085d/artifacts
+deleted_time: 1670614154995
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 956023ff48ad485eb749e24f2337085d
+run_name: suave-bat-222
+run_uuid: 956023ff48ad485eb749e24f2337085d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076164
+status: 1
+tags: []
+user_id: unknown

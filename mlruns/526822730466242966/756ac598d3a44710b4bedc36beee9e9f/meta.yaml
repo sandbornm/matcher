@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/756ac598d3a44710b4bedc36beee9e9f/artifacts
+deleted_time: 1670617473927
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 756ac598d3a44710b4bedc36beee9e9f
+run_name: nervous-shrew-150
+run_uuid: 756ac598d3a44710b4bedc36beee9e9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614163642
+status: 1
+tags: []
+user_id: unknown

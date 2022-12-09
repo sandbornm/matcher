@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a6ba768b7d344e55bfce4f6128c39d4c/artifacts
+deleted_time: 1670617522178
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: a6ba768b7d344e55bfce4f6128c39d4c
+run_name: delicate-asp-578
+run_uuid: a6ba768b7d344e55bfce4f6128c39d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614158007
+status: 1
+tags: []
+user_id: unknown

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f7f45e0b93554f94acefc50f3f1a7431/artifacts
+deleted_time: 1670614073293
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f7f45e0b93554f94acefc50f3f1a7431
 run_name: kindly-fawn-402
 run_uuid: f7f45e0b93554f94acefc50f3f1a7431

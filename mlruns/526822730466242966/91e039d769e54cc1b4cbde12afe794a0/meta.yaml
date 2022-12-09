@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/91e039d769e54cc1b4cbde12afe794a0/artifacts
+deleted_time: 1670614072915
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 91e039d769e54cc1b4cbde12afe794a0
 run_name: carefree-toad-800
 run_uuid: 91e039d769e54cc1b4cbde12afe794a0

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/eab80aab4c1a42e9ab8cad539f773b8a/artifacts
+deleted_time: 1670614073352
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: eab80aab4c1a42e9ab8cad539f773b8a
 run_name: popular-fly-273
 run_uuid: eab80aab4c1a42e9ab8cad539f773b8a

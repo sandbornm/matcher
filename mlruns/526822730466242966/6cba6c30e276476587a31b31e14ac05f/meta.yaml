@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6cba6c30e276476587a31b31e14ac05f/artifacts
+deleted_time: 1670614073478
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6cba6c30e276476587a31b31e14ac05f
 run_name: judicious-skink-243
 run_uuid: 6cba6c30e276476587a31b31e14ac05f

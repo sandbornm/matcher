@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cfe60bc4604940ff805972bf01c374e8/artifacts
+deleted_time: 1670617474185
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: cfe60bc4604940ff805972bf01c374e8
+run_name: bouncy-zebra-594
+run_uuid: cfe60bc4604940ff805972bf01c374e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162331
+status: 1
+tags: []
+user_id: unknown

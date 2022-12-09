@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e79b5db89a1b40efbb4d80f98d6af1ce/artifacts
+deleted_time: 1670617473854
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: e79b5db89a1b40efbb4d80f98d6af1ce
+run_name: sincere-conch-709
+run_uuid: e79b5db89a1b40efbb4d80f98d6af1ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670616680301
+status: 1
+tags: []
+user_id: unknown

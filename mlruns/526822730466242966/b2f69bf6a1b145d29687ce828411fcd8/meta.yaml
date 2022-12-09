@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b2f69bf6a1b145d29687ce828411fcd8/artifacts
+deleted_time: 1670617521779
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: b2f69bf6a1b145d29687ce828411fcd8
+run_name: defiant-skink-581
+run_uuid: b2f69bf6a1b145d29687ce828411fcd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159807
+status: 1
+tags: []
+user_id: unknown

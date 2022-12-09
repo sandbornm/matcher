@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f099ce8e20994295be8ac95f86be010f/artifacts
+deleted_time: 1670617522184
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: f099ce8e20994295be8ac95f86be010f
+run_name: merciful-flea-410
+run_uuid: f099ce8e20994295be8ac95f86be010f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614157998
+status: 1
+tags: []
+user_id: unknown

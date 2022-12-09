@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/763a5b41b9d34dccadf15d3452e990e1/artifacts
+deleted_time: 1670617521839
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 763a5b41b9d34dccadf15d3452e990e1
+run_name: stylish-crow-712
+run_uuid: 763a5b41b9d34dccadf15d3452e990e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159522
+status: 1
+tags: []
+user_id: unknown

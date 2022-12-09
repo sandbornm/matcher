@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cfae865c30e34f308ba857bfc5bc72f2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: cfae865c30e34f308ba857bfc5bc72f2
+run_name: overjoyed-colt-859
+run_uuid: cfae865c30e34f308ba857bfc5bc72f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670617789153
+status: 1
+tags: []
+user_id: unknown

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f3740637bb194d09b091bc9cec13581f/artifacts
+deleted_time: 1670614073100
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f3740637bb194d09b091bc9cec13581f
 run_name: intelligent-wasp-979
 run_uuid: f3740637bb194d09b091bc9cec13581f

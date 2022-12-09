@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cd8d86de9a0c4297932745f39a548022/artifacts
+deleted_time: 1670617521635
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: cd8d86de9a0c4297932745f39a548022
+run_name: stylish-yak-879
+run_uuid: cd8d86de9a0c4297932745f39a548022
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160460
+status: 1
+tags: []
+user_id: unknown

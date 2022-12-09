@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f8d687bf4c374751a0afd25bdc8fdb0a/artifacts
+deleted_time: 1670614073282
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f8d687bf4c374751a0afd25bdc8fdb0a
 run_name: beautiful-yak-14
 run_uuid: f8d687bf4c374751a0afd25bdc8fdb0a

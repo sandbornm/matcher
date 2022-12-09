@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7aacdb12b0314b2c9184cf2f87129a51/artifacts
+deleted_time: 1670617521983
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 7aacdb12b0314b2c9184cf2f87129a51
+run_name: puzzled-seal-715
+run_uuid: 7aacdb12b0314b2c9184cf2f87129a51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614158901
+status: 1
+tags: []
+user_id: unknown

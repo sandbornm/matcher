@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f523d5ef8cb54be39e4fd704dce15c9c/artifacts
+deleted_time: 1670617474242
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: f523d5ef8cb54be39e4fd704dce15c9c
+run_name: clean-frog-212
+run_uuid: f523d5ef8cb54be39e4fd704dce15c9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162013
+status: 1
+tags: []
+user_id: unknown

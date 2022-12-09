@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/77b6d5be543348449a3dee12354bbbb0/artifacts
+deleted_time: 1670614154921
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 77b6d5be543348449a3dee12354bbbb0
+run_name: luxuriant-jay-181
+run_uuid: 77b6d5be543348449a3dee12354bbbb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076552
+status: 1
+tags: []
+user_id: unknown

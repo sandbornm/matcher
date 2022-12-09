@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7966026b44504e3fa2b08ac1630569a9/artifacts
+deleted_time: 1670614154876
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 7966026b44504e3fa2b08ac1630569a9
+run_name: rumbling-rat-842
+run_uuid: 7966026b44504e3fa2b08ac1630569a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076788
+status: 1
+tags: []
+user_id: unknown

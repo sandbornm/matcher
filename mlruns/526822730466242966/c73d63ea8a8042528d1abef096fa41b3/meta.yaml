@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c73d63ea8a8042528d1abef096fa41b3/artifacts
+deleted_time: 1670614073103
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c73d63ea8a8042528d1abef096fa41b3
 run_name: skittish-snail-626
 run_uuid: c73d63ea8a8042528d1abef096fa41b3

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f3992671a7e54efaacdb48d53623a70b/artifacts
+deleted_time: 1670617474063
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: f3992671a7e54efaacdb48d53623a70b
+run_name: popular-turtle-848
+run_uuid: f3992671a7e54efaacdb48d53623a70b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162915
+status: 1
+tags: []
+user_id: unknown

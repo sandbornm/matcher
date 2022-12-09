@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e686d87d7f8d46608538d5888f8701e9/artifacts
+deleted_time: 1670617521904
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: e686d87d7f8d46608538d5888f8701e9
+run_name: nosy-mink-25
+run_uuid: e686d87d7f8d46608538d5888f8701e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159222
+status: 1
+tags: []
+user_id: unknown

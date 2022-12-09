@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1aebc876e7bb4b97b20398bd10f58411/artifacts
+deleted_time: 1670617522099
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 1aebc876e7bb4b97b20398bd10f58411
+run_name: big-pug-739
+run_uuid: 1aebc876e7bb4b97b20398bd10f58411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614158386
+status: 1
+tags: []
+user_id: unknown

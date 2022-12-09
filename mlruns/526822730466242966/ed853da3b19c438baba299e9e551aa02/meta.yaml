@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ed853da3b19c438baba299e9e551aa02/artifacts
+deleted_time: 1670617522209
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: ed853da3b19c438baba299e9e551aa02
+run_name: orderly-wasp-997
+run_uuid: ed853da3b19c438baba299e9e551aa02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614157852
+status: 1
+tags: []
+user_id: unknown

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6a8011f2cd8843be840cd651af40b821/artifacts
+deleted_time: 1670614072930
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6a8011f2cd8843be840cd651af40b821
 run_name: monumental-sow-231
 run_uuid: 6a8011f2cd8843be840cd651af40b821

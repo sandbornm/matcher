@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cc36d3e750584b798ec45ae65e0f1a00/artifacts
+deleted_time: 1670614073082
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: cc36d3e750584b798ec45ae65e0f1a00
 run_name: resilient-calf-831
 run_uuid: cc36d3e750584b798ec45ae65e0f1a00

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e164a63799824d0894c61ac8fdf65b0b/artifacts
+deleted_time: 1670614073486
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e164a63799824d0894c61ac8fdf65b0b
 run_name: skittish-hog-970
 run_uuid: e164a63799824d0894c61ac8fdf65b0b

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/984f3f67e7fe48e48920e0ac079f4f7d/artifacts
+deleted_time: 1670617521720
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 984f3f67e7fe48e48920e0ac079f4f7d
+run_name: handsome-midge-347
+run_uuid: 984f3f67e7fe48e48920e0ac079f4f7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160090
+status: 1
+tags: []
+user_id: unknown

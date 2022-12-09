@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d975dd2ba6004ebd8ceaaf781ade5742/artifacts
+deleted_time: 1670617521729
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: d975dd2ba6004ebd8ceaaf781ade5742
+run_name: rogue-squirrel-727
+run_uuid: d975dd2ba6004ebd8ceaaf781ade5742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160039
+status: 1
+tags: []
+user_id: unknown

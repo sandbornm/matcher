@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e4786d04e44c44cc8f006989fb12c06b/artifacts
+deleted_time: 1670617473870
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: e4786d04e44c44cc8f006989fb12c06b
+run_name: placid-fawn-212
+run_uuid: e4786d04e44c44cc8f006989fb12c06b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670616225350
+status: 1
+tags: []
+user_id: unknown

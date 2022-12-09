@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c098086768fd4a558bd47d8b9d8864e8/artifacts
+deleted_time: 1670617521892
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: c098086768fd4a558bd47d8b9d8864e8
+run_name: powerful-croc-810
+run_uuid: c098086768fd4a558bd47d8b9d8864e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159264
+status: 1
+tags: []
+user_id: unknown

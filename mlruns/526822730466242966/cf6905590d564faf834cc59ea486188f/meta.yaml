@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cf6905590d564faf834cc59ea486188f/artifacts
+deleted_time: 1670614072789
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: cf6905590d564faf834cc59ea486188f
 run_name: omniscient-ox-449
 run_uuid: cf6905590d564faf834cc59ea486188f

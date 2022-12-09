@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/dfeece235802450ab32a8e63134b1d22/artifacts
+deleted_time: 1670617521889
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: dfeece235802450ab32a8e63134b1d22
+run_name: silent-swan-147
+run_uuid: dfeece235802450ab32a8e63134b1d22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159306
+status: 1
+tags: []
+user_id: unknown

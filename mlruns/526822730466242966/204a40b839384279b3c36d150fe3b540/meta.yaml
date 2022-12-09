@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/204a40b839384279b3c36d150fe3b540/artifacts
+deleted_time: 1670614072784
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 204a40b839384279b3c36d150fe3b540
 run_name: bald-foal-606
 run_uuid: 204a40b839384279b3c36d150fe3b540

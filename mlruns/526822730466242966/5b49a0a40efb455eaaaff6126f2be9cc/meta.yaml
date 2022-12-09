@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5b49a0a40efb455eaaaff6126f2be9cc/artifacts
+deleted_time: 1670614154881
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 5b49a0a40efb455eaaaff6126f2be9cc
+run_name: dashing-fowl-108
+run_uuid: 5b49a0a40efb455eaaaff6126f2be9cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076707
+status: 1
+tags: []
+user_id: unknown

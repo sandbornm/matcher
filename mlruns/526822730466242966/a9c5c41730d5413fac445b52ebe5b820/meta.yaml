@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a9c5c41730d5413fac445b52ebe5b820/artifacts
+deleted_time: 1670617473915
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: a9c5c41730d5413fac445b52ebe5b820
+run_name: glamorous-bass-207
+run_uuid: a9c5c41730d5413fac445b52ebe5b820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614164105
+status: 1
+tags: []
+user_id: unknown

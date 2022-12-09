@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c0ca712db87c428a86b415bf2a0b4293/artifacts
+deleted_time: 1670617522187
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: c0ca712db87c428a86b415bf2a0b4293
+run_name: glamorous-chimp-342
+run_uuid: c0ca712db87c428a86b415bf2a0b4293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614157988
+status: 1
+tags: []
+user_id: unknown

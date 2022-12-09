@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ee9fe43e7ad94630bed9125ca9c5f471/artifacts
+deleted_time: 1670617521939
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: ee9fe43e7ad94630bed9125ca9c5f471
+run_name: classy-ant-291
+run_uuid: ee9fe43e7ad94630bed9125ca9c5f471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159072
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/89430dd2f9e6466cab336360f3533778/artifacts
+deleted_time: 1670617521810
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 89430dd2f9e6466cab336360f3533778
+run_name: grandiose-wren-607
+run_uuid: 89430dd2f9e6466cab336360f3533778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159691
+status: 1
+tags: []
+user_id: unknown

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e7a5038545484cbdb43ae00bcf1525da/artifacts
+deleted_time: 1670614072795
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e7a5038545484cbdb43ae00bcf1525da
 run_name: upset-cat-128
 run_uuid: e7a5038545484cbdb43ae00bcf1525da

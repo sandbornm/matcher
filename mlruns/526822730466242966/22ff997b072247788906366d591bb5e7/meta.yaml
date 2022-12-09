@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/22ff997b072247788906366d591bb5e7/artifacts
+deleted_time: 1670617473959
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 22ff997b072247788906366d591bb5e7
+run_name: bittersweet-tern-521
+run_uuid: 22ff997b072247788906366d591bb5e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614163362
+status: 1
+tags: []
+user_id: unknown

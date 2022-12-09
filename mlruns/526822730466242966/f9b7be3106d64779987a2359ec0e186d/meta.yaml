@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f9b7be3106d64779987a2359ec0e186d/artifacts
+deleted_time: 1670617521864
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: f9b7be3106d64779987a2359ec0e186d
+run_name: likeable-gnu-50
+run_uuid: f9b7be3106d64779987a2359ec0e186d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159418
+status: 1
+tags: []
+user_id: unknown

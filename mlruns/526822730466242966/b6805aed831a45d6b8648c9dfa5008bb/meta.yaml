@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b6805aed831a45d6b8648c9dfa5008bb/artifacts
+deleted_time: 1670617522156
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: b6805aed831a45d6b8648c9dfa5008bb
+run_name: rare-robin-414
+run_uuid: b6805aed831a45d6b8648c9dfa5008bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614158104
+status: 1
+tags: []
+user_id: unknown

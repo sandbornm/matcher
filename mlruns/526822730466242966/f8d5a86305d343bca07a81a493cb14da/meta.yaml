@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f8d5a86305d343bca07a81a493cb14da/artifacts
+deleted_time: 1670614154731
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: f8d5a86305d343bca07a81a493cb14da
+run_name: worried-sow-174
+run_uuid: f8d5a86305d343bca07a81a493cb14da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077520
+status: 1
+tags: []
+user_id: unknown

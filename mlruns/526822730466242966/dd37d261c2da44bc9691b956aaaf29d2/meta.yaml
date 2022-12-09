@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/dd37d261c2da44bc9691b956aaaf29d2/artifacts
+deleted_time: 1670614073145
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: dd37d261c2da44bc9691b956aaaf29d2
 run_name: dashing-bee-577
 run_uuid: dd37d261c2da44bc9691b956aaaf29d2

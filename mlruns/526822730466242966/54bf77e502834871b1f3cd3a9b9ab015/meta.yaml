@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/54bf77e502834871b1f3cd3a9b9ab015/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 54bf77e502834871b1f3cd3a9b9ab015
+run_name: skillful-goat-864
+run_uuid: 54bf77e502834871b1f3cd3a9b9ab015
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670615576617
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/861123eeba4d4380bd9fddefd624b041/artifacts
+deleted_time: 1670617474022
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 861123eeba4d4380bd9fddefd624b041
+run_name: adorable-wolf-417
+run_uuid: 861123eeba4d4380bd9fddefd624b041
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614163089
+status: 1
+tags: []
+user_id: unknown

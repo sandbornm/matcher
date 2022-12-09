@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/da75a057636f439bb4ef05a743438ff5/artifacts
+deleted_time: 1670617474431
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: da75a057636f439bb4ef05a743438ff5
+run_name: nimble-trout-939
+run_uuid: da75a057636f439bb4ef05a743438ff5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161219
+status: 1
+tags: []
+user_id: unknown

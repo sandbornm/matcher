@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b93014daf0994510aafde62298b9649e/artifacts
+deleted_time: 1670614073468
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b93014daf0994510aafde62298b9649e
 run_name: abrasive-boar-662
 run_uuid: b93014daf0994510aafde62298b9649e

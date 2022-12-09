@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/dff71e0eb2674f56a82d420685d09aca/artifacts
+deleted_time: 1670617521575
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: dff71e0eb2674f56a82d420685d09aca
+run_name: skittish-vole-540
+run_uuid: dff71e0eb2674f56a82d420685d09aca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160721
+status: 1
+tags: []
+user_id: unknown

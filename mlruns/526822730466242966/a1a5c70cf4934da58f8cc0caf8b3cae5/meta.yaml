@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a1a5c70cf4934da58f8cc0caf8b3cae5/artifacts
+deleted_time: 1670617521920
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: a1a5c70cf4934da58f8cc0caf8b3cae5
+run_name: lyrical-stoat-535
+run_uuid: a1a5c70cf4934da58f8cc0caf8b3cae5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159132
+status: 1
+tags: []
+user_id: unknown

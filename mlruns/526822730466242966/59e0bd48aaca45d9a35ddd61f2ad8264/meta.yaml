@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/59e0bd48aaca45d9a35ddd61f2ad8264/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 59e0bd48aaca45d9a35ddd61f2ad8264
+run_name: thundering-robin-77
+run_uuid: 59e0bd48aaca45d9a35ddd61f2ad8264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670615262970
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cd0745a582a64eca95ee9c12f8340fdf/artifacts
+deleted_time: 1670617521751
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: cd0745a582a64eca95ee9c12f8340fdf
+run_name: awesome-fly-610
+run_uuid: cd0745a582a64eca95ee9c12f8340fdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159938
+status: 1
+tags: []
+user_id: unknown

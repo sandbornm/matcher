@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/be94833a9a9047beb5979de1a4b03f14/artifacts
+deleted_time: 1670617522257
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: be94833a9a9047beb5979de1a4b03f14
+run_name: delightful-kite-962
+run_uuid: be94833a9a9047beb5979de1a4b03f14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614157759
+status: 1
+tags: []
+user_id: unknown

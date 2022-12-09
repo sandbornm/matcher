@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bbb419be9d30433db96e05e9052ae8e8/artifacts
+deleted_time: 1670614073199
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: bbb419be9d30433db96e05e9052ae8e8
 run_name: treasured-croc-832
 run_uuid: bbb419be9d30433db96e05e9052ae8e8

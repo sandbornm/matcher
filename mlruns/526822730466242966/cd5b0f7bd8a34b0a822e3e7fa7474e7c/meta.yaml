@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cd5b0f7bd8a34b0a822e3e7fa7474e7c/artifacts
+deleted_time: 1670614154827
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: cd5b0f7bd8a34b0a822e3e7fa7474e7c
+run_name: redolent-sheep-445
+run_uuid: cd5b0f7bd8a34b0a822e3e7fa7474e7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077036
+status: 1
+tags: []
+user_id: unknown

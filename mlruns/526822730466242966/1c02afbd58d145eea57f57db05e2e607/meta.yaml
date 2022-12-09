@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1c02afbd58d145eea57f57db05e2e607/artifacts
+deleted_time: 1670614072598
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1c02afbd58d145eea57f57db05e2e607
 run_name: tasteful-zebra-793
 run_uuid: 1c02afbd58d145eea57f57db05e2e607

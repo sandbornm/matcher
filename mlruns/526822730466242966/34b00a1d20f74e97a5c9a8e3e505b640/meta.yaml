@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/34b00a1d20f74e97a5c9a8e3e505b640/artifacts
+deleted_time: 1670614073036
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 34b00a1d20f74e97a5c9a8e3e505b640
 run_name: smiling-robin-566
 run_uuid: 34b00a1d20f74e97a5c9a8e3e505b640

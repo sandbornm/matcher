@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a63b502ef4a94c8aa3ee0401f25f2ab3/artifacts
+deleted_time: 1670614073196
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a63b502ef4a94c8aa3ee0401f25f2ab3
 run_name: treasured-bear-847
 run_uuid: a63b502ef4a94c8aa3ee0401f25f2ab3

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/887ffe8a8ad9420fa92dcaffe5f0cc05/artifacts
+deleted_time: 1670617474324
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 887ffe8a8ad9420fa92dcaffe5f0cc05
+run_name: unleashed-steed-825
+run_uuid: 887ffe8a8ad9420fa92dcaffe5f0cc05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161679
+status: 1
+tags: []
+user_id: unknown

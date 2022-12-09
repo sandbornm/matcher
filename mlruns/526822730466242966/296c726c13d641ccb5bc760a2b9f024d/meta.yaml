@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/296c726c13d641ccb5bc760a2b9f024d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 296c726c13d641ccb5bc760a2b9f024d
+run_name: righteous-fish-418
+run_uuid: 296c726c13d641ccb5bc760a2b9f024d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670616841732
+status: 1
+tags: []
+user_id: unknown

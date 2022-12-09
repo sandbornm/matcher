@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b2a698a2f1324588bb6baa9ebb669125/artifacts
+deleted_time: 1670614072825
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b2a698a2f1324588bb6baa9ebb669125
 run_name: skillful-hen-914
 run_uuid: b2a698a2f1324588bb6baa9ebb669125

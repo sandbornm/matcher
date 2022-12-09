@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a5719e4bdf6e4b239497c1cbb6aaa533/artifacts
+deleted_time: 1670614073530
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a5719e4bdf6e4b239497c1cbb6aaa533
 run_name: salty-shrike-353
 run_uuid: a5719e4bdf6e4b239497c1cbb6aaa533

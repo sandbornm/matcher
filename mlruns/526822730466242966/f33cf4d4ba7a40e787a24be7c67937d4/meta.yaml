@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f33cf4d4ba7a40e787a24be7c67937d4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f33cf4d4ba7a40e787a24be7c67937d4
+run_name: placid-mink-454
+run_uuid: f33cf4d4ba7a40e787a24be7c67937d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614163530
+status: 1
+tags: []
+user_id: unknown

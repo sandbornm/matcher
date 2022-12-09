@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b57f7354b9644db49a244ab4e043060f/artifacts
+deleted_time: 1670614073225
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b57f7354b9644db49a244ab4e043060f
 run_name: omniscient-foal-717
 run_uuid: b57f7354b9644db49a244ab4e043060f

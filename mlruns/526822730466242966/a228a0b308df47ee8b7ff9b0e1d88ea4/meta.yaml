@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a228a0b308df47ee8b7ff9b0e1d88ea4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a228a0b308df47ee8b7ff9b0e1d88ea4
+run_name: bald-ape-916
+run_uuid: a228a0b308df47ee8b7ff9b0e1d88ea4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614462422
+status: 1
+tags: []
+user_id: unknown

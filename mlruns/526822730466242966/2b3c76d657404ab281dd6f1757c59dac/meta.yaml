@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2b3c76d657404ab281dd6f1757c59dac/artifacts
+deleted_time: 1670617473797
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 2b3c76d657404ab281dd6f1757c59dac
+run_name: debonair-ram-437
+run_uuid: 2b3c76d657404ab281dd6f1757c59dac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670617248108
+status: 1
+tags: []
+user_id: unknown

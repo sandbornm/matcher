@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e5061946c3224bcf92b719c87c797690/artifacts
+deleted_time: 1670614072892
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e5061946c3224bcf92b719c87c797690
 run_name: classy-kit-536
 run_uuid: e5061946c3224bcf92b719c87c797690

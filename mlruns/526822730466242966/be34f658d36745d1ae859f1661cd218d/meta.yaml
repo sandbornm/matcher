@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/be34f658d36745d1ae859f1661cd218d/artifacts
+deleted_time: 1670617521610
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: be34f658d36745d1ae859f1661cd218d
+run_name: exultant-carp-958
+run_uuid: be34f658d36745d1ae859f1661cd218d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160570
+status: 1
+tags: []
+user_id: unknown

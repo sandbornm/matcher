@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/900eeb077751402a952b683f8f03e118/artifacts
+deleted_time: 1670614073536
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 900eeb077751402a952b683f8f03e118
 run_name: languid-squirrel-556
 run_uuid: 900eeb077751402a952b683f8f03e118

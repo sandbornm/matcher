@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e208f831b8fb419cb5dcffb9141c7034/artifacts
+deleted_time: 1670617522171
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: e208f831b8fb419cb5dcffb9141c7034
+run_name: sincere-squirrel-555
+run_uuid: e208f831b8fb419cb5dcffb9141c7034
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614158019
+status: 1
+tags: []
+user_id: unknown

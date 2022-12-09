@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e2dc3d93ac494559ac6f43b00ddaf7d1/artifacts
+deleted_time: 1670614073574
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e2dc3d93ac494559ac6f43b00ddaf7d1
 run_name: adaptable-sheep-986
 run_uuid: e2dc3d93ac494559ac6f43b00ddaf7d1

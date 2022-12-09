@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1090099885ef42a9bd5978e709f3c09a/artifacts
+deleted_time: 1670614073523
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1090099885ef42a9bd5978e709f3c09a
 run_name: stylish-hound-60
 run_uuid: 1090099885ef42a9bd5978e709f3c09a

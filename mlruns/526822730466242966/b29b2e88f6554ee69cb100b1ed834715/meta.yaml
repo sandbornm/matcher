@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b29b2e88f6554ee69cb100b1ed834715/artifacts
+deleted_time: 1670614072746
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b29b2e88f6554ee69cb100b1ed834715
 run_name: monumental-rat-45
 run_uuid: b29b2e88f6554ee69cb100b1ed834715

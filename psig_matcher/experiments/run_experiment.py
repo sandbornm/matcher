@@ -13,7 +13,6 @@ from sklearn.model_selection import ParameterGrid
 import multiprocessing as mp
 import time
 import random
-import warnings
 import traceback
 import pandas as pd
 import shutil
@@ -45,9 +44,13 @@ def load_part_data(part_type: str) -> List[Part]:
 
     parts = []
     for part_dir in os.listdir(f'psig_matcher/data/{part_type}'):
+        
         if not os.path.isdir(f'psig_matcher/data/{part_type}/{part_dir}'): continue
+        
         sensor = part_dir[1:]
         measurement_files = glob.glob(f'psig_matcher/data/{part_type}/{part_dir}/*.npy')
+        if not measurement_files: continue
+        
         measurements = [np.load(f) for f in measurement_files]
         parts.append(Part(part_type, part_dir, sensor, measurements))
 
@@ -195,6 +198,7 @@ def run_experiment(experiment_id: int, part_type: str, part_dim: int, num_sample
     client.log_param(run_id, "confidence_bound", confidence_bound)
 
     con_parts = load_part_data(part_type)
+    print(con_parts)
     upper_collision_rate = run_meta_markov_multivariant_analysis(client, run_id, con_parts, part_dim, num_samples, meta_pdf_ci, part_pdf_ci, confidence_bound)
     client.log_metric(run_id, "monte_carlo_upper_collision_rate", upper_collision_rate)
     print(f"Upper collision rate: {upper_collision_rate * 100}%")

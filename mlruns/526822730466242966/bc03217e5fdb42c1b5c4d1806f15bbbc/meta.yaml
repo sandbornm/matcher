@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bc03217e5fdb42c1b5c4d1806f15bbbc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: bc03217e5fdb42c1b5c4d1806f15bbbc
+run_name: luminous-bug-782
+run_uuid: bc03217e5fdb42c1b5c4d1806f15bbbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614164027
+status: 1
+tags: []
+user_id: unknown

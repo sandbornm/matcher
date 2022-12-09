@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b81d397666c344208437116572b1cbf2/artifacts
+deleted_time: 1670614072953
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b81d397666c344208437116572b1cbf2
 run_name: victorious-mouse-431
 run_uuid: b81d397666c344208437116572b1cbf2

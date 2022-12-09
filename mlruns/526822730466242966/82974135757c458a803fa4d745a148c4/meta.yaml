@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/82974135757c458a803fa4d745a148c4/artifacts
+deleted_time: 1670614073437
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 82974135757c458a803fa4d745a148c4
 run_name: burly-goat-901
 run_uuid: 82974135757c458a803fa4d745a148c4

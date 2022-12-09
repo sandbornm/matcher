@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2cc7797f61384770b6338ce5e35bf4ba/artifacts
+deleted_time: 1670614154865
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 2cc7797f61384770b6338ce5e35bf4ba
+run_name: masked-duck-146
+run_uuid: 2cc7797f61384770b6338ce5e35bf4ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076831
+status: 1
+tags: []
+user_id: unknown

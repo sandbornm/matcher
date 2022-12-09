@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2470020ddd2a40eaa35487f50012c3a1/artifacts
+deleted_time: 1670614072917
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2470020ddd2a40eaa35487f50012c3a1
 run_name: placid-tern-313
 run_uuid: 2470020ddd2a40eaa35487f50012c3a1

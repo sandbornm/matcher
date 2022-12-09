@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f35ecba29e55438e9a96f9b275cc1926/artifacts
+deleted_time: 1670617474355
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: f35ecba29e55438e9a96f9b275cc1926
+run_name: salty-zebra-66
+run_uuid: f35ecba29e55438e9a96f9b275cc1926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161542
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1483b7f6f778465d9656b31ea7c4d63d/artifacts
+deleted_time: 1670617521854
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 1483b7f6f778465d9656b31ea7c4d63d
+run_name: marvelous-dog-84
+run_uuid: 1483b7f6f778465d9656b31ea7c4d63d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159471
+status: 1
+tags: []
+user_id: unknown

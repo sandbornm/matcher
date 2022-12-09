@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fe4a6a254dff455ab81c8d49081e3bbf/artifacts
+deleted_time: 1670614073160
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: fe4a6a254dff455ab81c8d49081e3bbf
 run_name: dapper-flea-307
 run_uuid: fe4a6a254dff455ab81c8d49081e3bbf

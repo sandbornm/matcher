@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b19912c0f0694240a0ae562b02a0c09b/artifacts
+deleted_time: 1670617474415
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: b19912c0f0694240a0ae562b02a0c09b
+run_name: rumbling-ant-34
+run_uuid: b19912c0f0694240a0ae562b02a0c09b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161307
+status: 1
+tags: []
+user_id: unknown

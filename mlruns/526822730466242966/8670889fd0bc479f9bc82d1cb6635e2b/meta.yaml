@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8670889fd0bc479f9bc82d1cb6635e2b/artifacts
+deleted_time: 1670614072667
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8670889fd0bc479f9bc82d1cb6635e2b
 run_name: awesome-ram-376
 run_uuid: 8670889fd0bc479f9bc82d1cb6635e2b

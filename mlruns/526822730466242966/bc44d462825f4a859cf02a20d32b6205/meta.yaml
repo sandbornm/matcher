@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bc44d462825f4a859cf02a20d32b6205/artifacts
+deleted_time: 1670617474115
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: bc44d462825f4a859cf02a20d32b6205
+run_name: mercurial-steed-906
+run_uuid: bc44d462825f4a859cf02a20d32b6205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162638
+status: 1
+tags: []
+user_id: unknown

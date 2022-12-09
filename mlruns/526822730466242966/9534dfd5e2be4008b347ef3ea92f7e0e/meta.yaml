@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9534dfd5e2be4008b347ef3ea92f7e0e/artifacts
+deleted_time: 1670614154744
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 9534dfd5e2be4008b347ef3ea92f7e0e
+run_name: sedate-penguin-873
+run_uuid: 9534dfd5e2be4008b347ef3ea92f7e0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077450
+status: 1
+tags: []
+user_id: unknown

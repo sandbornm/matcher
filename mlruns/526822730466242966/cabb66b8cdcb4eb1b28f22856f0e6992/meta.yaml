@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cabb66b8cdcb4eb1b28f22856f0e6992/artifacts
+deleted_time: 1670614154970
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: cabb66b8cdcb4eb1b28f22856f0e6992
+run_name: casual-frog-357
+run_uuid: cabb66b8cdcb4eb1b28f22856f0e6992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076298
+status: 1
+tags: []
+user_id: unknown

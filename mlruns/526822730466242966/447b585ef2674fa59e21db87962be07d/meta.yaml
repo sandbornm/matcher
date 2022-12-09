@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/447b585ef2674fa59e21db87962be07d/artifacts
+deleted_time: 1670614154761
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 447b585ef2674fa59e21db87962be07d
+run_name: polite-lamb-346
+run_uuid: 447b585ef2674fa59e21db87962be07d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077346
+status: 1
+tags: []
+user_id: unknown

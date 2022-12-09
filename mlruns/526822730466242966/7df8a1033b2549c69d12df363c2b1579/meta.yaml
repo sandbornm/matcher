@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7df8a1033b2549c69d12df363c2b1579/artifacts
+deleted_time: 1670614072820
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7df8a1033b2549c69d12df363c2b1579
 run_name: persistent-owl-237
 run_uuid: 7df8a1033b2549c69d12df363c2b1579

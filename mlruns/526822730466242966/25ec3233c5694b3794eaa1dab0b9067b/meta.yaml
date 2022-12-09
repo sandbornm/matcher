@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/25ec3233c5694b3794eaa1dab0b9067b/artifacts
+deleted_time: 1670614154764
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 25ec3233c5694b3794eaa1dab0b9067b
+run_name: merciful-cow-359
+run_uuid: 25ec3233c5694b3794eaa1dab0b9067b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077332
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5b49399310614527b2dd14bfd7bb4375/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5b49399310614527b2dd14bfd7bb4375
+run_name: grandiose-crab-617
+run_uuid: 5b49399310614527b2dd14bfd7bb4375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614163491
+status: 1
+tags: []
+user_id: unknown

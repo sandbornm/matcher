@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f4e8db67e1dc4c69a369c493873fc3e9/artifacts
+deleted_time: 1670614073272
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f4e8db67e1dc4c69a369c493873fc3e9
 run_name: calm-turtle-220
 run_uuid: f4e8db67e1dc4c69a369c493873fc3e9

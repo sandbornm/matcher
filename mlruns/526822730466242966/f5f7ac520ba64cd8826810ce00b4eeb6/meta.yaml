@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f5f7ac520ba64cd8826810ce00b4eeb6/artifacts
+deleted_time: 1670614154797
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: f5f7ac520ba64cd8826810ce00b4eeb6
+run_name: tasteful-mare-71
+run_uuid: f5f7ac520ba64cd8826810ce00b4eeb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077144
+status: 1
+tags: []
+user_id: unknown

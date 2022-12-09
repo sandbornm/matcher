@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4a201d091e3842b18d47c2d3337423d7/artifacts
+deleted_time: 1670617473841
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 4a201d091e3842b18d47c2d3337423d7
+run_name: agreeable-shrimp-748
+run_uuid: 4a201d091e3842b18d47c2d3337423d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670616863194
+status: 1
+tags: []
+user_id: unknown

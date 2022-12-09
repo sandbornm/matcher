@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4116d832abbe4c9a9d2bbfe7b281ae63/artifacts
+deleted_time: 1670614154818
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 4116d832abbe4c9a9d2bbfe7b281ae63
+run_name: fun-eel-529
+run_uuid: 4116d832abbe4c9a9d2bbfe7b281ae63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077048
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b5a6de93de8f47ceb375565fbfdf23b3/artifacts
+deleted_time: 1670614154783
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: b5a6de93de8f47ceb375565fbfdf23b3
+run_name: upbeat-cow-881
+run_uuid: b5a6de93de8f47ceb375565fbfdf23b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077251
+status: 1
+tags: []
+user_id: unknown

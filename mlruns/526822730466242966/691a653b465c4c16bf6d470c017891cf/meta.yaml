@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/691a653b465c4c16bf6d470c017891cf/artifacts
+deleted_time: 1670617521835
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 691a653b465c4c16bf6d470c017891cf
+run_name: whimsical-stoat-268
+run_uuid: 691a653b465c4c16bf6d470c017891cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159549
+status: 1
+tags: []
+user_id: unknown

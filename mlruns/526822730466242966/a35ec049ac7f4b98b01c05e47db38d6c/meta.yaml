@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a35ec049ac7f4b98b01c05e47db38d6c/artifacts
+deleted_time: 1670617521945
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: a35ec049ac7f4b98b01c05e47db38d6c
+run_name: exultant-worm-841
+run_uuid: a35ec049ac7f4b98b01c05e47db38d6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159066
+status: 1
+tags: []
+user_id: unknown

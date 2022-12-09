@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e7d8437ee045456e8a504d8b5e0bc86a/artifacts
+deleted_time: 1670614073092
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e7d8437ee045456e8a504d8b5e0bc86a
 run_name: bittersweet-ape-620
 run_uuid: e7d8437ee045456e8a504d8b5e0bc86a

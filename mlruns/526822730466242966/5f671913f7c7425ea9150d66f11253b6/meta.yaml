@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5f671913f7c7425ea9150d66f11253b6/artifacts
+deleted_time: 1670614072703
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5f671913f7c7425ea9150d66f11253b6
 run_name: traveling-cod-494
 run_uuid: 5f671913f7c7425ea9150d66f11253b6

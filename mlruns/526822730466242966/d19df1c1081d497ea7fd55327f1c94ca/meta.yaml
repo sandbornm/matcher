@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d19df1c1081d497ea7fd55327f1c94ca/artifacts
+deleted_time: 1670614072654
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d19df1c1081d497ea7fd55327f1c94ca
 run_name: upset-smelt-799
 run_uuid: d19df1c1081d497ea7fd55327f1c94ca

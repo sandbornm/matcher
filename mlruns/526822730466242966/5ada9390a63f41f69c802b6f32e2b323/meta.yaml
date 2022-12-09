@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5ada9390a63f41f69c802b6f32e2b323/artifacts
+deleted_time: 1670617474229
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 5ada9390a63f41f69c802b6f32e2b323
+run_name: smiling-foal-267
+run_uuid: 5ada9390a63f41f69c802b6f32e2b323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162098
+status: 1
+tags: []
+user_id: unknown

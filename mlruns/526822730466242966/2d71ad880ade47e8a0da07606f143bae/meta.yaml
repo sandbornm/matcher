@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2d71ad880ade47e8a0da07606f143bae/artifacts
+deleted_time: 1670617474365
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 2d71ad880ade47e8a0da07606f143bae
+run_name: unruly-rat-69
+run_uuid: 2d71ad880ade47e8a0da07606f143bae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161494
+status: 1
+tags: []
+user_id: unknown

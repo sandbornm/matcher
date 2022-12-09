@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c8c84db493074728b7af12a16a752869/artifacts
+deleted_time: 1670614072545
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c8c84db493074728b7af12a16a752869
 run_name: classy-gull-402
 run_uuid: c8c84db493074728b7af12a16a752869

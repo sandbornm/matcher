@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fc405c00448f42599f919c40f19603cb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fc405c00448f42599f919c40f19603cb
+run_name: victorious-doe-297
+run_uuid: fc405c00448f42599f919c40f19603cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670617789163
+status: 1
+tags: []
+user_id: unknown

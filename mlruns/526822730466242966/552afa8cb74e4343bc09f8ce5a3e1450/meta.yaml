@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/552afa8cb74e4343bc09f8ce5a3e1450/artifacts
+deleted_time: 1670614154897
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 552afa8cb74e4343bc09f8ce5a3e1450
+run_name: respected-hound-791
+run_uuid: 552afa8cb74e4343bc09f8ce5a3e1450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076673
+status: 1
+tags: []
+user_id: unknown

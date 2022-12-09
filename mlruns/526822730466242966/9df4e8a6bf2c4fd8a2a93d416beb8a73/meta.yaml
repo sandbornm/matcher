@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9df4e8a6bf2c4fd8a2a93d416beb8a73/artifacts
+deleted_time: 1670617522146
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 9df4e8a6bf2c4fd8a2a93d416beb8a73
+run_name: incongruous-wren-360
+run_uuid: 9df4e8a6bf2c4fd8a2a93d416beb8a73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614158143
+status: 1
+tags: []
+user_id: unknown

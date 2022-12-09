@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a3fcacc2fe414400a5049096390ddb7f/artifacts
+deleted_time: 1670617473895
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: a3fcacc2fe414400a5049096390ddb7f
+run_name: zealous-swan-459
+run_uuid: a3fcacc2fe414400a5049096390ddb7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670615242021
+status: 1
+tags: []
+user_id: unknown

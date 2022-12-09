@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/34a1975f744c4d5ab2946c5adda2cd87/artifacts
+deleted_time: 1670614154840
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 34a1975f744c4d5ab2946c5adda2cd87
+run_name: enthused-fowl-545
+run_uuid: 34a1975f744c4d5ab2946c5adda2cd87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076964
+status: 1
+tags: []
+user_id: unknown

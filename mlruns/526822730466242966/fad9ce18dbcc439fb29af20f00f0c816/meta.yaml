@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fad9ce18dbcc439fb29af20f00f0c816/artifacts
+deleted_time: 1670614072992
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: fad9ce18dbcc439fb29af20f00f0c816
 run_name: respected-goose-542
 run_uuid: fad9ce18dbcc439fb29af20f00f0c816

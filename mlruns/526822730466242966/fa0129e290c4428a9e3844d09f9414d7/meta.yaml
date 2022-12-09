@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fa0129e290c4428a9e3844d09f9414d7/artifacts
+deleted_time: 1670614072769
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: fa0129e290c4428a9e3844d09f9414d7
 run_name: likeable-boar-139
 run_uuid: fa0129e290c4428a9e3844d09f9414d7

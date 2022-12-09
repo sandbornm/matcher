@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2dc53bbfdaf9455b932f9eb973b3ed31/artifacts
+deleted_time: 1670614072687
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2dc53bbfdaf9455b932f9eb973b3ed31
 run_name: persistent-stoat-371
 run_uuid: 2dc53bbfdaf9455b932f9eb973b3ed31

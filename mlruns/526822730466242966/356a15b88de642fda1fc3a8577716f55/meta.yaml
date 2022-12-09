@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/356a15b88de642fda1fc3a8577716f55/artifacts
+deleted_time: 1670614072982
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 356a15b88de642fda1fc3a8577716f55
 run_name: persistent-newt-900
 run_uuid: 356a15b88de642fda1fc3a8577716f55

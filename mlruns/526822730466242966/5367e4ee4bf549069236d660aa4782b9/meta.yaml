@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5367e4ee4bf549069236d660aa4782b9/artifacts
+deleted_time: 1670614154908
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 5367e4ee4bf549069236d660aa4782b9
+run_name: melodic-dolphin-217
+run_uuid: 5367e4ee4bf549069236d660aa4782b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076597
+status: 1
+tags: []
+user_id: unknown

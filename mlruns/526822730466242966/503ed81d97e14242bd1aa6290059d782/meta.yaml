@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/503ed81d97e14242bd1aa6290059d782/artifacts
+deleted_time: 1670614073267
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 503ed81d97e14242bd1aa6290059d782
 run_name: respected-whale-492
 run_uuid: 503ed81d97e14242bd1aa6290059d782

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fdc1298a998347e4b27bc96e76df531c/artifacts
+deleted_time: 1670617474251
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: fdc1298a998347e4b27bc96e76df531c
+run_name: silent-worm-168
+run_uuid: fdc1298a998347e4b27bc96e76df531c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161989
+status: 1
+tags: []
+user_id: unknown

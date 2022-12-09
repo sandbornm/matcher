@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c7c95328975a4ae3895d07461f3c1dee/artifacts
+deleted_time: 1670614072486
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c7c95328975a4ae3895d07461f3c1dee
 run_name: incongruous-cod-640
 run_uuid: c7c95328975a4ae3895d07461f3c1dee

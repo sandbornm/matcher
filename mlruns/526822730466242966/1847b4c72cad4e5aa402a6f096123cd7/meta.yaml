@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1847b4c72cad4e5aa402a6f096123cd7/artifacts
+deleted_time: 1670617474019
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 1847b4c72cad4e5aa402a6f096123cd7
+run_name: unleashed-robin-560
+run_uuid: 1847b4c72cad4e5aa402a6f096123cd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614163091
+status: 1
+tags: []
+user_id: unknown

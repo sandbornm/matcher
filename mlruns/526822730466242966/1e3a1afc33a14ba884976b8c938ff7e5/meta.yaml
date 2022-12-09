@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1e3a1afc33a14ba884976b8c938ff7e5/artifacts
+deleted_time: 1670614154981
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 1e3a1afc33a14ba884976b8c938ff7e5
+run_name: glamorous-sponge-267
+run_uuid: 1e3a1afc33a14ba884976b8c938ff7e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076165
+status: 1
+tags: []
+user_id: unknown

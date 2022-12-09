@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/449898b95a824d718f7f40d4e2102154/artifacts
+deleted_time: 1670617521531
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 449898b95a824d718f7f40d4e2102154
+run_name: classy-cow-90
+run_uuid: 449898b95a824d718f7f40d4e2102154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160953
+status: 1
+tags: []
+user_id: unknown

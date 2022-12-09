@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b7955d9af0b746d8bed3072da0b89dbe/artifacts
+deleted_time: 1670614072997
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b7955d9af0b746d8bed3072da0b89dbe
 run_name: ambitious-hound-881
 run_uuid: b7955d9af0b746d8bed3072da0b89dbe

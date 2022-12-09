@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f175771ecbe64e3a905e616e0daa39f5/artifacts
+deleted_time: 1670617521553
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: f175771ecbe64e3a905e616e0daa39f5
+run_name: melodic-turtle-340
+run_uuid: f175771ecbe64e3a905e616e0daa39f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160861
+status: 1
+tags: []
+user_id: unknown

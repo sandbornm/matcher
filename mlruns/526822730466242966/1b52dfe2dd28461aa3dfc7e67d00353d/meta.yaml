@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1b52dfe2dd28461aa3dfc7e67d00353d/artifacts
+deleted_time: 1670617521500
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 1b52dfe2dd28461aa3dfc7e67d00353d
+run_name: indecisive-seal-894
+run_uuid: 1b52dfe2dd28461aa3dfc7e67d00353d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614161075
+status: 1
+tags: []
+user_id: unknown

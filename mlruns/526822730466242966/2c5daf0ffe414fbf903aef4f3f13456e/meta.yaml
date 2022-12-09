@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2c5daf0ffe414fbf903aef4f3f13456e/artifacts
+deleted_time: 1670614072726
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2c5daf0ffe414fbf903aef4f3f13456e
 run_name: welcoming-seal-135
 run_uuid: 2c5daf0ffe414fbf903aef4f3f13456e

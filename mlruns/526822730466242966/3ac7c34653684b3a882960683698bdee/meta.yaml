@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3ac7c34653684b3a882960683698bdee/artifacts
+deleted_time: 1670614073077
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3ac7c34653684b3a882960683698bdee
 run_name: sedate-ox-961
 run_uuid: 3ac7c34653684b3a882960683698bdee

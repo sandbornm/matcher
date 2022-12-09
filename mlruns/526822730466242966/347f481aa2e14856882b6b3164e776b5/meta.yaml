@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/347f481aa2e14856882b6b3164e776b5/artifacts
+deleted_time: 1670614072933
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 347f481aa2e14856882b6b3164e776b5
 run_name: rogue-hawk-172
 run_uuid: 347f481aa2e14856882b6b3164e776b5

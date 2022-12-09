@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bae8048df780472086467eab1b18f7f1/artifacts
+deleted_time: 1670617521663
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: bae8048df780472086467eab1b18f7f1
+run_name: thundering-cat-225
+run_uuid: bae8048df780472086467eab1b18f7f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614160326
+status: 1
+tags: []
+user_id: unknown

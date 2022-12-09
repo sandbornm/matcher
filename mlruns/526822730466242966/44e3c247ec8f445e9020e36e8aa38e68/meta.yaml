@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/44e3c247ec8f445e9020e36e8aa38e68/artifacts
+deleted_time: 1670617521792
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 44e3c247ec8f445e9020e36e8aa38e68
+run_name: capricious-loon-165
+run_uuid: 44e3c247ec8f445e9020e36e8aa38e68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614159774
+status: 1
+tags: []
+user_id: unknown

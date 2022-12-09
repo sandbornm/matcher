@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/91fad8d950c04939b79fcd36fbd5c826/artifacts
+deleted_time: 1670617522276
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 91fad8d950c04939b79fcd36fbd5c826
+run_name: bustling-ape-791
+run_uuid: 91fad8d950c04939b79fcd36fbd5c826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614157681
+status: 1
+tags: []
+user_id: unknown

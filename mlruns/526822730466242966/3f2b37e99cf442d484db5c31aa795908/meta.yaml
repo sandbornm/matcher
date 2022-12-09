@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3f2b37e99cf442d484db5c31aa795908/artifacts
+deleted_time: 1670614073579
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3f2b37e99cf442d484db5c31aa795908
 run_name: blushing-stoat-570
 run_uuid: 3f2b37e99cf442d484db5c31aa795908

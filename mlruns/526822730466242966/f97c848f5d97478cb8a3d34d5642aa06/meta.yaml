@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f97c848f5d97478cb8a3d34d5642aa06/artifacts
+deleted_time: 1670614073355
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f97c848f5d97478cb8a3d34d5642aa06
 run_name: placid-fish-708
 run_uuid: f97c848f5d97478cb8a3d34d5642aa06

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9e223f5ff5724980baf8d1de410fc748/artifacts
+deleted_time: 1670614154889
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 9e223f5ff5724980baf8d1de410fc748
+run_name: masked-grouse-313
+run_uuid: 9e223f5ff5724980baf8d1de410fc748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614076684
+status: 1
+tags: []
+user_id: unknown

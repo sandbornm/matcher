@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/74ea9e6779a54b73be4b22f407e39010/artifacts
+deleted_time: 1670614072861
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 74ea9e6779a54b73be4b22f407e39010
 run_name: redolent-ray-179
 run_uuid: 74ea9e6779a54b73be4b22f407e39010

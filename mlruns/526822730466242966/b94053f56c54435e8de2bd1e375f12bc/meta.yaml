@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b94053f56c54435e8de2bd1e375f12bc/artifacts
+deleted_time: 1670614073347
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b94053f56c54435e8de2bd1e375f12bc
 run_name: tasteful-hare-733
 run_uuid: b94053f56c54435e8de2bd1e375f12bc

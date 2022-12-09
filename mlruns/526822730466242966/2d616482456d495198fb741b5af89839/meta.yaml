@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2d616482456d495198fb741b5af89839/artifacts
+deleted_time: 1670614154802
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 2d616482456d495198fb741b5af89839
+run_name: orderly-sow-254
+run_uuid: 2d616482456d495198fb741b5af89839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614077110
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bd44a22fe12744709db5917351a3815c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: bd44a22fe12744709db5917351a3815c
+run_name: delightful-frog-60
+run_uuid: bd44a22fe12744709db5917351a3815c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614163577
+status: 1
+tags: []
+user_id: unknown

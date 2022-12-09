@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7a2bca553c11472db85e36b9714b860d/artifacts
+deleted_time: 1670614073393
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7a2bca553c11472db85e36b9714b860d
 run_name: nervous-gull-731
 run_uuid: 7a2bca553c11472db85e36b9714b860d

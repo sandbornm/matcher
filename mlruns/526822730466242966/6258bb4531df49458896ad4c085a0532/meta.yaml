@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6258bb4531df49458896ad4c085a0532/artifacts
+deleted_time: 1670614073339
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6258bb4531df49458896ad4c085a0532
 run_name: bright-koi-567
 run_uuid: 6258bb4531df49458896ad4c085a0532

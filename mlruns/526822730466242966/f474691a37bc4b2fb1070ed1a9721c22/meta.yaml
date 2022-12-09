@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f474691a37bc4b2fb1070ed1a9721c22/artifacts
+deleted_time: 1670617474105
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: f474691a37bc4b2fb1070ed1a9721c22
+run_name: dapper-wren-869
+run_uuid: f474691a37bc4b2fb1070ed1a9721c22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670614162683
+status: 1
+tags: []
+user_id: unknown

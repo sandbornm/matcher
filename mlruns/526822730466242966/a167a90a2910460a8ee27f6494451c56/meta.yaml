@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a167a90a2910460a8ee27f6494451c56/artifacts
+deleted_time: 1670614073569
 end_time: null
 entry_point_name: ''
 experiment_id: '526822730466242966'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a167a90a2910460a8ee27f6494451c56
 run_name: masked-mule-546
 run_uuid: a167a90a2910460a8ee27f6494451c56
