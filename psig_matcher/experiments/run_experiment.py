@@ -11,6 +11,19 @@ import sys
 import mlflow
 from sklearn.model_selection import ParameterGrid
 import multiprocessing as mp
+import time
+import random
+import warnings
+import traceback
+
+def warn_with_traceback(message, category, filename, lineno, file=None, line=None):
+
+    log = file if hasattr(file,'write') else sys.stderr
+    traceback.print_stack(file=log)
+    log.write(warnings.formatwarning(message, category, filename, lineno, line))
+
+warnings.showwarning = warn_with_traceback
+warnings.simplefilter("always")
 
 @dataclass
 class MultivariateNormalDistribution:
@@ -62,9 +75,9 @@ def compute_normal_ci(x: List[float], confidence: float) -> Tuple[float, float]:
             raise ValueError('x must be 1 or 2 dimensional')
 
     if len(x) < 30:
-        return st.t.interval(confidence, len(x)-1, loc=np.mean(x), scale=st.sem(x))
+        return st.t.interval(confidence, len(x)-1, loc=np.mean(x, axis=0), scale=np.std(x, axis=0))
     else:
-        return stats.norm.interval(confidence, loc=np.mean(x), scale=np.std(x))
+        return stats.norm.interval(confidence, loc=np.mean(x, axis=0), scale=np.std(x, axis=0))
 
 def estimate_normal_dist(x: List[float], confidence: float) -> MultivariateNormalDistribution:
     """Estimate the normal distribution for the given data.
@@ -133,7 +146,9 @@ def run_meta_markov_multivariant_analysis(client: mlflow.tracking.MlflowClient, 
         collisions.append(collision_rate)
         client.log_metric(run_id, "monte_carlo_collision_rate", collision_rate)
 
+        if len(collisions) < 2: continue
         lower, upper = compute_normal_ci(collisions, 0.95)
+
         confidence_ranges.append(upper - lower)
         client.log_metric(run_id, "monte_carlo_confidence_interval", upper - lower)
         # print(len(confidence_ranges))
@@ -213,18 +228,17 @@ def run_parallel_experiment():
         'confidence_bound' : [0.5, 0.8, 0.9, 0.95, 0.99, 0.999],
         'experiment_id': [experiment_id]}
 
-    parameter_grid = list(ParameterGrid(param_values))[0:1]
-    print(f"Running {len(parameter_grid)} experiments")
+    parameter_grid = list(ParameterGrid(param_values))[0:1]  
+    random.shuffle(parameter_grid)
+    print(f"Running {len(parameter_grid)} experiments - starting at: {time.time()}")
 
     pool = mp.Pool(mp.cpu_count())
     for params in parameter_grid:
-        #pool.apply_async(run_experiment, kwds=params)
-        run_experiment(**params)
+        pool.apply_async(run_experiment, kwds=params)
 
     pool.close()
     pool.join()
 
 
 if __name__ == '__main__':
-    #main()
     run_parallel_experiment()
