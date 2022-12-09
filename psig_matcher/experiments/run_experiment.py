@@ -80,23 +80,17 @@ def compute_normal_ci(x: List[float], confidence: float) -> Tuple[float, float]:
     else:
         return stats.norm.interval(confidence, loc=np.mean(x, axis=0), scale=np.std(x, axis=0))
 
-def estimate_normal_dist(x: List[float], confidence: float) -> MultivariateNormalDistribution:
+def estimate_normal_dist(x: List[float], confidence: float) -> NormalDistribution:
     """Estimate the normal distribution for the given data.
     This is done using: https://handbook-5-1.cochrane.org/chapter_7/7_7_3_2_obtaining_standard_deviations_from_standard_errors_and.htm#:~:text=The%20standard%20deviation%20for%20each,should%20be%20replaced%20by%205.15.
-
     """
 
-    data_mean = np.mean(x, axis=0)
-    data_std = np.std(x, axis=0)
+    val_comp = st.t.ppf if len(x) < 30 else stats.norm.ppf
+    lower, upper = compute_normal_ci(x, confidence)
 
-    t_score = st.t.ppf(confidence, np.array(x).shape[0] - 1)
-    z_score = st.norm.ppf(confidence)
-    scaling_factor = t_score if len(x) < 30 else z_score
-
-    desired_std = data_std + (data_std * scaling_factor)
-    derived_data = (x - data_mean) / data_std * desired_std + data_mean
-    derived_data_cov = np.cov(derived_data, rowvar=False)
-    return MultivariateNormalDistribution(data_mean, derived_data_cov)
+    val = val_comp(confidence, len(x)-1)
+    std = np.sqrt(len(x))*(upper-lower)*val
+    return NormalDistribution(np.mean(x, axis=0), std)
 
 def probability_of_multivariant_point(mu: np.ndarray, cov: np.ndarray, x: np.ndarray) -> float:
 
@@ -145,17 +139,16 @@ def run_meta_markov_multivariant_analysis(client: mlflow.tracking.MlflowClient, 
         collision_rate = estimate_overlap_of_set_with_sample_signals(multivariant_parts, num_samples, meta_pdf_ci, part_pdf_ci, confidence_bound)
 
         collisions.append(collision_rate)
-        client.log_metric(run_id, "monte_carlo_collision_rate", collision_rate)
+        # client.log_metric(run_id, "monte_carlo_collision_rate", collision_rate)
 
         if len(collisions) < 2: continue
         lower, upper = compute_normal_ci(collisions, 0.95)
 
         confidence_ranges.append(upper - lower)
-        client.log_metric(run_id, "monte_carlo_confidence_interval", upper - lower)
+        # client.log_metric(run_id, "monte_carlo_confidence_interval", upper - lower)
         # print(len(confidence_ranges))
 
         if len(confidence_ranges) > 100 and np.mean(confidence_ranges[-10:]) >= np.mean(confidence_ranges[-100:]):
-            client.log_metric(run_id, "monte_carlo_upper_collisin_rate", upper)
             return upper
 
 def simulate_part_pdf_convergence(part_signals: np.ndarray, part_dim: int, part_pdf_ci: float):
@@ -195,9 +188,10 @@ def run_experiment(experiment_id: int, part_type: str, part_dim: int, num_sample
     client.log_param(run_id, "confidence_bound", confidence_bound)
 
     con_parts = load_part_data(part_type)
-    upper_collision_rate = run_meta_markov_multivariant_analysis(client, run_id, con_parts, part_dim, num_samples, meta_pdf_ci, part_pdf_ci, confidence_bound)
-    client.log_metric(run_id, "monte_carlo_upper_collision_rate", upper_collision_rate)
-    print(f"Upper collision rate: {upper_collision_rate * 100}%")
+    for _ in range(30):
+        upper_collision_rate = run_meta_markov_multivariant_analysis(client, run_id, con_parts, part_dim, num_samples, meta_pdf_ci, part_pdf_ci, confidence_bound)
+        client.log_metric(run_id, "monte_carlo_upper_collision_rate", upper_collision_rate)
+        print(f"Upper collision rate: {upper_collision_rate * 100}%")
 
 def main():
     """ This script can be run as such:
@@ -223,11 +217,11 @@ def run_parallel_experiment():
 
     param_values = {
     'part_type': ["BEAM", "CONTAINER", "CONLID", "LID", "SEN", "TUBE"],
-    'part_dim' : [2, 5],
+    'part_dim' : [2],
     'num_samples': [100],
-    'meta_pdf_ci' : [0.95, 0.999],
-    'part_pdf_ci' : [0.95, 0.999],
-    'confidence_bound' : [0.95, 0.999],
+    'meta_pdf_ci' : [0.995, 0.999, 0.9995. 0.9999],
+    'part_pdf_ci' : [0.995, 0.999, 0.9995. 0.9999],
+    'confidence_bound' : [0.995, 0.999, 0.9995. 0.9999],
     'experiment_id': [experiment_id]}
 
     parameter_grid = list(ParameterGrid(param_values))
@@ -236,8 +230,7 @@ def run_parallel_experiment():
 
     pool = mp.Pool(mp.cpu_count())
     for params in parameter_grid:
-        for _ in range(100):
-            pool.apply_async(run_experiment, kwds=params)
+        pool.apply_async(run_experiment, kwds=params)
 
     pool.close()
     pool.join()
