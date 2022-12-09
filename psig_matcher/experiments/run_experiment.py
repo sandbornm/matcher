@@ -46,6 +46,7 @@ def load_part_data(part_type: str) -> List[Part]:
         if not os.path.isdir(f'psig_matcher/data/{part_type}/{part_dir}'): continue
         sensor = part_dir[1:]
         measurement_files = glob.glob(f'psig_matcher/data/{part_type}/{part_dir}/*.npy')
+        if not measurement_files: continue
         measurements = [np.load(f) for f in measurement_files]
         parts.append(Part(part_type, part_dir, sensor, measurements))
 
@@ -219,9 +220,9 @@ def run_parallel_experiment():
     experiment_id = mlflow.get_experiment_by_name(name='Experiment 3').experiment_id
 
     # part_types = ["BEAM", "BOX", "BRK", "CON", "CONLID", "FLG", "IMP", "LID", "SEN", "TUBE", "VNT"]
-    
+
     param_values = {
-    'part_type': ["CONTAINER", "CONLID", "LID", "SEN", "TUBE"],
+    'part_type': ["BEAM", "CONTAINER", "CONLID", "LID", "SEN", "TUBE"],
     'part_dim' : [2, 5],
     'num_samples': [100],
     'meta_pdf_ci' : [0.95, 0.999],
@@ -240,6 +241,9 @@ def run_parallel_experiment():
 
     pool.close()
     pool.join()
+    # for params in parameter_grid:
+    #     for _ in range(100):
+    #         run_experiment(**params)
 
 if __name__ == '__main__':
     run_parallel_experiment()
