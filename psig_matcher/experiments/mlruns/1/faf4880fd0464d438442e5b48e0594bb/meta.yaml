@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/faf4880fd0464d438442e5b48e0594bb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: faf4880fd0464d438442e5b48e0594bb
+run_name: salty-stoat-571
+run_uuid: faf4880fd0464d438442e5b48e0594bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231245264
+status: 1
+tags: []
+user_id: unknown

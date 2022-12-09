@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/015d063bf62a4e07b9443697a794f452/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 015d063bf62a4e07b9443697a794f452
+run_name: sedate-horse-100
+run_uuid: 015d063bf62a4e07b9443697a794f452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231201000
+status: 1
+tags: []
+user_id: unknown

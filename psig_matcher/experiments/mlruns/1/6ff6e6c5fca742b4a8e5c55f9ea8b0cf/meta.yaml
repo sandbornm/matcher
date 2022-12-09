@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6ff6e6c5fca742b4a8e5c55f9ea8b0cf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6ff6e6c5fca742b4a8e5c55f9ea8b0cf
+run_name: rogue-fox-520
+run_uuid: 6ff6e6c5fca742b4a8e5c55f9ea8b0cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233060469
+status: 1
+tags: []
+user_id: unknown

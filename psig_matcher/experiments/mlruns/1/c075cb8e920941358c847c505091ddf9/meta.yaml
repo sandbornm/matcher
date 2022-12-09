@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c075cb8e920941358c847c505091ddf9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c075cb8e920941358c847c505091ddf9
+run_name: adventurous-ram-357
+run_uuid: c075cb8e920941358c847c505091ddf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231165411
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/faf40e7d5a804c759515b82bde4992f2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: faf40e7d5a804c759515b82bde4992f2
+run_name: awesome-stork-370
+run_uuid: faf40e7d5a804c759515b82bde4992f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233079734
+status: 1
+tags: []
+user_id: unknown

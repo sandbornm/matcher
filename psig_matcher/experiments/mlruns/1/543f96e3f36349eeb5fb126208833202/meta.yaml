@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/543f96e3f36349eeb5fb126208833202/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 543f96e3f36349eeb5fb126208833202
+run_name: unleashed-bird-5
+run_uuid: 543f96e3f36349eeb5fb126208833202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233087776
+status: 1
+tags: []
+user_id: unknown

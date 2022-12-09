@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3fbc071a8d714d92a93f3cd1906fd7d9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3fbc071a8d714d92a93f3cd1906fd7d9
+run_name: nosy-gnu-44
+run_uuid: 3fbc071a8d714d92a93f3cd1906fd7d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233028820
+status: 1
+tags: []
+user_id: unknown

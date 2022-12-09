@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/495849efb09a4835b958222db6066216/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 495849efb09a4835b958222db6066216
+run_name: delightful-yak-673
+run_uuid: 495849efb09a4835b958222db6066216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231168637
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/47e896a39fed4f82af2b9f3451924c7c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 47e896a39fed4f82af2b9f3451924c7c
+run_name: nosy-tern-923
+run_uuid: 47e896a39fed4f82af2b9f3451924c7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231153831
+status: 1
+tags: []
+user_id: unknown

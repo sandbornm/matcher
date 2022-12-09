@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/138f855b4e6b42e9b5791fc7a9da8993/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 138f855b4e6b42e9b5791fc7a9da8993
+run_name: beautiful-bug-278
+run_uuid: 138f855b4e6b42e9b5791fc7a9da8993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231164162
+status: 1
+tags: []
+user_id: unknown

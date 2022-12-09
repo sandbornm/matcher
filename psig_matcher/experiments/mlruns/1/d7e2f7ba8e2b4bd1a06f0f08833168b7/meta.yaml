@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d7e2f7ba8e2b4bd1a06f0f08833168b7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d7e2f7ba8e2b4bd1a06f0f08833168b7
+run_name: awesome-croc-878
+run_uuid: d7e2f7ba8e2b4bd1a06f0f08833168b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231177421
+status: 1
+tags: []
+user_id: unknown

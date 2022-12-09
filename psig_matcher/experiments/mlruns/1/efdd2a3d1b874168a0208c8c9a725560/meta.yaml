@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/efdd2a3d1b874168a0208c8c9a725560/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: efdd2a3d1b874168a0208c8c9a725560
+run_name: ambitious-frog-669
+run_uuid: efdd2a3d1b874168a0208c8c9a725560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233061111
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/963974df1596411c8d0c5225f81da5d3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 963974df1596411c8d0c5225f81da5d3
+run_name: big-yak-672
+run_uuid: 963974df1596411c8d0c5225f81da5d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231220547
+status: 1
+tags: []
+user_id: unknown

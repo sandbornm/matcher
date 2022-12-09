@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/eeb33dd04c434e5dac9d8a62bf351c28/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eeb33dd04c434e5dac9d8a62bf351c28
+run_name: delightful-koi-112
+run_uuid: eeb33dd04c434e5dac9d8a62bf351c28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231210221
+status: 1
+tags: []
+user_id: unknown

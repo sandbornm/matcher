@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/639b8c4f983a48bb9930d066e528a622/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 639b8c4f983a48bb9930d066e528a622
+run_name: omniscient-cub-803
+run_uuid: 639b8c4f983a48bb9930d066e528a622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233041010
+status: 1
+tags: []
+user_id: unknown

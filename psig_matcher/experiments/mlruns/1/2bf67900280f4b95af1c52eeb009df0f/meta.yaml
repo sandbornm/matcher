@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2bf67900280f4b95af1c52eeb009df0f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2bf67900280f4b95af1c52eeb009df0f
+run_name: magnificent-hog-937
+run_uuid: 2bf67900280f4b95af1c52eeb009df0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233110997
+status: 1
+tags: []
+user_id: unknown

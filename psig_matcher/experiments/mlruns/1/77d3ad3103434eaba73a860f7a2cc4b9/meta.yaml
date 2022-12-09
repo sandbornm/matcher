@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/77d3ad3103434eaba73a860f7a2cc4b9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 77d3ad3103434eaba73a860f7a2cc4b9
+run_name: dashing-deer-887
+run_uuid: 77d3ad3103434eaba73a860f7a2cc4b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233102967
+status: 1
+tags: []
+user_id: unknown

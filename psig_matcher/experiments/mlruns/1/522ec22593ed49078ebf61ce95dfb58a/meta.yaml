@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/522ec22593ed49078ebf61ce95dfb58a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 522ec22593ed49078ebf61ce95dfb58a
+run_name: redolent-gnat-460
+run_uuid: 522ec22593ed49078ebf61ce95dfb58a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233067735
+status: 1
+tags: []
+user_id: unknown

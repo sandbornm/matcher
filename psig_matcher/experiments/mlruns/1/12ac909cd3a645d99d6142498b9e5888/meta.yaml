@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/12ac909cd3a645d99d6142498b9e5888/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 12ac909cd3a645d99d6142498b9e5888
+run_name: sneaky-wren-752
+run_uuid: 12ac909cd3a645d99d6142498b9e5888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231186459
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f69a753c9cf741519894a4072cfd19d7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f69a753c9cf741519894a4072cfd19d7
+run_name: capable-gull-60
+run_uuid: f69a753c9cf741519894a4072cfd19d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231154941
+status: 1
+tags: []
+user_id: unknown

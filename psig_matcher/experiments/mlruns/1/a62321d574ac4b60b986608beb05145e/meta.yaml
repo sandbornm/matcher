@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a62321d574ac4b60b986608beb05145e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a62321d574ac4b60b986608beb05145e
+run_name: nervous-foal-755
+run_uuid: a62321d574ac4b60b986608beb05145e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233049750
+status: 1
+tags: []
+user_id: unknown

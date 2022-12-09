@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3092d3d3f10a47c3b883d7c70e4de9b1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3092d3d3f10a47c3b883d7c70e4de9b1
+run_name: dashing-shrew-335
+run_uuid: 3092d3d3f10a47c3b883d7c70e4de9b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231174817
+status: 1
+tags: []
+user_id: unknown

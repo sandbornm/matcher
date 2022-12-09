@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/659782048d5140d697b8045ee4fdf97d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 659782048d5140d697b8045ee4fdf97d
+run_name: dazzling-whale-565
+run_uuid: 659782048d5140d697b8045ee4fdf97d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231231371
+status: 1
+tags: []
+user_id: unknown

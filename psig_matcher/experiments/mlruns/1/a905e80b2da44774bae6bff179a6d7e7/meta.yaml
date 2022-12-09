@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a905e80b2da44774bae6bff179a6d7e7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a905e80b2da44774bae6bff179a6d7e7
+run_name: efficient-seal-333
+run_uuid: a905e80b2da44774bae6bff179a6d7e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233030850
+status: 1
+tags: []
+user_id: unknown

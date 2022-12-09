@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9e7c3028cc704c8594ff84cb048537bb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9e7c3028cc704c8594ff84cb048537bb
+run_name: ambitious-skunk-416
+run_uuid: 9e7c3028cc704c8594ff84cb048537bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231230665
+status: 1
+tags: []
+user_id: unknown

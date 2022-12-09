@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a9c4ccd747c4465e8d4fd4c0c8811c67/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a9c4ccd747c4465e8d4fd4c0c8811c67
+run_name: colorful-stoat-254
+run_uuid: a9c4ccd747c4465e8d4fd4c0c8811c67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231181633
+status: 1
+tags: []
+user_id: unknown

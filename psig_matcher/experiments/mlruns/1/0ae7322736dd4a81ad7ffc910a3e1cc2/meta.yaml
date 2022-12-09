@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0ae7322736dd4a81ad7ffc910a3e1cc2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0ae7322736dd4a81ad7ffc910a3e1cc2
+run_name: crawling-koi-252
+run_uuid: 0ae7322736dd4a81ad7ffc910a3e1cc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231152295
+status: 1
+tags: []
+user_id: unknown

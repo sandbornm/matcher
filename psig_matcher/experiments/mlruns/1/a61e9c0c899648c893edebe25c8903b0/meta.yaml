@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a61e9c0c899648c893edebe25c8903b0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a61e9c0c899648c893edebe25c8903b0
+run_name: popular-shrew-678
+run_uuid: a61e9c0c899648c893edebe25c8903b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231188329
+status: 1
+tags: []
+user_id: unknown

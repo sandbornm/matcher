@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c2a23b08737e4ffca57ced810cd6a60a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c2a23b08737e4ffca57ced810cd6a60a
+run_name: bemused-toad-702
+run_uuid: c2a23b08737e4ffca57ced810cd6a60a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231206716
+status: 1
+tags: []
+user_id: unknown

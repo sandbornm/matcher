@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c4beb12e5da741fe8ff737be658185e5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c4beb12e5da741fe8ff737be658185e5
+run_name: beautiful-fawn-502
+run_uuid: c4beb12e5da741fe8ff737be658185e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231198731
+status: 1
+tags: []
+user_id: unknown

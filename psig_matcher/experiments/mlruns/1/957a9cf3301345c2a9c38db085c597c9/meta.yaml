@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/957a9cf3301345c2a9c38db085c597c9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 957a9cf3301345c2a9c38db085c597c9
+run_name: rogue-squirrel-150
+run_uuid: 957a9cf3301345c2a9c38db085c597c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231246044
+status: 1
+tags: []
+user_id: unknown

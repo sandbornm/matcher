@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/02b26d94a11f4a2cbca4132fb43bae3a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 02b26d94a11f4a2cbca4132fb43bae3a
+run_name: redolent-turtle-829
+run_uuid: 02b26d94a11f4a2cbca4132fb43bae3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233061950
+status: 1
+tags: []
+user_id: unknown

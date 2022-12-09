@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/afc7d68d7f9a41248673d8adfae14420/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: afc7d68d7f9a41248673d8adfae14420
+run_name: masked-dog-81
+run_uuid: afc7d68d7f9a41248673d8adfae14420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231167619
+status: 1
+tags: []
+user_id: unknown

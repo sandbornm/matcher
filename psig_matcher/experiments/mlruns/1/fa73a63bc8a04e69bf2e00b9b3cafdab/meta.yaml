@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/fa73a63bc8a04e69bf2e00b9b3cafdab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fa73a63bc8a04e69bf2e00b9b3cafdab
+run_name: beautiful-toad-5
+run_uuid: fa73a63bc8a04e69bf2e00b9b3cafdab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233049693
+status: 1
+tags: []
+user_id: unknown

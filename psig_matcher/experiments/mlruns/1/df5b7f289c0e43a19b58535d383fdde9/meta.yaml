@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/df5b7f289c0e43a19b58535d383fdde9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: df5b7f289c0e43a19b58535d383fdde9
+run_name: angry-kite-908
+run_uuid: df5b7f289c0e43a19b58535d383fdde9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231225461
+status: 1
+tags: []
+user_id: unknown

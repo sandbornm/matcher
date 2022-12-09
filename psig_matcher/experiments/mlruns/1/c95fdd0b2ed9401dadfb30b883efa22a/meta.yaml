@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c95fdd0b2ed9401dadfb30b883efa22a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c95fdd0b2ed9401dadfb30b883efa22a
+run_name: intrigued-gnat-603
+run_uuid: c95fdd0b2ed9401dadfb30b883efa22a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233147806
+status: 1
+tags: []
+user_id: unknown

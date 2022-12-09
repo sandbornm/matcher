@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/aadfe6f24a36454da02cbff0718f999a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aadfe6f24a36454da02cbff0718f999a
+run_name: judicious-duck-713
+run_uuid: aadfe6f24a36454da02cbff0718f999a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233061986
+status: 1
+tags: []
+user_id: unknown

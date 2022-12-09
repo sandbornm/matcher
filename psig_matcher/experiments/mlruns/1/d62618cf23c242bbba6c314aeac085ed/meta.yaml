@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d62618cf23c242bbba6c314aeac085ed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d62618cf23c242bbba6c314aeac085ed
+run_name: orderly-crab-94
+run_uuid: d62618cf23c242bbba6c314aeac085ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231153159
+status: 1
+tags: []
+user_id: unknown

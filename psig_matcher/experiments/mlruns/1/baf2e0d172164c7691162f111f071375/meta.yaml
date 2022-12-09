@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/baf2e0d172164c7691162f111f071375/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: baf2e0d172164c7691162f111f071375
+run_name: bouncy-snipe-247
+run_uuid: baf2e0d172164c7691162f111f071375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231149701
+status: 1
+tags: []
+user_id: unknown

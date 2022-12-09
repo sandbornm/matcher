@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/81e86047e33f4115be546d3ace971d1b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 81e86047e33f4115be546d3ace971d1b
+run_name: receptive-goose-936
+run_uuid: 81e86047e33f4115be546d3ace971d1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231204205
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e7b7608cf6e844cdb4723a40dd8e594c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e7b7608cf6e844cdb4723a40dd8e594c
+run_name: luminous-sloth-440
+run_uuid: e7b7608cf6e844cdb4723a40dd8e594c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233058971
+status: 1
+tags: []
+user_id: unknown

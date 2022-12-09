@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a0cce141e0ad4bae9c7a822fc4b91471/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a0cce141e0ad4bae9c7a822fc4b91471
+run_name: useful-trout-17
+run_uuid: a0cce141e0ad4bae9c7a822fc4b91471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233053499
+status: 1
+tags: []
+user_id: unknown

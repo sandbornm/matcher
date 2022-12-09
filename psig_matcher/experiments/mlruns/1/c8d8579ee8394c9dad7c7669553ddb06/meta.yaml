@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c8d8579ee8394c9dad7c7669553ddb06/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c8d8579ee8394c9dad7c7669553ddb06
+run_name: grandiose-bat-677
+run_uuid: c8d8579ee8394c9dad7c7669553ddb06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231175930
+status: 1
+tags: []
+user_id: unknown

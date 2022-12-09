@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/fe7abc83c6d74bbcac0d2617b4be6a9d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fe7abc83c6d74bbcac0d2617b4be6a9d
+run_name: casual-wolf-635
+run_uuid: fe7abc83c6d74bbcac0d2617b4be6a9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231233803
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a96e1b94c7b2499eb93207ae00ec422f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a96e1b94c7b2499eb93207ae00ec422f
+run_name: sassy-eel-158
+run_uuid: a96e1b94c7b2499eb93207ae00ec422f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233057340
+status: 1
+tags: []
+user_id: unknown

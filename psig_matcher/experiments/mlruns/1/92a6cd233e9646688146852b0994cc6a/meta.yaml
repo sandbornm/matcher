@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/92a6cd233e9646688146852b0994cc6a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 92a6cd233e9646688146852b0994cc6a
+run_name: polite-auk-698
+run_uuid: 92a6cd233e9646688146852b0994cc6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233087191
+status: 1
+tags: []
+user_id: unknown

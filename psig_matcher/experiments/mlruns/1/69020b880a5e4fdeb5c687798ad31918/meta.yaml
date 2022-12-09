@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/69020b880a5e4fdeb5c687798ad31918/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 69020b880a5e4fdeb5c687798ad31918
+run_name: loud-eel-390
+run_uuid: 69020b880a5e4fdeb5c687798ad31918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233131108
+status: 1
+tags: []
+user_id: unknown

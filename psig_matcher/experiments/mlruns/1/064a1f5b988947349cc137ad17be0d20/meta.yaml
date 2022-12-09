@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/064a1f5b988947349cc137ad17be0d20/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 064a1f5b988947349cc137ad17be0d20
+run_name: bustling-midge-506
+run_uuid: 064a1f5b988947349cc137ad17be0d20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231183532
+status: 1
+tags: []
+user_id: unknown

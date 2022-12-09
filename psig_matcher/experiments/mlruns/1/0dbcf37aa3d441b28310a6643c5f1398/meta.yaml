@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0dbcf37aa3d441b28310a6643c5f1398/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0dbcf37aa3d441b28310a6643c5f1398
+run_name: bald-shrew-725
+run_uuid: 0dbcf37aa3d441b28310a6643c5f1398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231224991
+status: 1
+tags: []
+user_id: unknown

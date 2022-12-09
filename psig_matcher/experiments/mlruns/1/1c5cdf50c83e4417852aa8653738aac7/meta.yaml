@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1c5cdf50c83e4417852aa8653738aac7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1c5cdf50c83e4417852aa8653738aac7
+run_name: silent-hound-951
+run_uuid: 1c5cdf50c83e4417852aa8653738aac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231222714
+status: 1
+tags: []
+user_id: unknown

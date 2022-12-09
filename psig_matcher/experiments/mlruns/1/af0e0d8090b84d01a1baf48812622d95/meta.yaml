@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/af0e0d8090b84d01a1baf48812622d95/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: af0e0d8090b84d01a1baf48812622d95
+run_name: gifted-perch-460
+run_uuid: af0e0d8090b84d01a1baf48812622d95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231176278
+status: 1
+tags: []
+user_id: unknown

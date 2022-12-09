@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2d7121d2c66742069c6fb0303482ec75/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2d7121d2c66742069c6fb0303482ec75
+run_name: funny-gull-717
+run_uuid: 2d7121d2c66742069c6fb0303482ec75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231159858
+status: 1
+tags: []
+user_id: unknown

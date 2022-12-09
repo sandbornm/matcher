@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ecd41c4a577745f2b5afca9becd4e318/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ecd41c4a577745f2b5afca9becd4e318
+run_name: nosy-sheep-336
+run_uuid: ecd41c4a577745f2b5afca9becd4e318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233129458
+status: 1
+tags: []
+user_id: unknown

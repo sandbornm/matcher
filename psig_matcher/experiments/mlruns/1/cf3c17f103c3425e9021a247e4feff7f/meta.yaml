@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cf3c17f103c3425e9021a247e4feff7f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf3c17f103c3425e9021a247e4feff7f
+run_name: vaunted-deer-59
+run_uuid: cf3c17f103c3425e9021a247e4feff7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231199668
+status: 1
+tags: []
+user_id: unknown

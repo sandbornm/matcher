@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/886a66b0cbb74ab190d8e0e090f4a261/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 886a66b0cbb74ab190d8e0e090f4a261
+run_name: nosy-stoat-385
+run_uuid: 886a66b0cbb74ab190d8e0e090f4a261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231211476
+status: 1
+tags: []
+user_id: unknown

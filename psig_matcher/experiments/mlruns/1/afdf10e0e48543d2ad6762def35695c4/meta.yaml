@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/afdf10e0e48543d2ad6762def35695c4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: afdf10e0e48543d2ad6762def35695c4
+run_name: smiling-newt-592
+run_uuid: afdf10e0e48543d2ad6762def35695c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231210512
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e12300bf0e1e410abd005bae4a6f7ff1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e12300bf0e1e410abd005bae4a6f7ff1
+run_name: melodic-fowl-533
+run_uuid: e12300bf0e1e410abd005bae4a6f7ff1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231221428
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1dcf28d75adc4feea0fc085a7d5d4d2b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1dcf28d75adc4feea0fc085a7d5d4d2b
+run_name: enthused-calf-344
+run_uuid: 1dcf28d75adc4feea0fc085a7d5d4d2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231166032
+status: 1
+tags: []
+user_id: unknown

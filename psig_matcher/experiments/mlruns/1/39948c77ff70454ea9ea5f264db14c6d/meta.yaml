@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/39948c77ff70454ea9ea5f264db14c6d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 39948c77ff70454ea9ea5f264db14c6d
+run_name: selective-bass-164
+run_uuid: 39948c77ff70454ea9ea5f264db14c6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233123957
+status: 1
+tags: []
+user_id: unknown

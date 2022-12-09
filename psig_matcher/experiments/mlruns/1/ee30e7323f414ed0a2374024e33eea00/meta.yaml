@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ee30e7323f414ed0a2374024e33eea00/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ee30e7323f414ed0a2374024e33eea00
+run_name: rogue-bug-227
+run_uuid: ee30e7323f414ed0a2374024e33eea00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233098446
+status: 1
+tags: []
+user_id: unknown

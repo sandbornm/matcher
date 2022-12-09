@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/eb807a210c244695a7b19029c7a87bd3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb807a210c244695a7b19029c7a87bd3
+run_name: auspicious-yak-468
+run_uuid: eb807a210c244695a7b19029c7a87bd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231168403
+status: 1
+tags: []
+user_id: unknown

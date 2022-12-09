@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e8c8d079d5a1433fadecdf9edc7895a0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e8c8d079d5a1433fadecdf9edc7895a0
+run_name: mercurial-yak-409
+run_uuid: e8c8d079d5a1433fadecdf9edc7895a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231150625
+status: 1
+tags: []
+user_id: unknown

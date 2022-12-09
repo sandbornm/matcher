@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/801c10cd933f424fa66b12f188057045/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 801c10cd933f424fa66b12f188057045
+run_name: polite-mouse-848
+run_uuid: 801c10cd933f424fa66b12f188057045
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231159461
+status: 1
+tags: []
+user_id: unknown

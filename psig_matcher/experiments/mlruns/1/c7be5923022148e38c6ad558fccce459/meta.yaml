@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c7be5923022148e38c6ad558fccce459/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c7be5923022148e38c6ad558fccce459
+run_name: rumbling-gnu-572
+run_uuid: c7be5923022148e38c6ad558fccce459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231227006
+status: 1
+tags: []
+user_id: unknown

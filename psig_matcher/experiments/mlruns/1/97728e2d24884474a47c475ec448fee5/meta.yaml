@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/97728e2d24884474a47c475ec448fee5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 97728e2d24884474a47c475ec448fee5
+run_name: ambitious-sloth-585
+run_uuid: 97728e2d24884474a47c475ec448fee5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231155054
+status: 1
+tags: []
+user_id: unknown

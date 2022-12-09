@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2c631d557f0a496e8e3ff5c56b21ee91/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2c631d557f0a496e8e3ff5c56b21ee91
+run_name: puzzled-snipe-422
+run_uuid: 2c631d557f0a496e8e3ff5c56b21ee91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231169957
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ddd372aaedc042578ffa32b5a4ce537c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ddd372aaedc042578ffa32b5a4ce537c
+run_name: nosy-smelt-795
+run_uuid: ddd372aaedc042578ffa32b5a4ce537c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231254846
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6599f5082a034f178bf4635b798042fb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6599f5082a034f178bf4635b798042fb
+run_name: classy-flea-203
+run_uuid: 6599f5082a034f178bf4635b798042fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231247611
+status: 1
+tags: []
+user_id: unknown

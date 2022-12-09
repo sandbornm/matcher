@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e1127e906b7a4048a6334674b717f9ed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e1127e906b7a4048a6334674b717f9ed
+run_name: delicate-wasp-743
+run_uuid: e1127e906b7a4048a6334674b717f9ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231198500
+status: 1
+tags: []
+user_id: unknown

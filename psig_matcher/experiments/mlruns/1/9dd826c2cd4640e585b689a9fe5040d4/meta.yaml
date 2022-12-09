@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9dd826c2cd4640e585b689a9fe5040d4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9dd826c2cd4640e585b689a9fe5040d4
+run_name: sassy-stoat-931
+run_uuid: 9dd826c2cd4640e585b689a9fe5040d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231257032
+status: 1
+tags: []
+user_id: unknown

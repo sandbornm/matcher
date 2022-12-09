@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8f241f1c9c3e496494c61d3ef2adea1a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8f241f1c9c3e496494c61d3ef2adea1a
+run_name: gentle-robin-384
+run_uuid: 8f241f1c9c3e496494c61d3ef2adea1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231152938
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f5a4ae5cfca142559537397d93053486/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f5a4ae5cfca142559537397d93053486
+run_name: kindly-mule-470
+run_uuid: f5a4ae5cfca142559537397d93053486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233132825
+status: 1
+tags: []
+user_id: unknown

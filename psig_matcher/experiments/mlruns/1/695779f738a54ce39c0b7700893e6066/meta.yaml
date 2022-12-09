@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/695779f738a54ce39c0b7700893e6066/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 695779f738a54ce39c0b7700893e6066
+run_name: carefree-hog-698
+run_uuid: 695779f738a54ce39c0b7700893e6066
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231247416
+status: 1
+tags: []
+user_id: unknown

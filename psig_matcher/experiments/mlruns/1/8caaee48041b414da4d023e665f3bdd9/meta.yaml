@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8caaee48041b414da4d023e665f3bdd9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8caaee48041b414da4d023e665f3bdd9
+run_name: classy-penguin-438
+run_uuid: 8caaee48041b414da4d023e665f3bdd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233050113
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/acc9766c029f499baf053936dde1c711/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: acc9766c029f499baf053936dde1c711
+run_name: nebulous-bee-610
+run_uuid: acc9766c029f499baf053936dde1c711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231151530
+status: 1
+tags: []
+user_id: unknown

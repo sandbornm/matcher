@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ec93f2d9bfee4d81a3edcec7181cd47b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ec93f2d9bfee4d81a3edcec7181cd47b
+run_name: rebellious-grub-575
+run_uuid: ec93f2d9bfee4d81a3edcec7181cd47b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233112119
+status: 1
+tags: []
+user_id: unknown

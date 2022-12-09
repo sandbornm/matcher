@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/66750cb3245844cba2c653f6530211df/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 66750cb3245844cba2c653f6530211df
+run_name: welcoming-bug-221
+run_uuid: 66750cb3245844cba2c653f6530211df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231201693
+status: 1
+tags: []
+user_id: unknown

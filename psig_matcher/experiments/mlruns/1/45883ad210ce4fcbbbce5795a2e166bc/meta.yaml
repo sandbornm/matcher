@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/45883ad210ce4fcbbbce5795a2e166bc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 45883ad210ce4fcbbbce5795a2e166bc
+run_name: popular-seal-445
+run_uuid: 45883ad210ce4fcbbbce5795a2e166bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231151054
+status: 1
+tags: []
+user_id: unknown

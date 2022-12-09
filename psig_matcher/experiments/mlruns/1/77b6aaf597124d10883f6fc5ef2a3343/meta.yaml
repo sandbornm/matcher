@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/77b6aaf597124d10883f6fc5ef2a3343/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 77b6aaf597124d10883f6fc5ef2a3343
+run_name: powerful-stag-239
+run_uuid: 77b6aaf597124d10883f6fc5ef2a3343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231194034
+status: 1
+tags: []
+user_id: unknown

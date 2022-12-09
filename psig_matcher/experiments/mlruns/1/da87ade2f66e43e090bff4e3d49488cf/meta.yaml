@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/da87ade2f66e43e090bff4e3d49488cf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da87ade2f66e43e090bff4e3d49488cf
+run_name: agreeable-finch-434
+run_uuid: da87ade2f66e43e090bff4e3d49488cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231184932
+status: 1
+tags: []
+user_id: unknown

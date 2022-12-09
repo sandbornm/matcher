@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3b0b7f313a0d4a9da4601683a0f5a078/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3b0b7f313a0d4a9da4601683a0f5a078
+run_name: loud-deer-208
+run_uuid: 3b0b7f313a0d4a9da4601683a0f5a078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233114531
+status: 1
+tags: []
+user_id: unknown

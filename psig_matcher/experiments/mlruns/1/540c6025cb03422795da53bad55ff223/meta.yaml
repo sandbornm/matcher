@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/540c6025cb03422795da53bad55ff223/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 540c6025cb03422795da53bad55ff223
+run_name: stately-wren-360
+run_uuid: 540c6025cb03422795da53bad55ff223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231154301
+status: 1
+tags: []
+user_id: unknown

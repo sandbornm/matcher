@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/025595b3ade74652a58b12ca45e47bb9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 025595b3ade74652a58b12ca45e47bb9
+run_name: capable-carp-524
+run_uuid: 025595b3ade74652a58b12ca45e47bb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233128133
+status: 1
+tags: []
+user_id: unknown

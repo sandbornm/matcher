@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9a9c865ec69a43788312cfa706fad952/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9a9c865ec69a43788312cfa706fad952
+run_name: dazzling-croc-929
+run_uuid: 9a9c865ec69a43788312cfa706fad952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231163568
+status: 1
+tags: []
+user_id: unknown

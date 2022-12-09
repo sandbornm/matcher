@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ba59216081ce44ed994136b7406d2285/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ba59216081ce44ed994136b7406d2285
+run_name: nimble-ram-73
+run_uuid: ba59216081ce44ed994136b7406d2285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231207890
+status: 1
+tags: []
+user_id: unknown

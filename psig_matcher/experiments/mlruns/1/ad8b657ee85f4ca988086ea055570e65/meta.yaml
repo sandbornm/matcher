@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ad8b657ee85f4ca988086ea055570e65/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad8b657ee85f4ca988086ea055570e65
+run_name: awesome-ox-352
+run_uuid: ad8b657ee85f4ca988086ea055570e65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231191298
+status: 1
+tags: []
+user_id: unknown

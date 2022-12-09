@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/db8403a3291c4103b268eec244357a1c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: db8403a3291c4103b268eec244357a1c
+run_name: secretive-cub-930
+run_uuid: db8403a3291c4103b268eec244357a1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231159464
+status: 1
+tags: []
+user_id: unknown

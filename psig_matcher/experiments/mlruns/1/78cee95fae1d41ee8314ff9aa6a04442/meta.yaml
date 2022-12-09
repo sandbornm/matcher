@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/78cee95fae1d41ee8314ff9aa6a04442/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 78cee95fae1d41ee8314ff9aa6a04442
+run_name: melodic-snipe-780
+run_uuid: 78cee95fae1d41ee8314ff9aa6a04442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233038196
+status: 1
+tags: []
+user_id: unknown

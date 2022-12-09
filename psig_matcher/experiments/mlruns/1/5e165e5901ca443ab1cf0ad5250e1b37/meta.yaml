@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5e165e5901ca443ab1cf0ad5250e1b37/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5e165e5901ca443ab1cf0ad5250e1b37
+run_name: incongruous-hawk-878
+run_uuid: 5e165e5901ca443ab1cf0ad5250e1b37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233151075
+status: 1
+tags: []
+user_id: unknown

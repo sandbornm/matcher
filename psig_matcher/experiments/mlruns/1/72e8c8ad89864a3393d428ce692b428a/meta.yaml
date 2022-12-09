@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/72e8c8ad89864a3393d428ce692b428a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 72e8c8ad89864a3393d428ce692b428a
+run_name: tasteful-crane-198
+run_uuid: 72e8c8ad89864a3393d428ce692b428a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231152255
+status: 1
+tags: []
+user_id: unknown

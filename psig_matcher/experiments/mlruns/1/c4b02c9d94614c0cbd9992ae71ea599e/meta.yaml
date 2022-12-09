@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c4b02c9d94614c0cbd9992ae71ea599e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c4b02c9d94614c0cbd9992ae71ea599e
+run_name: capricious-shrew-941
+run_uuid: c4b02c9d94614c0cbd9992ae71ea599e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233128657
+status: 1
+tags: []
+user_id: unknown

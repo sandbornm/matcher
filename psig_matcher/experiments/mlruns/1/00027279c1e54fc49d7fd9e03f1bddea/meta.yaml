@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/00027279c1e54fc49d7fd9e03f1bddea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 00027279c1e54fc49d7fd9e03f1bddea
+run_name: victorious-fly-698
+run_uuid: 00027279c1e54fc49d7fd9e03f1bddea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233032012
+status: 1
+tags: []
+user_id: unknown

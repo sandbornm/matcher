@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d39cdf67f2ac4435ba1c6fecf9a418ce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d39cdf67f2ac4435ba1c6fecf9a418ce
+run_name: bedecked-croc-409
+run_uuid: d39cdf67f2ac4435ba1c6fecf9a418ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231218379
+status: 1
+tags: []
+user_id: unknown

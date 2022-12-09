@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6e906fb9933a41e08db52d0096e5e4ad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6e906fb9933a41e08db52d0096e5e4ad
+run_name: sincere-ape-919
+run_uuid: 6e906fb9933a41e08db52d0096e5e4ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233076339
+status: 1
+tags: []
+user_id: unknown

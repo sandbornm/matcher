@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/64d336a19dcc4c42b82eb5e1d8179fa5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 64d336a19dcc4c42b82eb5e1d8179fa5
+run_name: handsome-stoat-735
+run_uuid: 64d336a19dcc4c42b82eb5e1d8179fa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231176648
+status: 1
+tags: []
+user_id: unknown

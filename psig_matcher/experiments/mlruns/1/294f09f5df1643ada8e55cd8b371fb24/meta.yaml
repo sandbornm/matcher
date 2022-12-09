@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/294f09f5df1643ada8e55cd8b371fb24/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 294f09f5df1643ada8e55cd8b371fb24
+run_name: nervous-colt-954
+run_uuid: 294f09f5df1643ada8e55cd8b371fb24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233135537
+status: 1
+tags: []
+user_id: unknown

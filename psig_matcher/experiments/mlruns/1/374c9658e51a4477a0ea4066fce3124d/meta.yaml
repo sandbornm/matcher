@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/374c9658e51a4477a0ea4066fce3124d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 374c9658e51a4477a0ea4066fce3124d
+run_name: mercurial-gnu-950
+run_uuid: 374c9658e51a4477a0ea4066fce3124d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231195441
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4159c37d271f4fd7ba4d58465f32b5f2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4159c37d271f4fd7ba4d58465f32b5f2
+run_name: popular-snake-51
+run_uuid: 4159c37d271f4fd7ba4d58465f32b5f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233119124
+status: 1
+tags: []
+user_id: unknown

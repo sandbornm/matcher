@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3b803b87ac0d4b5092ca2a27933ec5c7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3b803b87ac0d4b5092ca2a27933ec5c7
+run_name: melodic-duck-679
+run_uuid: 3b803b87ac0d4b5092ca2a27933ec5c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231149987
+status: 1
+tags: []
+user_id: unknown

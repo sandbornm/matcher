@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9380d5950a994a16955856a9de4aa7fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9380d5950a994a16955856a9de4aa7fa
+run_name: nebulous-asp-724
+run_uuid: 9380d5950a994a16955856a9de4aa7fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233058903
+status: 1
+tags: []
+user_id: unknown

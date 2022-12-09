@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/44cd8b8430ae42a79ff050b6eddeec9f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 44cd8b8430ae42a79ff050b6eddeec9f
+run_name: fortunate-conch-58
+run_uuid: 44cd8b8430ae42a79ff050b6eddeec9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231150823
+status: 1
+tags: []
+user_id: unknown

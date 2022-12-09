@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/42f39981b1dd4a2e835995d8d517adb7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 42f39981b1dd4a2e835995d8d517adb7
+run_name: wistful-bird-684
+run_uuid: 42f39981b1dd4a2e835995d8d517adb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231180924
+status: 1
+tags: []
+user_id: unknown

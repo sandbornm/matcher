@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ddb97c3b10b0438090a540fb7647faaf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ddb97c3b10b0438090a540fb7647faaf
+run_name: dapper-wren-325
+run_uuid: ddb97c3b10b0438090a540fb7647faaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231199056
+status: 1
+tags: []
+user_id: unknown

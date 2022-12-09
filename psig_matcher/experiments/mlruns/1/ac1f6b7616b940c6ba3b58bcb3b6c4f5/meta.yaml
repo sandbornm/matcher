@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ac1f6b7616b940c6ba3b58bcb3b6c4f5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ac1f6b7616b940c6ba3b58bcb3b6c4f5
+run_name: bold-moose-919
+run_uuid: ac1f6b7616b940c6ba3b58bcb3b6c4f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231154631
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4c93de21b27648bfad3417c510d44d52/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4c93de21b27648bfad3417c510d44d52
+run_name: resilient-panda-359
+run_uuid: 4c93de21b27648bfad3417c510d44d52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231218688
+status: 1
+tags: []
+user_id: unknown

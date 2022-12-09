@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/298870f501b9489f863a7c623f670282/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 298870f501b9489f863a7c623f670282
+run_name: debonair-carp-71
+run_uuid: 298870f501b9489f863a7c623f670282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231257140
+status: 1
+tags: []
+user_id: unknown

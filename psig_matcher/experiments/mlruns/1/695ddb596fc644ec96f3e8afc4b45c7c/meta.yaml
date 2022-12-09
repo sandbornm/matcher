@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/695ddb596fc644ec96f3e8afc4b45c7c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 695ddb596fc644ec96f3e8afc4b45c7c
+run_name: funny-grouse-389
+run_uuid: 695ddb596fc644ec96f3e8afc4b45c7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231225421
+status: 1
+tags: []
+user_id: unknown

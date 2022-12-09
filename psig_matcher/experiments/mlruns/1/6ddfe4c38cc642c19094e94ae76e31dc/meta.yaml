@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6ddfe4c38cc642c19094e94ae76e31dc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6ddfe4c38cc642c19094e94ae76e31dc
+run_name: auspicious-stoat-976
+run_uuid: 6ddfe4c38cc642c19094e94ae76e31dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233115183
+status: 1
+tags: []
+user_id: unknown

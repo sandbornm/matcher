@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/955999cf968d4f1a9f20efa40f6a147f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 955999cf968d4f1a9f20efa40f6a147f
+run_name: fearless-mare-913
+run_uuid: 955999cf968d4f1a9f20efa40f6a147f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233127349
+status: 1
+tags: []
+user_id: unknown

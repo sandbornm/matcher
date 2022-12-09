@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bef5cb9fb2e247f6988afc2eee2ea96c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bef5cb9fb2e247f6988afc2eee2ea96c
+run_name: receptive-ram-925
+run_uuid: bef5cb9fb2e247f6988afc2eee2ea96c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231165887
+status: 1
+tags: []
+user_id: unknown

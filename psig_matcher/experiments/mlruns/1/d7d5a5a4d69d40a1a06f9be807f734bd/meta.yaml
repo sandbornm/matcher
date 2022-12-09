@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d7d5a5a4d69d40a1a06f9be807f734bd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d7d5a5a4d69d40a1a06f9be807f734bd
+run_name: judicious-frog-604
+run_uuid: d7d5a5a4d69d40a1a06f9be807f734bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231175562
+status: 1
+tags: []
+user_id: unknown

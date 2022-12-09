@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c785cad728084b1f959a55b684cc1088/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c785cad728084b1f959a55b684cc1088
+run_name: amusing-zebra-936
+run_uuid: c785cad728084b1f959a55b684cc1088
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231163493
+status: 1
+tags: []
+user_id: unknown

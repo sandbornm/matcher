@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5368e443bb934964ae86090fda4f98cd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5368e443bb934964ae86090fda4f98cd
+run_name: rare-conch-731
+run_uuid: 5368e443bb934964ae86090fda4f98cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231159815
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9365f0928cdd42968e6e9386e80fd486/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9365f0928cdd42968e6e9386e80fd486
+run_name: handsome-smelt-601
+run_uuid: 9365f0928cdd42968e6e9386e80fd486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233111697
+status: 1
+tags: []
+user_id: unknown

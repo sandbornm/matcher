@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/487432d8346e4c8299ff29f73c42acae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 487432d8346e4c8299ff29f73c42acae
+run_name: rebellious-chimp-151
+run_uuid: 487432d8346e4c8299ff29f73c42acae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233123705
+status: 1
+tags: []
+user_id: unknown

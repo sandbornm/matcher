@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f0ebc4283d304760a52f10dd8d80bb1e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f0ebc4283d304760a52f10dd8d80bb1e
+run_name: sincere-steed-142
+run_uuid: f0ebc4283d304760a52f10dd8d80bb1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233022369
+status: 1
+tags: []
+user_id: unknown

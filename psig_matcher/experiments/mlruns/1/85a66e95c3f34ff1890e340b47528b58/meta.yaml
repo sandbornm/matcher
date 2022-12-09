@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/85a66e95c3f34ff1890e340b47528b58/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 85a66e95c3f34ff1890e340b47528b58
+run_name: classy-sheep-724
+run_uuid: 85a66e95c3f34ff1890e340b47528b58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233077217
+status: 1
+tags: []
+user_id: unknown

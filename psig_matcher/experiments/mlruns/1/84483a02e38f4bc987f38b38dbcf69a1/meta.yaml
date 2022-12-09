@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/84483a02e38f4bc987f38b38dbcf69a1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 84483a02e38f4bc987f38b38dbcf69a1
+run_name: popular-rat-320
+run_uuid: 84483a02e38f4bc987f38b38dbcf69a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231167220
+status: 1
+tags: []
+user_id: unknown

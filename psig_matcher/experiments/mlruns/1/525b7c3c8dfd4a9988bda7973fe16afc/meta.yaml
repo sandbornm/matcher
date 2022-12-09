@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/525b7c3c8dfd4a9988bda7973fe16afc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 525b7c3c8dfd4a9988bda7973fe16afc
+run_name: stately-shad-910
+run_uuid: 525b7c3c8dfd4a9988bda7973fe16afc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233080272
+status: 1
+tags: []
+user_id: unknown

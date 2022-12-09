@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ed5ca4a453bf4452942ab53c9763df6a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ed5ca4a453bf4452942ab53c9763df6a
+run_name: enchanting-hound-686
+run_uuid: ed5ca4a453bf4452942ab53c9763df6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231260433
+status: 1
+tags: []
+user_id: unknown

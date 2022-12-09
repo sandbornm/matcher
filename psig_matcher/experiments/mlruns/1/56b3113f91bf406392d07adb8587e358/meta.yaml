@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/56b3113f91bf406392d07adb8587e358/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 56b3113f91bf406392d07adb8587e358
+run_name: likeable-whale-663
+run_uuid: 56b3113f91bf406392d07adb8587e358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231228475
+status: 1
+tags: []
+user_id: unknown

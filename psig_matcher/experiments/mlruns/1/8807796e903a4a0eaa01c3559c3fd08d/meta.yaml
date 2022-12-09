@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8807796e903a4a0eaa01c3559c3fd08d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8807796e903a4a0eaa01c3559c3fd08d
+run_name: rogue-panda-101
+run_uuid: 8807796e903a4a0eaa01c3559c3fd08d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231219802
+status: 1
+tags: []
+user_id: unknown

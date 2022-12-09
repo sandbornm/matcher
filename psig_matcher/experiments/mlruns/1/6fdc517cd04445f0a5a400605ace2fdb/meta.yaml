@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6fdc517cd04445f0a5a400605ace2fdb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6fdc517cd04445f0a5a400605ace2fdb
+run_name: brawny-finch-285
+run_uuid: 6fdc517cd04445f0a5a400605ace2fdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231190852
+status: 1
+tags: []
+user_id: unknown

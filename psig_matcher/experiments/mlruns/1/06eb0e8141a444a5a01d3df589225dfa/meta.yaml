@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/06eb0e8141a444a5a01d3df589225dfa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 06eb0e8141a444a5a01d3df589225dfa
+run_name: abundant-slug-743
+run_uuid: 06eb0e8141a444a5a01d3df589225dfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231149909
+status: 1
+tags: []
+user_id: unknown

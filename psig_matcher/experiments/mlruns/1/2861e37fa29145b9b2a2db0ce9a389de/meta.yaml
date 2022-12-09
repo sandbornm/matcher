@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2861e37fa29145b9b2a2db0ce9a389de/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2861e37fa29145b9b2a2db0ce9a389de
+run_name: burly-fly-759
+run_uuid: 2861e37fa29145b9b2a2db0ce9a389de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231174120
+status: 1
+tags: []
+user_id: unknown

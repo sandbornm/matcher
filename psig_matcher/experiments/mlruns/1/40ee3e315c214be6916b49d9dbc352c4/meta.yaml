@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/40ee3e315c214be6916b49d9dbc352c4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 40ee3e315c214be6916b49d9dbc352c4
+run_name: capable-goat-452
+run_uuid: 40ee3e315c214be6916b49d9dbc352c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233102776
+status: 1
+tags: []
+user_id: unknown

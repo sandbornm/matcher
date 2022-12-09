@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5c9f72c5f5824fbabf1805ea5299ec2f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5c9f72c5f5824fbabf1805ea5299ec2f
+run_name: flawless-loon-42
+run_uuid: 5c9f72c5f5824fbabf1805ea5299ec2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233155457
+status: 1
+tags: []
+user_id: unknown

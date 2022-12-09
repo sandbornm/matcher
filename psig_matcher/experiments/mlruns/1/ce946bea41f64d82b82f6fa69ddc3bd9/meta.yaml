@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ce946bea41f64d82b82f6fa69ddc3bd9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ce946bea41f64d82b82f6fa69ddc3bd9
+run_name: gregarious-skunk-925
+run_uuid: ce946bea41f64d82b82f6fa69ddc3bd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231221676
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2ea3e2ce59fa4ffa9f0dc6f2a5f5a511/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ea3e2ce59fa4ffa9f0dc6f2a5f5a511
+run_name: judicious-ant-735
+run_uuid: 2ea3e2ce59fa4ffa9f0dc6f2a5f5a511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231153554
+status: 1
+tags: []
+user_id: unknown

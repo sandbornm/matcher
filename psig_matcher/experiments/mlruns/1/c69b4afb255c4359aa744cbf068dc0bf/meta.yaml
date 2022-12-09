@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c69b4afb255c4359aa744cbf068dc0bf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c69b4afb255c4359aa744cbf068dc0bf
+run_name: nervous-skink-143
+run_uuid: c69b4afb255c4359aa744cbf068dc0bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231183506
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/47bed84181e14b57a9c1bf04587ada91/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 47bed84181e14b57a9c1bf04587ada91
+run_name: gentle-lamb-559
+run_uuid: 47bed84181e14b57a9c1bf04587ada91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233090951
+status: 1
+tags: []
+user_id: unknown

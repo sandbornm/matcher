@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/aedd6622ce9142ddbaf273d00d14962d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aedd6622ce9142ddbaf273d00d14962d
+run_name: unruly-dog-127
+run_uuid: aedd6622ce9142ddbaf273d00d14962d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231156264
+status: 1
+tags: []
+user_id: unknown

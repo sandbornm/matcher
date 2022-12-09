@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2c85795957174d3e90c2a84cbd969841/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2c85795957174d3e90c2a84cbd969841
+run_name: respected-bug-596
+run_uuid: 2c85795957174d3e90c2a84cbd969841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231208042
+status: 1
+tags: []
+user_id: unknown

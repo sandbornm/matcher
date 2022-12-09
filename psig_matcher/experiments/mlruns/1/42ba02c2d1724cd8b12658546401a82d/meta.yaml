@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/42ba02c2d1724cd8b12658546401a82d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 42ba02c2d1724cd8b12658546401a82d
+run_name: powerful-bass-990
+run_uuid: 42ba02c2d1724cd8b12658546401a82d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231221907
+status: 1
+tags: []
+user_id: unknown

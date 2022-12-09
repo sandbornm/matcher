@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0f616c587abe4d6d943094e7d131ca0e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0f616c587abe4d6d943094e7d131ca0e
+run_name: whimsical-cat-568
+run_uuid: 0f616c587abe4d6d943094e7d131ca0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231160602
+status: 1
+tags: []
+user_id: unknown

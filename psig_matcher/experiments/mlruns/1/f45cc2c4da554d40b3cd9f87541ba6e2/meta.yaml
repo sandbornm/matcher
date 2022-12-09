@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f45cc2c4da554d40b3cd9f87541ba6e2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f45cc2c4da554d40b3cd9f87541ba6e2
+run_name: receptive-frog-327
+run_uuid: f45cc2c4da554d40b3cd9f87541ba6e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231238619
+status: 1
+tags: []
+user_id: unknown

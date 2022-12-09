@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0ad5502982d94012b562f92d6033e338/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0ad5502982d94012b562f92d6033e338
+run_name: masked-ape-289
+run_uuid: 0ad5502982d94012b562f92d6033e338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233040873
+status: 1
+tags: []
+user_id: unknown

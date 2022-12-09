@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/85bb8504957e4681800c5962017546b9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 85bb8504957e4681800c5962017546b9
+run_name: nimble-dog-451
+run_uuid: 85bb8504957e4681800c5962017546b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231162476
+status: 1
+tags: []
+user_id: unknown

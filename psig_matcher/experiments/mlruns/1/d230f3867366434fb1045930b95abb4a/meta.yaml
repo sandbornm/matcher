@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d230f3867366434fb1045930b95abb4a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d230f3867366434fb1045930b95abb4a
+run_name: masked-ant-544
+run_uuid: d230f3867366434fb1045930b95abb4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233108101
+status: 1
+tags: []
+user_id: unknown

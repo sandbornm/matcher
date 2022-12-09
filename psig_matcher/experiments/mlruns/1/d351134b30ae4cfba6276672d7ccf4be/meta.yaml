@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d351134b30ae4cfba6276672d7ccf4be/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d351134b30ae4cfba6276672d7ccf4be
+run_name: intelligent-rook-31
+run_uuid: d351134b30ae4cfba6276672d7ccf4be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233119757
+status: 1
+tags: []
+user_id: unknown

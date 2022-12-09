@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6d8355490e1e4d6393f68f81d1f5c812/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6d8355490e1e4d6393f68f81d1f5c812
+run_name: caring-tern-644
+run_uuid: 6d8355490e1e4d6393f68f81d1f5c812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231208089
+status: 1
+tags: []
+user_id: unknown

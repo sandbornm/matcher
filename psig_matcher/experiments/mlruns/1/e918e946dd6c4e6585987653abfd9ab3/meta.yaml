@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e918e946dd6c4e6585987653abfd9ab3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e918e946dd6c4e6585987653abfd9ab3
+run_name: calm-shrike-239
+run_uuid: e918e946dd6c4e6585987653abfd9ab3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670233024150
+status: 1
+tags: []
+user_id: unknown

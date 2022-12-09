@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cfbae1ad9e3c40f8a2078a546d7bfa2a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cfbae1ad9e3c40f8a2078a546d7bfa2a
+run_name: polite-jay-151
+run_uuid: cfbae1ad9e3c40f8a2078a546d7bfa2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231246489
+status: 1
+tags: []
+user_id: unknown

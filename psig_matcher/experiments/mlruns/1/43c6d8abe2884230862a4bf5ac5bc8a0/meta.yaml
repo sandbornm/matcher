@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/43c6d8abe2884230862a4bf5ac5bc8a0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 43c6d8abe2884230862a4bf5ac5bc8a0
+run_name: delicate-cow-984
+run_uuid: 43c6d8abe2884230862a4bf5ac5bc8a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670231181768
+status: 1
+tags: []
+user_id: unknown
