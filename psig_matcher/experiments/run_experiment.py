@@ -13,9 +13,9 @@ from sklearn.model_selection import ParameterGrid
 import multiprocessing as mp
 
 @dataclass
-class NormalDistribution:
-    mean: float
-    std: float
+class MultivariateNormalDistribution:
+    mean: np.ndarray
+    cov: np.ndarray
 
 @dataclass
 class Part:
@@ -66,21 +66,25 @@ def compute_normal_ci(x: List[float], confidence: float) -> Tuple[float, float]:
     else:
         return stats.norm.interval(confidence, loc=np.mean(x), scale=np.std(x))
 
-def estimate_normal_dist(x: List[float], confidence: float) -> NormalDistribution:
+def estimate_normal_dist(x: List[float], confidence: float) -> MultivariateNormalDistribution:
     """Estimate the normal distribution for the given data.
     This is done using: https://handbook-5-1.cochrane.org/chapter_7/7_7_3_2_obtaining_standard_deviations_from_standard_errors_and.htm#:~:text=The%20standard%20deviation%20for%20each,should%20be%20replaced%20by%205.15.
 
     """
 
-    val_comp = st.t.ppf if len(x) < 30 else stats.norm.ppf
-    lower, upper = compute_normal_ci(x, confidence)
+    data_mean = np.mean(x, axis=0)
+    data_std = np.std(x, axis=0)
 
-    val = val_comp(confidence, len(x)-1)
-    std = np.sqrt(len(x))*(upper-lower)*val
-    return NormalDistribution(np.mean(x, axis=0), std)
+    t_score = st.t.ppf(confidence, np.array(x).shape[0] - 1)
+    z_score = st.norm.ppf(confidence)
+    scaling_factor = t_score if len(x) < 30 else z_score
 
+    desired_std = data_std + (data_std * scaling_factor)
+    derived_data = (x - data_mean) / data_std * desired_std + data_mean
+    derived_data_cov = np.cov(derived_data, rowvar=False)
+    return MultivariateNormalDistribution(data_mean, derived_data_cov)
 
-def probability_of_multivariant_point(mu: List[float], cov: List[List[float]], x: List[float]) -> float:
+def probability_of_multivariant_point(mu: np.ndarray, cov: np.ndarray, x: np.ndarray) -> float:
 
     #https://stats.stackexchange.com/questions/331283/how-to-calculate-the-probability-of-a-data-point-belonging-to-a-multivariate-nor
     # Double check this math
@@ -100,10 +104,10 @@ def estimate_overlap_of_set_with_sample_signals(parts: List[Part], samples: int,
 
     part_pdfs = [estimate_normal_dist(part.signals, part_pdf_ci) for part in parts]
     sample_pdf = estimate_normal_dist(signals, meta_pdf_ci)
-    state_space_samples = np.random.multivariate_normal(sample_pdf.mean, np.diag(sample_pdf.std), samples)
+    state_space_samples = np.random.multivariate_normal(sample_pdf.mean, sample_pdf.cov, samples)
 
     sample_confidences = [
-        [probability_of_multivariant_point(pdf.mean, np.diag(pdf.std), sample) for pdf in part_pdfs]
+        [probability_of_multivariant_point(pdf.mean, pdf.cov, sample) for pdf in part_pdfs]
         for sample in state_space_samples]
 
     filtered_confidences = [
@@ -196,25 +200,26 @@ def main():
 
 def run_parallel_experiment():
 
-    mlflow.set_experiment("Experiment 2")
-    experiment_id = mlflow.get_experiment_by_name(name='Experiment 2').experiment_id
+    mlflow.set_experiment("Experiment 3")
+    experiment_id = mlflow.get_experiment_by_name(name='Experiment 3').experiment_id
 
     # part_types = ["BEAM", "BOX", "BRK", "CON", "CONLID", "FLG", "IMP", "LID", "SEN", "TUBE", "VNT"]
     param_values = {
         'part_type': ["BEAM", "CONTAINER", "CONLID", "LID", "SEN", "TUBE"],
-        'part_dim' : [1, 5, 10, 50],
+        'part_dim' : [2, 5, 10, 50],
         'num_samples': [1000],
         'meta_pdf_ci' : [0.5, 0.8, 0.9, 0.95, 0.99, 0.999],
         'part_pdf_ci' : [0.5, 0.8, 0.9, 0.95, 0.99, 0.999],
         'confidence_bound' : [0.5, 0.8, 0.9, 0.95, 0.99, 0.999],
         'experiment_id': [experiment_id]}
 
-    parameter_grid = list(ParameterGrid(param_values))
+    parameter_grid = list(ParameterGrid(param_values))[0:1]
     print(f"Running {len(parameter_grid)} experiments")
 
     pool = mp.Pool(mp.cpu_count())
     for params in parameter_grid:
-        pool.apply_async(run_experiment, kwds=params)
+        #pool.apply_async(run_experiment, kwds=params)
+        run_experiment(**params)
 
     pool.close()
     pool.join()
