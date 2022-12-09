@@ -219,9 +219,9 @@ def run_parallel_experiment():
     'part_type': ["BEAM", "CONTAINER", "CONLID", "LID", "SEN", "TUBE"],
     'part_dim' : [2],
     'num_samples': [100],
-    'meta_pdf_ci' : [0.995, 0.999, 0.9995. 0.9999],
-    'part_pdf_ci' : [0.995, 0.999, 0.9995. 0.9999],
-    'confidence_bound' : [0.995, 0.999, 0.9995. 0.9999],
+    'meta_pdf_ci' : [0.995, 0.999, 0.9995, 0.9999],
+    'part_pdf_ci' : [0.995, 0.999, 0.9995, 0.9999],
+    'confidence_bound' : [0.995, 0.999, 0.9995, 0.9999],
     'experiment_id': [experiment_id]}
 
     parameter_grid = list(ParameterGrid(param_values))
