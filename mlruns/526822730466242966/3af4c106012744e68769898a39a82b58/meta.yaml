@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3af4c106012744e68769898a39a82b58/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3af4c106012744e68769898a39a82b58
+run_name: resilient-wasp-85
+run_uuid: 3af4c106012744e68769898a39a82b58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670575815664
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c796baa53a1949da94d83f7e0465cf78/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: c796baa53a1949da94d83f7e0465cf78
+run_name: bedecked-cat-282
+run_uuid: c796baa53a1949da94d83f7e0465cf78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670610211322
+status: 1
+tags: []
+user_id: unknown

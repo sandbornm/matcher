@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/700ce904263348ab8e106fbc6e54b656/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 700ce904263348ab8e106fbc6e54b656
+run_name: nosy-frog-867
+run_uuid: 700ce904263348ab8e106fbc6e54b656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670575365123
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e0b8841be30e42299227fa15e98ce4e4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e0b8841be30e42299227fa15e98ce4e4
+run_name: beautiful-gull-338
+run_uuid: e0b8841be30e42299227fa15e98ce4e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569486670
+status: 1
+tags: []
+user_id: unknown

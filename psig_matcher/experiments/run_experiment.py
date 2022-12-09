@@ -15,15 +15,17 @@ import time
 import random
 import warnings
 import traceback
+import pandas as pd
+import shutil
+np.random.seed(0)
+# def warn_with_traceback(message, category, filename, lineno, file=None, line=None):
 
-def warn_with_traceback(message, category, filename, lineno, file=None, line=None):
+#     log = file if hasattr(file,'write') else sys.stderr
+#     traceback.print_stack(file=log)
+#     log.write(warnings.formatwarning(message, category, filename, lineno, line))
 
-    log = file if hasattr(file,'write') else sys.stderr
-    traceback.print_stack(file=log)
-    log.write(warnings.formatwarning(message, category, filename, lineno, line))
-
-warnings.showwarning = warn_with_traceback
-warnings.simplefilter("always")
+# warnings.showwarning = warn_with_traceback
+# warnings.simplefilter("always")
 
 @dataclass
 class MultivariateNormalDistribution:
@@ -186,7 +188,6 @@ def run_experiment(experiment_id: int, part_type: str, part_dim: int, num_sample
     run_id = client.create_run(experiment_id).info.run_id
 
     client.log_param(run_id, "part_type", part_type)
-    client.log_param(run_id, "part_type", part_type)
     client.log_param(run_id, "part_dim", part_dim)
     client.log_param(run_id, "num_samples", num_samples)
     client.log_param(run_id, "meta_pdf_ci", meta_pdf_ci)
@@ -213,27 +214,59 @@ def main():
     args = parser.parse_args()
     run_experiment(args.part_type, args.part_dim, args.num_samples, args.meta_pdf_ci, args.part_pdf_ci, args.confidence_bound)
 
+def delete_uncompleted_experiment_runs(experiment_id: int):
+    
+    runs_df = mlflow.search_runs(experiment_ids=experiment_id, max_results=10_000)
+    incomplete_runs = runs_df[runs_df['metrics.monte_carlo_upper_collision_rate'].isna()]['run_id'].to_list()
+    for run_id in incomplete_runs:
+        mlflow.delete_run(run_id)
+
+def get_completed_parameters(experiment_id: int):
+    
+    runs_df = mlflow.search_runs(experiment_ids=experiment_id, max_results=10_000)
+    incomplete_runs = runs_df[runs_df['metrics.monte_carlo_upper_collision_rate'].isna()]
+    if not incomplete_runs.empty:
+        raise ValueError("There are incomplete runs in the experiment")
+    
+    runs_df = runs_df.rename(columns={'params.part_type': 'part_type', 'params.part_dim': 'part_dim', 'params.num_samples': 'num_samples', 'params.meta_pdf_ci': 'meta_pdf_ci', 'params.part_pdf_ci': 'part_pdf_ci', 'params.confidence_bound': 'confidence_bound'})
+    
+    runs_df['meta_pdf_ci']= runs_df['meta_pdf_ci'].astype(float)
+    runs_df['confidence_bound']= runs_df['confidence_bound'].astype(float)
+    runs_df['part_pdf_ci']= runs_df['part_pdf_ci'].astype(float)
+    
+    runs_df['num_samples']= runs_df['num_samples'].astype(int)
+    runs_df['part_dim']= runs_df['part_dim'].astype(int)
+   
+    param_dicts = runs_df[['part_type', 'part_dim', 'num_samples', 'meta_pdf_ci', 'part_pdf_ci', 'confidence_bound']].to_dict('records')    
+    {d.update({'experiment_id':experiment_id}) for d in param_dicts}
+    return param_dicts
+    
+
 def run_parallel_experiment():
 
     mlflow.set_experiment("Experiment 3")
     experiment_id = mlflow.get_experiment_by_name(name='Experiment 3').experiment_id
-
+    delete_uncompleted_experiment_runs(experiment_id)
+    completed_params = get_completed_parameters(experiment_id)
+    
     # part_types = ["BEAM", "BOX", "BRK", "CON", "CONLID", "FLG", "IMP", "LID", "SEN", "TUBE", "VNT"]
     param_values = {
         'part_type': ["BEAM", "CONTAINER", "CONLID", "LID", "SEN", "TUBE"],
-        'part_dim' : [2, 5, 10, 50],
+        'part_dim' : [2, 5, 10],
         'num_samples': [1000],
         'meta_pdf_ci' : [0.5, 0.8, 0.9, 0.95, 0.99, 0.999],
         'part_pdf_ci' : [0.5, 0.8, 0.9, 0.95, 0.99, 0.999],
         'confidence_bound' : [0.5, 0.8, 0.9, 0.95, 0.99, 0.999],
         'experiment_id': [experiment_id]}
 
-    parameter_grid = list(ParameterGrid(param_values))[0:1]  
-    random.shuffle(parameter_grid)
-    print(f"Running {len(parameter_grid)} experiments - starting at: {time.time()}")
+    parameter_grid = list(ParameterGrid(param_values)) 
+    np.random.shuffle(parameter_grid)
+    non_completed_params = [p for p in parameter_grid if p not in completed_params]
+    
+    print(f"Running {len(non_completed_params)} experiments - starting at: {time.time()}")
 
     pool = mp.Pool(mp.cpu_count())
-    for params in parameter_grid:
+    for params in non_completed_params:
         pool.apply_async(run_experiment, kwds=params)
 
     pool.close()

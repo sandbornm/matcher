@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e2fa7f9493274e0f95974c07111ed131/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e2fa7f9493274e0f95974c07111ed131
+run_name: able-sloth-904
+run_uuid: e2fa7f9493274e0f95974c07111ed131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569835171
+status: 1
+tags: []
+user_id: unknown

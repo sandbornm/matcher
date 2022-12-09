@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/395ce481860844efb3d460d8bfa2a62c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 395ce481860844efb3d460d8bfa2a62c
+run_name: burly-skunk-769
+run_uuid: 395ce481860844efb3d460d8bfa2a62c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670573786039
+status: 1
+tags: []
+user_id: unknown

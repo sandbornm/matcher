@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9758a809dc6548c19ab4f3bd9c628f9c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9758a809dc6548c19ab4f3bd9c628f9c
+run_name: monumental-cat-348
+run_uuid: 9758a809dc6548c19ab4f3bd9c628f9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670583207064
+status: 1
+tags: []
+user_id: unknown

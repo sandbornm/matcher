@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/babe85b90d1b4fa7b2d10af3b4fefe05/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: babe85b90d1b4fa7b2d10af3b4fefe05
+run_name: hilarious-colt-890
+run_uuid: babe85b90d1b4fa7b2d10af3b4fefe05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670600161226
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5fae19a3b21e4915af6c656b2910d42f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5fae19a3b21e4915af6c656b2910d42f
+run_name: vaunted-hare-435
+run_uuid: 5fae19a3b21e4915af6c656b2910d42f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670598779453
+status: 1
+tags: []
+user_id: unknown

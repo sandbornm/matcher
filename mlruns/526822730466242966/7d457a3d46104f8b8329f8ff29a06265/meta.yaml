@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7d457a3d46104f8b8329f8ff29a06265/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7d457a3d46104f8b8329f8ff29a06265
+run_name: bouncy-trout-529
+run_uuid: 7d457a3d46104f8b8329f8ff29a06265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670577695872
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cc620658df41454ba74140ec2c9891bc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: cc620658df41454ba74140ec2c9891bc
+run_name: defiant-fish-589
+run_uuid: cc620658df41454ba74140ec2c9891bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670608072943
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d1345051fed34ebcba2f5db580442d50/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d1345051fed34ebcba2f5db580442d50
+run_name: invincible-steed-231
+run_uuid: d1345051fed34ebcba2f5db580442d50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670590045426
+status: 1
+tags: []
+user_id: unknown

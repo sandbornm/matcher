@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/81d5703f549045528dc9871bb8a1a2bc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 81d5703f549045528dc9871bb8a1a2bc
+run_name: gregarious-tern-741
+run_uuid: 81d5703f549045528dc9871bb8a1a2bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569201055
+status: 1
+tags: []
+user_id: unknown

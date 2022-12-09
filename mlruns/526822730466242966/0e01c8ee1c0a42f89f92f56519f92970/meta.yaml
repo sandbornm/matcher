@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0e01c8ee1c0a42f89f92f56519f92970/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 0e01c8ee1c0a42f89f92f56519f92970
+run_name: caring-bat-31
+run_uuid: 0e01c8ee1c0a42f89f92f56519f92970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670588927670
+status: 1
+tags: []
+user_id: unknown

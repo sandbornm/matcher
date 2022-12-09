@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/32f731e8f51a4c8c846c7d649903c6ed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 32f731e8f51a4c8c846c7d649903c6ed
+run_name: bouncy-ox-369
+run_uuid: 32f731e8f51a4c8c846c7d649903c6ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670572983245
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6ea59feef44e4f9da09216b8a8cefc8b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6ea59feef44e4f9da09216b8a8cefc8b
+run_name: clumsy-panda-533
+run_uuid: 6ea59feef44e4f9da09216b8a8cefc8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670606888481
+status: 1
+tags: []
+user_id: unknown

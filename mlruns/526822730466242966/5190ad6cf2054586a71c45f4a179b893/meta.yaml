@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5190ad6cf2054586a71c45f4a179b893/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5190ad6cf2054586a71c45f4a179b893
+run_name: likeable-finch-15
+run_uuid: 5190ad6cf2054586a71c45f4a179b893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670597443913
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3529e2f47eb447bb9586486f185c4b17/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3529e2f47eb447bb9586486f185c4b17
+run_name: persistent-horse-254
+run_uuid: 3529e2f47eb447bb9586486f185c4b17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670576674192
+status: 1
+tags: []
+user_id: unknown

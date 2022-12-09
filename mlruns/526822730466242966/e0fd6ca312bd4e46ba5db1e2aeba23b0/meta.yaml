@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e0fd6ca312bd4e46ba5db1e2aeba23b0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e0fd6ca312bd4e46ba5db1e2aeba23b0
+run_name: dashing-dove-558
+run_uuid: e0fd6ca312bd4e46ba5db1e2aeba23b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670599191017
+status: 1
+tags: []
+user_id: unknown

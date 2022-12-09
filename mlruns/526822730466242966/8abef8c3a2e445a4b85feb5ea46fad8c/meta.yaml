@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8abef8c3a2e445a4b85feb5ea46fad8c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8abef8c3a2e445a4b85feb5ea46fad8c
+run_name: learned-jay-835
+run_uuid: 8abef8c3a2e445a4b85feb5ea46fad8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670589289169
+status: 1
+tags: []
+user_id: unknown

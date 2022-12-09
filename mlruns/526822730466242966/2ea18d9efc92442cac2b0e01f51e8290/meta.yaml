@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2ea18d9efc92442cac2b0e01f51e8290/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2ea18d9efc92442cac2b0e01f51e8290
+run_name: mercurial-mule-832
+run_uuid: 2ea18d9efc92442cac2b0e01f51e8290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670592658455
+status: 1
+tags: []
+user_id: unknown

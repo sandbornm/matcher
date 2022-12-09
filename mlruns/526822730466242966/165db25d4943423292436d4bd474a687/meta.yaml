@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/165db25d4943423292436d4bd474a687/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 165db25d4943423292436d4bd474a687
+run_name: big-snake-743
+run_uuid: 165db25d4943423292436d4bd474a687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670600143677
+status: 1
+tags: []
+user_id: unknown

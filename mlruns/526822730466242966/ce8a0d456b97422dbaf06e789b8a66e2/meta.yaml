@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ce8a0d456b97422dbaf06e789b8a66e2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ce8a0d456b97422dbaf06e789b8a66e2
+run_name: righteous-ray-551
+run_uuid: ce8a0d456b97422dbaf06e789b8a66e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670563449754
+status: 1
+tags: []
+user_id: unknown

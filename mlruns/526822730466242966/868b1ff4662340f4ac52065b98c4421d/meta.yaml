@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/868b1ff4662340f4ac52065b98c4421d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 868b1ff4662340f4ac52065b98c4421d
+run_name: secretive-skunk-3
+run_uuid: 868b1ff4662340f4ac52065b98c4421d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670597763838
+status: 1
+tags: []
+user_id: unknown

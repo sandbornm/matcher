@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bd1a89c1f7fa4dad8480fca3c830c2a8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: bd1a89c1f7fa4dad8480fca3c830c2a8
+run_name: trusting-smelt-518
+run_uuid: bd1a89c1f7fa4dad8480fca3c830c2a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670596104600
+status: 1
+tags: []
+user_id: unknown

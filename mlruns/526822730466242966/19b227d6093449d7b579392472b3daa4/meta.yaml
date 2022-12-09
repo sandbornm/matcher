@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/19b227d6093449d7b579392472b3daa4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 19b227d6093449d7b579392472b3daa4
+run_name: resilient-bird-786
+run_uuid: 19b227d6093449d7b579392472b3daa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670602453355
+status: 1
+tags: []
+user_id: unknown

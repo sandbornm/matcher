@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e298f6f8374a4f04899782563a17a442/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e298f6f8374a4f04899782563a17a442
+run_name: inquisitive-cow-299
+run_uuid: e298f6f8374a4f04899782563a17a442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670604449289
+status: 1
+tags: []
+user_id: unknown

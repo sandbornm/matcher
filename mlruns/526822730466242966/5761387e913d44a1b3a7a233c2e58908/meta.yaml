@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5761387e913d44a1b3a7a233c2e58908/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5761387e913d44a1b3a7a233c2e58908
+run_name: monumental-stoat-840
+run_uuid: 5761387e913d44a1b3a7a233c2e58908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670570916843
+status: 1
+tags: []
+user_id: unknown

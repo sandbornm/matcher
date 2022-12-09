@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/df5367e5df7c4cc8a411f58f23ec9b1f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: df5367e5df7c4cc8a411f58f23ec9b1f
+run_name: auspicious-ant-536
+run_uuid: df5367e5df7c4cc8a411f58f23ec9b1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670607222449
+status: 1
+tags: []
+user_id: unknown

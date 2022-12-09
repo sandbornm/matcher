@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/888853bf7cb743a5a1b69d04afd621e1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 888853bf7cb743a5a1b69d04afd621e1
+run_name: angry-crow-342
+run_uuid: 888853bf7cb743a5a1b69d04afd621e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670576372321
+status: 1
+tags: []
+user_id: unknown

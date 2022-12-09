@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/750baa0d293e44a99e596e34c45c044a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 750baa0d293e44a99e596e34c45c044a
+run_name: capricious-vole-213
+run_uuid: 750baa0d293e44a99e596e34c45c044a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670584024728
+status: 1
+tags: []
+user_id: unknown

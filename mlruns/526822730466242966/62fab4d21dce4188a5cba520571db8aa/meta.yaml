@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/62fab4d21dce4188a5cba520571db8aa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 62fab4d21dce4188a5cba520571db8aa
+run_name: wise-goose-424
+run_uuid: 62fab4d21dce4188a5cba520571db8aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670593494253
+status: 1
+tags: []
+user_id: unknown

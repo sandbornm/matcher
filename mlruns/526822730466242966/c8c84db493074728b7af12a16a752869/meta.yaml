@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c8c84db493074728b7af12a16a752869/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: c8c84db493074728b7af12a16a752869
+run_name: classy-gull-402
+run_uuid: c8c84db493074728b7af12a16a752869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670610879922
+status: 1
+tags: []
+user_id: unknown

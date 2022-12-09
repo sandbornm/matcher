@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/978dd8217f8840c9bdb960c3636fe028/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 978dd8217f8840c9bdb960c3636fe028
+run_name: skillful-donkey-926
+run_uuid: 978dd8217f8840c9bdb960c3636fe028
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670602482429
+status: 1
+tags: []
+user_id: unknown

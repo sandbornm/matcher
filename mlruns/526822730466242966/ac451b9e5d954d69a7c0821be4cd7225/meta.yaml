@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ac451b9e5d954d69a7c0821be4cd7225/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ac451b9e5d954d69a7c0821be4cd7225
+run_name: upset-bug-925
+run_uuid: ac451b9e5d954d69a7c0821be4cd7225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670570997649
+status: 1
+tags: []
+user_id: unknown

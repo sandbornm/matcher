@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f45a2d4838234466a92c0822a449b261/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f45a2d4838234466a92c0822a449b261
+run_name: amazing-shrew-973
+run_uuid: f45a2d4838234466a92c0822a449b261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670599728359
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a90d6fe5d5b34145b4c1fc83e90e3dbe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a90d6fe5d5b34145b4c1fc83e90e3dbe
+run_name: dapper-ant-502
+run_uuid: a90d6fe5d5b34145b4c1fc83e90e3dbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670608691215
+status: 1
+tags: []
+user_id: unknown

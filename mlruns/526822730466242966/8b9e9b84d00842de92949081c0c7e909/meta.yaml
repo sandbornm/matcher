@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8b9e9b84d00842de92949081c0c7e909/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8b9e9b84d00842de92949081c0c7e909
+run_name: victorious-asp-313
+run_uuid: 8b9e9b84d00842de92949081c0c7e909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670595481681
+status: 1
+tags: []
+user_id: unknown

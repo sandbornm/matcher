@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a6f6d021ecf74f869dd73b96ebfd46e5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a6f6d021ecf74f869dd73b96ebfd46e5
+run_name: nebulous-whale-18
+run_uuid: a6f6d021ecf74f869dd73b96ebfd46e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568848591
+status: 1
+tags: []
+user_id: unknown

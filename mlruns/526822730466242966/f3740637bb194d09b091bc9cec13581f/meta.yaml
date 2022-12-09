@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f3740637bb194d09b091bc9cec13581f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f3740637bb194d09b091bc9cec13581f
+run_name: intelligent-wasp-979
+run_uuid: f3740637bb194d09b091bc9cec13581f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670584718985
+status: 1
+tags: []
+user_id: unknown

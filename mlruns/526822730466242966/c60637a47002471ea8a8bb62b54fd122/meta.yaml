@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c60637a47002471ea8a8bb62b54fd122/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: c60637a47002471ea8a8bb62b54fd122
+run_name: youthful-stag-670
+run_uuid: c60637a47002471ea8a8bb62b54fd122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670610050825
+status: 1
+tags: []
+user_id: unknown

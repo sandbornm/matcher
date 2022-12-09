@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8b4c5fa44e4e4d8fa46ef139005edff1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8b4c5fa44e4e4d8fa46ef139005edff1
+run_name: zealous-newt-308
+run_uuid: 8b4c5fa44e4e4d8fa46ef139005edff1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568904296
+status: 1
+tags: []
+user_id: unknown

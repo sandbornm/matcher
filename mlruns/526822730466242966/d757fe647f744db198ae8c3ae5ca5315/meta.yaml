@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d757fe647f744db198ae8c3ae5ca5315/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d757fe647f744db198ae8c3ae5ca5315
+run_name: merciful-fowl-142
+run_uuid: d757fe647f744db198ae8c3ae5ca5315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603384479
+status: 1
+tags: []
+user_id: unknown

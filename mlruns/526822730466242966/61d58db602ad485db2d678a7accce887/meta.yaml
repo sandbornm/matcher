@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/61d58db602ad485db2d678a7accce887/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 61d58db602ad485db2d678a7accce887
+run_name: indecisive-lark-844
+run_uuid: 61d58db602ad485db2d678a7accce887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670612452693
+status: 1
+tags: []
+user_id: unknown

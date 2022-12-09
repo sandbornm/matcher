@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5c4c5445d54d4b25bd4df242204f4562/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5c4c5445d54d4b25bd4df242204f4562
+run_name: blushing-hound-698
+run_uuid: 5c4c5445d54d4b25bd4df242204f4562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670591732877
+status: 1
+tags: []
+user_id: unknown

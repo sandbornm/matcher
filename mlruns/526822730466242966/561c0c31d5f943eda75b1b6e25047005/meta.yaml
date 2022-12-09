@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/561c0c31d5f943eda75b1b6e25047005/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 561c0c31d5f943eda75b1b6e25047005
+run_name: unruly-gnu-637
+run_uuid: 561c0c31d5f943eda75b1b6e25047005
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603017152
+status: 1
+tags: []
+user_id: unknown

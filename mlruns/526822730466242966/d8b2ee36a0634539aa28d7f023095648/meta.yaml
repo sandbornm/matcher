@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d8b2ee36a0634539aa28d7f023095648/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d8b2ee36a0634539aa28d7f023095648
+run_name: overjoyed-moth-248
+run_uuid: d8b2ee36a0634539aa28d7f023095648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569882832
+status: 1
+tags: []
+user_id: unknown

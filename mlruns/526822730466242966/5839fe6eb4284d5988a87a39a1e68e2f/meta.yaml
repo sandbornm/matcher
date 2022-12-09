@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5839fe6eb4284d5988a87a39a1e68e2f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5839fe6eb4284d5988a87a39a1e68e2f
+run_name: bittersweet-flea-255
+run_uuid: 5839fe6eb4284d5988a87a39a1e68e2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670583871599
+status: 1
+tags: []
+user_id: unknown

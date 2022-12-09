@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/06e06fe2ea604800a89ea19193f5e720/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 06e06fe2ea604800a89ea19193f5e720
+run_name: kindly-lark-122
+run_uuid: 06e06fe2ea604800a89ea19193f5e720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603522569
+status: 1
+tags: []
+user_id: unknown

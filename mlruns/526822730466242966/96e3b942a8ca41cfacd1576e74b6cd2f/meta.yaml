@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/96e3b942a8ca41cfacd1576e74b6cd2f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 96e3b942a8ca41cfacd1576e74b6cd2f
+run_name: nebulous-crane-716
+run_uuid: 96e3b942a8ca41cfacd1576e74b6cd2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670609930709
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6d004a1a0d5c4da3ab80bf8d023954ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6d004a1a0d5c4da3ab80bf8d023954ff
+run_name: vaunted-hen-569
+run_uuid: 6d004a1a0d5c4da3ab80bf8d023954ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670608774982
+status: 1
+tags: []
+user_id: unknown

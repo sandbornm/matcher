@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3cfb1a8418e9438fbfa1e8648bbc3c1c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3cfb1a8418e9438fbfa1e8648bbc3c1c
+run_name: lyrical-croc-403
+run_uuid: 3cfb1a8418e9438fbfa1e8648bbc3c1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670581410091
+status: 1
+tags: []
+user_id: unknown

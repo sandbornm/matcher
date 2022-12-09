@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/be25ace235c449298fd9acad5f0d703c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: be25ace235c449298fd9acad5f0d703c
+run_name: merciful-shrimp-980
+run_uuid: be25ace235c449298fd9acad5f0d703c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569133601
+status: 1
+tags: []
+user_id: unknown

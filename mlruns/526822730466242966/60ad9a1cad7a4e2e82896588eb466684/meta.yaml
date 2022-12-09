@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/60ad9a1cad7a4e2e82896588eb466684/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 60ad9a1cad7a4e2e82896588eb466684
+run_name: nebulous-goose-708
+run_uuid: 60ad9a1cad7a4e2e82896588eb466684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582952657
+status: 1
+tags: []
+user_id: unknown

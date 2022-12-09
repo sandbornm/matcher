@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/146cd4e7e3ee4c2dbbb84b3ba9b9733f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 146cd4e7e3ee4c2dbbb84b3ba9b9733f
+run_name: sassy-shad-173
+run_uuid: 146cd4e7e3ee4c2dbbb84b3ba9b9733f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670572151215
+status: 1
+tags: []
+user_id: unknown

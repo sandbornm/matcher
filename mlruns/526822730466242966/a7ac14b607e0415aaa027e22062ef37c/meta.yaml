@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a7ac14b607e0415aaa027e22062ef37c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a7ac14b607e0415aaa027e22062ef37c
+run_name: burly-cat-680
+run_uuid: a7ac14b607e0415aaa027e22062ef37c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670581306280
+status: 1
+tags: []
+user_id: unknown

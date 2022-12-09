@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/760853ccb7364141aafa417de58a72c4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 760853ccb7364141aafa417de58a72c4
+run_name: chill-conch-389
+run_uuid: 760853ccb7364141aafa417de58a72c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670590236059
+status: 1
+tags: []
+user_id: unknown

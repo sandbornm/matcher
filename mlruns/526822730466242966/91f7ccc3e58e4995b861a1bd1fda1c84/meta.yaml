@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/91f7ccc3e58e4995b861a1bd1fda1c84/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 91f7ccc3e58e4995b861a1bd1fda1c84
+run_name: bald-skink-145
+run_uuid: 91f7ccc3e58e4995b861a1bd1fda1c84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670605097090
+status: 1
+tags: []
+user_id: unknown

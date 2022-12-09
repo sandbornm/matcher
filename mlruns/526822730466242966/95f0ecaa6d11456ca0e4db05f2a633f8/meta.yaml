@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/95f0ecaa6d11456ca0e4db05f2a633f8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 95f0ecaa6d11456ca0e4db05f2a633f8
+run_name: casual-fawn-137
+run_uuid: 95f0ecaa6d11456ca0e4db05f2a633f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670576649762
+status: 1
+tags: []
+user_id: unknown

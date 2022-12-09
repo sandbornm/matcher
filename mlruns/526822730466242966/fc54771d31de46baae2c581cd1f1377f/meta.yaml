@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fc54771d31de46baae2c581cd1f1377f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fc54771d31de46baae2c581cd1f1377f
+run_name: polite-fowl-724
+run_uuid: fc54771d31de46baae2c581cd1f1377f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603630331
+status: 1
+tags: []
+user_id: unknown

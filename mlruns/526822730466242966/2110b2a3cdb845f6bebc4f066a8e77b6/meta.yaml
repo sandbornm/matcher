@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2110b2a3cdb845f6bebc4f066a8e77b6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2110b2a3cdb845f6bebc4f066a8e77b6
+run_name: colorful-duck-239
+run_uuid: 2110b2a3cdb845f6bebc4f066a8e77b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670563780245
+status: 1
+tags: []
+user_id: unknown

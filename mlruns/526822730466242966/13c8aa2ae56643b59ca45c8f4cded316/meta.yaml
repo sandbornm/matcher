@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/13c8aa2ae56643b59ca45c8f4cded316/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 13c8aa2ae56643b59ca45c8f4cded316
+run_name: gifted-cub-646
+run_uuid: 13c8aa2ae56643b59ca45c8f4cded316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670600201865
+status: 1
+tags: []
+user_id: unknown

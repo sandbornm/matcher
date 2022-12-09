@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/469a209c5edf44e2851ed30ef536c199/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 469a209c5edf44e2851ed30ef536c199
+run_name: nervous-shrike-74
+run_uuid: 469a209c5edf44e2851ed30ef536c199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670583338043
+status: 1
+tags: []
+user_id: unknown

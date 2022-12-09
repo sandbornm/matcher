@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a48f1a9d345c4ba19b39d5d64706441b/artifacts
+deleted_time: 1670561614583
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: a48f1a9d345c4ba19b39d5d64706441b
+run_name: unique-loon-925
+run_uuid: a48f1a9d345c4ba19b39d5d64706441b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670561500669
+status: 1
+tags: []
+user_id: unknown

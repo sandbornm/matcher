@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/69f5ef91aed74b8f9d3e7f917242f899/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 69f5ef91aed74b8f9d3e7f917242f899
+run_name: resilient-chimp-176
+run_uuid: 69f5ef91aed74b8f9d3e7f917242f899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670587541026
+status: 1
+tags: []
+user_id: unknown

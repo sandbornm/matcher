@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d2916510e6c24ef081b693c67261bf52/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d2916510e6c24ef081b693c67261bf52
+run_name: flawless-vole-190
+run_uuid: d2916510e6c24ef081b693c67261bf52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670563247365
+status: 1
+tags: []
+user_id: unknown

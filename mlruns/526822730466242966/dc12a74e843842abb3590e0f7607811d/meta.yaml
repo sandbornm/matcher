@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/dc12a74e843842abb3590e0f7607811d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: dc12a74e843842abb3590e0f7607811d
+run_name: treasured-gull-180
+run_uuid: dc12a74e843842abb3590e0f7607811d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670593199116
+status: 1
+tags: []
+user_id: unknown

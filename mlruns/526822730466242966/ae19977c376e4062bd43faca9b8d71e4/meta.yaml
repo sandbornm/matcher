@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ae19977c376e4062bd43faca9b8d71e4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ae19977c376e4062bd43faca9b8d71e4
+run_name: handsome-auk-87
+run_uuid: ae19977c376e4062bd43faca9b8d71e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670610225080
+status: 1
+tags: []
+user_id: unknown

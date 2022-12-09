@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5a595e55343a4229b1bfe07559d1b44f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5a595e55343a4229b1bfe07559d1b44f
+run_name: thoughtful-whale-721
+run_uuid: 5a595e55343a4229b1bfe07559d1b44f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670558244167
+status: 1
+tags: []
+user_id: unknown

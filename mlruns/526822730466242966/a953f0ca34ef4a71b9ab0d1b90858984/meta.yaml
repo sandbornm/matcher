@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a953f0ca34ef4a71b9ab0d1b90858984/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a953f0ca34ef4a71b9ab0d1b90858984
+run_name: enthused-carp-61
+run_uuid: a953f0ca34ef4a71b9ab0d1b90858984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670597415223
+status: 1
+tags: []
+user_id: unknown

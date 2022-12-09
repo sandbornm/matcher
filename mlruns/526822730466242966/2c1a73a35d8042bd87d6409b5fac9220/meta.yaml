@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2c1a73a35d8042bd87d6409b5fac9220/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2c1a73a35d8042bd87d6409b5fac9220
+run_name: mysterious-stag-70
+run_uuid: 2c1a73a35d8042bd87d6409b5fac9220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670595986307
+status: 1
+tags: []
+user_id: unknown

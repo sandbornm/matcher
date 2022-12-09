@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d13d8986855e4d28a7974a6c14f45671/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d13d8986855e4d28a7974a6c14f45671
+run_name: capable-ape-99
+run_uuid: d13d8986855e4d28a7974a6c14f45671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670608009793
+status: 1
+tags: []
+user_id: unknown

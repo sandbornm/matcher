@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8986da5758044ea7a6ed277c3ceef3f1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8986da5758044ea7a6ed277c3ceef3f1
+run_name: rebellious-foal-131
+run_uuid: 8986da5758044ea7a6ed277c3ceef3f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670567914497
+status: 1
+tags: []
+user_id: unknown

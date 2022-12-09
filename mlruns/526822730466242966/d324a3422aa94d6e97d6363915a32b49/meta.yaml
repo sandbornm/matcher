@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d324a3422aa94d6e97d6363915a32b49/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d324a3422aa94d6e97d6363915a32b49
+run_name: victorious-lark-411
+run_uuid: d324a3422aa94d6e97d6363915a32b49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603384431
+status: 1
+tags: []
+user_id: unknown

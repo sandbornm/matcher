@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e591f9c3dedc4835ab991f349b85dc1a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e591f9c3dedc4835ab991f349b85dc1a
+run_name: rambunctious-yak-458
+run_uuid: e591f9c3dedc4835ab991f349b85dc1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670562445939
+status: 1
+tags: []
+user_id: unknown

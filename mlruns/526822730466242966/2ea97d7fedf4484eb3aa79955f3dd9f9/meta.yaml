@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2ea97d7fedf4484eb3aa79955f3dd9f9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2ea97d7fedf4484eb3aa79955f3dd9f9
+run_name: traveling-fly-941
+run_uuid: 2ea97d7fedf4484eb3aa79955f3dd9f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670609248007
+status: 1
+tags: []
+user_id: unknown

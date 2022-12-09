@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3d97f12ef61c4b4ba4b79f474bbb1053/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3d97f12ef61c4b4ba4b79f474bbb1053
+run_name: serious-cub-49
+run_uuid: 3d97f12ef61c4b4ba4b79f474bbb1053
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670590886577
+status: 1
+tags: []
+user_id: unknown

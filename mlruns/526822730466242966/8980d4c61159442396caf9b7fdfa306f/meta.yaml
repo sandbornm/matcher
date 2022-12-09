@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8980d4c61159442396caf9b7fdfa306f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8980d4c61159442396caf9b7fdfa306f
+run_name: enthused-robin-907
+run_uuid: 8980d4c61159442396caf9b7fdfa306f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670591246099
+status: 1
+tags: []
+user_id: unknown

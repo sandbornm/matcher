@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/263c267ad20d4b8f8e9ee499113e8c63/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 263c267ad20d4b8f8e9ee499113e8c63
+run_name: rogue-tern-484
+run_uuid: 263c267ad20d4b8f8e9ee499113e8c63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670604509949
+status: 1
+tags: []
+user_id: unknown

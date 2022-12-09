@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/32b746a521a1456ab490b6e2bf65a21b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 32b746a521a1456ab490b6e2bf65a21b
+run_name: adorable-loon-274
+run_uuid: 32b746a521a1456ab490b6e2bf65a21b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603030914
+status: 1
+tags: []
+user_id: unknown

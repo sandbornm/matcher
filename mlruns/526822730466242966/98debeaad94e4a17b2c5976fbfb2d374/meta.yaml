@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/98debeaad94e4a17b2c5976fbfb2d374/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 98debeaad94e4a17b2c5976fbfb2d374
+run_name: bald-hound-396
+run_uuid: 98debeaad94e4a17b2c5976fbfb2d374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670612283911
+status: 1
+tags: []
+user_id: unknown

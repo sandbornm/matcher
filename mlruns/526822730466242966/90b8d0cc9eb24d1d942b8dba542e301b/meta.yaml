@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/90b8d0cc9eb24d1d942b8dba542e301b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 90b8d0cc9eb24d1d942b8dba542e301b
+run_name: awesome-conch-484
+run_uuid: 90b8d0cc9eb24d1d942b8dba542e301b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568706306
+status: 1
+tags: []
+user_id: unknown

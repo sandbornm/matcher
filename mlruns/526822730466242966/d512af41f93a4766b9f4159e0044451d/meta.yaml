@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d512af41f93a4766b9f4159e0044451d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d512af41f93a4766b9f4159e0044451d
+run_name: incongruous-roo-414
+run_uuid: d512af41f93a4766b9f4159e0044451d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603481610
+status: 1
+tags: []
+user_id: unknown

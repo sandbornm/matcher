@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1b82cc7101b248d6bbf26a351fba2ac7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1b82cc7101b248d6bbf26a351fba2ac7
+run_name: clumsy-stork-352
+run_uuid: 1b82cc7101b248d6bbf26a351fba2ac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670589523864
+status: 1
+tags: []
+user_id: unknown

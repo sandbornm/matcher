@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5eea6f91b82743c2bacee87e6a9d6028/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5eea6f91b82743c2bacee87e6a9d6028
+run_name: unruly-horse-260
+run_uuid: 5eea6f91b82743c2bacee87e6a9d6028
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670604712540
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1ffc847e62f4477aaa8170ac094df97c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1ffc847e62f4477aaa8170ac094df97c
+run_name: bittersweet-duck-101
+run_uuid: 1ffc847e62f4477aaa8170ac094df97c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670588675796
+status: 1
+tags: []
+user_id: unknown

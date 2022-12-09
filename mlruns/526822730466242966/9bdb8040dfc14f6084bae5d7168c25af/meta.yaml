@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9bdb8040dfc14f6084bae5d7168c25af/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9bdb8040dfc14f6084bae5d7168c25af
+run_name: dashing-sow-126
+run_uuid: 9bdb8040dfc14f6084bae5d7168c25af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594839109
+status: 1
+tags: []
+user_id: unknown

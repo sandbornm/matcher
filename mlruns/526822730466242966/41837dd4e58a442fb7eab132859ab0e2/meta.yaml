@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/41837dd4e58a442fb7eab132859ab0e2/artifacts
+deleted_time: 1670561614582
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 41837dd4e58a442fb7eab132859ab0e2
+run_name: secretive-shrimp-355
+run_uuid: 41837dd4e58a442fb7eab132859ab0e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670561500674
+status: 1
+tags: []
+user_id: unknown

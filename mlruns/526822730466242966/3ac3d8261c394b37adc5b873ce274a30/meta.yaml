@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3ac3d8261c394b37adc5b873ce274a30/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3ac3d8261c394b37adc5b873ce274a30
+run_name: luminous-lamb-705
+run_uuid: 3ac3d8261c394b37adc5b873ce274a30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670593010642
+status: 1
+tags: []
+user_id: unknown

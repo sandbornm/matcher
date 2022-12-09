@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/911ace172ec84dc7adc5705260ff1750/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 911ace172ec84dc7adc5705260ff1750
+run_name: burly-shad-285
+run_uuid: 911ace172ec84dc7adc5705260ff1750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670608489834
+status: 1
+tags: []
+user_id: unknown

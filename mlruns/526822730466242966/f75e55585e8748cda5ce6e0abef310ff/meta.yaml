@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f75e55585e8748cda5ce6e0abef310ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f75e55585e8748cda5ce6e0abef310ff
+run_name: popular-newt-696
+run_uuid: f75e55585e8748cda5ce6e0abef310ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594549472
+status: 1
+tags: []
+user_id: unknown

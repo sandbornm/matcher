@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2284995881da41ce9ac80ab17ba7279e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2284995881da41ce9ac80ab17ba7279e
+run_name: popular-boar-741
+run_uuid: 2284995881da41ce9ac80ab17ba7279e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670585391557
+status: 1
+tags: []
+user_id: unknown

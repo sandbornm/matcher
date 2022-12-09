@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d119ede2309543eb9d7eb6d62ad7b3b2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d119ede2309543eb9d7eb6d62ad7b3b2
+run_name: grandiose-skunk-974
+run_uuid: d119ede2309543eb9d7eb6d62ad7b3b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670610465761
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/abb778b442f94ce88a7af0c35976b304/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: abb778b442f94ce88a7af0c35976b304
+run_name: bedecked-stoat-863
+run_uuid: abb778b442f94ce88a7af0c35976b304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670567700573
+status: 1
+tags: []
+user_id: unknown

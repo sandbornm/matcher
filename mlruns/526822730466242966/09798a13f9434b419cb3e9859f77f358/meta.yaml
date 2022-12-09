@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/09798a13f9434b419cb3e9859f77f358/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 09798a13f9434b419cb3e9859f77f358
+run_name: loud-squirrel-981
+run_uuid: 09798a13f9434b419cb3e9859f77f358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569882813
+status: 1
+tags: []
+user_id: unknown

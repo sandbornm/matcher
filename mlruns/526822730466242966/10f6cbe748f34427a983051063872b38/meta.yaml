@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/10f6cbe748f34427a983051063872b38/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 10f6cbe748f34427a983051063872b38
+run_name: bold-snake-439
+run_uuid: 10f6cbe748f34427a983051063872b38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670595692093
+status: 1
+tags: []
+user_id: unknown

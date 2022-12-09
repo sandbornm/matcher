@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ef84b4bea64744aba0b9bbab1b51a857/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ef84b4bea64744aba0b9bbab1b51a857
+run_name: indecisive-mole-389
+run_uuid: ef84b4bea64744aba0b9bbab1b51a857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670567628171
+status: 1
+tags: []
+user_id: unknown

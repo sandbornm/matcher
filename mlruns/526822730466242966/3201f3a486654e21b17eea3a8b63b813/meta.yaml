@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3201f3a486654e21b17eea3a8b63b813/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3201f3a486654e21b17eea3a8b63b813
+run_name: nimble-rat-893
+run_uuid: 3201f3a486654e21b17eea3a8b63b813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569169741
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2a5204691f784aaaac69a9b15dfc6acf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2a5204691f784aaaac69a9b15dfc6acf
+run_name: blushing-dolphin-715
+run_uuid: 2a5204691f784aaaac69a9b15dfc6acf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670562998229
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e693834e4e4d4b91bd6d0939e23b2b0a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e693834e4e4d4b91bd6d0939e23b2b0a
+run_name: grandiose-dog-241
+run_uuid: e693834e4e4d4b91bd6d0939e23b2b0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670601840513
+status: 1
+tags: []
+user_id: unknown

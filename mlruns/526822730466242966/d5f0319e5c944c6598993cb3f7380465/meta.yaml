@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d5f0319e5c944c6598993cb3f7380465/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d5f0319e5c944c6598993cb3f7380465
+run_name: kindly-grouse-867
+run_uuid: d5f0319e5c944c6598993cb3f7380465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670591303918
+status: 1
+tags: []
+user_id: unknown

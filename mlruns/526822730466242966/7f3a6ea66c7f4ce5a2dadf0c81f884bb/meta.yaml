@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7f3a6ea66c7f4ce5a2dadf0c81f884bb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7f3a6ea66c7f4ce5a2dadf0c81f884bb
+run_name: amazing-dog-767
+run_uuid: 7f3a6ea66c7f4ce5a2dadf0c81f884bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670580015623
+status: 1
+tags: []
+user_id: unknown

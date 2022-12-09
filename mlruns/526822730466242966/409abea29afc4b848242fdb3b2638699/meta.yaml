@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/409abea29afc4b848242fdb3b2638699/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 409abea29afc4b848242fdb3b2638699
+run_name: carefree-wasp-12
+run_uuid: 409abea29afc4b848242fdb3b2638699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569802132
+status: 1
+tags: []
+user_id: unknown

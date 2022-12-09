@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/da3fb40166c249f6b42a032031147208/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: da3fb40166c249f6b42a032031147208
+run_name: upset-hare-466
+run_uuid: da3fb40166c249f6b42a032031147208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670574542547
+status: 1
+tags: []
+user_id: unknown

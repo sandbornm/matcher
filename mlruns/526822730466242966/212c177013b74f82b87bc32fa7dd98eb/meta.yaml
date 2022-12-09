@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/212c177013b74f82b87bc32fa7dd98eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 212c177013b74f82b87bc32fa7dd98eb
+run_name: crawling-loon-759
+run_uuid: 212c177013b74f82b87bc32fa7dd98eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670599258948
+status: 1
+tags: []
+user_id: unknown

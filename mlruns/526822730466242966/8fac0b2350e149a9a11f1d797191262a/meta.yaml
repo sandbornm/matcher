@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8fac0b2350e149a9a11f1d797191262a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8fac0b2350e149a9a11f1d797191262a
+run_name: capricious-sloth-347
+run_uuid: 8fac0b2350e149a9a11f1d797191262a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670576456399
+status: 1
+tags: []
+user_id: unknown

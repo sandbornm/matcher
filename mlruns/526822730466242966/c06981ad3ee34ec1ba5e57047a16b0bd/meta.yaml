@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c06981ad3ee34ec1ba5e57047a16b0bd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: c06981ad3ee34ec1ba5e57047a16b0bd
+run_name: adventurous-swan-130
+run_uuid: c06981ad3ee34ec1ba5e57047a16b0bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582934134
+status: 1
+tags: []
+user_id: unknown

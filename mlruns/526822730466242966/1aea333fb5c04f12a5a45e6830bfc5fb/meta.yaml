@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1aea333fb5c04f12a5a45e6830bfc5fb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1aea333fb5c04f12a5a45e6830bfc5fb
+run_name: bemused-whale-202
+run_uuid: 1aea333fb5c04f12a5a45e6830bfc5fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670611455277
+status: 1
+tags: []
+user_id: unknown

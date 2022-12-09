@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5f2b87a7f9c24ef28909f2c75e7497a1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5f2b87a7f9c24ef28909f2c75e7497a1
+run_name: polite-wolf-694
+run_uuid: 5f2b87a7f9c24ef28909f2c75e7497a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670583767296
+status: 1
+tags: []
+user_id: unknown

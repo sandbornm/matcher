@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d1221f91f5e344328abfac02614efb8c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d1221f91f5e344328abfac02614efb8c
+run_name: aged-slug-637
+run_uuid: d1221f91f5e344328abfac02614efb8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670598921883
+status: 1
+tags: []
+user_id: unknown

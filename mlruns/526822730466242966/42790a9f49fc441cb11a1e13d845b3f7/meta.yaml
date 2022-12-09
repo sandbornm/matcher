@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/42790a9f49fc441cb11a1e13d845b3f7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 42790a9f49fc441cb11a1e13d845b3f7
+run_name: tasteful-whale-55
+run_uuid: 42790a9f49fc441cb11a1e13d845b3f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670570120676
+status: 1
+tags: []
+user_id: unknown

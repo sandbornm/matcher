@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/768c7953a80b4c0e96562d50d77d713a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 768c7953a80b4c0e96562d50d77d713a
+run_name: unequaled-elk-692
+run_uuid: 768c7953a80b4c0e96562d50d77d713a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670575722063
+status: 1
+tags: []
+user_id: unknown

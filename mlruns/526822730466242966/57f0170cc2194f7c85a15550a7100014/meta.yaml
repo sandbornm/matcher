@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/57f0170cc2194f7c85a15550a7100014/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 57f0170cc2194f7c85a15550a7100014
+run_name: popular-dolphin-886
+run_uuid: 57f0170cc2194f7c85a15550a7100014
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670573643622
+status: 1
+tags: []
+user_id: unknown

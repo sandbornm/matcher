@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b1803137b89d483d9428ba2de9583b16/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b1803137b89d483d9428ba2de9583b16
+run_name: serious-hound-468
+run_uuid: b1803137b89d483d9428ba2de9583b16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670593463084
+status: 1
+tags: []
+user_id: unknown

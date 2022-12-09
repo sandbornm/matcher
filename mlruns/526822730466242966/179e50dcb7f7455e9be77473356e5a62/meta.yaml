@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/179e50dcb7f7455e9be77473356e5a62/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 179e50dcb7f7455e9be77473356e5a62
+run_name: intrigued-dove-988
+run_uuid: 179e50dcb7f7455e9be77473356e5a62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670575674289
+status: 1
+tags: []
+user_id: unknown

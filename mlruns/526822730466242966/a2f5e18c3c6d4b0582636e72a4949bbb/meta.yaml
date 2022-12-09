@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a2f5e18c3c6d4b0582636e72a4949bbb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a2f5e18c3c6d4b0582636e72a4949bbb
+run_name: capricious-dog-935
+run_uuid: a2f5e18c3c6d4b0582636e72a4949bbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670611704639
+status: 1
+tags: []
+user_id: unknown

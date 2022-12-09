@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f1c8b5c03b584dc7b5e06b743e8e06ce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f1c8b5c03b584dc7b5e06b743e8e06ce
+run_name: mercurial-deer-11
+run_uuid: f1c8b5c03b584dc7b5e06b743e8e06ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603375624
+status: 1
+tags: []
+user_id: unknown

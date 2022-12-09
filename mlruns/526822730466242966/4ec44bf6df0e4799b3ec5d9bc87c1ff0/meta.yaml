@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4ec44bf6df0e4799b3ec5d9bc87c1ff0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 4ec44bf6df0e4799b3ec5d9bc87c1ff0
+run_name: aged-worm-919
+run_uuid: 4ec44bf6df0e4799b3ec5d9bc87c1ff0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670612452571
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f48a888dc1d141719e101c4d333c3fd3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f48a888dc1d141719e101c4d333c3fd3
+run_name: awesome-bug-63
+run_uuid: f48a888dc1d141719e101c4d333c3fd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670581396895
+status: 1
+tags: []
+user_id: unknown

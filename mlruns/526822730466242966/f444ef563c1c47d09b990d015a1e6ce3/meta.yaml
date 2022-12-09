@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f444ef563c1c47d09b990d015a1e6ce3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f444ef563c1c47d09b990d015a1e6ce3
+run_name: luminous-moth-522
+run_uuid: f444ef563c1c47d09b990d015a1e6ce3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670604576731
+status: 1
+tags: []
+user_id: unknown

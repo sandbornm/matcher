@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/58d2db747aff431fba58f4dd5cb1911f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 58d2db747aff431fba58f4dd5cb1911f
+run_name: rumbling-grub-468
+run_uuid: 58d2db747aff431fba58f4dd5cb1911f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568070262
+status: 1
+tags: []
+user_id: unknown

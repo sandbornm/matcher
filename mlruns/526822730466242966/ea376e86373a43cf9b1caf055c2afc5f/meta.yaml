@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ea376e86373a43cf9b1caf055c2afc5f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ea376e86373a43cf9b1caf055c2afc5f
+run_name: clumsy-rat-730
+run_uuid: ea376e86373a43cf9b1caf055c2afc5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670576915682
+status: 1
+tags: []
+user_id: unknown

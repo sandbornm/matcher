@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/63389cca7d754f67b9269140468dc222/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 63389cca7d754f67b9269140468dc222
+run_name: youthful-donkey-743
+run_uuid: 63389cca7d754f67b9269140468dc222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670583872772
+status: 1
+tags: []
+user_id: unknown

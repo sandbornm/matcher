@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6194a3a20258427db492992e45d56a9e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6194a3a20258427db492992e45d56a9e
+run_name: worried-swan-249
+run_uuid: 6194a3a20258427db492992e45d56a9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568388206
+status: 1
+tags: []
+user_id: unknown

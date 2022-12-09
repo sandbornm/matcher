@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a27fa32646fa4d178d9a6cc5e85c7889/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a27fa32646fa4d178d9a6cc5e85c7889
+run_name: stylish-shark-848
+run_uuid: a27fa32646fa4d178d9a6cc5e85c7889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670607052715
+status: 1
+tags: []
+user_id: unknown

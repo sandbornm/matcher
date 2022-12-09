@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4724377c92e3445fb6414eedd85c1b42/artifacts
+deleted_time: 1670561614586
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 4724377c92e3445fb6414eedd85c1b42
+run_name: sincere-rook-861
+run_uuid: 4724377c92e3445fb6414eedd85c1b42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670561500613
+status: 1
+tags: []
+user_id: unknown

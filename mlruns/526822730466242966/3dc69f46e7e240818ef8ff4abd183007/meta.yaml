@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3dc69f46e7e240818ef8ff4abd183007/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3dc69f46e7e240818ef8ff4abd183007
+run_name: fortunate-turtle-844
+run_uuid: 3dc69f46e7e240818ef8ff4abd183007
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670567661686
+status: 1
+tags: []
+user_id: unknown

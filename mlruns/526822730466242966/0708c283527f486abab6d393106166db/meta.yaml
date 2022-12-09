@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0708c283527f486abab6d393106166db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 0708c283527f486abab6d393106166db
+run_name: upset-grouse-601
+run_uuid: 0708c283527f486abab6d393106166db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670581757557
+status: 1
+tags: []
+user_id: unknown

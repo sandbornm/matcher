@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3a16ea5ddf074dc1a189bcc664cbf7fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3a16ea5ddf074dc1a189bcc664cbf7fc
+run_name: casual-cow-619
+run_uuid: 3a16ea5ddf074dc1a189bcc664cbf7fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670577099710
+status: 1
+tags: []
+user_id: unknown

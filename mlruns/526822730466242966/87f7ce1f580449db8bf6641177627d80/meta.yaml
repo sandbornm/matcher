@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/87f7ce1f580449db8bf6641177627d80/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 87f7ce1f580449db8bf6641177627d80
+run_name: vaunted-swan-700
+run_uuid: 87f7ce1f580449db8bf6641177627d80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670572900406
+status: 1
+tags: []
+user_id: unknown

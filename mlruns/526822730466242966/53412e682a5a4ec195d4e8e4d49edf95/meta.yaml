@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/53412e682a5a4ec195d4e8e4d49edf95/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 53412e682a5a4ec195d4e8e4d49edf95
+run_name: gentle-lark-541
+run_uuid: 53412e682a5a4ec195d4e8e4d49edf95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670611861341
+status: 1
+tags: []
+user_id: unknown

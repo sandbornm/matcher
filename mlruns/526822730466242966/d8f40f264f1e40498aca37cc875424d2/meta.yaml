@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d8f40f264f1e40498aca37cc875424d2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d8f40f264f1e40498aca37cc875424d2
+run_name: suave-frog-195
+run_uuid: d8f40f264f1e40498aca37cc875424d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670604692045
+status: 1
+tags: []
+user_id: unknown

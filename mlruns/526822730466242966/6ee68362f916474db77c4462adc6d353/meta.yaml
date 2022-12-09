@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6ee68362f916474db77c4462adc6d353/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6ee68362f916474db77c4462adc6d353
+run_name: carefree-midge-79
+run_uuid: 6ee68362f916474db77c4462adc6d353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670593435184
+status: 1
+tags: []
+user_id: unknown

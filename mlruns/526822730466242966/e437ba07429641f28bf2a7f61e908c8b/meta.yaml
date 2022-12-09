@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e437ba07429641f28bf2a7f61e908c8b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e437ba07429641f28bf2a7f61e908c8b
+run_name: grandiose-fish-195
+run_uuid: e437ba07429641f28bf2a7f61e908c8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670592809685
+status: 1
+tags: []
+user_id: unknown

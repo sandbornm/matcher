@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ac7e3caa9c1f4dd6966916f0523986ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ac7e3caa9c1f4dd6966916f0523986ae
+run_name: puzzled-deer-680
+run_uuid: ac7e3caa9c1f4dd6966916f0523986ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670567064249
+status: 1
+tags: []
+user_id: unknown

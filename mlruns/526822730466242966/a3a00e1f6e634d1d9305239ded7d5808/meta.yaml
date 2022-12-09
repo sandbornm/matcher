@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a3a00e1f6e634d1d9305239ded7d5808/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a3a00e1f6e634d1d9305239ded7d5808
+run_name: calm-wren-566
+run_uuid: a3a00e1f6e634d1d9305239ded7d5808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670572327551
+status: 1
+tags: []
+user_id: unknown

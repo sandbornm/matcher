@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/04a7ece9e4844b208b3b7b0b69579814/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 04a7ece9e4844b208b3b7b0b69579814
+run_name: funny-fawn-965
+run_uuid: 04a7ece9e4844b208b3b7b0b69579814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670573200943
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/551337f484f34471b1b1bd75c492f217/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 551337f484f34471b1b1bd75c492f217
+run_name: adventurous-calf-406
+run_uuid: 551337f484f34471b1b1bd75c492f217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670565788155
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/faf5bc2b2c8b459aa636520ffe01b9d7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: faf5bc2b2c8b459aa636520ffe01b9d7
+run_name: polite-trout-180
+run_uuid: faf5bc2b2c8b459aa636520ffe01b9d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670608069624
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3da25e34ef6f4bd680d2d19b639d403d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3da25e34ef6f4bd680d2d19b639d403d
+run_name: worried-wolf-756
+run_uuid: 3da25e34ef6f4bd680d2d19b639d403d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670590195503
+status: 1
+tags: []
+user_id: unknown

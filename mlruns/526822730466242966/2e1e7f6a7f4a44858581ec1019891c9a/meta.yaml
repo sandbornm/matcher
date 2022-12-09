@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2e1e7f6a7f4a44858581ec1019891c9a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2e1e7f6a7f4a44858581ec1019891c9a
+run_name: able-ox-691
+run_uuid: 2e1e7f6a7f4a44858581ec1019891c9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670591808508
+status: 1
+tags: []
+user_id: unknown

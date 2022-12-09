@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b0952756c4244d2da553df55131968c5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b0952756c4244d2da553df55131968c5
+run_name: bustling-perch-14
+run_uuid: b0952756c4244d2da553df55131968c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670573384091
+status: 1
+tags: []
+user_id: unknown

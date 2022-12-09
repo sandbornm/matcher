@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5d0c896c78a14731b13db32b692ec0d8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5d0c896c78a14731b13db32b692ec0d8
+run_name: bald-fly-421
+run_uuid: 5d0c896c78a14731b13db32b692ec0d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594487276
+status: 1
+tags: []
+user_id: unknown

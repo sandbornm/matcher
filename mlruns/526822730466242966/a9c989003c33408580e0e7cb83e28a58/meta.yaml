@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a9c989003c33408580e0e7cb83e28a58/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a9c989003c33408580e0e7cb83e28a58
+run_name: angry-hawk-646
+run_uuid: a9c989003c33408580e0e7cb83e28a58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670578940755
+status: 1
+tags: []
+user_id: unknown

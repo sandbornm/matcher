@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f9bf6fa63fbb4d35a31f93123848547c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f9bf6fa63fbb4d35a31f93123848547c
+run_name: bouncy-robin-733
+run_uuid: f9bf6fa63fbb4d35a31f93123848547c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670600931995
+status: 1
+tags: []
+user_id: unknown

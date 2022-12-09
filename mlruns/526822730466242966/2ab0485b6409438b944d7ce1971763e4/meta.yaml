@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2ab0485b6409438b944d7ce1971763e4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2ab0485b6409438b944d7ce1971763e4
+run_name: able-grouse-772
+run_uuid: 2ab0485b6409438b944d7ce1971763e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670604613146
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/45d3f7a9bbc449a49db9bec56ecf4d61/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 45d3f7a9bbc449a49db9bec56ecf4d61
+run_name: youthful-panda-298
+run_uuid: 45d3f7a9bbc449a49db9bec56ecf4d61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670578872443
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ce57bddfe3004aba88330100a2b6cf3e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ce57bddfe3004aba88330100a2b6cf3e
+run_name: monumental-moose-288
+run_uuid: ce57bddfe3004aba88330100a2b6cf3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603861370
+status: 1
+tags: []
+user_id: unknown

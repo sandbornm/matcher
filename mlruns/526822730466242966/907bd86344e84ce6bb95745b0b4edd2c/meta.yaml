@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/907bd86344e84ce6bb95745b0b4edd2c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 907bd86344e84ce6bb95745b0b4edd2c
+run_name: mercurial-fox-836
+run_uuid: 907bd86344e84ce6bb95745b0b4edd2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670593573369
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/63dee7fa74844f79aa2abeb63ad15ef7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 63dee7fa74844f79aa2abeb63ad15ef7
+run_name: funny-dog-469
+run_uuid: 63dee7fa74844f79aa2abeb63ad15ef7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670579923066
+status: 1
+tags: []
+user_id: unknown

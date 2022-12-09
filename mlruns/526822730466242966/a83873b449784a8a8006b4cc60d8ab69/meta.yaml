@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a83873b449784a8a8006b4cc60d8ab69/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a83873b449784a8a8006b4cc60d8ab69
+run_name: big-bird-208
+run_uuid: a83873b449784a8a8006b4cc60d8ab69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670597857141
+status: 1
+tags: []
+user_id: unknown

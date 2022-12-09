@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/920d9dc877f0439883a97e5e7855d855/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 920d9dc877f0439883a97e5e7855d855
+run_name: rebellious-sow-724
+run_uuid: 920d9dc877f0439883a97e5e7855d855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603909750
+status: 1
+tags: []
+user_id: unknown

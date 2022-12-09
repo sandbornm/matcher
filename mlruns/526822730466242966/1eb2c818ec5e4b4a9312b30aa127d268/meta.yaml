@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1eb2c818ec5e4b4a9312b30aa127d268/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1eb2c818ec5e4b4a9312b30aa127d268
+run_name: powerful-steed-525
+run_uuid: 1eb2c818ec5e4b4a9312b30aa127d268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670605139257
+status: 1
+tags: []
+user_id: unknown

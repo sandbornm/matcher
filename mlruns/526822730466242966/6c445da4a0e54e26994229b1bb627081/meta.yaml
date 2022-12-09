@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6c445da4a0e54e26994229b1bb627081/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6c445da4a0e54e26994229b1bb627081
+run_name: big-hare-33
+run_uuid: 6c445da4a0e54e26994229b1bb627081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670578869079
+status: 1
+tags: []
+user_id: unknown

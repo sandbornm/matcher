@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e365b80080bd43478fa3219ab33beb5c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e365b80080bd43478fa3219ab33beb5c
+run_name: peaceful-panda-343
+run_uuid: e365b80080bd43478fa3219ab33beb5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670604586579
+status: 1
+tags: []
+user_id: unknown

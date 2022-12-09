@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/969f9ae611a44147abe0aceb7c0420e3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 969f9ae611a44147abe0aceb7c0420e3
+run_name: calm-worm-286
+run_uuid: 969f9ae611a44147abe0aceb7c0420e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603187924
+status: 1
+tags: []
+user_id: unknown

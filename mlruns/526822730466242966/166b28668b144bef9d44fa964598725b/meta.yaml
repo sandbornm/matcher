@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/166b28668b144bef9d44fa964598725b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 166b28668b144bef9d44fa964598725b
+run_name: clumsy-dog-173
+run_uuid: 166b28668b144bef9d44fa964598725b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670583954937
+status: 1
+tags: []
+user_id: unknown

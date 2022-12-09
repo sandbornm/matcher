@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6f96c68c8c754b2f980783042ffdb12b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6f96c68c8c754b2f980783042ffdb12b
+run_name: mercurial-vole-619
+run_uuid: 6f96c68c8c754b2f980783042ffdb12b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582542206
+status: 1
+tags: []
+user_id: unknown

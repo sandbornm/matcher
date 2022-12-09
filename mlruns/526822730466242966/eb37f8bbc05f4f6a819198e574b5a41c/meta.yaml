@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/eb37f8bbc05f4f6a819198e574b5a41c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: eb37f8bbc05f4f6a819198e574b5a41c
+run_name: able-lynx-407
+run_uuid: eb37f8bbc05f4f6a819198e574b5a41c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670585515884
+status: 1
+tags: []
+user_id: unknown

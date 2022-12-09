@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1726c0f91013430883c281c5e944f528/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1726c0f91013430883c281c5e944f528
+run_name: adorable-deer-13
+run_uuid: 1726c0f91013430883c281c5e944f528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670570288414
+status: 1
+tags: []
+user_id: unknown

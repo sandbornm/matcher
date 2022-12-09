@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/52ca6fcde5ca49169a76c40b02f3bdd3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 52ca6fcde5ca49169a76c40b02f3bdd3
+run_name: loud-gull-636
+run_uuid: 52ca6fcde5ca49169a76c40b02f3bdd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594707050
+status: 1
+tags: []
+user_id: unknown

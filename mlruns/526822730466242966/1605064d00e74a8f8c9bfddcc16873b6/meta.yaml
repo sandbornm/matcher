@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1605064d00e74a8f8c9bfddcc16873b6/artifacts
+deleted_time: 1670561191160
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 1605064d00e74a8f8c9bfddcc16873b6
+run_name: lyrical-skunk-960
+run_uuid: 1605064d00e74a8f8c9bfddcc16873b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670558244350
+status: 1
+tags: []
+user_id: unknown

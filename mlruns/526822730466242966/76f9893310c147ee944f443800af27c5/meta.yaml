@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/76f9893310c147ee944f443800af27c5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 76f9893310c147ee944f443800af27c5
+run_name: gregarious-loon-632
+run_uuid: 76f9893310c147ee944f443800af27c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670589640536
+status: 1
+tags: []
+user_id: unknown

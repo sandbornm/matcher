@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bd162f2c75cf4bd7828d20710df87d9a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: bd162f2c75cf4bd7828d20710df87d9a
+run_name: resilient-goat-251
+run_uuid: bd162f2c75cf4bd7828d20710df87d9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670592772906
+status: 1
+tags: []
+user_id: unknown

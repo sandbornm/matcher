@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/026c8e1f5a5b43c9a67f82930e67ed8f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 026c8e1f5a5b43c9a67f82930e67ed8f
+run_name: indecisive-cub-877
+run_uuid: 026c8e1f5a5b43c9a67f82930e67ed8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670598573366
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/435a274bcd4f46e9bd3e3580e8e346e1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 435a274bcd4f46e9bd3e3580e8e346e1
+run_name: angry-hound-343
+run_uuid: 435a274bcd4f46e9bd3e3580e8e346e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670586874815
+status: 1
+tags: []
+user_id: unknown

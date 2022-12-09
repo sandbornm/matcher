@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b01c9de5bd0b43b99899afcdee79537e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b01c9de5bd0b43b99899afcdee79537e
+run_name: handsome-pug-528
+run_uuid: b01c9de5bd0b43b99899afcdee79537e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670606869653
+status: 1
+tags: []
+user_id: unknown

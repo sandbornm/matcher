@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a5e6f8d94ef34453b8bf53a20d1c4e75/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a5e6f8d94ef34453b8bf53a20d1c4e75
+run_name: polite-squid-489
+run_uuid: a5e6f8d94ef34453b8bf53a20d1c4e75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670591488886
+status: 1
+tags: []
+user_id: unknown

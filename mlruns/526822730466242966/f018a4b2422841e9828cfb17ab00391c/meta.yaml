@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f018a4b2422841e9828cfb17ab00391c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f018a4b2422841e9828cfb17ab00391c
+run_name: upbeat-boar-517
+run_uuid: f018a4b2422841e9828cfb17ab00391c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670611610971
+status: 1
+tags: []
+user_id: unknown

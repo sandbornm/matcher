@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2c02e545d4a346dd8214729af9228468/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2c02e545d4a346dd8214729af9228468
+run_name: carefree-ray-234
+run_uuid: 2c02e545d4a346dd8214729af9228468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670591629625
+status: 1
+tags: []
+user_id: unknown

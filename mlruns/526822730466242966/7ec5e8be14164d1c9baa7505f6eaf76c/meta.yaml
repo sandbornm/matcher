@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7ec5e8be14164d1c9baa7505f6eaf76c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7ec5e8be14164d1c9baa7505f6eaf76c
+run_name: aged-grouse-370
+run_uuid: 7ec5e8be14164d1c9baa7505f6eaf76c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670600393687
+status: 1
+tags: []
+user_id: unknown

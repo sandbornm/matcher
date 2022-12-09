@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bd7cef3ca07442c2b1314bf3fb5e5a21/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: bd7cef3ca07442c2b1314bf3fb5e5a21
+run_name: rumbling-sow-7
+run_uuid: bd7cef3ca07442c2b1314bf3fb5e5a21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670596131472
+status: 1
+tags: []
+user_id: unknown

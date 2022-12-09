@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e0513b664ed74193bcb3de83e3d27976/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e0513b664ed74193bcb3de83e3d27976
+run_name: mercurial-ray-155
+run_uuid: e0513b664ed74193bcb3de83e3d27976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670587961670
+status: 1
+tags: []
+user_id: unknown

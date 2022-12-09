@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e7399ba36a59486ab1b0fc71a1dca3e9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e7399ba36a59486ab1b0fc71a1dca3e9
+run_name: upbeat-perch-25
+run_uuid: e7399ba36a59486ab1b0fc71a1dca3e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582137917
+status: 1
+tags: []
+user_id: unknown

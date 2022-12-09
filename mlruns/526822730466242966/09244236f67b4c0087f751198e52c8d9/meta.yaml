@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/09244236f67b4c0087f751198e52c8d9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 09244236f67b4c0087f751198e52c8d9
+run_name: kindly-mole-537
+run_uuid: 09244236f67b4c0087f751198e52c8d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568136435
+status: 1
+tags: []
+user_id: unknown

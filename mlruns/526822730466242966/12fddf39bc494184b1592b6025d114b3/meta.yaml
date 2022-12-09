@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/12fddf39bc494184b1592b6025d114b3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 12fddf39bc494184b1592b6025d114b3
+run_name: hilarious-rat-223
+run_uuid: 12fddf39bc494184b1592b6025d114b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670611211980
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fe3e9c410e0f4679a26ca67e391cd23d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fe3e9c410e0f4679a26ca67e391cd23d
+run_name: efficient-koi-161
+run_uuid: fe3e9c410e0f4679a26ca67e391cd23d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670590838487
+status: 1
+tags: []
+user_id: unknown

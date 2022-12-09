@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/55370481f9134df5892641f87e5eb4ca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 55370481f9134df5892641f87e5eb4ca
+run_name: popular-midge-184
+run_uuid: 55370481f9134df5892641f87e5eb4ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670599638791
+status: 1
+tags: []
+user_id: unknown

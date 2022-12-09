@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fc7d07972a124a1a82f2b40f54c93e92/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fc7d07972a124a1a82f2b40f54c93e92
+run_name: gentle-rat-522
+run_uuid: fc7d07972a124a1a82f2b40f54c93e92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670601508578
+status: 1
+tags: []
+user_id: unknown

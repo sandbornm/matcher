@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9886d1086ab94a36a3f54529b8b0af15/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9886d1086ab94a36a3f54529b8b0af15
+run_name: colorful-slug-334
+run_uuid: 9886d1086ab94a36a3f54529b8b0af15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670566153753
+status: 1
+tags: []
+user_id: unknown

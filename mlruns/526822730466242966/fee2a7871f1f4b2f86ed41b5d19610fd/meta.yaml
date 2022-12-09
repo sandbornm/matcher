@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fee2a7871f1f4b2f86ed41b5d19610fd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fee2a7871f1f4b2f86ed41b5d19610fd
+run_name: auspicious-mink-99
+run_uuid: fee2a7871f1f4b2f86ed41b5d19610fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569650409
+status: 1
+tags: []
+user_id: unknown

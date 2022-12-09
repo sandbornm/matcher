@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d5fcc7a790de40428c8459c4ec5ea4c5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d5fcc7a790de40428c8459c4ec5ea4c5
+run_name: amusing-shoat-264
+run_uuid: d5fcc7a790de40428c8459c4ec5ea4c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670574838427
+status: 1
+tags: []
+user_id: unknown

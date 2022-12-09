@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/121d9e090b794e2f80391ca5ed6474ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 121d9e090b794e2f80391ca5ed6474ff
+run_name: selective-stag-905
+run_uuid: 121d9e090b794e2f80391ca5ed6474ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670608046045
+status: 1
+tags: []
+user_id: unknown

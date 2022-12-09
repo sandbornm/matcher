@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4cd9ad74cf1c43bd8f2d5c3d7e51e67b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 4cd9ad74cf1c43bd8f2d5c3d7e51e67b
+run_name: calm-perch-208
+run_uuid: 4cd9ad74cf1c43bd8f2d5c3d7e51e67b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670566012101
+status: 1
+tags: []
+user_id: unknown

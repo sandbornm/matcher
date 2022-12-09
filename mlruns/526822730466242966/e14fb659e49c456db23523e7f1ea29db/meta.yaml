@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e14fb659e49c456db23523e7f1ea29db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e14fb659e49c456db23523e7f1ea29db
+run_name: sneaky-eel-715
+run_uuid: e14fb659e49c456db23523e7f1ea29db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670609878531
+status: 1
+tags: []
+user_id: unknown

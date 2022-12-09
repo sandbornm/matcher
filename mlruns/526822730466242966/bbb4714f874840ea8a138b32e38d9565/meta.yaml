@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bbb4714f874840ea8a138b32e38d9565/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: bbb4714f874840ea8a138b32e38d9565
+run_name: selective-fawn-54
+run_uuid: bbb4714f874840ea8a138b32e38d9565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582490782
+status: 1
+tags: []
+user_id: unknown

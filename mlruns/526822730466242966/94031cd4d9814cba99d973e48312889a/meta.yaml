@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/94031cd4d9814cba99d973e48312889a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 94031cd4d9814cba99d973e48312889a
+run_name: rare-skink-873
+run_uuid: 94031cd4d9814cba99d973e48312889a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670601727855
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f27eed03d7034f5ebc54c71b81798dfa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f27eed03d7034f5ebc54c71b81798dfa
+run_name: shivering-sow-427
+run_uuid: f27eed03d7034f5ebc54c71b81798dfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670571460173
+status: 1
+tags: []
+user_id: unknown

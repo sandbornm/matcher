@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5c00ba10b3c8475988a4366f445ec33f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5c00ba10b3c8475988a4366f445ec33f
+run_name: nebulous-frog-13
+run_uuid: 5c00ba10b3c8475988a4366f445ec33f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670571774309
+status: 1
+tags: []
+user_id: unknown

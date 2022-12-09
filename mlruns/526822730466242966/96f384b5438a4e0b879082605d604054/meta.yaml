@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/96f384b5438a4e0b879082605d604054/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 96f384b5438a4e0b879082605d604054
+run_name: amazing-wolf-814
+run_uuid: 96f384b5438a4e0b879082605d604054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670593938228
+status: 1
+tags: []
+user_id: unknown

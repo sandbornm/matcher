@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fffc082f58b84e2a820fdc6fc2ff02cd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fffc082f58b84e2a820fdc6fc2ff02cd
+run_name: vaunted-cow-741
+run_uuid: fffc082f58b84e2a820fdc6fc2ff02cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670587574981
+status: 1
+tags: []
+user_id: unknown

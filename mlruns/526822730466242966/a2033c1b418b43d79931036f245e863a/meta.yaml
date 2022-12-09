@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a2033c1b418b43d79931036f245e863a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a2033c1b418b43d79931036f245e863a
+run_name: luminous-crab-153
+run_uuid: a2033c1b418b43d79931036f245e863a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670591522625
+status: 1
+tags: []
+user_id: unknown

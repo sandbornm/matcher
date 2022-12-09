@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/77ee4b805afa4596af149a3037c59511/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 77ee4b805afa4596af149a3037c59511
+run_name: stately-dog-871
+run_uuid: 77ee4b805afa4596af149a3037c59511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670612445367
+status: 1
+tags: []
+user_id: unknown

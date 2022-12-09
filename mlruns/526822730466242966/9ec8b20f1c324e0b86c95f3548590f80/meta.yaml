@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9ec8b20f1c324e0b86c95f3548590f80/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9ec8b20f1c324e0b86c95f3548590f80
+run_name: clumsy-sow-518
+run_uuid: 9ec8b20f1c324e0b86c95f3548590f80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670598534191
+status: 1
+tags: []
+user_id: unknown

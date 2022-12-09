@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6a7db19d228f4b829a3e959f69f14208/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6a7db19d228f4b829a3e959f69f14208
+run_name: adaptable-ox-160
+run_uuid: 6a7db19d228f4b829a3e959f69f14208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603720596
+status: 1
+tags: []
+user_id: unknown

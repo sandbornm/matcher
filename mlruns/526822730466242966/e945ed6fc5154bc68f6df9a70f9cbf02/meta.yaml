@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e945ed6fc5154bc68f6df9a70f9cbf02/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e945ed6fc5154bc68f6df9a70f9cbf02
+run_name: delightful-elk-389
+run_uuid: e945ed6fc5154bc68f6df9a70f9cbf02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670590565534
+status: 1
+tags: []
+user_id: unknown

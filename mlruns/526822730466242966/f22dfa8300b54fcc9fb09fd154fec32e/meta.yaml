@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f22dfa8300b54fcc9fb09fd154fec32e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f22dfa8300b54fcc9fb09fd154fec32e
+run_name: merciful-frog-223
+run_uuid: f22dfa8300b54fcc9fb09fd154fec32e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670593612308
+status: 1
+tags: []
+user_id: unknown

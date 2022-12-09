@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c597e1374c274f2db70b0469c3118852/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: c597e1374c274f2db70b0469c3118852
+run_name: bright-wolf-765
+run_uuid: c597e1374c274f2db70b0469c3118852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582930806
+status: 1
+tags: []
+user_id: unknown

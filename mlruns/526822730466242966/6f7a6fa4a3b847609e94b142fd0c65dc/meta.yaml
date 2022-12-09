@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6f7a6fa4a3b847609e94b142fd0c65dc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6f7a6fa4a3b847609e94b142fd0c65dc
+run_name: smiling-chimp-896
+run_uuid: 6f7a6fa4a3b847609e94b142fd0c65dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670587337835
+status: 1
+tags: []
+user_id: unknown

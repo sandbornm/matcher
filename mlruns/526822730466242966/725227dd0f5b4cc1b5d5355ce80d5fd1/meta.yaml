@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/725227dd0f5b4cc1b5d5355ce80d5fd1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 725227dd0f5b4cc1b5d5355ce80d5fd1
+run_name: sedate-duck-274
+run_uuid: 725227dd0f5b4cc1b5d5355ce80d5fd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670583522444
+status: 1
+tags: []
+user_id: unknown

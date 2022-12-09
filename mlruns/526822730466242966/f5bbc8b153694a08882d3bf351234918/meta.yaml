@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f5bbc8b153694a08882d3bf351234918/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f5bbc8b153694a08882d3bf351234918
+run_name: redolent-kite-485
+run_uuid: f5bbc8b153694a08882d3bf351234918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670576629001
+status: 1
+tags: []
+user_id: unknown

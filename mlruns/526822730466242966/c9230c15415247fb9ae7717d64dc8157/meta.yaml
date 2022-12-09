@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c9230c15415247fb9ae7717d64dc8157/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: c9230c15415247fb9ae7717d64dc8157
+run_name: auspicious-hen-345
+run_uuid: c9230c15415247fb9ae7717d64dc8157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582768948
+status: 1
+tags: []
+user_id: unknown

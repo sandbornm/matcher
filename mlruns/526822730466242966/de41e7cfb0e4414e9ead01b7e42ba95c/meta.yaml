@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/de41e7cfb0e4414e9ead01b7e42ba95c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: de41e7cfb0e4414e9ead01b7e42ba95c
+run_name: abrasive-wolf-844
+run_uuid: de41e7cfb0e4414e9ead01b7e42ba95c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670581381583
+status: 1
+tags: []
+user_id: unknown

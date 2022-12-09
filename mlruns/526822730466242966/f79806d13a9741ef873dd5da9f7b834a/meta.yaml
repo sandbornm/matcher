@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f79806d13a9741ef873dd5da9f7b834a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f79806d13a9741ef873dd5da9f7b834a
+run_name: victorious-goose-679
+run_uuid: f79806d13a9741ef873dd5da9f7b834a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670581908171
+status: 1
+tags: []
+user_id: unknown

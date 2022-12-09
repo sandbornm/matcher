@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/868ed5852422464eb0513fb6d2daabed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 868ed5852422464eb0513fb6d2daabed
+run_name: wistful-pug-698
+run_uuid: 868ed5852422464eb0513fb6d2daabed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670590565319
+status: 1
+tags: []
+user_id: unknown

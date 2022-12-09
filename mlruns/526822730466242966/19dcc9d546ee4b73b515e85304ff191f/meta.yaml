@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/19dcc9d546ee4b73b515e85304ff191f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 19dcc9d546ee4b73b515e85304ff191f
+run_name: classy-wasp-354
+run_uuid: 19dcc9d546ee4b73b515e85304ff191f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670566521264
+status: 1
+tags: []
+user_id: unknown

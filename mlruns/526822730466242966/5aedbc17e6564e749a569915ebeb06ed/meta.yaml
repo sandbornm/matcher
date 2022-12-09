@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5aedbc17e6564e749a569915ebeb06ed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5aedbc17e6564e749a569915ebeb06ed
+run_name: delicate-hare-484
+run_uuid: 5aedbc17e6564e749a569915ebeb06ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670606481728
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/180e8a7d75f743c5a18dd0e1fa6d563d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 180e8a7d75f743c5a18dd0e1fa6d563d
+run_name: mercurial-snake-279
+run_uuid: 180e8a7d75f743c5a18dd0e1fa6d563d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670563664427
+status: 1
+tags: []
+user_id: unknown

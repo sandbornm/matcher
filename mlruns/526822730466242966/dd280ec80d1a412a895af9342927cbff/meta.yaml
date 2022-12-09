@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/dd280ec80d1a412a895af9342927cbff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: dd280ec80d1a412a895af9342927cbff
+run_name: tasteful-penguin-294
+run_uuid: dd280ec80d1a412a895af9342927cbff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670601288344
+status: 1
+tags: []
+user_id: unknown

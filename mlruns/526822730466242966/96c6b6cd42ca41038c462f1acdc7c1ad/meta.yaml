@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/96c6b6cd42ca41038c462f1acdc7c1ad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 96c6b6cd42ca41038c462f1acdc7c1ad
+run_name: beautiful-mole-154
+run_uuid: 96c6b6cd42ca41038c462f1acdc7c1ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670605895845
+status: 1
+tags: []
+user_id: unknown

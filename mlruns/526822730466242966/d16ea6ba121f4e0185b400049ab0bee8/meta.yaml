@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d16ea6ba121f4e0185b400049ab0bee8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d16ea6ba121f4e0185b400049ab0bee8
+run_name: abrasive-panda-944
+run_uuid: d16ea6ba121f4e0185b400049ab0bee8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670573820629
+status: 1
+tags: []
+user_id: unknown

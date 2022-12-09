@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9ed0c49c2e344760926aed397afcf86d/artifacts
+deleted_time: 1670561191155
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 9ed0c49c2e344760926aed397afcf86d
+run_name: resilient-fowl-112
+run_uuid: 9ed0c49c2e344760926aed397afcf86d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670559316717
+status: 1
+tags: []
+user_id: unknown

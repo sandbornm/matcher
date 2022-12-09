@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6acfdf264d4841d59c2453549d74bea9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6acfdf264d4841d59c2453549d74bea9
+run_name: stately-squirrel-10
+run_uuid: 6acfdf264d4841d59c2453549d74bea9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670588328935
+status: 1
+tags: []
+user_id: unknown

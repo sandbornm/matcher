@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bbf0e4051a6c43d58403ffdbf7629cc3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: bbf0e4051a6c43d58403ffdbf7629cc3
+run_name: bold-shrimp-315
+run_uuid: bbf0e4051a6c43d58403ffdbf7629cc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670586587453
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6bf83bcffe1a41e1b407cf23f19792ad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6bf83bcffe1a41e1b407cf23f19792ad
+run_name: wistful-cow-952
+run_uuid: 6bf83bcffe1a41e1b407cf23f19792ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670602313906
+status: 1
+tags: []
+user_id: unknown

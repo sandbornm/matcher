@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/47ae48d769b2420db331f5859a8bc603/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 47ae48d769b2420db331f5859a8bc603
+run_name: polite-dolphin-955
+run_uuid: 47ae48d769b2420db331f5859a8bc603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670578738193
+status: 1
+tags: []
+user_id: unknown

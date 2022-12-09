@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8bee5e1b3e744025883f9e105c5b516f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8bee5e1b3e744025883f9e105c5b516f
+run_name: skittish-sheep-724
+run_uuid: 8bee5e1b3e744025883f9e105c5b516f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670595912265
+status: 1
+tags: []
+user_id: unknown

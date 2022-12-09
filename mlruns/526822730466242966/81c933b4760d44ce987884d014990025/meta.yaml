@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/81c933b4760d44ce987884d014990025/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 81c933b4760d44ce987884d014990025
+run_name: unruly-fly-825
+run_uuid: 81c933b4760d44ce987884d014990025
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670610806329
+status: 1
+tags: []
+user_id: unknown

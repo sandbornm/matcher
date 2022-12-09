@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f96f80095e1a49728d5a520c7816a7eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f96f80095e1a49728d5a520c7816a7eb
+run_name: trusting-sow-510
+run_uuid: f96f80095e1a49728d5a520c7816a7eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670591711359
+status: 1
+tags: []
+user_id: unknown

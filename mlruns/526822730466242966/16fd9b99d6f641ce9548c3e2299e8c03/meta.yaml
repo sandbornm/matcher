@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/16fd9b99d6f641ce9548c3e2299e8c03/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 16fd9b99d6f641ce9548c3e2299e8c03
+run_name: blushing-frog-542
+run_uuid: 16fd9b99d6f641ce9548c3e2299e8c03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670558268804
+status: 1
+tags: []
+user_id: unknown

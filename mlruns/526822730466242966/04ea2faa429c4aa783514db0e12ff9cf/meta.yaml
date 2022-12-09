@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/04ea2faa429c4aa783514db0e12ff9cf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 04ea2faa429c4aa783514db0e12ff9cf
+run_name: caring-ape-828
+run_uuid: 04ea2faa429c4aa783514db0e12ff9cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670570069470
+status: 1
+tags: []
+user_id: unknown

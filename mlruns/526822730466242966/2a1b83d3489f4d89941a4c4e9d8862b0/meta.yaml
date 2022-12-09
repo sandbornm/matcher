@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2a1b83d3489f4d89941a4c4e9d8862b0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2a1b83d3489f4d89941a4c4e9d8862b0
+run_name: powerful-jay-875
+run_uuid: 2a1b83d3489f4d89941a4c4e9d8862b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670571432847
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b4725ce5b9df4e3fbe64cdc6f9b17faf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b4725ce5b9df4e3fbe64cdc6f9b17faf
+run_name: bustling-pug-954
+run_uuid: b4725ce5b9df4e3fbe64cdc6f9b17faf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670562701580
+status: 1
+tags: []
+user_id: unknown

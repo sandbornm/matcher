@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8a85dda940d146529a86e6d94e4a8734/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8a85dda940d146529a86e6d94e4a8734
+run_name: legendary-hog-614
+run_uuid: 8a85dda940d146529a86e6d94e4a8734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670570839982
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/98d22223e0094355b48041a8935a04dc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 98d22223e0094355b48041a8935a04dc
+run_name: invincible-mule-923
+run_uuid: 98d22223e0094355b48041a8935a04dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670587213907
+status: 1
+tags: []
+user_id: unknown

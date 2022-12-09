@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3cb8551285f84cc98701b332b241923c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3cb8551285f84cc98701b332b241923c
+run_name: awesome-flea-128
+run_uuid: 3cb8551285f84cc98701b332b241923c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670567522979
+status: 1
+tags: []
+user_id: unknown

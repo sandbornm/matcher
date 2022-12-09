@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/00781df0f480418a94ecf68d24b08aeb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 00781df0f480418a94ecf68d24b08aeb
+run_name: lyrical-shad-668
+run_uuid: 00781df0f480418a94ecf68d24b08aeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670595438542
+status: 1
+tags: []
+user_id: unknown

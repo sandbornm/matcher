@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8aff336453c44e408c457149d0a4e502/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8aff336453c44e408c457149d0a4e502
+run_name: colorful-robin-196
+run_uuid: 8aff336453c44e408c457149d0a4e502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670592521281
+status: 1
+tags: []
+user_id: unknown

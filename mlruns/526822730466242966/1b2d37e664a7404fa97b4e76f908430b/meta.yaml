@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1b2d37e664a7404fa97b4e76f908430b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1b2d37e664a7404fa97b4e76f908430b
+run_name: fun-duck-344
+run_uuid: 1b2d37e664a7404fa97b4e76f908430b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670584188114
+status: 1
+tags: []
+user_id: unknown

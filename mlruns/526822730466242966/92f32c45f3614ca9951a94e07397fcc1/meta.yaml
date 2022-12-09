@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/92f32c45f3614ca9951a94e07397fcc1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 92f32c45f3614ca9951a94e07397fcc1
+run_name: bright-auk-895
+run_uuid: 92f32c45f3614ca9951a94e07397fcc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670592043322
+status: 1
+tags: []
+user_id: unknown

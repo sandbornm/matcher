@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7dfe9de0329a4d5f8e2b029a537fe763/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7dfe9de0329a4d5f8e2b029a537fe763
+run_name: blushing-trout-227
+run_uuid: 7dfe9de0329a4d5f8e2b029a537fe763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670610146392
+status: 1
+tags: []
+user_id: unknown

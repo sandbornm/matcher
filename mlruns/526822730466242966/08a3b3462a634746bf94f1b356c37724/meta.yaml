@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/08a3b3462a634746bf94f1b356c37724/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 08a3b3462a634746bf94f1b356c37724
+run_name: traveling-mare-651
+run_uuid: 08a3b3462a634746bf94f1b356c37724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670578872789
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/15ec9d166bba4da9a9e4aa996635c2e5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 15ec9d166bba4da9a9e4aa996635c2e5
+run_name: trusting-quail-111
+run_uuid: 15ec9d166bba4da9a9e4aa996635c2e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670608091552
+status: 1
+tags: []
+user_id: unknown

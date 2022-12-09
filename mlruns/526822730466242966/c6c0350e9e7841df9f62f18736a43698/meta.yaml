@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c6c0350e9e7841df9f62f18736a43698/artifacts
+deleted_time: 1670561614585
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: c6c0350e9e7841df9f62f18736a43698
+run_name: clean-quail-924
+run_uuid: c6c0350e9e7841df9f62f18736a43698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670561500619
+status: 1
+tags: []
+user_id: unknown

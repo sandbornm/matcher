@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ac41b2c613364d5ea01c90a99f361fbb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ac41b2c613364d5ea01c90a99f361fbb
+run_name: nimble-perch-459
+run_uuid: ac41b2c613364d5ea01c90a99f361fbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670597795087
+status: 1
+tags: []
+user_id: unknown

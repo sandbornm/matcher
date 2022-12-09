@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/01a6c2021bd847499a7f85725ca806f0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 01a6c2021bd847499a7f85725ca806f0
+run_name: capable-bee-459
+run_uuid: 01a6c2021bd847499a7f85725ca806f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670592824188
+status: 1
+tags: []
+user_id: unknown

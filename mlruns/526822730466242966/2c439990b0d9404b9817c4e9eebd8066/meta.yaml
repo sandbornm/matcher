@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2c439990b0d9404b9817c4e9eebd8066/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2c439990b0d9404b9817c4e9eebd8066
+run_name: rebellious-loon-29
+run_uuid: 2c439990b0d9404b9817c4e9eebd8066
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569162566
+status: 1
+tags: []
+user_id: unknown

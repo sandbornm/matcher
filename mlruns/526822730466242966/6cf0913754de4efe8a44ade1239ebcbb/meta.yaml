@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6cf0913754de4efe8a44ade1239ebcbb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6cf0913754de4efe8a44ade1239ebcbb
+run_name: dapper-doe-992
+run_uuid: 6cf0913754de4efe8a44ade1239ebcbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670562856223
+status: 1
+tags: []
+user_id: unknown

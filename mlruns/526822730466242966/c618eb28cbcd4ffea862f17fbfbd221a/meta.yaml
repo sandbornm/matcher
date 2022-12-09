@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c618eb28cbcd4ffea862f17fbfbd221a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: c618eb28cbcd4ffea862f17fbfbd221a
+run_name: bouncy-wren-219
+run_uuid: c618eb28cbcd4ffea862f17fbfbd221a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670592843126
+status: 1
+tags: []
+user_id: unknown

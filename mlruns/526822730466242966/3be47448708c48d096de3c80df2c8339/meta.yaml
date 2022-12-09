@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3be47448708c48d096de3c80df2c8339/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3be47448708c48d096de3c80df2c8339
+run_name: peaceful-hound-979
+run_uuid: 3be47448708c48d096de3c80df2c8339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568746542
+status: 1
+tags: []
+user_id: unknown

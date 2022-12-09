@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f59c454745394f9ea6a1fea6273a8549/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f59c454745394f9ea6a1fea6273a8549
+run_name: sincere-pig-685
+run_uuid: f59c454745394f9ea6a1fea6273a8549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670607168854
+status: 1
+tags: []
+user_id: unknown

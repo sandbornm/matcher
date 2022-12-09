@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2c5daf0ffe414fbf903aef4f3f13456e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2c5daf0ffe414fbf903aef4f3f13456e
+run_name: welcoming-seal-135
+run_uuid: 2c5daf0ffe414fbf903aef4f3f13456e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603442104
+status: 1
+tags: []
+user_id: unknown

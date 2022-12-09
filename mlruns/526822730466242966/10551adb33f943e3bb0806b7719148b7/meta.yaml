@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/10551adb33f943e3bb0806b7719148b7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 10551adb33f943e3bb0806b7719148b7
+run_name: auspicious-yak-391
+run_uuid: 10551adb33f943e3bb0806b7719148b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670610761275
+status: 1
+tags: []
+user_id: unknown

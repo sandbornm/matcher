@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/83eca0554b6a4bb89e3ae400e76fc667/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 83eca0554b6a4bb89e3ae400e76fc667
+run_name: hilarious-toad-816
+run_uuid: 83eca0554b6a4bb89e3ae400e76fc667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568430115
+status: 1
+tags: []
+user_id: unknown

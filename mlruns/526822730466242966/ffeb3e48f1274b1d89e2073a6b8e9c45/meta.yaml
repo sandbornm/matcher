@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ffeb3e48f1274b1d89e2073a6b8e9c45/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ffeb3e48f1274b1d89e2073a6b8e9c45
+run_name: capricious-shoat-280
+run_uuid: ffeb3e48f1274b1d89e2073a6b8e9c45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568733686
+status: 1
+tags: []
+user_id: unknown

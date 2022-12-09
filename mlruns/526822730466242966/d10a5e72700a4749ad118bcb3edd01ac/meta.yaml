@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d10a5e72700a4749ad118bcb3edd01ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d10a5e72700a4749ad118bcb3edd01ac
+run_name: mercurial-smelt-845
+run_uuid: d10a5e72700a4749ad118bcb3edd01ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603545058
+status: 1
+tags: []
+user_id: unknown

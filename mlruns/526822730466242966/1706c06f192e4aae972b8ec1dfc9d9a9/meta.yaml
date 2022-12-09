@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1706c06f192e4aae972b8ec1dfc9d9a9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1706c06f192e4aae972b8ec1dfc9d9a9
+run_name: mysterious-fish-158
+run_uuid: 1706c06f192e4aae972b8ec1dfc9d9a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670601925662
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/05728f0beacb4eb098759e956c6f0090/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 05728f0beacb4eb098759e956c6f0090
+run_name: polite-sloth-693
+run_uuid: 05728f0beacb4eb098759e956c6f0090
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670571432793
+status: 1
+tags: []
+user_id: unknown

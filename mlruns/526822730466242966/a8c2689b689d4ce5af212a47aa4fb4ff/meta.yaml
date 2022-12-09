@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a8c2689b689d4ce5af212a47aa4fb4ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a8c2689b689d4ce5af212a47aa4fb4ff
+run_name: loud-mule-642
+run_uuid: a8c2689b689d4ce5af212a47aa4fb4ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670587936386
+status: 1
+tags: []
+user_id: unknown

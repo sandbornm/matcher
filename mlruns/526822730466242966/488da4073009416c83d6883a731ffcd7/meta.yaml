@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/488da4073009416c83d6883a731ffcd7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 488da4073009416c83d6883a731ffcd7
+run_name: wistful-shrike-232
+run_uuid: 488da4073009416c83d6883a731ffcd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670581474248
+status: 1
+tags: []
+user_id: unknown

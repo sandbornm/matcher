@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/841bd5f74e2d400ebbbe0b56a6115f80/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 841bd5f74e2d400ebbbe0b56a6115f80
+run_name: popular-crab-546
+run_uuid: 841bd5f74e2d400ebbbe0b56a6115f80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594578855
+status: 1
+tags: []
+user_id: unknown

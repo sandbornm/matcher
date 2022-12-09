@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e164a63799824d0894c61ac8fdf65b0b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e164a63799824d0894c61ac8fdf65b0b
+run_name: skittish-hog-970
+run_uuid: e164a63799824d0894c61ac8fdf65b0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568769793
+status: 1
+tags: []
+user_id: unknown

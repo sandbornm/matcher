@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/92064b61ddee4f1cb796c9b9a725b7cd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 92064b61ddee4f1cb796c9b9a725b7cd
+run_name: merciful-gull-752
+run_uuid: 92064b61ddee4f1cb796c9b9a725b7cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670592184317
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5f57251a31dd4eabba8355d10c7f9745/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5f57251a31dd4eabba8355d10c7f9745
+run_name: polite-shad-667
+run_uuid: 5f57251a31dd4eabba8355d10c7f9745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670602690491
+status: 1
+tags: []
+user_id: unknown

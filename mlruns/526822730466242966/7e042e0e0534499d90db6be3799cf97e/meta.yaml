@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7e042e0e0534499d90db6be3799cf97e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7e042e0e0534499d90db6be3799cf97e
+run_name: loud-ray-137
+run_uuid: 7e042e0e0534499d90db6be3799cf97e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594787482
+status: 1
+tags: []
+user_id: unknown

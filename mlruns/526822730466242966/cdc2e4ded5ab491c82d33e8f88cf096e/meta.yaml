@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cdc2e4ded5ab491c82d33e8f88cf096e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: cdc2e4ded5ab491c82d33e8f88cf096e
+run_name: calm-shoat-883
+run_uuid: cdc2e4ded5ab491c82d33e8f88cf096e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670593218887
+status: 1
+tags: []
+user_id: unknown

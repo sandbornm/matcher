@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/62364e90e50d4d8d979624df3bed5867/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 62364e90e50d4d8d979624df3bed5867
+run_name: gentle-duck-843
+run_uuid: 62364e90e50d4d8d979624df3bed5867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670573544953
+status: 1
+tags: []
+user_id: unknown

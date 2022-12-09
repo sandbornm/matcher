@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d8be89aed5164a5b8e35241ca6ba37c7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d8be89aed5164a5b8e35241ca6ba37c7
+run_name: debonair-goat-737
+run_uuid: d8be89aed5164a5b8e35241ca6ba37c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670563988232
+status: 1
+tags: []
+user_id: unknown

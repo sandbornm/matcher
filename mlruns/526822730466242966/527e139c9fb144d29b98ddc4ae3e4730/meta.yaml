@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/527e139c9fb144d29b98ddc4ae3e4730/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 527e139c9fb144d29b98ddc4ae3e4730
+run_name: victorious-snake-210
+run_uuid: 527e139c9fb144d29b98ddc4ae3e4730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670599585252
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/676b333e3a274743a3cdad0b77010daa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 676b333e3a274743a3cdad0b77010daa
+run_name: capable-wren-546
+run_uuid: 676b333e3a274743a3cdad0b77010daa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670589837053
+status: 1
+tags: []
+user_id: unknown

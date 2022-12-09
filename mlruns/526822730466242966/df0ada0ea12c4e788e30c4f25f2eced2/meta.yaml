@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/df0ada0ea12c4e788e30c4f25f2eced2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: df0ada0ea12c4e788e30c4f25f2eced2
+run_name: sophisticated-eel-22
+run_uuid: df0ada0ea12c4e788e30c4f25f2eced2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670610763713
+status: 1
+tags: []
+user_id: unknown

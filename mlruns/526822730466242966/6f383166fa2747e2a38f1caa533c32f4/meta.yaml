@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6f383166fa2747e2a38f1caa533c32f4/artifacts
+deleted_time: 1670561191161
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 6f383166fa2747e2a38f1caa533c32f4
+run_name: exultant-bass-173
+run_uuid: 6f383166fa2747e2a38f1caa533c32f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670558244234
+status: 1
+tags: []
+user_id: unknown

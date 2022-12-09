@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e97ad574b72c4981a04ff71fede23479/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e97ad574b72c4981a04ff71fede23479
+run_name: rogue-swan-507
+run_uuid: e97ad574b72c4981a04ff71fede23479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670566709550
+status: 1
+tags: []
+user_id: unknown

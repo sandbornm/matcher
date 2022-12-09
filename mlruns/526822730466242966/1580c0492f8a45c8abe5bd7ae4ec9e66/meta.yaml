@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1580c0492f8a45c8abe5bd7ae4ec9e66/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1580c0492f8a45c8abe5bd7ae4ec9e66
+run_name: vaunted-pig-861
+run_uuid: 1580c0492f8a45c8abe5bd7ae4ec9e66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670590954945
+status: 1
+tags: []
+user_id: unknown

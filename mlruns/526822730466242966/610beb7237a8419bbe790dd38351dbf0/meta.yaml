@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/610beb7237a8419bbe790dd38351dbf0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 610beb7237a8419bbe790dd38351dbf0
+run_name: righteous-bear-605
+run_uuid: 610beb7237a8419bbe790dd38351dbf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670574722122
+status: 1
+tags: []
+user_id: unknown

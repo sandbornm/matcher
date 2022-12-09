@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d81b0ce278394e8cb28dbb814ff8ef9c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d81b0ce278394e8cb28dbb814ff8ef9c
+run_name: nimble-duck-581
+run_uuid: d81b0ce278394e8cb28dbb814ff8ef9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670588489819
+status: 1
+tags: []
+user_id: unknown

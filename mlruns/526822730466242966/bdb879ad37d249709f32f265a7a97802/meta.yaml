@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bdb879ad37d249709f32f265a7a97802/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: bdb879ad37d249709f32f265a7a97802
+run_name: intelligent-fowl-347
+run_uuid: bdb879ad37d249709f32f265a7a97802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670584719052
+status: 1
+tags: []
+user_id: unknown

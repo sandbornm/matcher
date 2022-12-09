@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5bb9cf24c3c54c379046507bf8c58b9e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5bb9cf24c3c54c379046507bf8c58b9e
+run_name: charming-dove-403
+run_uuid: 5bb9cf24c3c54c379046507bf8c58b9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582591157
+status: 1
+tags: []
+user_id: unknown

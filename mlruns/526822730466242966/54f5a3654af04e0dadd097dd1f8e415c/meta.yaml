@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/54f5a3654af04e0dadd097dd1f8e415c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 54f5a3654af04e0dadd097dd1f8e415c
+run_name: ambitious-colt-707
+run_uuid: 54f5a3654af04e0dadd097dd1f8e415c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670579914627
+status: 1
+tags: []
+user_id: unknown

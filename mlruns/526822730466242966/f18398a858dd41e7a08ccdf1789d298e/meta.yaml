@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f18398a858dd41e7a08ccdf1789d298e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f18398a858dd41e7a08ccdf1789d298e
+run_name: aged-wasp-429
+run_uuid: f18398a858dd41e7a08ccdf1789d298e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569613861
+status: 1
+tags: []
+user_id: unknown

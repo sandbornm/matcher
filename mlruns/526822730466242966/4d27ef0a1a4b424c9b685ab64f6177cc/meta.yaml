@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4d27ef0a1a4b424c9b685ab64f6177cc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 4d27ef0a1a4b424c9b685ab64f6177cc
+run_name: abundant-carp-479
+run_uuid: 4d27ef0a1a4b424c9b685ab64f6177cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670601601334
+status: 1
+tags: []
+user_id: unknown

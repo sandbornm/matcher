@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9ee6acca3833414f8201a369aacc1948/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9ee6acca3833414f8201a369aacc1948
+run_name: glamorous-kit-518
+run_uuid: 9ee6acca3833414f8201a369aacc1948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670604176085
+status: 1
+tags: []
+user_id: unknown

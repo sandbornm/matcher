@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5bbb4c330fe64392a703da9c87f454ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5bbb4c330fe64392a703da9c87f454ef
+run_name: orderly-squirrel-513
+run_uuid: 5bbb4c330fe64392a703da9c87f454ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594098226
+status: 1
+tags: []
+user_id: unknown

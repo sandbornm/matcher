@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4179c3b9dea94be5b0694a23987a8b5f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 4179c3b9dea94be5b0694a23987a8b5f
+run_name: merciful-finch-96
+run_uuid: 4179c3b9dea94be5b0694a23987a8b5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670573407263
+status: 1
+tags: []
+user_id: unknown

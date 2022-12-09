@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/468406a861ca471aaefac4dad45249f9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 468406a861ca471aaefac4dad45249f9
+run_name: puzzled-squirrel-733
+run_uuid: 468406a861ca471aaefac4dad45249f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670585610017
+status: 1
+tags: []
+user_id: unknown

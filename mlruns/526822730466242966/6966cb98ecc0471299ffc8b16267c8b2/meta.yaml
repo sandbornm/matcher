@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6966cb98ecc0471299ffc8b16267c8b2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6966cb98ecc0471299ffc8b16267c8b2
+run_name: wistful-whale-994
+run_uuid: 6966cb98ecc0471299ffc8b16267c8b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670592575948
+status: 1
+tags: []
+user_id: unknown

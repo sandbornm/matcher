@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a3ddbdbd28c34c80b0b3664ae96e0e2c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a3ddbdbd28c34c80b0b3664ae96e0e2c
+run_name: melodic-shad-551
+run_uuid: a3ddbdbd28c34c80b0b3664ae96e0e2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582565033
+status: 1
+tags: []
+user_id: unknown

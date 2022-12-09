@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ff549b683ff84113a96a3f6200d330d2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ff549b683ff84113a96a3f6200d330d2
+run_name: awesome-gnu-320
+run_uuid: ff549b683ff84113a96a3f6200d330d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670563063856
+status: 1
+tags: []
+user_id: unknown

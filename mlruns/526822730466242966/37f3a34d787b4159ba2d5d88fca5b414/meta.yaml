@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/37f3a34d787b4159ba2d5d88fca5b414/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 37f3a34d787b4159ba2d5d88fca5b414
+run_name: wistful-dove-527
+run_uuid: 37f3a34d787b4159ba2d5d88fca5b414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670599987711
+status: 1
+tags: []
+user_id: unknown

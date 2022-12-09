@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2d510d698f884c9498ade978ad079d2f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2d510d698f884c9498ade978ad079d2f
+run_name: bold-squid-7
+run_uuid: 2d510d698f884c9498ade978ad079d2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670566704444
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/eade1a3bf7df4b7090a7d082d81df1c2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: eade1a3bf7df4b7090a7d082d81df1c2
+run_name: exultant-stork-142
+run_uuid: eade1a3bf7df4b7090a7d082d81df1c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670595849276
+status: 1
+tags: []
+user_id: unknown

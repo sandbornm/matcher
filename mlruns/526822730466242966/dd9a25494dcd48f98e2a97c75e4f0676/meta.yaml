@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/dd9a25494dcd48f98e2a97c75e4f0676/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: dd9a25494dcd48f98e2a97c75e4f0676
+run_name: big-kite-936
+run_uuid: dd9a25494dcd48f98e2a97c75e4f0676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670595036823
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3997f7c08d0a49eaaf08ea81c37a60f4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3997f7c08d0a49eaaf08ea81c37a60f4
+run_name: serious-kite-903
+run_uuid: 3997f7c08d0a49eaaf08ea81c37a60f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670596174170
+status: 1
+tags: []
+user_id: unknown

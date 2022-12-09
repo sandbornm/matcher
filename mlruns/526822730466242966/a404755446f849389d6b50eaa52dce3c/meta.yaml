@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a404755446f849389d6b50eaa52dce3c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a404755446f849389d6b50eaa52dce3c
+run_name: flawless-toad-706
+run_uuid: a404755446f849389d6b50eaa52dce3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670605839530
+status: 1
+tags: []
+user_id: unknown

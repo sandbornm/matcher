@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d613e8b72b4c45e1b173fa369e7e42ec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d613e8b72b4c45e1b173fa369e7e42ec
+run_name: capricious-wolf-870
+run_uuid: d613e8b72b4c45e1b173fa369e7e42ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670583446263
+status: 1
+tags: []
+user_id: unknown

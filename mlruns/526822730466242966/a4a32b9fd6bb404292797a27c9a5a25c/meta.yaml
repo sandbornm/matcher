@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a4a32b9fd6bb404292797a27c9a5a25c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a4a32b9fd6bb404292797a27c9a5a25c
+run_name: handsome-snail-407
+run_uuid: a4a32b9fd6bb404292797a27c9a5a25c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670599089659
+status: 1
+tags: []
+user_id: unknown

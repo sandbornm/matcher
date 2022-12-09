@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2a5998f2e26748759ad7a84ddc731f32/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2a5998f2e26748759ad7a84ddc731f32
+run_name: unleashed-bug-56
+run_uuid: 2a5998f2e26748759ad7a84ddc731f32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670575391913
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/664088f386db47459e6cf0cc6a0c68b1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 664088f386db47459e6cf0cc6a0c68b1
+run_name: thoughtful-kite-25
+run_uuid: 664088f386db47459e6cf0cc6a0c68b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670598478258
+status: 1
+tags: []
+user_id: unknown

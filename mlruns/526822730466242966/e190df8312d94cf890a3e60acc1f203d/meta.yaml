@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e190df8312d94cf890a3e60acc1f203d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e190df8312d94cf890a3e60acc1f203d
+run_name: unequaled-bee-647
+run_uuid: e190df8312d94cf890a3e60acc1f203d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670587867952
+status: 1
+tags: []
+user_id: unknown

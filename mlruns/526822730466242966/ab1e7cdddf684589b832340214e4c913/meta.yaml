@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ab1e7cdddf684589b832340214e4c913/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ab1e7cdddf684589b832340214e4c913
+run_name: placid-bird-683
+run_uuid: ab1e7cdddf684589b832340214e4c913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670581597192
+status: 1
+tags: []
+user_id: unknown

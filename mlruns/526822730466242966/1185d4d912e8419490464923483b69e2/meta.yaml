@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1185d4d912e8419490464923483b69e2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1185d4d912e8419490464923483b69e2
+run_name: adorable-gnat-752
+run_uuid: 1185d4d912e8419490464923483b69e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670610511758
+status: 1
+tags: []
+user_id: unknown

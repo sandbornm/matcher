@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9e7edb30218a43e4a9defe8d3a81ef43/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9e7edb30218a43e4a9defe8d3a81ef43
+run_name: luminous-quail-688
+run_uuid: 9e7edb30218a43e4a9defe8d3a81ef43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670574765357
+status: 1
+tags: []
+user_id: unknown

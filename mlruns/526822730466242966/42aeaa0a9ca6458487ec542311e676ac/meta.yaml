@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/42aeaa0a9ca6458487ec542311e676ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 42aeaa0a9ca6458487ec542311e676ac
+run_name: industrious-ram-146
+run_uuid: 42aeaa0a9ca6458487ec542311e676ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670610594584
+status: 1
+tags: []
+user_id: unknown

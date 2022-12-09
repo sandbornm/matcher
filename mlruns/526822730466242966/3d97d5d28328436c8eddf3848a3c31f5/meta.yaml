@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3d97d5d28328436c8eddf3848a3c31f5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3d97d5d28328436c8eddf3848a3c31f5
+run_name: gifted-rook-404
+run_uuid: 3d97d5d28328436c8eddf3848a3c31f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670580007574
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e8ddfc15b0be40efab6ccc63ed9d1948/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e8ddfc15b0be40efab6ccc63ed9d1948
+run_name: stately-shark-255
+run_uuid: e8ddfc15b0be40efab6ccc63ed9d1948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568319771
+status: 1
+tags: []
+user_id: unknown

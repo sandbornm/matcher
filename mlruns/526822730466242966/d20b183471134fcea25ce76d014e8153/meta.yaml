@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d20b183471134fcea25ce76d014e8153/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d20b183471134fcea25ce76d014e8153
+run_name: resilient-shrew-107
+run_uuid: d20b183471134fcea25ce76d014e8153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670578921284
+status: 1
+tags: []
+user_id: unknown

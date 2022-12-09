@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d5f97bc44a354a2593936e9ab106df9c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d5f97bc44a354a2593936e9ab106df9c
+run_name: thundering-carp-151
+run_uuid: d5f97bc44a354a2593936e9ab106df9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670584207274
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e4ae3195fde64534ad24ece182f54db0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e4ae3195fde64534ad24ece182f54db0
+run_name: chill-shrike-609
+run_uuid: e4ae3195fde64534ad24ece182f54db0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670607023752
+status: 1
+tags: []
+user_id: unknown

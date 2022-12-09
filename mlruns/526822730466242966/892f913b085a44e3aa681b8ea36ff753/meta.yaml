@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/892f913b085a44e3aa681b8ea36ff753/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 892f913b085a44e3aa681b8ea36ff753
+run_name: orderly-hog-694
+run_uuid: 892f913b085a44e3aa681b8ea36ff753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582930965
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ac953cb01c83489cb0f175073d53ed99/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ac953cb01c83489cb0f175073d53ed99
+run_name: shivering-loon-343
+run_uuid: ac953cb01c83489cb0f175073d53ed99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594348094
+status: 1
+tags: []
+user_id: unknown

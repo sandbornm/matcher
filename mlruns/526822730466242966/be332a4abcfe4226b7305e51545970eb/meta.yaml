@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/be332a4abcfe4226b7305e51545970eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: be332a4abcfe4226b7305e51545970eb
+run_name: adorable-toad-628
+run_uuid: be332a4abcfe4226b7305e51545970eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670570326465
+status: 1
+tags: []
+user_id: unknown

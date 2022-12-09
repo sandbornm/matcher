@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c723cfe74377432086be9bc3fd1f71f8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: c723cfe74377432086be9bc3fd1f71f8
+run_name: shivering-sponge-65
+run_uuid: c723cfe74377432086be9bc3fd1f71f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670571724281
+status: 1
+tags: []
+user_id: unknown

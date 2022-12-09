@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6b661856a0c5400392c950f3540dfd2b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6b661856a0c5400392c950f3540dfd2b
+run_name: lyrical-roo-836
+run_uuid: 6b661856a0c5400392c950f3540dfd2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670584605984
+status: 1
+tags: []
+user_id: unknown

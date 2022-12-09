@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/731d873ebfd04688b9442716352c4576/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 731d873ebfd04688b9442716352c4576
+run_name: upset-koi-707
+run_uuid: 731d873ebfd04688b9442716352c4576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670586111397
+status: 1
+tags: []
+user_id: unknown

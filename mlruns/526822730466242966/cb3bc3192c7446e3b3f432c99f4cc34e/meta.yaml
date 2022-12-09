@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cb3bc3192c7446e3b3f432c99f4cc34e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: cb3bc3192c7446e3b3f432c99f4cc34e
+run_name: intelligent-elk-76
+run_uuid: cb3bc3192c7446e3b3f432c99f4cc34e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670591599505
+status: 1
+tags: []
+user_id: unknown

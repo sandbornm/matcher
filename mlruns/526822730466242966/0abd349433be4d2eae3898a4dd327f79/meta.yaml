@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0abd349433be4d2eae3898a4dd327f79/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 0abd349433be4d2eae3898a4dd327f79
+run_name: bustling-hen-226
+run_uuid: 0abd349433be4d2eae3898a4dd327f79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670581396864
+status: 1
+tags: []
+user_id: unknown

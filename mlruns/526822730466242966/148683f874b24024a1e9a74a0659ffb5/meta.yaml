@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/148683f874b24024a1e9a74a0659ffb5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 148683f874b24024a1e9a74a0659ffb5
+run_name: bright-penguin-176
+run_uuid: 148683f874b24024a1e9a74a0659ffb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670566271609
+status: 1
+tags: []
+user_id: unknown

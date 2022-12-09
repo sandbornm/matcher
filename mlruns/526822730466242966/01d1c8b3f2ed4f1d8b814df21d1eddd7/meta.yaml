@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/01d1c8b3f2ed4f1d8b814df21d1eddd7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 01d1c8b3f2ed4f1d8b814df21d1eddd7
+run_name: silent-grub-485
+run_uuid: 01d1c8b3f2ed4f1d8b814df21d1eddd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670593780356
+status: 1
+tags: []
+user_id: unknown

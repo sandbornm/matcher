@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f5e8ec00c1d54c2fa34ca3ca2c12bd87/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f5e8ec00c1d54c2fa34ca3ca2c12bd87
+run_name: defiant-stoat-915
+run_uuid: f5e8ec00c1d54c2fa34ca3ca2c12bd87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603828650
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1e9c65bb580743889c50fbce1c4a4913/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1e9c65bb580743889c50fbce1c4a4913
+run_name: mercurial-frog-374
+run_uuid: 1e9c65bb580743889c50fbce1c4a4913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670583361807
+status: 1
+tags: []
+user_id: unknown

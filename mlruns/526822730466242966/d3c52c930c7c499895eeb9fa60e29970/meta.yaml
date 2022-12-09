@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d3c52c930c7c499895eeb9fa60e29970/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d3c52c930c7c499895eeb9fa60e29970
+run_name: rare-gull-820
+run_uuid: d3c52c930c7c499895eeb9fa60e29970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568543862
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/27308142fbc54e9bb0fa74a97851e883/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 27308142fbc54e9bb0fa74a97851e883
+run_name: enthused-mouse-466
+run_uuid: 27308142fbc54e9bb0fa74a97851e883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670572535833
+status: 1
+tags: []
+user_id: unknown

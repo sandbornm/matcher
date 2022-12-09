@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/35f5515a1ce440df8a0ea530826f472b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 35f5515a1ce440df8a0ea530826f472b
+run_name: legendary-sow-956
+run_uuid: 35f5515a1ce440df8a0ea530826f472b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568563199
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ca605207aa3f4beea42838e3cec74f63/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ca605207aa3f4beea42838e3cec74f63
+run_name: fortunate-newt-276
+run_uuid: ca605207aa3f4beea42838e3cec74f63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670570488855
+status: 1
+tags: []
+user_id: unknown

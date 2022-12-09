@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0e6e151b98754e7385c466c2251db7bc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 0e6e151b98754e7385c466c2251db7bc
+run_name: crawling-hound-408
+run_uuid: 0e6e151b98754e7385c466c2251db7bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670563478531
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/04480e15d455407f8996d572fce4e380/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 04480e15d455407f8996d572fce4e380
+run_name: illustrious-deer-292
+run_uuid: 04480e15d455407f8996d572fce4e380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603544554
+status: 1
+tags: []
+user_id: unknown

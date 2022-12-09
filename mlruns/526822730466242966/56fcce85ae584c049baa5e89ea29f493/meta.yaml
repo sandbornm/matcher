@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/56fcce85ae584c049baa5e89ea29f493/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 56fcce85ae584c049baa5e89ea29f493
+run_name: caring-wolf-903
+run_uuid: 56fcce85ae584c049baa5e89ea29f493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670563704331
+status: 1
+tags: []
+user_id: unknown

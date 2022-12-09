@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6c5fde0282274f389d1e0a4164d30581/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6c5fde0282274f389d1e0a4164d30581
+run_name: glamorous-kite-661
+run_uuid: 6c5fde0282274f389d1e0a4164d30581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670567599692
+status: 1
+tags: []
+user_id: unknown

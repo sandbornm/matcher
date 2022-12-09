@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1d86df294b5344eb8ccb89368fbcf23e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1d86df294b5344eb8ccb89368fbcf23e
+run_name: carefree-trout-606
+run_uuid: 1d86df294b5344eb8ccb89368fbcf23e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594973369
+status: 1
+tags: []
+user_id: unknown

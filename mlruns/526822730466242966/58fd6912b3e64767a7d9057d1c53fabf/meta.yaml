@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/58fd6912b3e64767a7d9057d1c53fabf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 58fd6912b3e64767a7d9057d1c53fabf
+run_name: omniscient-jay-598
+run_uuid: 58fd6912b3e64767a7d9057d1c53fabf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670602093937
+status: 1
+tags: []
+user_id: unknown

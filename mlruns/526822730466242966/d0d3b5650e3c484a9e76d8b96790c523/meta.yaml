@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d0d3b5650e3c484a9e76d8b96790c523/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d0d3b5650e3c484a9e76d8b96790c523
+run_name: adaptable-asp-702
+run_uuid: d0d3b5650e3c484a9e76d8b96790c523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670566802717
+status: 1
+tags: []
+user_id: unknown

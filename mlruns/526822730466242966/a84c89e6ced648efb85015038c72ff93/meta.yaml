@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a84c89e6ced648efb85015038c72ff93/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a84c89e6ced648efb85015038c72ff93
+run_name: skittish-dolphin-52
+run_uuid: a84c89e6ced648efb85015038c72ff93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670611799165
+status: 1
+tags: []
+user_id: unknown

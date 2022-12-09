@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a208a3b5ecf9438aa9b224319ec429bc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a208a3b5ecf9438aa9b224319ec429bc
+run_name: carefree-duck-342
+run_uuid: a208a3b5ecf9438aa9b224319ec429bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582624109
+status: 1
+tags: []
+user_id: unknown

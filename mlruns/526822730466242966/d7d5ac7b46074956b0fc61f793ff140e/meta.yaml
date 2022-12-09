@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d7d5ac7b46074956b0fc61f793ff140e/artifacts
+deleted_time: 1670561614583
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: d7d5ac7b46074956b0fc61f793ff140e
+run_name: honorable-cub-66
+run_uuid: d7d5ac7b46074956b0fc61f793ff140e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670561500653
+status: 1
+tags: []
+user_id: unknown

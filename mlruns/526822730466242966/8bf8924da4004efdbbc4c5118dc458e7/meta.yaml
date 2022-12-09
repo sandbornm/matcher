@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8bf8924da4004efdbbc4c5118dc458e7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8bf8924da4004efdbbc4c5118dc458e7
+run_name: selective-frog-871
+run_uuid: 8bf8924da4004efdbbc4c5118dc458e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670563445155
+status: 1
+tags: []
+user_id: unknown

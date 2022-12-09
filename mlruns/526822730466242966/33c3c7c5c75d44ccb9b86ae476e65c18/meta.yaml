@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/33c3c7c5c75d44ccb9b86ae476e65c18/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 33c3c7c5c75d44ccb9b86ae476e65c18
+run_name: caring-swan-208
+run_uuid: 33c3c7c5c75d44ccb9b86ae476e65c18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670587618630
+status: 1
+tags: []
+user_id: unknown

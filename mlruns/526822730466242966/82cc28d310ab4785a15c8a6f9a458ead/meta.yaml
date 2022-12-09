@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/82cc28d310ab4785a15c8a6f9a458ead/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 82cc28d310ab4785a15c8a6f9a458ead
+run_name: placid-goat-361
+run_uuid: 82cc28d310ab4785a15c8a6f9a458ead
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670585742285
+status: 1
+tags: []
+user_id: unknown

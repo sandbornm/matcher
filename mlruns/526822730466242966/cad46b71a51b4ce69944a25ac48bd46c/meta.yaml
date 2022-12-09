@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cad46b71a51b4ce69944a25ac48bd46c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: cad46b71a51b4ce69944a25ac48bd46c
+run_name: colorful-jay-920
+run_uuid: cad46b71a51b4ce69944a25ac48bd46c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670607137306
+status: 1
+tags: []
+user_id: unknown

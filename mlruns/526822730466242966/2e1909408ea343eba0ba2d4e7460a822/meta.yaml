@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2e1909408ea343eba0ba2d4e7460a822/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2e1909408ea343eba0ba2d4e7460a822
+run_name: amazing-wasp-302
+run_uuid: 2e1909408ea343eba0ba2d4e7460a822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670611248738
+status: 1
+tags: []
+user_id: unknown

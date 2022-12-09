@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/10d8063248d6499f803196ef9424c93f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 10d8063248d6499f803196ef9424c93f
+run_name: bedecked-donkey-949
+run_uuid: 10d8063248d6499f803196ef9424c93f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670611561904
+status: 1
+tags: []
+user_id: unknown

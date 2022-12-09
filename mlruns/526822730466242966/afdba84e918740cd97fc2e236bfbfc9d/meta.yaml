@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/afdba84e918740cd97fc2e236bfbfc9d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: afdba84e918740cd97fc2e236bfbfc9d
+run_name: burly-skink-928
+run_uuid: afdba84e918740cd97fc2e236bfbfc9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670602918457
+status: 1
+tags: []
+user_id: unknown

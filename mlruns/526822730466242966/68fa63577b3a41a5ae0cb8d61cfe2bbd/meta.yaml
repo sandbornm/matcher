@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/68fa63577b3a41a5ae0cb8d61cfe2bbd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 68fa63577b3a41a5ae0cb8d61cfe2bbd
+run_name: likeable-pig-94
+run_uuid: 68fa63577b3a41a5ae0cb8d61cfe2bbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670596622373
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/796e804581764a189aea49808f00cdfc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 796e804581764a189aea49808f00cdfc
+run_name: gaudy-squirrel-295
+run_uuid: 796e804581764a189aea49808f00cdfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670597974217
+status: 1
+tags: []
+user_id: unknown

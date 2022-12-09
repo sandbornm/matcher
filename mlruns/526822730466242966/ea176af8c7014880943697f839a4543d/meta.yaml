@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ea176af8c7014880943697f839a4543d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ea176af8c7014880943697f839a4543d
+run_name: marvelous-mouse-943
+run_uuid: ea176af8c7014880943697f839a4543d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582754059
+status: 1
+tags: []
+user_id: unknown

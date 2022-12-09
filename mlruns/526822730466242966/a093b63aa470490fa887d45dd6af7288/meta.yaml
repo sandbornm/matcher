@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a093b63aa470490fa887d45dd6af7288/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a093b63aa470490fa887d45dd6af7288
+run_name: serious-owl-112
+run_uuid: a093b63aa470490fa887d45dd6af7288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670567594807
+status: 1
+tags: []
+user_id: unknown

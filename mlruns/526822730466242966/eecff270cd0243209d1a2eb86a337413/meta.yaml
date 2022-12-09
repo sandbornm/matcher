@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/eecff270cd0243209d1a2eb86a337413/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: eecff270cd0243209d1a2eb86a337413
+run_name: entertaining-sow-221
+run_uuid: eecff270cd0243209d1a2eb86a337413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670577311612
+status: 1
+tags: []
+user_id: unknown

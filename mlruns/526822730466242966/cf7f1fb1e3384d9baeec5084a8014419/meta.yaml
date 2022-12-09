@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cf7f1fb1e3384d9baeec5084a8014419/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: cf7f1fb1e3384d9baeec5084a8014419
+run_name: big-skink-455
+run_uuid: cf7f1fb1e3384d9baeec5084a8014419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594569763
+status: 1
+tags: []
+user_id: unknown

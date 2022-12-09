@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2fc81c2a95a74e49bd3effd0e8fbf7bd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2fc81c2a95a74e49bd3effd0e8fbf7bd
+run_name: sneaky-squid-919
+run_uuid: 2fc81c2a95a74e49bd3effd0e8fbf7bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670572241712
+status: 1
+tags: []
+user_id: unknown

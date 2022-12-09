@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/67db6a8025654ebc87682aef32df6516/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 67db6a8025654ebc87682aef32df6516
+run_name: stately-horse-983
+run_uuid: 67db6a8025654ebc87682aef32df6516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670587561724
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b7955d9af0b746d8bed3072da0b89dbe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b7955d9af0b746d8bed3072da0b89dbe
+run_name: ambitious-hound-881
+run_uuid: b7955d9af0b746d8bed3072da0b89dbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670590069031
+status: 1
+tags: []
+user_id: unknown

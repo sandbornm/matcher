@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/91f4d95963e44587aca019b8b5c05b3e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 91f4d95963e44587aca019b8b5c05b3e
+run_name: puzzled-crow-846
+run_uuid: 91f4d95963e44587aca019b8b5c05b3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670609613041
+status: 1
+tags: []
+user_id: unknown

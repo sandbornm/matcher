@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/70dcf6d182bd4679bdcb60323a6fb97f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 70dcf6d182bd4679bdcb60323a6fb97f
+run_name: dazzling-frog-962
+run_uuid: 70dcf6d182bd4679bdcb60323a6fb97f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670590385467
+status: 1
+tags: []
+user_id: unknown

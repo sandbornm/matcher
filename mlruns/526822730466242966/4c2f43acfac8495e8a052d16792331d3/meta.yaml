@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4c2f43acfac8495e8a052d16792331d3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 4c2f43acfac8495e8a052d16792331d3
+run_name: overjoyed-bear-86
+run_uuid: 4c2f43acfac8495e8a052d16792331d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670584662890
+status: 1
+tags: []
+user_id: unknown

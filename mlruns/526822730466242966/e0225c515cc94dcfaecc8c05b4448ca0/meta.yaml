@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e0225c515cc94dcfaecc8c05b4448ca0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e0225c515cc94dcfaecc8c05b4448ca0
+run_name: awesome-hen-71
+run_uuid: e0225c515cc94dcfaecc8c05b4448ca0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670571412804
+status: 1
+tags: []
+user_id: unknown

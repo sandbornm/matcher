@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7be400d3b6104e9a8413033c46535051/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7be400d3b6104e9a8413033c46535051
+run_name: wistful-deer-975
+run_uuid: 7be400d3b6104e9a8413033c46535051
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670608720517
+status: 1
+tags: []
+user_id: unknown

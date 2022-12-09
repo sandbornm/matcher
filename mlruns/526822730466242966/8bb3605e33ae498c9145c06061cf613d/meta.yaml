@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8bb3605e33ae498c9145c06061cf613d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8bb3605e33ae498c9145c06061cf613d
+run_name: funny-smelt-126
+run_uuid: 8bb3605e33ae498c9145c06061cf613d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670610679832
+status: 1
+tags: []
+user_id: unknown

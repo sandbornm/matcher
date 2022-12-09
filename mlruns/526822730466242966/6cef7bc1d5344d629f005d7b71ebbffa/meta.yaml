@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6cef7bc1d5344d629f005d7b71ebbffa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6cef7bc1d5344d629f005d7b71ebbffa
+run_name: stately-finch-158
+run_uuid: 6cef7bc1d5344d629f005d7b71ebbffa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670573861138
+status: 1
+tags: []
+user_id: unknown

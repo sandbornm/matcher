@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/28cf00c224804dcbae4a6bff0cac25e6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 28cf00c224804dcbae4a6bff0cac25e6
+run_name: mysterious-boar-938
+run_uuid: 28cf00c224804dcbae4a6bff0cac25e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670601389595
+status: 1
+tags: []
+user_id: unknown

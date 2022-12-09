@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6cb3ed9955a14bf1ab11ac7dc6c666a1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6cb3ed9955a14bf1ab11ac7dc6c666a1
+run_name: industrious-hen-450
+run_uuid: 6cb3ed9955a14bf1ab11ac7dc6c666a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670573717759
+status: 1
+tags: []
+user_id: unknown

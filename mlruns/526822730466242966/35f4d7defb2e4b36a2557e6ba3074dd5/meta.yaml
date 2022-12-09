@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/35f4d7defb2e4b36a2557e6ba3074dd5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 35f4d7defb2e4b36a2557e6ba3074dd5
+run_name: clean-sponge-809
+run_uuid: 35f4d7defb2e4b36a2557e6ba3074dd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670581850698
+status: 1
+tags: []
+user_id: unknown

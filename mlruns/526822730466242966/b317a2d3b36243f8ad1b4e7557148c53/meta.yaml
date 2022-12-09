@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b317a2d3b36243f8ad1b4e7557148c53/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b317a2d3b36243f8ad1b4e7557148c53
+run_name: resilient-donkey-299
+run_uuid: b317a2d3b36243f8ad1b4e7557148c53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670600049909
+status: 1
+tags: []
+user_id: unknown

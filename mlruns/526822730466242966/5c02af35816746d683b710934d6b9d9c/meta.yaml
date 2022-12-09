@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5c02af35816746d683b710934d6b9d9c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5c02af35816746d683b710934d6b9d9c
+run_name: likeable-cod-578
+run_uuid: 5c02af35816746d683b710934d6b9d9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670571236502
+status: 1
+tags: []
+user_id: unknown

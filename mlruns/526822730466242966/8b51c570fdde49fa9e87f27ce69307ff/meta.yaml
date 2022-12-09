@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8b51c570fdde49fa9e87f27ce69307ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8b51c570fdde49fa9e87f27ce69307ff
+run_name: thoughtful-ram-425
+run_uuid: 8b51c570fdde49fa9e87f27ce69307ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670578736697
+status: 1
+tags: []
+user_id: unknown

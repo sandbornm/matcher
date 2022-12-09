@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1a0a0c6709fd4e75b23799be9eecffee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1a0a0c6709fd4e75b23799be9eecffee
+run_name: resilient-snail-586
+run_uuid: 1a0a0c6709fd4e75b23799be9eecffee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670590665694
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a4bf7e74c19f4589ab51864ec28b8c3e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a4bf7e74c19f4589ab51864ec28b8c3e
+run_name: smiling-stag-624
+run_uuid: a4bf7e74c19f4589ab51864ec28b8c3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670581872445
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7ad21ba0664541ccafdeea30af2ea380/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7ad21ba0664541ccafdeea30af2ea380
+run_name: crawling-shark-473
+run_uuid: 7ad21ba0664541ccafdeea30af2ea380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670593581504
+status: 1
+tags: []
+user_id: unknown

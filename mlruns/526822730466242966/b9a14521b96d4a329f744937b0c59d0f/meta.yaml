@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b9a14521b96d4a329f744937b0c59d0f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b9a14521b96d4a329f744937b0c59d0f
+run_name: loud-finch-953
+run_uuid: b9a14521b96d4a329f744937b0c59d0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670566772008
+status: 1
+tags: []
+user_id: unknown

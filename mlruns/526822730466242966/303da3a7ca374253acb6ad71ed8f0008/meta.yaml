@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/303da3a7ca374253acb6ad71ed8f0008/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 303da3a7ca374253acb6ad71ed8f0008
+run_name: monumental-rook-247
+run_uuid: 303da3a7ca374253acb6ad71ed8f0008
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670607023845
+status: 1
+tags: []
+user_id: unknown

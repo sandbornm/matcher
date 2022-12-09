@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bd526a10f6fe47ce8afcaf6a4b95d63d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: bd526a10f6fe47ce8afcaf6a4b95d63d
+run_name: kindly-fawn-154
+run_uuid: bd526a10f6fe47ce8afcaf6a4b95d63d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670584191601
+status: 1
+tags: []
+user_id: unknown

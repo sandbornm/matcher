@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/add19f7e267141f2a550bcbcd4022508/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: add19f7e267141f2a550bcbcd4022508
+run_name: bouncy-moth-512
+run_uuid: add19f7e267141f2a550bcbcd4022508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670609953755
+status: 1
+tags: []
+user_id: unknown

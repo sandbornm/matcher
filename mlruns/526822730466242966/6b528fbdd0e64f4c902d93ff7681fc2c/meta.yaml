@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6b528fbdd0e64f4c902d93ff7681fc2c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6b528fbdd0e64f4c902d93ff7681fc2c
+run_name: smiling-stork-588
+run_uuid: 6b528fbdd0e64f4c902d93ff7681fc2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670583126998
+status: 1
+tags: []
+user_id: unknown

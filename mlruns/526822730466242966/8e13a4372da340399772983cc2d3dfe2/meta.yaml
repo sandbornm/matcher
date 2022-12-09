@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8e13a4372da340399772983cc2d3dfe2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8e13a4372da340399772983cc2d3dfe2
+run_name: defiant-lark-647
+run_uuid: 8e13a4372da340399772983cc2d3dfe2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670572106391
+status: 1
+tags: []
+user_id: unknown

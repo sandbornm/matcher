@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7f140b5f406647c2ba4cbd604987e022/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7f140b5f406647c2ba4cbd604987e022
+run_name: wistful-snake-836
+run_uuid: 7f140b5f406647c2ba4cbd604987e022
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670611915559
+status: 1
+tags: []
+user_id: unknown

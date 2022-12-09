@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/580ef52b48b64c6c9803c432fb78cbf4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 580ef52b48b64c6c9803c432fb78cbf4
+run_name: valuable-whale-466
+run_uuid: 580ef52b48b64c6c9803c432fb78cbf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670600840911
+status: 1
+tags: []
+user_id: unknown

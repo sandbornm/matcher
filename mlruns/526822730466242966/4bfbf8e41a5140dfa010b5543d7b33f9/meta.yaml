@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4bfbf8e41a5140dfa010b5543d7b33f9/artifacts
+deleted_time: 1670561191159
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 4bfbf8e41a5140dfa010b5543d7b33f9
+run_name: crawling-crane-185
+run_uuid: 4bfbf8e41a5140dfa010b5543d7b33f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670558268961
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7971b48ca53f471a829a69ca658ea8f9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7971b48ca53f471a829a69ca658ea8f9
+run_name: resilient-carp-801
+run_uuid: 7971b48ca53f471a829a69ca658ea8f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670590777151
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0641baafd0cc40cf9f0554b830cf92c4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 0641baafd0cc40cf9f0554b830cf92c4
+run_name: traveling-wren-708
+run_uuid: 0641baafd0cc40cf9f0554b830cf92c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670576739170
+status: 1
+tags: []
+user_id: unknown

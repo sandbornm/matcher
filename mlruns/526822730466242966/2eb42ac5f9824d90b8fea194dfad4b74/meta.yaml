@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2eb42ac5f9824d90b8fea194dfad4b74/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2eb42ac5f9824d90b8fea194dfad4b74
+run_name: blushing-shark-992
+run_uuid: 2eb42ac5f9824d90b8fea194dfad4b74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670574889300
+status: 1
+tags: []
+user_id: unknown

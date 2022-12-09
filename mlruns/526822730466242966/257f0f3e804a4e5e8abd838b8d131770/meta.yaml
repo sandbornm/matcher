@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/257f0f3e804a4e5e8abd838b8d131770/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 257f0f3e804a4e5e8abd838b8d131770
+run_name: agreeable-squid-214
+run_uuid: 257f0f3e804a4e5e8abd838b8d131770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582334451
+status: 1
+tags: []
+user_id: unknown

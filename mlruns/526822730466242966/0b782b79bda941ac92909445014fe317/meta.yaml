@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0b782b79bda941ac92909445014fe317/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 0b782b79bda941ac92909445014fe317
+run_name: exultant-conch-761
+run_uuid: 0b782b79bda941ac92909445014fe317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670578733468
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bda2218a71dd4a0284b017aba9144fb3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: bda2218a71dd4a0284b017aba9144fb3
+run_name: glamorous-worm-894
+run_uuid: bda2218a71dd4a0284b017aba9144fb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670581833241
+status: 1
+tags: []
+user_id: unknown

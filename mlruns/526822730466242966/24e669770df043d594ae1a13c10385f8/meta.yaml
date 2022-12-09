@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/24e669770df043d594ae1a13c10385f8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 24e669770df043d594ae1a13c10385f8
+run_name: skittish-sponge-288
+run_uuid: 24e669770df043d594ae1a13c10385f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670588927497
+status: 1
+tags: []
+user_id: unknown

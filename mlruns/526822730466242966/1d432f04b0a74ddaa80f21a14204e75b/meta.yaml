@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1d432f04b0a74ddaa80f21a14204e75b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1d432f04b0a74ddaa80f21a14204e75b
+run_name: unruly-calf-806
+run_uuid: 1d432f04b0a74ddaa80f21a14204e75b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670596392756
+status: 1
+tags: []
+user_id: unknown

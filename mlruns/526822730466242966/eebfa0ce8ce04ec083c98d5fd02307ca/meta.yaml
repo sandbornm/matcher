@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/eebfa0ce8ce04ec083c98d5fd02307ca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: eebfa0ce8ce04ec083c98d5fd02307ca
+run_name: bouncy-fly-757
+run_uuid: eebfa0ce8ce04ec083c98d5fd02307ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670591384997
+status: 1
+tags: []
+user_id: unknown

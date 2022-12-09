@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1c0fbbf3ae4545f38f022636d433aa3f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1c0fbbf3ae4545f38f022636d433aa3f
+run_name: loud-donkey-33
+run_uuid: 1c0fbbf3ae4545f38f022636d433aa3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568592113
+status: 1
+tags: []
+user_id: unknown

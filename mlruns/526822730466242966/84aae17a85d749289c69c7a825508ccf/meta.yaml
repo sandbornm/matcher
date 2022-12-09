@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/84aae17a85d749289c69c7a825508ccf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 84aae17a85d749289c69c7a825508ccf
+run_name: exultant-eel-442
+run_uuid: 84aae17a85d749289c69c7a825508ccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670567050565
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/af00790f28a94eae8dd3368690970b1a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: af00790f28a94eae8dd3368690970b1a
+run_name: gregarious-cod-587
+run_uuid: af00790f28a94eae8dd3368690970b1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670558293393
+status: 1
+tags: []
+user_id: unknown

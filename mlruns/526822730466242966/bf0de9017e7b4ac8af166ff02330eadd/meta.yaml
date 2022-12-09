@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bf0de9017e7b4ac8af166ff02330eadd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: bf0de9017e7b4ac8af166ff02330eadd
+run_name: intelligent-cat-616
+run_uuid: bf0de9017e7b4ac8af166ff02330eadd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670611028599
+status: 1
+tags: []
+user_id: unknown

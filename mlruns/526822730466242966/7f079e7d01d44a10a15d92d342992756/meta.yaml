@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7f079e7d01d44a10a15d92d342992756/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7f079e7d01d44a10a15d92d342992756
+run_name: amusing-stag-458
+run_uuid: 7f079e7d01d44a10a15d92d342992756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569299466
+status: 1
+tags: []
+user_id: unknown

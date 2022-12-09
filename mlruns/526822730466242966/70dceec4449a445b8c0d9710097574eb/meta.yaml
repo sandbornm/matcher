@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/70dceec4449a445b8c0d9710097574eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 70dceec4449a445b8c0d9710097574eb
+run_name: redolent-cat-307
+run_uuid: 70dceec4449a445b8c0d9710097574eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670593698805
+status: 1
+tags: []
+user_id: unknown

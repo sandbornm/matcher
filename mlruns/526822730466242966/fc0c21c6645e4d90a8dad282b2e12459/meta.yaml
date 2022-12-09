@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fc0c21c6645e4d90a8dad282b2e12459/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fc0c21c6645e4d90a8dad282b2e12459
+run_name: mercurial-fawn-278
+run_uuid: fc0c21c6645e4d90a8dad282b2e12459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670563642823
+status: 1
+tags: []
+user_id: unknown

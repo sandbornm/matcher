@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f383928a23654760a8bf0d1c4e15b89b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f383928a23654760a8bf0d1c4e15b89b
+run_name: colorful-ape-856
+run_uuid: f383928a23654760a8bf0d1c4e15b89b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670583835378
+status: 1
+tags: []
+user_id: unknown

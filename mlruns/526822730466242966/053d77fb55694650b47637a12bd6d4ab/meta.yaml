@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/053d77fb55694650b47637a12bd6d4ab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 053d77fb55694650b47637a12bd6d4ab
+run_name: valuable-ant-79
+run_uuid: 053d77fb55694650b47637a12bd6d4ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670609035234
+status: 1
+tags: []
+user_id: unknown

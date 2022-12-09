@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3142ead2f2ae45c883256fad6c6cafc7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3142ead2f2ae45c883256fad6c6cafc7
+run_name: gaudy-fish-459
+run_uuid: 3142ead2f2ae45c883256fad6c6cafc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670567917511
+status: 1
+tags: []
+user_id: unknown

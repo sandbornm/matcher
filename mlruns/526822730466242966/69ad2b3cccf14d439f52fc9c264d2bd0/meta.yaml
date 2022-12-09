@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/69ad2b3cccf14d439f52fc9c264d2bd0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 69ad2b3cccf14d439f52fc9c264d2bd0
+run_name: loud-stork-592
+run_uuid: 69ad2b3cccf14d439f52fc9c264d2bd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670600896520
+status: 1
+tags: []
+user_id: unknown

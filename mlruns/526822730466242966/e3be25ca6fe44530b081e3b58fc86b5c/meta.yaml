@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e3be25ca6fe44530b081e3b58fc86b5c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e3be25ca6fe44530b081e3b58fc86b5c
+run_name: charming-ox-902
+run_uuid: e3be25ca6fe44530b081e3b58fc86b5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670596854347
+status: 1
+tags: []
+user_id: unknown

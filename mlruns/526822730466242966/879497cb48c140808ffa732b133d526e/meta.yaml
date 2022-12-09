@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/879497cb48c140808ffa732b133d526e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 879497cb48c140808ffa732b133d526e
+run_name: upbeat-wolf-773
+run_uuid: 879497cb48c140808ffa732b133d526e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670562813016
+status: 1
+tags: []
+user_id: unknown

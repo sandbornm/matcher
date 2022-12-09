@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/38e1d42d72fd4cb6979c08747d838373/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 38e1d42d72fd4cb6979c08747d838373
+run_name: rumbling-donkey-422
+run_uuid: 38e1d42d72fd4cb6979c08747d838373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670562382635
+status: 1
+tags: []
+user_id: unknown

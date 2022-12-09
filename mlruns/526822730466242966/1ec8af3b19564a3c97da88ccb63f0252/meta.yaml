@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1ec8af3b19564a3c97da88ccb63f0252/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1ec8af3b19564a3c97da88ccb63f0252
+run_name: stylish-foal-564
+run_uuid: 1ec8af3b19564a3c97da88ccb63f0252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670590488706
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/75a4b555589a4ef1897c1dd0af543c3b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 75a4b555589a4ef1897c1dd0af543c3b
+run_name: invincible-sow-903
+run_uuid: 75a4b555589a4ef1897c1dd0af543c3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670593494173
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/762c7239412c4c8684b155c78212fdab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 762c7239412c4c8684b155c78212fdab
+run_name: funny-dolphin-976
+run_uuid: 762c7239412c4c8684b155c78212fdab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670602701441
+status: 1
+tags: []
+user_id: unknown

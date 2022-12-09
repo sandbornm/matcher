@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/da731fa9e6894352b3f930643b92eca2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: da731fa9e6894352b3f930643b92eca2
+run_name: shivering-pig-82
+run_uuid: da731fa9e6894352b3f930643b92eca2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670612315085
+status: 1
+tags: []
+user_id: unknown

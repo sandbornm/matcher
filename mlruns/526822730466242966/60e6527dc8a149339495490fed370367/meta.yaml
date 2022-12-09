@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/60e6527dc8a149339495490fed370367/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 60e6527dc8a149339495490fed370367
+run_name: fun-squirrel-392
+run_uuid: 60e6527dc8a149339495490fed370367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670577001581
+status: 1
+tags: []
+user_id: unknown

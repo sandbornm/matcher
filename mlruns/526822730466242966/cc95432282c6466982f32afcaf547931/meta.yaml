@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cc95432282c6466982f32afcaf547931/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: cc95432282c6466982f32afcaf547931
+run_name: chill-fly-424
+run_uuid: cc95432282c6466982f32afcaf547931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670611235768
+status: 1
+tags: []
+user_id: unknown

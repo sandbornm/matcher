@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e2a55b529e1f404f86fb9fc371cf78d4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e2a55b529e1f404f86fb9fc371cf78d4
+run_name: luminous-ray-125
+run_uuid: e2a55b529e1f404f86fb9fc371cf78d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670584321963
+status: 1
+tags: []
+user_id: unknown

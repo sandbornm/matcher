@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/42f7edb3ed904ecd815a073467b9250c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 42f7edb3ed904ecd815a073467b9250c
+run_name: able-sheep-1
+run_uuid: 42f7edb3ed904ecd815a073467b9250c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670608777495
+status: 1
+tags: []
+user_id: unknown

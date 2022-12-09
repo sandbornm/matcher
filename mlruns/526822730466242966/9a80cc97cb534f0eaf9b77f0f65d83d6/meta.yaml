@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9a80cc97cb534f0eaf9b77f0f65d83d6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9a80cc97cb534f0eaf9b77f0f65d83d6
+run_name: honorable-turtle-99
+run_uuid: 9a80cc97cb534f0eaf9b77f0f65d83d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670583136054
+status: 1
+tags: []
+user_id: unknown

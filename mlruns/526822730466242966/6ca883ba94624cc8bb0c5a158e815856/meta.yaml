@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6ca883ba94624cc8bb0c5a158e815856/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6ca883ba94624cc8bb0c5a158e815856
+run_name: thundering-ox-335
+run_uuid: 6ca883ba94624cc8bb0c5a158e815856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670581673740
+status: 1
+tags: []
+user_id: unknown

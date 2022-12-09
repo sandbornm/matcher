@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/94006f129c8f4d98bc0a0a5bbc0881e7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 94006f129c8f4d98bc0a0a5bbc0881e7
+run_name: bald-crow-777
+run_uuid: 94006f129c8f4d98bc0a0a5bbc0881e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670578809220
+status: 1
+tags: []
+user_id: unknown

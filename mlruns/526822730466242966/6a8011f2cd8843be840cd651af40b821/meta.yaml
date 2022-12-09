@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6a8011f2cd8843be840cd651af40b821/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6a8011f2cd8843be840cd651af40b821
+run_name: monumental-sow-231
+run_uuid: 6a8011f2cd8843be840cd651af40b821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670592816029
+status: 1
+tags: []
+user_id: unknown

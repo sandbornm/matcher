@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0ffdd0410b1748ebb29fb32faf68d15a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 0ffdd0410b1748ebb29fb32faf68d15a
+run_name: judicious-trout-648
+run_uuid: 0ffdd0410b1748ebb29fb32faf68d15a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582996618
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/af254ea0921e4d7c8a464b1a3f028e0e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: af254ea0921e4d7c8a464b1a3f028e0e
+run_name: unequaled-sheep-856
+run_uuid: af254ea0921e4d7c8a464b1a3f028e0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670611561854
+status: 1
+tags: []
+user_id: unknown

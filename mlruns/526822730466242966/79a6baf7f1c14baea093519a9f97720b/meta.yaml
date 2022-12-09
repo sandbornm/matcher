@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/79a6baf7f1c14baea093519a9f97720b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 79a6baf7f1c14baea093519a9f97720b
+run_name: gifted-boar-500
+run_uuid: 79a6baf7f1c14baea093519a9f97720b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670571658090
+status: 1
+tags: []
+user_id: unknown

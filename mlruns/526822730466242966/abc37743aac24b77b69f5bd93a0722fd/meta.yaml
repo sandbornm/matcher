@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/abc37743aac24b77b69f5bd93a0722fd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: abc37743aac24b77b69f5bd93a0722fd
+run_name: indecisive-shrew-79
+run_uuid: abc37743aac24b77b69f5bd93a0722fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670599541563
+status: 1
+tags: []
+user_id: unknown

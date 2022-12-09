@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/63b6a76a7a9c4d4a928804065c8ebbc2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 63b6a76a7a9c4d4a928804065c8ebbc2
+run_name: amazing-robin-1000
+run_uuid: 63b6a76a7a9c4d4a928804065c8ebbc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569532554
+status: 1
+tags: []
+user_id: unknown

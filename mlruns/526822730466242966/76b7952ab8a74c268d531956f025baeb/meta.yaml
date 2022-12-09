@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/76b7952ab8a74c268d531956f025baeb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 76b7952ab8a74c268d531956f025baeb
+run_name: wise-hare-43
+run_uuid: 76b7952ab8a74c268d531956f025baeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594578733
+status: 1
+tags: []
+user_id: unknown

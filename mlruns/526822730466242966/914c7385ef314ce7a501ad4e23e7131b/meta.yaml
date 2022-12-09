@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/914c7385ef314ce7a501ad4e23e7131b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 914c7385ef314ce7a501ad4e23e7131b
+run_name: popular-crane-721
+run_uuid: 914c7385ef314ce7a501ad4e23e7131b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670581420248
+status: 1
+tags: []
+user_id: unknown

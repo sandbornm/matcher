@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/58a440348c554054ba6ca6c4dc79b1a1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 58a440348c554054ba6ca6c4dc79b1a1
+run_name: omniscient-colt-678
+run_uuid: 58a440348c554054ba6ca6c4dc79b1a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670558244114
+status: 1
+tags: []
+user_id: unknown

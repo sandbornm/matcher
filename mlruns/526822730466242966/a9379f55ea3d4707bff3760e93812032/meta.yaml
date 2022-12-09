@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a9379f55ea3d4707bff3760e93812032/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a9379f55ea3d4707bff3760e93812032
+run_name: brawny-elk-453
+run_uuid: a9379f55ea3d4707bff3760e93812032
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569802099
+status: 1
+tags: []
+user_id: unknown

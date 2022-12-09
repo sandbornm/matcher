@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/db587b2731414c6b8f8816b85ccea8e2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: db587b2731414c6b8f8816b85ccea8e2
+run_name: clean-bird-754
+run_uuid: db587b2731414c6b8f8816b85ccea8e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594788532
+status: 1
+tags: []
+user_id: unknown

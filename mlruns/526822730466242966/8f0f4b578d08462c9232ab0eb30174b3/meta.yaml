@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8f0f4b578d08462c9232ab0eb30174b3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8f0f4b578d08462c9232ab0eb30174b3
+run_name: defiant-moose-483
+run_uuid: 8f0f4b578d08462c9232ab0eb30174b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670584754185
+status: 1
+tags: []
+user_id: unknown

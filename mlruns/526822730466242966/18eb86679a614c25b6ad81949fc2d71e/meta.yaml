@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/18eb86679a614c25b6ad81949fc2d71e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 18eb86679a614c25b6ad81949fc2d71e
+run_name: receptive-roo-101
+run_uuid: 18eb86679a614c25b6ad81949fc2d71e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670596148678
+status: 1
+tags: []
+user_id: unknown

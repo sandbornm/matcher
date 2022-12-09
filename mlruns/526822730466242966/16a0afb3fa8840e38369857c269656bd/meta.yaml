@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/16a0afb3fa8840e38369857c269656bd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 16a0afb3fa8840e38369857c269656bd
+run_name: angry-lynx-634
+run_uuid: 16a0afb3fa8840e38369857c269656bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603097738
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d15465a3621c4d278bd0c9b649e06103/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d15465a3621c4d278bd0c9b649e06103
+run_name: adventurous-rook-732
+run_uuid: d15465a3621c4d278bd0c9b649e06103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670607149440
+status: 1
+tags: []
+user_id: unknown

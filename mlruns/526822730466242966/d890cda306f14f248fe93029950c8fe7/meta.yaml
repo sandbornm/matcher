@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d890cda306f14f248fe93029950c8fe7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d890cda306f14f248fe93029950c8fe7
+run_name: indecisive-lamb-332
+run_uuid: d890cda306f14f248fe93029950c8fe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670574002712
+status: 1
+tags: []
+user_id: unknown

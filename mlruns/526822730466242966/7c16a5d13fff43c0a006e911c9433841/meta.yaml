@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7c16a5d13fff43c0a006e911c9433841/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7c16a5d13fff43c0a006e911c9433841
+run_name: carefree-toad-574
+run_uuid: 7c16a5d13fff43c0a006e911c9433841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670563883886
+status: 1
+tags: []
+user_id: unknown

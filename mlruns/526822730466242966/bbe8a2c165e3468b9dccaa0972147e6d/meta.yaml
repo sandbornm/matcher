@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bbe8a2c165e3468b9dccaa0972147e6d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: bbe8a2c165e3468b9dccaa0972147e6d
+run_name: intrigued-bug-347
+run_uuid: bbe8a2c165e3468b9dccaa0972147e6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670566839249
+status: 1
+tags: []
+user_id: unknown

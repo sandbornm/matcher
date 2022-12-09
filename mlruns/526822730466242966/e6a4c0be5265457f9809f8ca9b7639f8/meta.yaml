@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e6a4c0be5265457f9809f8ca9b7639f8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e6a4c0be5265457f9809f8ca9b7639f8
+run_name: industrious-pig-883
+run_uuid: e6a4c0be5265457f9809f8ca9b7639f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568460176
+status: 1
+tags: []
+user_id: unknown

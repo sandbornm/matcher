@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b143a6b87c064332bbd7a6b33ac5a8a1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b143a6b87c064332bbd7a6b33ac5a8a1
+run_name: righteous-sow-625
+run_uuid: b143a6b87c064332bbd7a6b33ac5a8a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569217780
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/dfe25e7aab664114abb3a51b9312ef4c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: dfe25e7aab664114abb3a51b9312ef4c
+run_name: exultant-dolphin-299
+run_uuid: dfe25e7aab664114abb3a51b9312ef4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670588665233
+status: 1
+tags: []
+user_id: unknown

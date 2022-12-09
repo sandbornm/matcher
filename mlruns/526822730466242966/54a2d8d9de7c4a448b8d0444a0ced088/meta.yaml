@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/54a2d8d9de7c4a448b8d0444a0ced088/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 54a2d8d9de7c4a448b8d0444a0ced088
+run_name: calm-gnu-269
+run_uuid: 54a2d8d9de7c4a448b8d0444a0ced088
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582899089
+status: 1
+tags: []
+user_id: unknown

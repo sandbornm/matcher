@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8340f166710f4de78891bab30668d263/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8340f166710f4de78891bab30668d263
+run_name: enchanting-rook-792
+run_uuid: 8340f166710f4de78891bab30668d263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670609401567
+status: 1
+tags: []
+user_id: unknown

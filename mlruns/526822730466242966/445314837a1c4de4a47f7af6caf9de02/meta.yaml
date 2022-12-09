@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/445314837a1c4de4a47f7af6caf9de02/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 445314837a1c4de4a47f7af6caf9de02
+run_name: nervous-owl-295
+run_uuid: 445314837a1c4de4a47f7af6caf9de02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670575495283
+status: 1
+tags: []
+user_id: unknown

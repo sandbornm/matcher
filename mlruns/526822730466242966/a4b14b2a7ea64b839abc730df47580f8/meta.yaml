@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a4b14b2a7ea64b839abc730df47580f8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a4b14b2a7ea64b839abc730df47580f8
+run_name: bright-snake-835
+run_uuid: a4b14b2a7ea64b839abc730df47580f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670608607525
+status: 1
+tags: []
+user_id: unknown

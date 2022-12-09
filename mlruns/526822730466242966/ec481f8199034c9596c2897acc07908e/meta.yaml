@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ec481f8199034c9596c2897acc07908e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ec481f8199034c9596c2897acc07908e
+run_name: gaudy-worm-806
+run_uuid: ec481f8199034c9596c2897acc07908e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670571883255
+status: 1
+tags: []
+user_id: unknown

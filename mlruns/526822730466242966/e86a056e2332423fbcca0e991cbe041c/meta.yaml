@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e86a056e2332423fbcca0e991cbe041c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e86a056e2332423fbcca0e991cbe041c
+run_name: amusing-ape-740
+run_uuid: e86a056e2332423fbcca0e991cbe041c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670591416308
+status: 1
+tags: []
+user_id: unknown

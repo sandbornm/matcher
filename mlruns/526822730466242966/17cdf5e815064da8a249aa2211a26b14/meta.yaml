@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/17cdf5e815064da8a249aa2211a26b14/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 17cdf5e815064da8a249aa2211a26b14
+run_name: delightful-bug-22
+run_uuid: 17cdf5e815064da8a249aa2211a26b14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670586267058
+status: 1
+tags: []
+user_id: unknown

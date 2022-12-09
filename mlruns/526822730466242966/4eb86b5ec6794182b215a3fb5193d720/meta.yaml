@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4eb86b5ec6794182b215a3fb5193d720/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 4eb86b5ec6794182b215a3fb5193d720
+run_name: legendary-mare-500
+run_uuid: 4eb86b5ec6794182b215a3fb5193d720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670589219466
+status: 1
+tags: []
+user_id: unknown

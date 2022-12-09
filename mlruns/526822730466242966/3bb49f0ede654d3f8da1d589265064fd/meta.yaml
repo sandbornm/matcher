@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3bb49f0ede654d3f8da1d589265064fd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3bb49f0ede654d3f8da1d589265064fd
+run_name: silent-gnat-771
+run_uuid: 3bb49f0ede654d3f8da1d589265064fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670597147622
+status: 1
+tags: []
+user_id: unknown

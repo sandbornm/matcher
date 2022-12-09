@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f1d7e55e4e7b4aa980db63619a6f7cba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f1d7e55e4e7b4aa980db63619a6f7cba
+run_name: resilient-goose-819
+run_uuid: f1d7e55e4e7b4aa980db63619a6f7cba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670606754537
+status: 1
+tags: []
+user_id: unknown

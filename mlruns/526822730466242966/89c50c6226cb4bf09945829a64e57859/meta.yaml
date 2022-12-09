@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/89c50c6226cb4bf09945829a64e57859/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 89c50c6226cb4bf09945829a64e57859
+run_name: abrasive-ox-207
+run_uuid: 89c50c6226cb4bf09945829a64e57859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670573524066
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/de65a29df3e544669e7e6f23f71efd9f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: de65a29df3e544669e7e6f23f71efd9f
+run_name: skillful-wren-995
+run_uuid: de65a29df3e544669e7e6f23f71efd9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603731006
+status: 1
+tags: []
+user_id: unknown

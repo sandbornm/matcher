@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/905e942500354869958203805003debb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 905e942500354869958203805003debb
+run_name: peaceful-shrew-693
+run_uuid: 905e942500354869958203805003debb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670587561853
+status: 1
+tags: []
+user_id: unknown

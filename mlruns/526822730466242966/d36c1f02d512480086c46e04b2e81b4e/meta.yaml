@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d36c1f02d512480086c46e04b2e81b4e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d36c1f02d512480086c46e04b2e81b4e
+run_name: powerful-ray-390
+run_uuid: d36c1f02d512480086c46e04b2e81b4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603332195
+status: 1
+tags: []
+user_id: unknown

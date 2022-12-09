@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/34f7304896734de6aba627d697362e0c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 34f7304896734de6aba627d697362e0c
+run_name: loud-goat-871
+run_uuid: 34f7304896734de6aba627d697362e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670585405197
+status: 1
+tags: []
+user_id: unknown

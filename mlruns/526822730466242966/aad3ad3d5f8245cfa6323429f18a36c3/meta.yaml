@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/aad3ad3d5f8245cfa6323429f18a36c3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: aad3ad3d5f8245cfa6323429f18a36c3
+run_name: worried-flea-670
+run_uuid: aad3ad3d5f8245cfa6323429f18a36c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670584805461
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/256aaffd18cf45baa5bcb1fff80b8e8e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 256aaffd18cf45baa5bcb1fff80b8e8e
+run_name: loud-sponge-222
+run_uuid: 256aaffd18cf45baa5bcb1fff80b8e8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670609961206
+status: 1
+tags: []
+user_id: unknown

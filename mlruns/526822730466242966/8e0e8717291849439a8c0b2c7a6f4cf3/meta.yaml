@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8e0e8717291849439a8c0b2c7a6f4cf3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8e0e8717291849439a8c0b2c7a6f4cf3
+run_name: bustling-frog-866
+run_uuid: 8e0e8717291849439a8c0b2c7a6f4cf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670597902117
+status: 1
+tags: []
+user_id: unknown

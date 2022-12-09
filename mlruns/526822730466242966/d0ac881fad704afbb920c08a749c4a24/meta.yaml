@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d0ac881fad704afbb920c08a749c4a24/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d0ac881fad704afbb920c08a749c4a24
+run_name: luxuriant-cow-639
+run_uuid: d0ac881fad704afbb920c08a749c4a24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670570261436
+status: 1
+tags: []
+user_id: unknown

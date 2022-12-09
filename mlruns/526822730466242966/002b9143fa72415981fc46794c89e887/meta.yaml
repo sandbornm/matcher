@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/002b9143fa72415981fc46794c89e887/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 002b9143fa72415981fc46794c89e887
+run_name: sedate-slug-148
+run_uuid: 002b9143fa72415981fc46794c89e887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670571757787
+status: 1
+tags: []
+user_id: unknown

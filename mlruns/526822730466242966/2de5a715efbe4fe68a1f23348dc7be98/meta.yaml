@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2de5a715efbe4fe68a1f23348dc7be98/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2de5a715efbe4fe68a1f23348dc7be98
+run_name: adaptable-bee-422
+run_uuid: 2de5a715efbe4fe68a1f23348dc7be98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670573923429
+status: 1
+tags: []
+user_id: unknown

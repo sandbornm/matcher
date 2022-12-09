@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3c661f2e75ff4dc7a5fca4e26c05704d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3c661f2e75ff4dc7a5fca4e26c05704d
+run_name: rogue-colt-667
+run_uuid: 3c661f2e75ff4dc7a5fca4e26c05704d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670576981145
+status: 1
+tags: []
+user_id: unknown

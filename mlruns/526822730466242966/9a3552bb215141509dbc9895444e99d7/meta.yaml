@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9a3552bb215141509dbc9895444e99d7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9a3552bb215141509dbc9895444e99d7
+run_name: chill-dolphin-358
+run_uuid: 9a3552bb215141509dbc9895444e99d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670597247724
+status: 1
+tags: []
+user_id: unknown

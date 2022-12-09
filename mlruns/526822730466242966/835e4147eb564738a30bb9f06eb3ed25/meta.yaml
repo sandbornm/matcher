@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/835e4147eb564738a30bb9f06eb3ed25/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 835e4147eb564738a30bb9f06eb3ed25
+run_name: rumbling-ox-184
+run_uuid: 835e4147eb564738a30bb9f06eb3ed25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670599266834
+status: 1
+tags: []
+user_id: unknown

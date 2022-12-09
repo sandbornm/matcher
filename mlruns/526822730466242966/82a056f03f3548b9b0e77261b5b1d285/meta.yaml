@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/82a056f03f3548b9b0e77261b5b1d285/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 82a056f03f3548b9b0e77261b5b1d285
+run_name: secretive-owl-983
+run_uuid: 82a056f03f3548b9b0e77261b5b1d285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670612445405
+status: 1
+tags: []
+user_id: unknown

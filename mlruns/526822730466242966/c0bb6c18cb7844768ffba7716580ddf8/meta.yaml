@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c0bb6c18cb7844768ffba7716580ddf8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: c0bb6c18cb7844768ffba7716580ddf8
+run_name: skillful-auk-261
+run_uuid: c0bb6c18cb7844768ffba7716580ddf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670599609413
+status: 1
+tags: []
+user_id: unknown

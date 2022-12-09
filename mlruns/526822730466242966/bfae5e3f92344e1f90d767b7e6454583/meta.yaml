@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bfae5e3f92344e1f90d767b7e6454583/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: bfae5e3f92344e1f90d767b7e6454583
+run_name: carefree-sloth-402
+run_uuid: bfae5e3f92344e1f90d767b7e6454583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670578979896
+status: 1
+tags: []
+user_id: unknown

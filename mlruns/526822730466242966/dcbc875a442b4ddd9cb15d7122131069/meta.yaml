@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/dcbc875a442b4ddd9cb15d7122131069/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: dcbc875a442b4ddd9cb15d7122131069
+run_name: hilarious-hare-933
+run_uuid: dcbc875a442b4ddd9cb15d7122131069
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670575965179
+status: 1
+tags: []
+user_id: unknown

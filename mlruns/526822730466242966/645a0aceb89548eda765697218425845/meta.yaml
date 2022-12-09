@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/645a0aceb89548eda765697218425845/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 645a0aceb89548eda765697218425845
+run_name: whimsical-conch-888
+run_uuid: 645a0aceb89548eda765697218425845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670600256089
+status: 1
+tags: []
+user_id: unknown

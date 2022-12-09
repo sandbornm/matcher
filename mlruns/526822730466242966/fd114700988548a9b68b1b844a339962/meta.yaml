@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fd114700988548a9b68b1b844a339962/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fd114700988548a9b68b1b844a339962
+run_name: powerful-crab-249
+run_uuid: fd114700988548a9b68b1b844a339962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670573125569
+status: 1
+tags: []
+user_id: unknown

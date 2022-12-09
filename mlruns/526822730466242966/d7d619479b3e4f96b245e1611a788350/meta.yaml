@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d7d619479b3e4f96b245e1611a788350/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d7d619479b3e4f96b245e1611a788350
+run_name: peaceful-ape-569
+run_uuid: d7d619479b3e4f96b245e1611a788350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670611475071
+status: 1
+tags: []
+user_id: unknown

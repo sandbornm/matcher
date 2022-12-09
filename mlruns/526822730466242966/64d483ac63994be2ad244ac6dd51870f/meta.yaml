@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/64d483ac63994be2ad244ac6dd51870f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 64d483ac63994be2ad244ac6dd51870f
+run_name: zealous-horse-571
+run_uuid: 64d483ac63994be2ad244ac6dd51870f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670611986010
+status: 1
+tags: []
+user_id: unknown

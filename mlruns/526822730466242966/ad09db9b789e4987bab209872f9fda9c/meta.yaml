@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ad09db9b789e4987bab209872f9fda9c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ad09db9b789e4987bab209872f9fda9c
+run_name: intelligent-hare-677
+run_uuid: ad09db9b789e4987bab209872f9fda9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568135520
+status: 1
+tags: []
+user_id: unknown

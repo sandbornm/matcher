@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4d02c69973d24bbf8df6c0d3c4a0aa99/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 4d02c69973d24bbf8df6c0d3c4a0aa99
+run_name: kindly-sloth-607
+run_uuid: 4d02c69973d24bbf8df6c0d3c4a0aa99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670575889075
+status: 1
+tags: []
+user_id: unknown

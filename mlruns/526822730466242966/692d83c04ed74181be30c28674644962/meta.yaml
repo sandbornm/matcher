@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/692d83c04ed74181be30c28674644962/artifacts
+deleted_time: 1670561191154
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 692d83c04ed74181be30c28674644962
+run_name: intelligent-newt-58
+run_uuid: 692d83c04ed74181be30c28674644962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670559342677
+status: 1
+tags: []
+user_id: unknown

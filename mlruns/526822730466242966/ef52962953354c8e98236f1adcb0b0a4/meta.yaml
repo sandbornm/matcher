@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ef52962953354c8e98236f1adcb0b0a4/artifacts
+deleted_time: 1670561191158
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: ef52962953354c8e98236f1adcb0b0a4
+run_name: aged-calf-568
+run_uuid: ef52962953354c8e98236f1adcb0b0a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670558269039
+status: 1
+tags: []
+user_id: unknown

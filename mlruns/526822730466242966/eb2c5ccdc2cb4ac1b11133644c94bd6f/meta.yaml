@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/eb2c5ccdc2cb4ac1b11133644c94bd6f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: eb2c5ccdc2cb4ac1b11133644c94bd6f
+run_name: delicate-robin-951
+run_uuid: eb2c5ccdc2cb4ac1b11133644c94bd6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603707248
+status: 1
+tags: []
+user_id: unknown

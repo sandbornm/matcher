@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f5f3f5ced279451ca1a7978cb5ae0f6b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f5f3f5ced279451ca1a7978cb5ae0f6b
+run_name: unleashed-yak-287
+run_uuid: f5f3f5ced279451ca1a7978cb5ae0f6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670576645374
+status: 1
+tags: []
+user_id: unknown

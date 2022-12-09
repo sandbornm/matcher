@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/637b73135a7848eda3e7850459d7a486/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 637b73135a7848eda3e7850459d7a486
+run_name: shivering-ox-78
+run_uuid: 637b73135a7848eda3e7850459d7a486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670602537161
+status: 1
+tags: []
+user_id: unknown

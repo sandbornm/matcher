@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/44b4f54124c14c619e5f19888b56ee47/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 44b4f54124c14c619e5f19888b56ee47
+run_name: valuable-bat-129
+run_uuid: 44b4f54124c14c619e5f19888b56ee47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670588652379
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6a4535ab583d48799cd260f5c5270fcd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6a4535ab583d48799cd260f5c5270fcd
+run_name: nosy-dolphin-243
+run_uuid: 6a4535ab583d48799cd260f5c5270fcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670581481495
+status: 1
+tags: []
+user_id: unknown

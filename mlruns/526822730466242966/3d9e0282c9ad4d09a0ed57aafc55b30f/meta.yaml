@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3d9e0282c9ad4d09a0ed57aafc55b30f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3d9e0282c9ad4d09a0ed57aafc55b30f
+run_name: nosy-crow-766
+run_uuid: 3d9e0282c9ad4d09a0ed57aafc55b30f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670609539951
+status: 1
+tags: []
+user_id: unknown

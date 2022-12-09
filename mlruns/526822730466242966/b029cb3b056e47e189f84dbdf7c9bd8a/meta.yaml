@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b029cb3b056e47e189f84dbdf7c9bd8a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b029cb3b056e47e189f84dbdf7c9bd8a
+run_name: rumbling-snake-94
+run_uuid: b029cb3b056e47e189f84dbdf7c9bd8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670606147823
+status: 1
+tags: []
+user_id: unknown

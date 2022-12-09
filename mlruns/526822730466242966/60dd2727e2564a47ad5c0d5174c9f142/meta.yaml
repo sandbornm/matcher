@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/60dd2727e2564a47ad5c0d5174c9f142/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 60dd2727e2564a47ad5c0d5174c9f142
+run_name: merciful-donkey-281
+run_uuid: 60dd2727e2564a47ad5c0d5174c9f142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670593149921
+status: 1
+tags: []
+user_id: unknown

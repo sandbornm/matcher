@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/01d6b55fff6e40e9beec744c5a4287cc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 01d6b55fff6e40e9beec744c5a4287cc
+run_name: clean-donkey-812
+run_uuid: 01d6b55fff6e40e9beec744c5a4287cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670605809056
+status: 1
+tags: []
+user_id: unknown

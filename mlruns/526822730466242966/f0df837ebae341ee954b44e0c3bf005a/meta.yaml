@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f0df837ebae341ee954b44e0c3bf005a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f0df837ebae341ee954b44e0c3bf005a
+run_name: sincere-crab-111
+run_uuid: f0df837ebae341ee954b44e0c3bf005a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670562382692
+status: 1
+tags: []
+user_id: unknown

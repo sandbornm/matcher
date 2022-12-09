@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/072ef7a308f445adab39bebda4f9942e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 072ef7a308f445adab39bebda4f9942e
+run_name: stylish-moth-131
+run_uuid: 072ef7a308f445adab39bebda4f9942e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670572288948
+status: 1
+tags: []
+user_id: unknown

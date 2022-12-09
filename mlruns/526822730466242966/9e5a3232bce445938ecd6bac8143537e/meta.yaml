@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9e5a3232bce445938ecd6bac8143537e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9e5a3232bce445938ecd6bac8143537e
+run_name: agreeable-zebra-746
+run_uuid: 9e5a3232bce445938ecd6bac8143537e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670583453639
+status: 1
+tags: []
+user_id: unknown

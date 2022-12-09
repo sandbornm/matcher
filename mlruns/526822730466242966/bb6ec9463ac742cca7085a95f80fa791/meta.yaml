@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bb6ec9463ac742cca7085a95f80fa791/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: bb6ec9463ac742cca7085a95f80fa791
+run_name: persistent-lark-167
+run_uuid: bb6ec9463ac742cca7085a95f80fa791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670577157539
+status: 1
+tags: []
+user_id: unknown

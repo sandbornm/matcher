@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/654a719b495845c6a50d55730d81d8df/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 654a719b495845c6a50d55730d81d8df
+run_name: treasured-stag-884
+run_uuid: 654a719b495845c6a50d55730d81d8df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594715149
+status: 1
+tags: []
+user_id: unknown

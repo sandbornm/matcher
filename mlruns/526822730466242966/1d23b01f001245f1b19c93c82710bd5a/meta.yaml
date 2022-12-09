@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1d23b01f001245f1b19c93c82710bd5a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1d23b01f001245f1b19c93c82710bd5a
+run_name: rumbling-vole-776
+run_uuid: 1d23b01f001245f1b19c93c82710bd5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670567976872
+status: 1
+tags: []
+user_id: unknown

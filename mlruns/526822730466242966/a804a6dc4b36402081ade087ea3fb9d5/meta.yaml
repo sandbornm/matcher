@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a804a6dc4b36402081ade087ea3fb9d5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a804a6dc4b36402081ade087ea3fb9d5
+run_name: overjoyed-snipe-379
+run_uuid: a804a6dc4b36402081ade087ea3fb9d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670566460325
+status: 1
+tags: []
+user_id: unknown

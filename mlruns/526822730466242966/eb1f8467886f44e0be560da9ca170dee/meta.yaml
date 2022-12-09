@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/eb1f8467886f44e0be560da9ca170dee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: eb1f8467886f44e0be560da9ca170dee
+run_name: languid-skunk-292
+run_uuid: eb1f8467886f44e0be560da9ca170dee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670595894045
+status: 1
+tags: []
+user_id: unknown

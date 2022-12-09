@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e05daba6dbd74457b451c6583c6aa006/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e05daba6dbd74457b451c6583c6aa006
+run_name: amusing-fly-483
+run_uuid: e05daba6dbd74457b451c6583c6aa006
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670589993008
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/714a9cda453648b3b41da961253a3a28/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 714a9cda453648b3b41da961253a3a28
+run_name: worried-grouse-901
+run_uuid: 714a9cda453648b3b41da961253a3a28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670601402816
+status: 1
+tags: []
+user_id: unknown

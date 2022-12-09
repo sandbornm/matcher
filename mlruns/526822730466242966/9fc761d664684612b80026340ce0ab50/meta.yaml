@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9fc761d664684612b80026340ce0ab50/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9fc761d664684612b80026340ce0ab50
+run_name: likeable-hare-462
+run_uuid: 9fc761d664684612b80026340ce0ab50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670570058387
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/26d0e28d45ac41ef8c128205077c6f7a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 26d0e28d45ac41ef8c128205077c6f7a
+run_name: blushing-toad-267
+run_uuid: 26d0e28d45ac41ef8c128205077c6f7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670607044482
+status: 1
+tags: []
+user_id: unknown

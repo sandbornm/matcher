@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b93014daf0994510aafde62298b9649e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b93014daf0994510aafde62298b9649e
+run_name: abrasive-boar-662
+run_uuid: b93014daf0994510aafde62298b9649e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569141807
+status: 1
+tags: []
+user_id: unknown

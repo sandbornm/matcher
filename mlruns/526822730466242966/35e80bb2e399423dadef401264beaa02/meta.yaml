@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/35e80bb2e399423dadef401264beaa02/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 35e80bb2e399423dadef401264beaa02
+run_name: bittersweet-ape-385
+run_uuid: 35e80bb2e399423dadef401264beaa02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568917259
+status: 1
+tags: []
+user_id: unknown

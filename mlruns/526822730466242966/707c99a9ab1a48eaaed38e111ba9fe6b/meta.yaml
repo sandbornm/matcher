@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/707c99a9ab1a48eaaed38e111ba9fe6b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 707c99a9ab1a48eaaed38e111ba9fe6b
+run_name: entertaining-ray-88
+run_uuid: 707c99a9ab1a48eaaed38e111ba9fe6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670572432794
+status: 1
+tags: []
+user_id: unknown

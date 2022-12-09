@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/374e1c3779724df0b73b18e05820f39e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 374e1c3779724df0b73b18e05820f39e
+run_name: capable-dog-199
+run_uuid: 374e1c3779724df0b73b18e05820f39e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670599572522
+status: 1
+tags: []
+user_id: unknown

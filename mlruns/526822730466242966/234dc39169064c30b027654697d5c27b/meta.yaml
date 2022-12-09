@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/234dc39169064c30b027654697d5c27b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 234dc39169064c30b027654697d5c27b
+run_name: masked-robin-419
+run_uuid: 234dc39169064c30b027654697d5c27b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670581628044
+status: 1
+tags: []
+user_id: unknown

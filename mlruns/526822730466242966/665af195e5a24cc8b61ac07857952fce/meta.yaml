@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/665af195e5a24cc8b61ac07857952fce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 665af195e5a24cc8b61ac07857952fce
+run_name: gifted-bee-300
+run_uuid: 665af195e5a24cc8b61ac07857952fce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670610886538
+status: 1
+tags: []
+user_id: unknown

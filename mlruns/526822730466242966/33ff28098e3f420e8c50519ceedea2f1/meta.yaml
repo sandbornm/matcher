@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/33ff28098e3f420e8c50519ceedea2f1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 33ff28098e3f420e8c50519ceedea2f1
+run_name: adorable-donkey-229
+run_uuid: 33ff28098e3f420e8c50519ceedea2f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670581507091
+status: 1
+tags: []
+user_id: unknown

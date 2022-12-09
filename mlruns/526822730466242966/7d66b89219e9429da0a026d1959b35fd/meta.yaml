@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7d66b89219e9429da0a026d1959b35fd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7d66b89219e9429da0a026d1959b35fd
+run_name: likeable-gull-296
+run_uuid: 7d66b89219e9429da0a026d1959b35fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670572860143
+status: 1
+tags: []
+user_id: unknown

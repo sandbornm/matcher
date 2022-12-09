@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/85beaa8f7b154e549249e366a23bbcb9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 85beaa8f7b154e549249e366a23bbcb9
+run_name: traveling-shrike-586
+run_uuid: 85beaa8f7b154e549249e366a23bbcb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670602907789
+status: 1
+tags: []
+user_id: unknown

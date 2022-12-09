@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/038b7ed76b6a45ff929fb10d8c0a091b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 038b7ed76b6a45ff929fb10d8c0a091b
+run_name: skillful-turtle-236
+run_uuid: 038b7ed76b6a45ff929fb10d8c0a091b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670598797953
+status: 1
+tags: []
+user_id: unknown

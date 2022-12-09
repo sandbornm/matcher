@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4248348ab53746e7a0957b98ad4af9dc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 4248348ab53746e7a0957b98ad4af9dc
+run_name: unequaled-snail-513
+run_uuid: 4248348ab53746e7a0957b98ad4af9dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670593010715
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5466b88bc0d04b5f9e8de1f3889b6489/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5466b88bc0d04b5f9e8de1f3889b6489
+run_name: grandiose-eel-540
+run_uuid: 5466b88bc0d04b5f9e8de1f3889b6489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569757744
+status: 1
+tags: []
+user_id: unknown

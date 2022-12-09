@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0a27ce560a944fbe8fa5a4f4f8bb4eac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 0a27ce560a944fbe8fa5a4f4f8bb4eac
+run_name: tasteful-snake-324
+run_uuid: 0a27ce560a944fbe8fa5a4f4f8bb4eac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670575337760
+status: 1
+tags: []
+user_id: unknown

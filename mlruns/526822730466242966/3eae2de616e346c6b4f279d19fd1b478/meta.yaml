@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3eae2de616e346c6b4f279d19fd1b478/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3eae2de616e346c6b4f279d19fd1b478
+run_name: smiling-ant-43
+run_uuid: 3eae2de616e346c6b4f279d19fd1b478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670589726894
+status: 1
+tags: []
+user_id: unknown

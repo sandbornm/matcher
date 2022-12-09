@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c7e957314b9c47ed8740ea33871e3735/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: c7e957314b9c47ed8740ea33871e3735
+run_name: blushing-shad-802
+run_uuid: c7e957314b9c47ed8740ea33871e3735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670595264043
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e8e872f4dcc741fe999bf283437dbdb8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e8e872f4dcc741fe999bf283437dbdb8
+run_name: rogue-moth-65
+run_uuid: e8e872f4dcc741fe999bf283437dbdb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670596927697
+status: 1
+tags: []
+user_id: unknown

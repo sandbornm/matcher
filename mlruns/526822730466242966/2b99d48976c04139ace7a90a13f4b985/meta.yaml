@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2b99d48976c04139ace7a90a13f4b985/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2b99d48976c04139ace7a90a13f4b985
+run_name: wistful-snipe-449
+run_uuid: 2b99d48976c04139ace7a90a13f4b985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670583104121
+status: 1
+tags: []
+user_id: unknown

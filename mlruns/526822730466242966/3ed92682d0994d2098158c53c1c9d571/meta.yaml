@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3ed92682d0994d2098158c53c1c9d571/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3ed92682d0994d2098158c53c1c9d571
+run_name: selective-flea-585
+run_uuid: 3ed92682d0994d2098158c53c1c9d571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670606177903
+status: 1
+tags: []
+user_id: unknown

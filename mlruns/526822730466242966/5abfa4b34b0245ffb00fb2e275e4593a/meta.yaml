@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5abfa4b34b0245ffb00fb2e275e4593a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5abfa4b34b0245ffb00fb2e275e4593a
+run_name: rogue-doe-597
+run_uuid: 5abfa4b34b0245ffb00fb2e275e4593a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670571423547
+status: 1
+tags: []
+user_id: unknown

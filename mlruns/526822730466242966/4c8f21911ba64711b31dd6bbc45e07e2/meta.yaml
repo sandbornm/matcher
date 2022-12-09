@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4c8f21911ba64711b31dd6bbc45e07e2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 4c8f21911ba64711b31dd6bbc45e07e2
+run_name: funny-crow-882
+run_uuid: 4c8f21911ba64711b31dd6bbc45e07e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670563078333
+status: 1
+tags: []
+user_id: unknown

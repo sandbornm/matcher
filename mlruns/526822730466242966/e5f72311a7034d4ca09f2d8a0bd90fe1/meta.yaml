@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e5f72311a7034d4ca09f2d8a0bd90fe1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e5f72311a7034d4ca09f2d8a0bd90fe1
+run_name: capricious-conch-242
+run_uuid: e5f72311a7034d4ca09f2d8a0bd90fe1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568977862
+status: 1
+tags: []
+user_id: unknown

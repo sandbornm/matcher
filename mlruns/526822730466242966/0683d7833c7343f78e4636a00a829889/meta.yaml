@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0683d7833c7343f78e4636a00a829889/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 0683d7833c7343f78e4636a00a829889
+run_name: beautiful-sow-271
+run_uuid: 0683d7833c7343f78e4636a00a829889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670610399972
+status: 1
+tags: []
+user_id: unknown

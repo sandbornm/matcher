@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/17431c5c79d446499970237d3436c862/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 17431c5c79d446499970237d3436c862
+run_name: resilient-pug-774
+run_uuid: 17431c5c79d446499970237d3436c862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670566461455
+status: 1
+tags: []
+user_id: unknown

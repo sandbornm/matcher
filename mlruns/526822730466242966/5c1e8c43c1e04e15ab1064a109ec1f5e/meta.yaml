@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5c1e8c43c1e04e15ab1064a109ec1f5e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5c1e8c43c1e04e15ab1064a109ec1f5e
+run_name: languid-pig-372
+run_uuid: 5c1e8c43c1e04e15ab1064a109ec1f5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670591829061
+status: 1
+tags: []
+user_id: unknown

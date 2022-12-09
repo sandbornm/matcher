@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2750162ee9f34217bd78b1fe2b4b83c1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2750162ee9f34217bd78b1fe2b4b83c1
+run_name: loud-lark-643
+run_uuid: 2750162ee9f34217bd78b1fe2b4b83c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603706386
+status: 1
+tags: []
+user_id: unknown

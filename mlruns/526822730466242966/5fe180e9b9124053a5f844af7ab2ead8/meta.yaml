@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5fe180e9b9124053a5f844af7ab2ead8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5fe180e9b9124053a5f844af7ab2ead8
+run_name: valuable-newt-540
+run_uuid: 5fe180e9b9124053a5f844af7ab2ead8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670589924552
+status: 1
+tags: []
+user_id: unknown

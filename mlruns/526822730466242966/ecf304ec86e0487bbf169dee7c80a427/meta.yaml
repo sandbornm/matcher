@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ecf304ec86e0487bbf169dee7c80a427/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ecf304ec86e0487bbf169dee7c80a427
+run_name: trusting-kit-765
+run_uuid: ecf304ec86e0487bbf169dee7c80a427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670563692387
+status: 1
+tags: []
+user_id: unknown

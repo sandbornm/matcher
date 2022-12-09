@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6a49147494a447169e61943a0c2bc8af/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6a49147494a447169e61943a0c2bc8af
+run_name: enthused-eel-391
+run_uuid: 6a49147494a447169e61943a0c2bc8af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582813618
+status: 1
+tags: []
+user_id: unknown

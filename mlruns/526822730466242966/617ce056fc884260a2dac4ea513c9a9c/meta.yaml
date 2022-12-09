@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/617ce056fc884260a2dac4ea513c9a9c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 617ce056fc884260a2dac4ea513c9a9c
+run_name: nervous-skunk-348
+run_uuid: 617ce056fc884260a2dac4ea513c9a9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670577427014
+status: 1
+tags: []
+user_id: unknown

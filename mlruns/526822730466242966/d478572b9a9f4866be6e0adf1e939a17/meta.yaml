@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d478572b9a9f4866be6e0adf1e939a17/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d478572b9a9f4866be6e0adf1e939a17
+run_name: sincere-moose-571
+run_uuid: d478572b9a9f4866be6e0adf1e939a17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670589952801
+status: 1
+tags: []
+user_id: unknown

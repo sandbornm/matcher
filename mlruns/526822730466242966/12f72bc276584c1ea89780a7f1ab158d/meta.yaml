@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/12f72bc276584c1ea89780a7f1ab158d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 12f72bc276584c1ea89780a7f1ab158d
+run_name: nervous-quail-530
+run_uuid: 12f72bc276584c1ea89780a7f1ab158d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670606481822
+status: 1
+tags: []
+user_id: unknown

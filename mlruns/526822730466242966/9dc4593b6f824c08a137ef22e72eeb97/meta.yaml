@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9dc4593b6f824c08a137ef22e72eeb97/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9dc4593b6f824c08a137ef22e72eeb97
+run_name: loud-doe-666
+run_uuid: 9dc4593b6f824c08a137ef22e72eeb97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670574371167
+status: 1
+tags: []
+user_id: unknown

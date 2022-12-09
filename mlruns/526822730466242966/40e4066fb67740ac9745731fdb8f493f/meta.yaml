@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/40e4066fb67740ac9745731fdb8f493f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 40e4066fb67740ac9745731fdb8f493f
+run_name: loud-penguin-377
+run_uuid: 40e4066fb67740ac9745731fdb8f493f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568733128
+status: 1
+tags: []
+user_id: unknown

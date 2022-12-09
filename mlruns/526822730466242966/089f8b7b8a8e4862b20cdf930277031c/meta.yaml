@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/089f8b7b8a8e4862b20cdf930277031c/artifacts
+deleted_time: 1670561191160
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 089f8b7b8a8e4862b20cdf930277031c
+run_name: worried-doe-547
+run_uuid: 089f8b7b8a8e4862b20cdf930277031c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670558268944
+status: 1
+tags: []
+user_id: unknown

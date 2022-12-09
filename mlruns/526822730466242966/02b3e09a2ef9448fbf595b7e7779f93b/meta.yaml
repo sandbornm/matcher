@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/02b3e09a2ef9448fbf595b7e7779f93b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 02b3e09a2ef9448fbf595b7e7779f93b
+run_name: bustling-fox-386
+run_uuid: 02b3e09a2ef9448fbf595b7e7779f93b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670574262726
+status: 1
+tags: []
+user_id: unknown

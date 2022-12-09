@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2d0822e4c5d749eb8b3868ab4c0ba057/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2d0822e4c5d749eb8b3868ab4c0ba057
+run_name: debonair-stork-559
+run_uuid: 2d0822e4c5d749eb8b3868ab4c0ba057
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670575144644
+status: 1
+tags: []
+user_id: unknown

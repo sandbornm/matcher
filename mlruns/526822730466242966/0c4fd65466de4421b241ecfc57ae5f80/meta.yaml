@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0c4fd65466de4421b241ecfc57ae5f80/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 0c4fd65466de4421b241ecfc57ae5f80
+run_name: agreeable-trout-382
+run_uuid: 0c4fd65466de4421b241ecfc57ae5f80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670596736313
+status: 1
+tags: []
+user_id: unknown

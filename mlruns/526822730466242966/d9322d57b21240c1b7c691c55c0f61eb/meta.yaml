@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d9322d57b21240c1b7c691c55c0f61eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d9322d57b21240c1b7c691c55c0f61eb
+run_name: melodic-goat-964
+run_uuid: d9322d57b21240c1b7c691c55c0f61eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670605597914
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/199ab35cdcf14e148d7ea051e9883ebd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 199ab35cdcf14e148d7ea051e9883ebd
+run_name: thoughtful-zebra-894
+run_uuid: 199ab35cdcf14e148d7ea051e9883ebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670611339690
+status: 1
+tags: []
+user_id: unknown

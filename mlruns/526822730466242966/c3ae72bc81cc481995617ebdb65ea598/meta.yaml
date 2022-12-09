@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c3ae72bc81cc481995617ebdb65ea598/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: c3ae72bc81cc481995617ebdb65ea598
+run_name: dashing-bee-306
+run_uuid: c3ae72bc81cc481995617ebdb65ea598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569035374
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/eb2c23dbfe57415086ca67eb978aeda9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: eb2c23dbfe57415086ca67eb978aeda9
+run_name: respected-perch-50
+run_uuid: eb2c23dbfe57415086ca67eb978aeda9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670599540794
+status: 1
+tags: []
+user_id: unknown

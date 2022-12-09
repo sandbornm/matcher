@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c1f258bb4af94862af9d2af40ef2b6b7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: c1f258bb4af94862af9d2af40ef2b6b7
+run_name: victorious-mule-634
+run_uuid: c1f258bb4af94862af9d2af40ef2b6b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670575641805
+status: 1
+tags: []
+user_id: unknown

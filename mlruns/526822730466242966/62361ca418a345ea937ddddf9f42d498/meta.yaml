@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/62361ca418a345ea937ddddf9f42d498/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 62361ca418a345ea937ddddf9f42d498
+run_name: intelligent-lynx-983
+run_uuid: 62361ca418a345ea937ddddf9f42d498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670595307774
+status: 1
+tags: []
+user_id: unknown

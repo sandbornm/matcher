@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/eca1ab62d54a4439aa9facf9d3673ac9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: eca1ab62d54a4439aa9facf9d3673ac9
+run_name: upbeat-bird-791
+run_uuid: eca1ab62d54a4439aa9facf9d3673ac9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670607674428
+status: 1
+tags: []
+user_id: unknown

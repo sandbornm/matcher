@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/10bbaa8d729c48328626667f414f9e6b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 10bbaa8d729c48328626667f414f9e6b
+run_name: hilarious-snail-958
+run_uuid: 10bbaa8d729c48328626667f414f9e6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670566744236
+status: 1
+tags: []
+user_id: unknown

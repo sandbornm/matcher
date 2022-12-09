@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fe4a6a254dff455ab81c8d49081e3bbf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fe4a6a254dff455ab81c8d49081e3bbf
+run_name: dapper-flea-307
+run_uuid: fe4a6a254dff455ab81c8d49081e3bbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582490717
+status: 1
+tags: []
+user_id: unknown

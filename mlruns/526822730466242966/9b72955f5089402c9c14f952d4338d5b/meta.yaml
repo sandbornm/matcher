@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9b72955f5089402c9c14f952d4338d5b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9b72955f5089402c9c14f952d4338d5b
+run_name: fortunate-trout-525
+run_uuid: 9b72955f5089402c9c14f952d4338d5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670566666189
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ccf4a59a9fba4ffe821408606ce377af/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ccf4a59a9fba4ffe821408606ce377af
+run_name: dashing-trout-258
+run_uuid: ccf4a59a9fba4ffe821408606ce377af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670567198752
+status: 1
+tags: []
+user_id: unknown

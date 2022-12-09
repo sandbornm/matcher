@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a42f0f2a5b3b484eb0922a05f464897d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a42f0f2a5b3b484eb0922a05f464897d
+run_name: abundant-chimp-566
+run_uuid: a42f0f2a5b3b484eb0922a05f464897d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670572862583
+status: 1
+tags: []
+user_id: unknown

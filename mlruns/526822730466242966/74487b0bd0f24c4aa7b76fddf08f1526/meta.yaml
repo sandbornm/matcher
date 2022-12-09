@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/74487b0bd0f24c4aa7b76fddf08f1526/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 74487b0bd0f24c4aa7b76fddf08f1526
+run_name: adventurous-bee-250
+run_uuid: 74487b0bd0f24c4aa7b76fddf08f1526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670566158250
+status: 1
+tags: []
+user_id: unknown

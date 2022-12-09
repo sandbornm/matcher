@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ac2ead8571ea4211b6d7f2c8747fdbc0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ac2ead8571ea4211b6d7f2c8747fdbc0
+run_name: suave-owl-29
+run_uuid: ac2ead8571ea4211b6d7f2c8747fdbc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670573935617
+status: 1
+tags: []
+user_id: unknown

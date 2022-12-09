@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5248207a686548fc97ec22b625914d2d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5248207a686548fc97ec22b625914d2d
+run_name: treasured-mink-276
+run_uuid: 5248207a686548fc97ec22b625914d2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670593017606
+status: 1
+tags: []
+user_id: unknown

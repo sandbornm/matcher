@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0f56902291174cef920025ffa3766752/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 0f56902291174cef920025ffa3766752
+run_name: shivering-cod-651
+run_uuid: 0f56902291174cef920025ffa3766752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670584161451
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f146be7308424358952b4398188bcaf5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f146be7308424358952b4398188bcaf5
+run_name: casual-hog-751
+run_uuid: f146be7308424358952b4398188bcaf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670602899445
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/57af20334f3045d284a0c23aa8604167/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 57af20334f3045d284a0c23aa8604167
+run_name: likeable-skink-452
+run_uuid: 57af20334f3045d284a0c23aa8604167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670590422860
+status: 1
+tags: []
+user_id: unknown

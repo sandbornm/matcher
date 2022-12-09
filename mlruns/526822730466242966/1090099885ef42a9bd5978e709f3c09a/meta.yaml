@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1090099885ef42a9bd5978e709f3c09a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1090099885ef42a9bd5978e709f3c09a
+run_name: stylish-hound-60
+run_uuid: 1090099885ef42a9bd5978e709f3c09a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670566770756
+status: 1
+tags: []
+user_id: unknown

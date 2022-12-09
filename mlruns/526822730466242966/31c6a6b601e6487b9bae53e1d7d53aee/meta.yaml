@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/31c6a6b601e6487b9bae53e1d7d53aee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 31c6a6b601e6487b9bae53e1d7d53aee
+run_name: bedecked-grub-227
+run_uuid: 31c6a6b601e6487b9bae53e1d7d53aee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670590062841
+status: 1
+tags: []
+user_id: unknown

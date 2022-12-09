@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/aea845693ede44d1a69bf3429c06e63e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: aea845693ede44d1a69bf3429c06e63e
+run_name: burly-koi-406
+run_uuid: aea845693ede44d1a69bf3429c06e63e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670587720690
+status: 1
+tags: []
+user_id: unknown

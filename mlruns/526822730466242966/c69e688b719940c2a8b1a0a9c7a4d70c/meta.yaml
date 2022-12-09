@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c69e688b719940c2a8b1a0a9c7a4d70c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: c69e688b719940c2a8b1a0a9c7a4d70c
+run_name: capable-hog-68
+run_uuid: c69e688b719940c2a8b1a0a9c7a4d70c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670583526964
+status: 1
+tags: []
+user_id: unknown

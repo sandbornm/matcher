@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ff086e20d99c4140817d66c1f63808fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ff086e20d99c4140817d66c1f63808fa
+run_name: zealous-jay-738
+run_uuid: ff086e20d99c4140817d66c1f63808fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670596586679
+status: 1
+tags: []
+user_id: unknown

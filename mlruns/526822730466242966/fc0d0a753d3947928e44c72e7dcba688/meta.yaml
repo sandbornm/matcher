@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fc0d0a753d3947928e44c72e7dcba688/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fc0d0a753d3947928e44c72e7dcba688
+run_name: beautiful-hog-722
+run_uuid: fc0d0a753d3947928e44c72e7dcba688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670590777240
+status: 1
+tags: []
+user_id: unknown

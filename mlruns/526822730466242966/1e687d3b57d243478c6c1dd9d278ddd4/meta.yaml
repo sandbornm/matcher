@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1e687d3b57d243478c6c1dd9d278ddd4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1e687d3b57d243478c6c1dd9d278ddd4
+run_name: polite-hen-805
+run_uuid: 1e687d3b57d243478c6c1dd9d278ddd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670601002117
+status: 1
+tags: []
+user_id: unknown

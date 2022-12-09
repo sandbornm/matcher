@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/abef96c80cd046fe8b5d23d5a1d2d820/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: abef96c80cd046fe8b5d23d5a1d2d820
+run_name: omniscient-fowl-757
+run_uuid: abef96c80cd046fe8b5d23d5a1d2d820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670566964486
+status: 1
+tags: []
+user_id: unknown

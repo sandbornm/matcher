@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/40eceb1b84ff4b44a2c4c88aa90fc1a1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 40eceb1b84ff4b44a2c4c88aa90fc1a1
+run_name: silent-yak-400
+run_uuid: 40eceb1b84ff4b44a2c4c88aa90fc1a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670572526432
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a4b9c32abc10494e846d4851222a8c49/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a4b9c32abc10494e846d4851222a8c49
+run_name: salty-robin-151
+run_uuid: a4b9c32abc10494e846d4851222a8c49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670601292032
+status: 1
+tags: []
+user_id: unknown

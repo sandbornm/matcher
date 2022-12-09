@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/336da7f3b3c74f87a061f2733ed9ae0a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 336da7f3b3c74f87a061f2733ed9ae0a
+run_name: amusing-sloth-66
+run_uuid: 336da7f3b3c74f87a061f2733ed9ae0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670601528192
+status: 1
+tags: []
+user_id: unknown

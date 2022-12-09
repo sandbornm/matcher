@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1bc325a1cb0e4ab792a37de0393eebb0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1bc325a1cb0e4ab792a37de0393eebb0
+run_name: redolent-shark-768
+run_uuid: 1bc325a1cb0e4ab792a37de0393eebb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670604679065
+status: 1
+tags: []
+user_id: unknown

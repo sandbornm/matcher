@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cc85c13e5198434384e9de4de8c41931/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: cc85c13e5198434384e9de4de8c41931
+run_name: agreeable-fox-120
+run_uuid: cc85c13e5198434384e9de4de8c41931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670576147095
+status: 1
+tags: []
+user_id: unknown

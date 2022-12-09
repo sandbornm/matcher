@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ba70646765ba4fb1a9a9d06c292875f7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ba70646765ba4fb1a9a9d06c292875f7
+run_name: serious-wolf-713
+run_uuid: ba70646765ba4fb1a9a9d06c292875f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670574789691
+status: 1
+tags: []
+user_id: unknown

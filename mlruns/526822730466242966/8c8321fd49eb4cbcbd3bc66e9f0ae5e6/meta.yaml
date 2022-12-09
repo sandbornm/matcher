@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8c8321fd49eb4cbcbd3bc66e9f0ae5e6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8c8321fd49eb4cbcbd3bc66e9f0ae5e6
+run_name: hilarious-midge-331
+run_uuid: 8c8321fd49eb4cbcbd3bc66e9f0ae5e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670588206898
+status: 1
+tags: []
+user_id: unknown

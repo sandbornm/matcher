@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fbe1f33e18e34c71b5a8136cff909774/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fbe1f33e18e34c71b5a8136cff909774
+run_name: brawny-foal-411
+run_uuid: fbe1f33e18e34c71b5a8136cff909774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670570349921
+status: 1
+tags: []
+user_id: unknown

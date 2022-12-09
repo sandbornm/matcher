@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8ee77de010b8493cb7ac44ab66e792c8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8ee77de010b8493cb7ac44ab66e792c8
+run_name: tasteful-snail-152
+run_uuid: 8ee77de010b8493cb7ac44ab66e792c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670563665816
+status: 1
+tags: []
+user_id: unknown

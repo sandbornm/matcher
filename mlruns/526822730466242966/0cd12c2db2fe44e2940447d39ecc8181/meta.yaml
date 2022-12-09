@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0cd12c2db2fe44e2940447d39ecc8181/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 0cd12c2db2fe44e2940447d39ecc8181
+run_name: burly-whale-620
+run_uuid: 0cd12c2db2fe44e2940447d39ecc8181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670591231663
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0b9fb052f40f4888bb51e7a64648b5ed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 0b9fb052f40f4888bb51e7a64648b5ed
+run_name: mercurial-bird-63
+run_uuid: 0b9fb052f40f4888bb51e7a64648b5ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670571937549
+status: 1
+tags: []
+user_id: unknown

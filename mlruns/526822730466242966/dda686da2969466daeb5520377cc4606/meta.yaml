@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/dda686da2969466daeb5520377cc4606/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: dda686da2969466daeb5520377cc4606
+run_name: marvelous-donkey-965
+run_uuid: dda686da2969466daeb5520377cc4606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670575830376
+status: 1
+tags: []
+user_id: unknown

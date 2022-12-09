@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b66816d5d9124a2da35239fe8653e7ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b66816d5d9124a2da35239fe8653e7ef
+run_name: thoughtful-gull-251
+run_uuid: b66816d5d9124a2da35239fe8653e7ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670572274303
+status: 1
+tags: []
+user_id: unknown

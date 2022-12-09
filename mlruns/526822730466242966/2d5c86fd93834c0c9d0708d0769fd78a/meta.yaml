@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2d5c86fd93834c0c9d0708d0769fd78a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2d5c86fd93834c0c9d0708d0769fd78a
+run_name: glamorous-ant-438
+run_uuid: 2d5c86fd93834c0c9d0708d0769fd78a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670610259823
+status: 1
+tags: []
+user_id: unknown

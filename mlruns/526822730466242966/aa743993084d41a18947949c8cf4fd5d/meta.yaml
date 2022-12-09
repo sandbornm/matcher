@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/aa743993084d41a18947949c8cf4fd5d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: aa743993084d41a18947949c8cf4fd5d
+run_name: unleashed-skunk-696
+run_uuid: aa743993084d41a18947949c8cf4fd5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670581934469
+status: 1
+tags: []
+user_id: unknown

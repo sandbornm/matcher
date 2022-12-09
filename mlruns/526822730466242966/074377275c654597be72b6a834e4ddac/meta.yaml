@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/074377275c654597be72b6a834e4ddac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 074377275c654597be72b6a834e4ddac
+run_name: monumental-quail-461
+run_uuid: 074377275c654597be72b6a834e4ddac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594084105
+status: 1
+tags: []
+user_id: unknown

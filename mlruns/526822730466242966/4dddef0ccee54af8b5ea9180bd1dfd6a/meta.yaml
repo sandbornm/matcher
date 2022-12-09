@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4dddef0ccee54af8b5ea9180bd1dfd6a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 4dddef0ccee54af8b5ea9180bd1dfd6a
+run_name: receptive-shrike-927
+run_uuid: 4dddef0ccee54af8b5ea9180bd1dfd6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594299906
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/98d19272a5f8401f8e17a8cfdc1b5d76/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 98d19272a5f8401f8e17a8cfdc1b5d76
+run_name: powerful-smelt-711
+run_uuid: 98d19272a5f8401f8e17a8cfdc1b5d76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670562733715
+status: 1
+tags: []
+user_id: unknown

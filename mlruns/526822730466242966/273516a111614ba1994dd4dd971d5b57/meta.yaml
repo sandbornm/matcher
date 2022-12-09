@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/273516a111614ba1994dd4dd971d5b57/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 273516a111614ba1994dd4dd971d5b57
+run_name: sneaky-sheep-836
+run_uuid: 273516a111614ba1994dd4dd971d5b57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670558272054
+status: 1
+tags: []
+user_id: unknown

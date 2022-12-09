@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/38638f46718f40b197d98176cd72cd2f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 38638f46718f40b197d98176cd72cd2f
+run_name: awesome-snail-65
+run_uuid: 38638f46718f40b197d98176cd72cd2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670585930008
+status: 1
+tags: []
+user_id: unknown

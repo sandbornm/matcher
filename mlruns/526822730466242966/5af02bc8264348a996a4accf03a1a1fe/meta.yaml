@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5af02bc8264348a996a4accf03a1a1fe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5af02bc8264348a996a4accf03a1a1fe
+run_name: legendary-dog-514
+run_uuid: 5af02bc8264348a996a4accf03a1a1fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670590045261
+status: 1
+tags: []
+user_id: unknown

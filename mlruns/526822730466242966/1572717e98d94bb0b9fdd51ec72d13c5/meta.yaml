@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1572717e98d94bb0b9fdd51ec72d13c5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1572717e98d94bb0b9fdd51ec72d13c5
+run_name: illustrious-boar-901
+run_uuid: 1572717e98d94bb0b9fdd51ec72d13c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670611063176
+status: 1
+tags: []
+user_id: unknown

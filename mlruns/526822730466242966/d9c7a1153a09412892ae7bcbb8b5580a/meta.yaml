@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d9c7a1153a09412892ae7bcbb8b5580a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d9c7a1153a09412892ae7bcbb8b5580a
+run_name: caring-doe-483
+run_uuid: d9c7a1153a09412892ae7bcbb8b5580a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670562382678
+status: 1
+tags: []
+user_id: unknown

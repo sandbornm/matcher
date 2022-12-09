@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f727b0bd4df14cbe8a937f9b664e89c0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f727b0bd4df14cbe8a937f9b664e89c0
+run_name: painted-mule-41
+run_uuid: f727b0bd4df14cbe8a937f9b664e89c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670608814502
+status: 1
+tags: []
+user_id: unknown

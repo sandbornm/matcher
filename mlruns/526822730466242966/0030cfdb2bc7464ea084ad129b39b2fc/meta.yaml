@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0030cfdb2bc7464ea084ad129b39b2fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 0030cfdb2bc7464ea084ad129b39b2fc
+run_name: gaudy-cod-437
+run_uuid: 0030cfdb2bc7464ea084ad129b39b2fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670606862192
+status: 1
+tags: []
+user_id: unknown

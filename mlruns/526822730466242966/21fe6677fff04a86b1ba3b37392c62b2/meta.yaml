@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/21fe6677fff04a86b1ba3b37392c62b2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 21fe6677fff04a86b1ba3b37392c62b2
+run_name: indecisive-wolf-200
+run_uuid: 21fe6677fff04a86b1ba3b37392c62b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670584991673
+status: 1
+tags: []
+user_id: unknown

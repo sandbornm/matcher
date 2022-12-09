@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/db3273d8eb084fd4b7f2d4908e3e6076/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: db3273d8eb084fd4b7f2d4908e3e6076
+run_name: capable-gnat-673
+run_uuid: db3273d8eb084fd4b7f2d4908e3e6076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670573334280
+status: 1
+tags: []
+user_id: unknown

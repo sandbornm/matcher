@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9294ae9b3fab4c44b232344db87c570f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9294ae9b3fab4c44b232344db87c570f
+run_name: peaceful-goose-366
+run_uuid: 9294ae9b3fab4c44b232344db87c570f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670574904016
+status: 1
+tags: []
+user_id: unknown

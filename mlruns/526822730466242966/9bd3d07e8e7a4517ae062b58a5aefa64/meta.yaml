@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9bd3d07e8e7a4517ae062b58a5aefa64/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9bd3d07e8e7a4517ae062b58a5aefa64
+run_name: worried-mare-368
+run_uuid: 9bd3d07e8e7a4517ae062b58a5aefa64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603461489
+status: 1
+tags: []
+user_id: unknown

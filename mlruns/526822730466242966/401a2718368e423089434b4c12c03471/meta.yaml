@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/401a2718368e423089434b4c12c03471/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 401a2718368e423089434b4c12c03471
+run_name: intelligent-fox-897
+run_uuid: 401a2718368e423089434b4c12c03471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670593330369
+status: 1
+tags: []
+user_id: unknown

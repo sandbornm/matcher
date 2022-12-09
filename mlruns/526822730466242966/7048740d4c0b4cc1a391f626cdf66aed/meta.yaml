@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7048740d4c0b4cc1a391f626cdf66aed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7048740d4c0b4cc1a391f626cdf66aed
+run_name: glamorous-colt-672
+run_uuid: 7048740d4c0b4cc1a391f626cdf66aed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670576570494
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9510574216ef415e8935bfb56391bbe3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9510574216ef415e8935bfb56391bbe3
+run_name: charming-chimp-665
+run_uuid: 9510574216ef415e8935bfb56391bbe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670604257700
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6f09a17b762c44f0b36c3008f5e6361b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6f09a17b762c44f0b36c3008f5e6361b
+run_name: receptive-grub-681
+run_uuid: 6f09a17b762c44f0b36c3008f5e6361b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670575024350
+status: 1
+tags: []
+user_id: unknown

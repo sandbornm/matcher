@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/66c57865557c4ff1983399c2a0665367/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 66c57865557c4ff1983399c2a0665367
+run_name: skillful-goose-923
+run_uuid: 66c57865557c4ff1983399c2a0665367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603066175
+status: 1
+tags: []
+user_id: unknown

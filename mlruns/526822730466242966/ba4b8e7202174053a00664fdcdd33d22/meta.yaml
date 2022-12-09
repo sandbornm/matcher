@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ba4b8e7202174053a00664fdcdd33d22/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ba4b8e7202174053a00664fdcdd33d22
+run_name: sincere-calf-44
+run_uuid: ba4b8e7202174053a00664fdcdd33d22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582149981
+status: 1
+tags: []
+user_id: unknown

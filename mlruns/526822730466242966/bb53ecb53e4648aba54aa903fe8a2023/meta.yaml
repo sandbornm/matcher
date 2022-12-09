@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bb53ecb53e4648aba54aa903fe8a2023/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: bb53ecb53e4648aba54aa903fe8a2023
+run_name: incongruous-rat-16
+run_uuid: bb53ecb53e4648aba54aa903fe8a2023
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670567995955
+status: 1
+tags: []
+user_id: unknown

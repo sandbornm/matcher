@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7b20d238aa6b4c2a915cfff31cb64de4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7b20d238aa6b4c2a915cfff31cb64de4
+run_name: placid-dog-283
+run_uuid: 7b20d238aa6b4c2a915cfff31cb64de4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568681802
+status: 1
+tags: []
+user_id: unknown

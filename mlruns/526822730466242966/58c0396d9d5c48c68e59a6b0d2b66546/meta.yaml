@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/58c0396d9d5c48c68e59a6b0d2b66546/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 58c0396d9d5c48c68e59a6b0d2b66546
+run_name: stately-shad-7
+run_uuid: 58c0396d9d5c48c68e59a6b0d2b66546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670612315210
+status: 1
+tags: []
+user_id: unknown

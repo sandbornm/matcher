@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6cf6dbc852e54bb98c66ae0818ccbf6c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6cf6dbc852e54bb98c66ae0818ccbf6c
+run_name: carefree-wren-204
+run_uuid: 6cf6dbc852e54bb98c66ae0818ccbf6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603370889
+status: 1
+tags: []
+user_id: unknown

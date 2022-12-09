@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/093e655bc671449b870e1a96a527d9ed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 093e655bc671449b870e1a96a527d9ed
+run_name: silent-grouse-716
+run_uuid: 093e655bc671449b870e1a96a527d9ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670576251038
+status: 1
+tags: []
+user_id: unknown

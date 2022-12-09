@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/471bb792024e402bb5ae731047296bcd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 471bb792024e402bb5ae731047296bcd
+run_name: caring-skink-34
+run_uuid: 471bb792024e402bb5ae731047296bcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670574701070
+status: 1
+tags: []
+user_id: unknown

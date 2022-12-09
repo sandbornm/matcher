@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d321817bc9bc4aba80b165ab7e29b20f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d321817bc9bc4aba80b165ab7e29b20f
+run_name: overjoyed-conch-18
+run_uuid: d321817bc9bc4aba80b165ab7e29b20f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670593583903
+status: 1
+tags: []
+user_id: unknown

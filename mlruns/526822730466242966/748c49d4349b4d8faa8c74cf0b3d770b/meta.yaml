@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/748c49d4349b4d8faa8c74cf0b3d770b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 748c49d4349b4d8faa8c74cf0b3d770b
+run_name: merciful-pug-330
+run_uuid: 748c49d4349b4d8faa8c74cf0b3d770b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670592051253
+status: 1
+tags: []
+user_id: unknown

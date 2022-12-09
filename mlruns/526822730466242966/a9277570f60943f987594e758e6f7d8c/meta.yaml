@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a9277570f60943f987594e758e6f7d8c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a9277570f60943f987594e758e6f7d8c
+run_name: efficient-eel-484
+run_uuid: a9277570f60943f987594e758e6f7d8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670606710646
+status: 1
+tags: []
+user_id: unknown

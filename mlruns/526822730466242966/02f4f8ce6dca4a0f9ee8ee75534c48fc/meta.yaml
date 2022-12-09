@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/02f4f8ce6dca4a0f9ee8ee75534c48fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 02f4f8ce6dca4a0f9ee8ee75534c48fc
+run_name: welcoming-horse-181
+run_uuid: 02f4f8ce6dca4a0f9ee8ee75534c48fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670592696420
+status: 1
+tags: []
+user_id: unknown

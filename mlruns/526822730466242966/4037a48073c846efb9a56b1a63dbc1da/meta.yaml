@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4037a48073c846efb9a56b1a63dbc1da/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 4037a48073c846efb9a56b1a63dbc1da
+run_name: fortunate-stag-889
+run_uuid: 4037a48073c846efb9a56b1a63dbc1da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670592051003
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c0265b2c6d1f4bb5a6cdb605f31efb2c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: c0265b2c6d1f4bb5a6cdb605f31efb2c
+run_name: carefree-croc-984
+run_uuid: c0265b2c6d1f4bb5a6cdb605f31efb2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670604652567
+status: 1
+tags: []
+user_id: unknown

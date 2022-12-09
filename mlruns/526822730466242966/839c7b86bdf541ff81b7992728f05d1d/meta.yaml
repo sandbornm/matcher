@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/839c7b86bdf541ff81b7992728f05d1d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 839c7b86bdf541ff81b7992728f05d1d
+run_name: hilarious-shrimp-683
+run_uuid: 839c7b86bdf541ff81b7992728f05d1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603227678
+status: 1
+tags: []
+user_id: unknown

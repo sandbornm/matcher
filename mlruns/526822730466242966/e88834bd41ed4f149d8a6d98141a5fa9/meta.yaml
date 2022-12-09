@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e88834bd41ed4f149d8a6d98141a5fa9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e88834bd41ed4f149d8a6d98141a5fa9
+run_name: zealous-squirrel-32
+run_uuid: e88834bd41ed4f149d8a6d98141a5fa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670592694501
+status: 1
+tags: []
+user_id: unknown

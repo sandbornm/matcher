@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cf97a0c1ed7443f4874d26ead9d472e4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: cf97a0c1ed7443f4874d26ead9d472e4
+run_name: casual-zebra-775
+run_uuid: cf97a0c1ed7443f4874d26ead9d472e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670604467863
+status: 1
+tags: []
+user_id: unknown

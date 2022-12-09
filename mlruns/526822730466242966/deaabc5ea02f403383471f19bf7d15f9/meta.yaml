@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/deaabc5ea02f403383471f19bf7d15f9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: deaabc5ea02f403383471f19bf7d15f9
+run_name: magnificent-bat-897
+run_uuid: deaabc5ea02f403383471f19bf7d15f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670598601565
+status: 1
+tags: []
+user_id: unknown

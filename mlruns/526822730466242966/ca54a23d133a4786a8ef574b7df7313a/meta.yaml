@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ca54a23d133a4786a8ef574b7df7313a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ca54a23d133a4786a8ef574b7df7313a
+run_name: agreeable-worm-559
+run_uuid: ca54a23d133a4786a8ef574b7df7313a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670602608019
+status: 1
+tags: []
+user_id: unknown

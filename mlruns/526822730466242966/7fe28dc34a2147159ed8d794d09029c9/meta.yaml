@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7fe28dc34a2147159ed8d794d09029c9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7fe28dc34a2147159ed8d794d09029c9
+run_name: upbeat-vole-6
+run_uuid: 7fe28dc34a2147159ed8d794d09029c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582559105
+status: 1
+tags: []
+user_id: unknown

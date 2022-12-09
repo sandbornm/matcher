@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/17f862e323aa47a5bdff649d1678eb93/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 17f862e323aa47a5bdff649d1678eb93
+run_name: fortunate-swan-889
+run_uuid: 17f862e323aa47a5bdff649d1678eb93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670600784712
+status: 1
+tags: []
+user_id: unknown

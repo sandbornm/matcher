@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/df1b06417a9943d286b95ae409fe551b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: df1b06417a9943d286b95ae409fe551b
+run_name: rumbling-loon-416
+run_uuid: df1b06417a9943d286b95ae409fe551b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670573347607
+status: 1
+tags: []
+user_id: unknown

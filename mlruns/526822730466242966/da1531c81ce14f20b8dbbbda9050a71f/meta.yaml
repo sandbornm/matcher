@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/da1531c81ce14f20b8dbbbda9050a71f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: da1531c81ce14f20b8dbbbda9050a71f
+run_name: whimsical-swan-556
+run_uuid: da1531c81ce14f20b8dbbbda9050a71f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569394730
+status: 1
+tags: []
+user_id: unknown

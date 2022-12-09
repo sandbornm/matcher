@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fa9e03ae375e4be9b563183938763d22/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fa9e03ae375e4be9b563183938763d22
+run_name: auspicious-duck-227
+run_uuid: fa9e03ae375e4be9b563183938763d22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670575508548
+status: 1
+tags: []
+user_id: unknown

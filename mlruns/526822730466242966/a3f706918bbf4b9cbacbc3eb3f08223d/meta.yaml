@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a3f706918bbf4b9cbacbc3eb3f08223d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a3f706918bbf4b9cbacbc3eb3f08223d
+run_name: awesome-newt-716
+run_uuid: a3f706918bbf4b9cbacbc3eb3f08223d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569894321
+status: 1
+tags: []
+user_id: unknown

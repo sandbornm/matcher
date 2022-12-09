@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/02520524a95f404a8d5110c10b08d12e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 02520524a95f404a8d5110c10b08d12e
+run_name: gentle-mare-308
+run_uuid: 02520524a95f404a8d5110c10b08d12e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594135912
+status: 1
+tags: []
+user_id: unknown

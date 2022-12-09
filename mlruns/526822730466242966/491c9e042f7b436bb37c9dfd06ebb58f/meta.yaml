@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/491c9e042f7b436bb37c9dfd06ebb58f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 491c9e042f7b436bb37c9dfd06ebb58f
+run_name: stylish-mink-339
+run_uuid: 491c9e042f7b436bb37c9dfd06ebb58f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670575868114
+status: 1
+tags: []
+user_id: unknown

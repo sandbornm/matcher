@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1ab6f5265f564b409aa5c6d29f8ae63f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1ab6f5265f564b409aa5c6d29f8ae63f
+run_name: spiffy-loon-459
+run_uuid: 1ab6f5265f564b409aa5c6d29f8ae63f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670570751812
+status: 1
+tags: []
+user_id: unknown

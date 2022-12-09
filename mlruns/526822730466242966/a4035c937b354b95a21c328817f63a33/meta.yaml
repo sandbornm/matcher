@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a4035c937b354b95a21c328817f63a33/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a4035c937b354b95a21c328817f63a33
+run_name: angry-bat-219
+run_uuid: a4035c937b354b95a21c328817f63a33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670563275583
+status: 1
+tags: []
+user_id: unknown

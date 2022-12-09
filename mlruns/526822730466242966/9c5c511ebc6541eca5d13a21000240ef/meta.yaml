@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9c5c511ebc6541eca5d13a21000240ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9c5c511ebc6541eca5d13a21000240ef
+run_name: crawling-foal-111
+run_uuid: 9c5c511ebc6541eca5d13a21000240ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670608662849
+status: 1
+tags: []
+user_id: unknown

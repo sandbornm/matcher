@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d88b17e2688841ac9f333daf907c9197/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d88b17e2688841ac9f333daf907c9197
+run_name: caring-squirrel-310
+run_uuid: d88b17e2688841ac9f333daf907c9197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670572610947
+status: 1
+tags: []
+user_id: unknown

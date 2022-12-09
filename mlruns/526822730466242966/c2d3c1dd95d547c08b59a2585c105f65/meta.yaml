@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c2d3c1dd95d547c08b59a2585c105f65/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: c2d3c1dd95d547c08b59a2585c105f65
+run_name: loud-frog-284
+run_uuid: c2d3c1dd95d547c08b59a2585c105f65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582733723
+status: 1
+tags: []
+user_id: unknown

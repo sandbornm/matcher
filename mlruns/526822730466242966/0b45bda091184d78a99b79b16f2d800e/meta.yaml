@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0b45bda091184d78a99b79b16f2d800e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 0b45bda091184d78a99b79b16f2d800e
+run_name: unique-mouse-75
+run_uuid: 0b45bda091184d78a99b79b16f2d800e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670611485172
+status: 1
+tags: []
+user_id: unknown

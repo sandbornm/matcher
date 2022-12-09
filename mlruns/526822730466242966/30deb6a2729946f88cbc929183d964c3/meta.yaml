@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/30deb6a2729946f88cbc929183d964c3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 30deb6a2729946f88cbc929183d964c3
+run_name: victorious-skunk-273
+run_uuid: 30deb6a2729946f88cbc929183d964c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670608775027
+status: 1
+tags: []
+user_id: unknown

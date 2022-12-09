@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d16c30eb9d684d6894c8c17802f9cb0e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d16c30eb9d684d6894c8c17802f9cb0e
+run_name: whimsical-auk-30
+run_uuid: d16c30eb9d684d6894c8c17802f9cb0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603995924
+status: 1
+tags: []
+user_id: unknown

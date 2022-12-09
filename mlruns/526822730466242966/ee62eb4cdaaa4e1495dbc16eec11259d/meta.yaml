@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ee62eb4cdaaa4e1495dbc16eec11259d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ee62eb4cdaaa4e1495dbc16eec11259d
+run_name: caring-cod-983
+run_uuid: ee62eb4cdaaa4e1495dbc16eec11259d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670591407237
+status: 1
+tags: []
+user_id: unknown

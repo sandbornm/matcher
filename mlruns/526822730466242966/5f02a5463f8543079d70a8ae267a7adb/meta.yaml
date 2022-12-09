@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5f02a5463f8543079d70a8ae267a7adb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5f02a5463f8543079d70a8ae267a7adb
+run_name: gaudy-mare-840
+run_uuid: 5f02a5463f8543079d70a8ae267a7adb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670581727086
+status: 1
+tags: []
+user_id: unknown

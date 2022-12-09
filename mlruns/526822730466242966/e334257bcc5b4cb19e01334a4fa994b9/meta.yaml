@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e334257bcc5b4cb19e01334a4fa994b9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e334257bcc5b4cb19e01334a4fa994b9
+run_name: peaceful-stag-69
+run_uuid: e334257bcc5b4cb19e01334a4fa994b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670565954183
+status: 1
+tags: []
+user_id: unknown

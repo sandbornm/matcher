@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/765f54ec3b5a457a96618825ebd7d5a7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 765f54ec3b5a457a96618825ebd7d5a7
+run_name: useful-chimp-459
+run_uuid: 765f54ec3b5a457a96618825ebd7d5a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670591529156
+status: 1
+tags: []
+user_id: unknown

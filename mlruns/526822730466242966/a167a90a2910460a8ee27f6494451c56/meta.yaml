@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a167a90a2910460a8ee27f6494451c56/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a167a90a2910460a8ee27f6494451c56
+run_name: masked-mule-546
+run_uuid: a167a90a2910460a8ee27f6494451c56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670563069172
+status: 1
+tags: []
+user_id: unknown

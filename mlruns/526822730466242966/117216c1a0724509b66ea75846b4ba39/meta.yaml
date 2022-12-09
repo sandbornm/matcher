@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/117216c1a0724509b66ea75846b4ba39/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 117216c1a0724509b66ea75846b4ba39
+run_name: magnificent-fish-197
+run_uuid: 117216c1a0724509b66ea75846b4ba39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670562382669
+status: 1
+tags: []
+user_id: unknown

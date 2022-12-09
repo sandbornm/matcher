@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f3b938e07c6c49828cd778eb8967f23a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f3b938e07c6c49828cd778eb8967f23a
+run_name: blushing-boar-939
+run_uuid: f3b938e07c6c49828cd778eb8967f23a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670562382707
+status: 1
+tags: []
+user_id: unknown

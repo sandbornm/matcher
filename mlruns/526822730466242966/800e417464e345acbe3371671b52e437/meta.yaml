@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/800e417464e345acbe3371671b52e437/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 800e417464e345acbe3371671b52e437
+run_name: brawny-lamb-2
+run_uuid: 800e417464e345acbe3371671b52e437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670595236516
+status: 1
+tags: []
+user_id: unknown

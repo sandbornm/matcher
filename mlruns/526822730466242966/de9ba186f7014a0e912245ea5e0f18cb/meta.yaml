@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/de9ba186f7014a0e912245ea5e0f18cb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: de9ba186f7014a0e912245ea5e0f18cb
+run_name: magnificent-carp-466
+run_uuid: de9ba186f7014a0e912245ea5e0f18cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670593490648
+status: 1
+tags: []
+user_id: unknown

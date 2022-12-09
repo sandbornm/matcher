@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d1ce02c058c54580970c4b1274811c26/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d1ce02c058c54580970c4b1274811c26
+run_name: sincere-ape-892
+run_uuid: d1ce02c058c54580970c4b1274811c26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670608681431
+status: 1
+tags: []
+user_id: unknown

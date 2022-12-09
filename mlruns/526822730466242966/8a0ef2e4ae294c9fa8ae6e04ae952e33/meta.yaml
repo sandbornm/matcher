@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8a0ef2e4ae294c9fa8ae6e04ae952e33/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8a0ef2e4ae294c9fa8ae6e04ae952e33
+run_name: salty-hen-839
+run_uuid: 8a0ef2e4ae294c9fa8ae6e04ae952e33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582753980
+status: 1
+tags: []
+user_id: unknown

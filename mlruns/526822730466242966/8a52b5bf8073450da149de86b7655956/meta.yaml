@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8a52b5bf8073450da149de86b7655956/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8a52b5bf8073450da149de86b7655956
+run_name: grandiose-ray-588
+run_uuid: 8a52b5bf8073450da149de86b7655956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670583242059
+status: 1
+tags: []
+user_id: unknown

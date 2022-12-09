@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/88ca24e2fcb346668a19713fad283ebe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 88ca24e2fcb346668a19713fad283ebe
+run_name: funny-perch-558
+run_uuid: 88ca24e2fcb346668a19713fad283ebe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594322763
+status: 1
+tags: []
+user_id: unknown

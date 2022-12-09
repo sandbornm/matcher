@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a749aca5c9054854acef85f3f179ad2c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a749aca5c9054854acef85f3f179ad2c
+run_name: orderly-crane-718
+run_uuid: a749aca5c9054854acef85f3f179ad2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670576648917
+status: 1
+tags: []
+user_id: unknown

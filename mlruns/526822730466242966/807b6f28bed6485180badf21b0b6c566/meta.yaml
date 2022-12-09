@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/807b6f28bed6485180badf21b0b6c566/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 807b6f28bed6485180badf21b0b6c566
+run_name: lyrical-mule-893
+run_uuid: 807b6f28bed6485180badf21b0b6c566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670608091513
+status: 1
+tags: []
+user_id: unknown

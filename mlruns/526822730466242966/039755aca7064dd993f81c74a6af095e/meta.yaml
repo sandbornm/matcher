@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/039755aca7064dd993f81c74a6af095e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 039755aca7064dd993f81c74a6af095e
+run_name: adaptable-sow-632
+run_uuid: 039755aca7064dd993f81c74a6af095e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670610657385
+status: 1
+tags: []
+user_id: unknown

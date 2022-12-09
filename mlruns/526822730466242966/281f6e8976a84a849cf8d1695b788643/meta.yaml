@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/281f6e8976a84a849cf8d1695b788643/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 281f6e8976a84a849cf8d1695b788643
+run_name: funny-roo-59
+run_uuid: 281f6e8976a84a849cf8d1695b788643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670612351453
+status: 1
+tags: []
+user_id: unknown

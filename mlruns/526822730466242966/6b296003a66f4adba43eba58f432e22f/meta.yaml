@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6b296003a66f4adba43eba58f432e22f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6b296003a66f4adba43eba58f432e22f
+run_name: resilient-kit-857
+run_uuid: 6b296003a66f4adba43eba58f432e22f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670564679891
+status: 1
+tags: []
+user_id: unknown

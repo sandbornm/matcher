@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/00f140b397ad4705a46277f4e03ac8c3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 00f140b397ad4705a46277f4e03ac8c3
+run_name: amazing-snipe-826
+run_uuid: 00f140b397ad4705a46277f4e03ac8c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670608106103
+status: 1
+tags: []
+user_id: unknown

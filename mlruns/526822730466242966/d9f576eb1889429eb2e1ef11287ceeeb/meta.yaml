@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d9f576eb1889429eb2e1ef11287ceeeb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d9f576eb1889429eb2e1ef11287ceeeb
+run_name: painted-doe-306
+run_uuid: d9f576eb1889429eb2e1ef11287ceeeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670566493120
+status: 1
+tags: []
+user_id: unknown

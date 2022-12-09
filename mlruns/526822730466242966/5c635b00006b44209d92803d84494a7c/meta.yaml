@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5c635b00006b44209d92803d84494a7c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5c635b00006b44209d92803d84494a7c
+run_name: orderly-swan-25
+run_uuid: 5c635b00006b44209d92803d84494a7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670589543504
+status: 1
+tags: []
+user_id: unknown

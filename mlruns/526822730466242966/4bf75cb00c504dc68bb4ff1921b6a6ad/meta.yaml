@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4bf75cb00c504dc68bb4ff1921b6a6ad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 4bf75cb00c504dc68bb4ff1921b6a6ad
+run_name: rebellious-bat-48
+run_uuid: 4bf75cb00c504dc68bb4ff1921b6a6ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670558269021
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9cbadbe16b8d4dbe9b8d3f257cae0c95/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9cbadbe16b8d4dbe9b8d3f257cae0c95
+run_name: tasteful-smelt-781
+run_uuid: 9cbadbe16b8d4dbe9b8d3f257cae0c95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594882657
+status: 1
+tags: []
+user_id: unknown

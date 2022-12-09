@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b7d4a9586a9a45ff87aff4339aab1a08/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b7d4a9586a9a45ff87aff4339aab1a08
+run_name: painted-squirrel-1
+run_uuid: b7d4a9586a9a45ff87aff4339aab1a08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603442139
+status: 1
+tags: []
+user_id: unknown

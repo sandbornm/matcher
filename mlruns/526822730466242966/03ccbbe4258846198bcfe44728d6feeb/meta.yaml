@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/03ccbbe4258846198bcfe44728d6feeb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 03ccbbe4258846198bcfe44728d6feeb
+run_name: salty-doe-147
+run_uuid: 03ccbbe4258846198bcfe44728d6feeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670570198955
+status: 1
+tags: []
+user_id: unknown

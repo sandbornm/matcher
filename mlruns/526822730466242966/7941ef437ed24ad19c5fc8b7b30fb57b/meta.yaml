@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7941ef437ed24ad19c5fc8b7b30fb57b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7941ef437ed24ad19c5fc8b7b30fb57b
+run_name: gregarious-whale-160
+run_uuid: 7941ef437ed24ad19c5fc8b7b30fb57b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670595808745
+status: 1
+tags: []
+user_id: unknown

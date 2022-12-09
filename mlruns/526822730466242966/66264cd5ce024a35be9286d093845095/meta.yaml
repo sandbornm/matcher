@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/66264cd5ce024a35be9286d093845095/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 66264cd5ce024a35be9286d093845095
+run_name: mercurial-colt-609
+run_uuid: 66264cd5ce024a35be9286d093845095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569361489
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c77d718112464efe93bc87e7af7986eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: c77d718112464efe93bc87e7af7986eb
+run_name: nimble-sloth-796
+run_uuid: c77d718112464efe93bc87e7af7986eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670606673113
+status: 1
+tags: []
+user_id: unknown

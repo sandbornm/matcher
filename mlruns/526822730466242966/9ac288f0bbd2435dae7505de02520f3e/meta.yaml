@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9ac288f0bbd2435dae7505de02520f3e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9ac288f0bbd2435dae7505de02520f3e
+run_name: skittish-stoat-641
+run_uuid: 9ac288f0bbd2435dae7505de02520f3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670604415756
+status: 1
+tags: []
+user_id: unknown

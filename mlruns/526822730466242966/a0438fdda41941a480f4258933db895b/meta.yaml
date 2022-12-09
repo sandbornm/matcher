@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a0438fdda41941a480f4258933db895b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a0438fdda41941a480f4258933db895b
+run_name: youthful-ray-422
+run_uuid: a0438fdda41941a480f4258933db895b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670566178668
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fbb12a69a3104c9bbd8e073ec14db02a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fbb12a69a3104c9bbd8e073ec14db02a
+run_name: enchanting-rat-293
+run_uuid: fbb12a69a3104c9bbd8e073ec14db02a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670584188186
+status: 1
+tags: []
+user_id: unknown

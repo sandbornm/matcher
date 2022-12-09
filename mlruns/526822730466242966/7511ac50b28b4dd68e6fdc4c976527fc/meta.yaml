@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7511ac50b28b4dd68e6fdc4c976527fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7511ac50b28b4dd68e6fdc4c976527fc
+run_name: bustling-moose-491
+run_uuid: 7511ac50b28b4dd68e6fdc4c976527fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670582461350
+status: 1
+tags: []
+user_id: unknown

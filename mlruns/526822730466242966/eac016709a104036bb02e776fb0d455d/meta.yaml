@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/eac016709a104036bb02e776fb0d455d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: eac016709a104036bb02e776fb0d455d
+run_name: adorable-ape-958
+run_uuid: eac016709a104036bb02e776fb0d455d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670602986420
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fb97d7c1260444ca873e01b745dd74b3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fb97d7c1260444ca873e01b745dd74b3
+run_name: salty-frog-110
+run_uuid: fb97d7c1260444ca873e01b745dd74b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670586191452
+status: 1
+tags: []
+user_id: unknown

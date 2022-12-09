@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2bfad8262768430e89aa20be6657e04d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2bfad8262768430e89aa20be6657e04d
+run_name: brawny-finch-144
+run_uuid: 2bfad8262768430e89aa20be6657e04d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670563315127
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/53d3642334514b1fa1e8e449ba199a2e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 53d3642334514b1fa1e8e449ba199a2e
+run_name: clean-colt-823
+run_uuid: 53d3642334514b1fa1e8e449ba199a2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670570120845
+status: 1
+tags: []
+user_id: unknown

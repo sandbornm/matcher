@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ba909b143cbd451c9d5f5e79f3a28563/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ba909b143cbd451c9d5f5e79f3a28563
+run_name: illustrious-kit-255
+run_uuid: ba909b143cbd451c9d5f5e79f3a28563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670579938882
+status: 1
+tags: []
+user_id: unknown

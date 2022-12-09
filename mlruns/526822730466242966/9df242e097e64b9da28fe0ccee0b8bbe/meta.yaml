@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9df242e097e64b9da28fe0ccee0b8bbe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9df242e097e64b9da28fe0ccee0b8bbe
+run_name: honorable-pug-491
+run_uuid: 9df242e097e64b9da28fe0ccee0b8bbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670602851038
+status: 1
+tags: []
+user_id: unknown

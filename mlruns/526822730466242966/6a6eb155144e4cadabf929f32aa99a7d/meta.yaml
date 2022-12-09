@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6a6eb155144e4cadabf929f32aa99a7d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6a6eb155144e4cadabf929f32aa99a7d
+run_name: indecisive-vole-551
+run_uuid: 6a6eb155144e4cadabf929f32aa99a7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670585215630
+status: 1
+tags: []
+user_id: unknown

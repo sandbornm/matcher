@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2ac9617bd95247f8a74b289534e3b2b4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2ac9617bd95247f8a74b289534e3b2b4
+run_name: defiant-pug-165
+run_uuid: 2ac9617bd95247f8a74b289534e3b2b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670597042764
+status: 1
+tags: []
+user_id: unknown

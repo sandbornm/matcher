@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5bfa4cf08e9946e6a325924e79f64432/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5bfa4cf08e9946e6a325924e79f64432
+run_name: painted-hound-513
+run_uuid: 5bfa4cf08e9946e6a325924e79f64432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670604329218
+status: 1
+tags: []
+user_id: unknown

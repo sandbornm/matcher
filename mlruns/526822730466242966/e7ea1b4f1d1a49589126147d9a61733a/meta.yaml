@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e7ea1b4f1d1a49589126147d9a61733a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e7ea1b4f1d1a49589126147d9a61733a
+run_name: serious-gull-235
+run_uuid: e7ea1b4f1d1a49589126147d9a61733a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670563116317
+status: 1
+tags: []
+user_id: unknown

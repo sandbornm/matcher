@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e17ae8fdbeb44ca487c432898f636f14/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e17ae8fdbeb44ca487c432898f636f14
+run_name: sedate-cod-466
+run_uuid: e17ae8fdbeb44ca487c432898f636f14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670571017980
+status: 1
+tags: []
+user_id: unknown

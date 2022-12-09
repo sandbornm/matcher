@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3cf9f8d0502b4f63a9e95ffdff63622d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3cf9f8d0502b4f63a9e95ffdff63622d
+run_name: marvelous-bass-425
+run_uuid: 3cf9f8d0502b4f63a9e95ffdff63622d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670608254189
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ef1628cbd7bf41f79d0f2926b444ad8f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ef1628cbd7bf41f79d0f2926b444ad8f
+run_name: vaunted-conch-299
+run_uuid: ef1628cbd7bf41f79d0f2926b444ad8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568102441
+status: 1
+tags: []
+user_id: unknown

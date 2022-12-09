@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/dc052bd25acf44a4bd867c535f15e697/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: dc052bd25acf44a4bd867c535f15e697
+run_name: adventurous-jay-538
+run_uuid: dc052bd25acf44a4bd867c535f15e697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670570178432
+status: 1
+tags: []
+user_id: unknown

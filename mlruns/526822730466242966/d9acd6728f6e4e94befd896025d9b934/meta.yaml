@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d9acd6728f6e4e94befd896025d9b934/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d9acd6728f6e4e94befd896025d9b934
+run_name: gaudy-fowl-66
+run_uuid: d9acd6728f6e4e94befd896025d9b934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670576872757
+status: 1
+tags: []
+user_id: unknown

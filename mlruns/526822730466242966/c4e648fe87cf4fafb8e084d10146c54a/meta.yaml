@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c4e648fe87cf4fafb8e084d10146c54a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: c4e648fe87cf4fafb8e084d10146c54a
+run_name: puzzled-jay-51
+run_uuid: c4e648fe87cf4fafb8e084d10146c54a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670575237494
+status: 1
+tags: []
+user_id: unknown

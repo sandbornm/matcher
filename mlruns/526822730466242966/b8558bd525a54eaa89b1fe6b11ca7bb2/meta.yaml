@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b8558bd525a54eaa89b1fe6b11ca7bb2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b8558bd525a54eaa89b1fe6b11ca7bb2
+run_name: charming-penguin-376
+run_uuid: b8558bd525a54eaa89b1fe6b11ca7bb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670567895936
+status: 1
+tags: []
+user_id: unknown

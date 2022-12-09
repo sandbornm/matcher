@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/98aa581363d642ab99b6959a678623e3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 98aa581363d642ab99b6959a678623e3
+run_name: incongruous-dove-768
+run_uuid: 98aa581363d642ab99b6959a678623e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670574014997
+status: 1
+tags: []
+user_id: unknown

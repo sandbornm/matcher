@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9cb9e0171b234832a3c9a0dca6d43bf7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9cb9e0171b234832a3c9a0dca6d43bf7
+run_name: secretive-horse-602
+run_uuid: 9cb9e0171b234832a3c9a0dca6d43bf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670591148475
+status: 1
+tags: []
+user_id: unknown

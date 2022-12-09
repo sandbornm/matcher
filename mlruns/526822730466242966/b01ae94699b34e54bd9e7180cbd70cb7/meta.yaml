@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b01ae94699b34e54bd9e7180cbd70cb7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b01ae94699b34e54bd9e7180cbd70cb7
+run_name: dazzling-slug-594
+run_uuid: b01ae94699b34e54bd9e7180cbd70cb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670588328951
+status: 1
+tags: []
+user_id: unknown

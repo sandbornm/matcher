@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2c3e37ac76d74bff800ac6e1fa545f47/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2c3e37ac76d74bff800ac6e1fa545f47
+run_name: wise-eel-452
+run_uuid: 2c3e37ac76d74bff800ac6e1fa545f47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670607652357
+status: 1
+tags: []
+user_id: unknown

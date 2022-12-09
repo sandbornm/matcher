@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ca9eebce5e2a4f55b1b2bd6ad28a90fe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ca9eebce5e2a4f55b1b2bd6ad28a90fe
+run_name: wise-flea-384
+run_uuid: ca9eebce5e2a4f55b1b2bd6ad28a90fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670577238415
+status: 1
+tags: []
+user_id: unknown

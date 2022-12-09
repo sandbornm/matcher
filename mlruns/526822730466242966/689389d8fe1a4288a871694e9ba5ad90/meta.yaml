@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/689389d8fe1a4288a871694e9ba5ad90/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 689389d8fe1a4288a871694e9ba5ad90
+run_name: grandiose-sloth-159
+run_uuid: 689389d8fe1a4288a871694e9ba5ad90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594084216
+status: 1
+tags: []
+user_id: unknown

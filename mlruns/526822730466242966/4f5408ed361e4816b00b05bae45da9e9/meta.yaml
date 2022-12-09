@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4f5408ed361e4816b00b05bae45da9e9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 4f5408ed361e4816b00b05bae45da9e9
+run_name: gifted-asp-161
+run_uuid: 4f5408ed361e4816b00b05bae45da9e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670612266788
+status: 1
+tags: []
+user_id: unknown

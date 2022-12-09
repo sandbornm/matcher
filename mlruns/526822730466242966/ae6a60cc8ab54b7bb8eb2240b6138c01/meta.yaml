@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ae6a60cc8ab54b7bb8eb2240b6138c01/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ae6a60cc8ab54b7bb8eb2240b6138c01
+run_name: respected-bass-232
+run_uuid: ae6a60cc8ab54b7bb8eb2240b6138c01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670566302021
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f98447f58bfd4ef5b4ffd8314ad3709c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f98447f58bfd4ef5b4ffd8314ad3709c
+run_name: popular-donkey-387
+run_uuid: f98447f58bfd4ef5b4ffd8314ad3709c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670589023492
+status: 1
+tags: []
+user_id: unknown

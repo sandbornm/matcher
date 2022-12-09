@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f3917d589a8f4f8db11034d169e8a1e4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f3917d589a8f4f8db11034d169e8a1e4
+run_name: blushing-skunk-743
+run_uuid: f3917d589a8f4f8db11034d169e8a1e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670612283948
+status: 1
+tags: []
+user_id: unknown

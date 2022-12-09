@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7b25cf8e5ed84cafa972dc2fc250b5ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7b25cf8e5ed84cafa972dc2fc250b5ef
+run_name: unequaled-sloth-519
+run_uuid: 7b25cf8e5ed84cafa972dc2fc250b5ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670576456430
+status: 1
+tags: []
+user_id: unknown

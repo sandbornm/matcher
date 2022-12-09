@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/959831dc657549e3952fe15efc7d0bcb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 959831dc657549e3952fe15efc7d0bcb
+run_name: zealous-elk-56
+run_uuid: 959831dc657549e3952fe15efc7d0bcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670572370930
+status: 1
+tags: []
+user_id: unknown

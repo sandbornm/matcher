@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6f8e70ac073146a79f0ae4f0ac4c8fb7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6f8e70ac073146a79f0ae4f0ac4c8fb7
+run_name: defiant-kit-29
+run_uuid: 6f8e70ac073146a79f0ae4f0ac4c8fb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670576110401
+status: 1
+tags: []
+user_id: unknown

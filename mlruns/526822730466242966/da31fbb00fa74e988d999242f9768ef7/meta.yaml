@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/da31fbb00fa74e988d999242f9768ef7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: da31fbb00fa74e988d999242f9768ef7
+run_name: dazzling-turtle-889
+run_uuid: da31fbb00fa74e988d999242f9768ef7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670588589915
+status: 1
+tags: []
+user_id: unknown

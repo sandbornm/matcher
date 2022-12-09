@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f62078d5541e434685e8456ac20b9383/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f62078d5541e434685e8456ac20b9383
+run_name: enthused-finch-48
+run_uuid: f62078d5541e434685e8456ac20b9383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670571400762
+status: 1
+tags: []
+user_id: unknown

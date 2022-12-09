@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e9ac900c727146df9c857150893079c1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e9ac900c727146df9c857150893079c1
+run_name: popular-deer-755
+run_uuid: e9ac900c727146df9c857150893079c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670571514707
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/07df9732eb63434a97d0a9b7278a3440/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 07df9732eb63434a97d0a9b7278a3440
+run_name: languid-ray-215
+run_uuid: 07df9732eb63434a97d0a9b7278a3440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670571810124
+status: 1
+tags: []
+user_id: unknown

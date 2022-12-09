@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/820a90c6b3d74f0bae3651b72f922d2e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 820a90c6b3d74f0bae3651b72f922d2e
+run_name: valuable-kit-749
+run_uuid: 820a90c6b3d74f0bae3651b72f922d2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670595520766
+status: 1
+tags: []
+user_id: unknown

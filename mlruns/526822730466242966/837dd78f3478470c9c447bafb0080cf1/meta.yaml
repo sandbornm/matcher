@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/837dd78f3478470c9c447bafb0080cf1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 837dd78f3478470c9c447bafb0080cf1
+run_name: receptive-rat-653
+run_uuid: 837dd78f3478470c9c447bafb0080cf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670563956687
+status: 1
+tags: []
+user_id: unknown

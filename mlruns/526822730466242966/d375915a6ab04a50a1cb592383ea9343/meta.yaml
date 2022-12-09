@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d375915a6ab04a50a1cb592383ea9343/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d375915a6ab04a50a1cb592383ea9343
+run_name: adventurous-lamb-859
+run_uuid: d375915a6ab04a50a1cb592383ea9343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670612372154
+status: 1
+tags: []
+user_id: unknown

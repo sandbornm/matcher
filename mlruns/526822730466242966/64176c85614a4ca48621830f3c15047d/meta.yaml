@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/64176c85614a4ca48621830f3c15047d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 64176c85614a4ca48621830f3c15047d
+run_name: treasured-worm-798
+run_uuid: 64176c85614a4ca48621830f3c15047d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670583184948
+status: 1
+tags: []
+user_id: unknown

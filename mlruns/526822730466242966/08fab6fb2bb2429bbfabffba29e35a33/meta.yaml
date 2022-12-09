@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/08fab6fb2bb2429bbfabffba29e35a33/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 08fab6fb2bb2429bbfabffba29e35a33
+run_name: nervous-foal-918
+run_uuid: 08fab6fb2bb2429bbfabffba29e35a33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670596104483
+status: 1
+tags: []
+user_id: unknown

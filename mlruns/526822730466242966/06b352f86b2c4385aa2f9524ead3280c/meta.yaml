@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/06b352f86b2c4385aa2f9524ead3280c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 06b352f86b2c4385aa2f9524ead3280c
+run_name: rogue-conch-804
+run_uuid: 06b352f86b2c4385aa2f9524ead3280c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670562764538
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/77d59caa5cc44e268efb896e86c7ef4d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 77d59caa5cc44e268efb896e86c7ef4d
+run_name: fun-grouse-80
+run_uuid: 77d59caa5cc44e268efb896e86c7ef4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670570661976
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7e2794a395c04fd98a2d341f62ccd6ea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7e2794a395c04fd98a2d341f62ccd6ea
+run_name: legendary-cow-638
+run_uuid: 7e2794a395c04fd98a2d341f62ccd6ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670597274912
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/882f7c38ed5045d9a1709656fabb380c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 882f7c38ed5045d9a1709656fabb380c
+run_name: nimble-crow-305
+run_uuid: 882f7c38ed5045d9a1709656fabb380c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670592563230
+status: 1
+tags: []
+user_id: unknown

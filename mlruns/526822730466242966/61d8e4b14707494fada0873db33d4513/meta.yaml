@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/61d8e4b14707494fada0873db33d4513/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 61d8e4b14707494fada0873db33d4513
+run_name: lyrical-horse-232
+run_uuid: 61d8e4b14707494fada0873db33d4513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670611816756
+status: 1
+tags: []
+user_id: unknown

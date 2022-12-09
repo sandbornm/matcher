@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4ce10fe6f6c64978a99d23becdbad3e0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 4ce10fe6f6c64978a99d23becdbad3e0
+run_name: illustrious-foal-667
+run_uuid: 4ce10fe6f6c64978a99d23becdbad3e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670590974102
+status: 1
+tags: []
+user_id: unknown

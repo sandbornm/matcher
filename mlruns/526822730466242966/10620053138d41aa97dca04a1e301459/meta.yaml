@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/10620053138d41aa97dca04a1e301459/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 10620053138d41aa97dca04a1e301459
+run_name: loud-toad-345
+run_uuid: 10620053138d41aa97dca04a1e301459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670611301565
+status: 1
+tags: []
+user_id: unknown

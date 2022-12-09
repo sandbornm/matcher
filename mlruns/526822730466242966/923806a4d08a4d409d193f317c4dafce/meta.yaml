@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/923806a4d08a4d409d193f317c4dafce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 923806a4d08a4d409d193f317c4dafce
+run_name: burly-hog-143
+run_uuid: 923806a4d08a4d409d193f317c4dafce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670569738845
+status: 1
+tags: []
+user_id: unknown

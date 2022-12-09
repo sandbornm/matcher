@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/72f13f27700149b19128b374f5ca880a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 72f13f27700149b19128b374f5ca880a
+run_name: judicious-duck-598
+run_uuid: 72f13f27700149b19128b374f5ca880a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670597793005
+status: 1
+tags: []
+user_id: unknown

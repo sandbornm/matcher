@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/410abf06ca49432b8cf62a50b3f840c5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 410abf06ca49432b8cf62a50b3f840c5
+run_name: vaunted-wolf-230
+run_uuid: 410abf06ca49432b8cf62a50b3f840c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670572794276
+status: 1
+tags: []
+user_id: unknown

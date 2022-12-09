@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/62f5e149ac424419b443276577eb278e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 62f5e149ac424419b443276577eb278e
+run_name: grandiose-worm-353
+run_uuid: 62f5e149ac424419b443276577eb278e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670568849730
+status: 1
+tags: []
+user_id: unknown

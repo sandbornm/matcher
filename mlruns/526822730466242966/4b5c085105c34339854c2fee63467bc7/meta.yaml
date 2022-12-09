@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4b5c085105c34339854c2fee63467bc7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 4b5c085105c34339854c2fee63467bc7
+run_name: crawling-bee-876
+run_uuid: 4b5c085105c34339854c2fee63467bc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670576035960
+status: 1
+tags: []
+user_id: unknown

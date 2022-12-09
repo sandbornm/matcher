@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3bbae2296ec3402ea1df2d3c23a87ecb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3bbae2296ec3402ea1df2d3c23a87ecb
+run_name: efficient-midge-649
+run_uuid: 3bbae2296ec3402ea1df2d3c23a87ecb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594860513
+status: 1
+tags: []
+user_id: unknown

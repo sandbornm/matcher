@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/58b3db0219cd48799b3b688c50c17711/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 58b3db0219cd48799b3b688c50c17711
+run_name: marvelous-ant-100
+run_uuid: 58b3db0219cd48799b3b688c50c17711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670567519705
+status: 1
+tags: []
+user_id: unknown

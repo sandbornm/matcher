@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/189f5b9ff52f42c7820eab5cf5fdff08/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 189f5b9ff52f42c7820eab5cf5fdff08
+run_name: nimble-shrike-723
+run_uuid: 189f5b9ff52f42c7820eab5cf5fdff08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670587213600
+status: 1
+tags: []
+user_id: unknown

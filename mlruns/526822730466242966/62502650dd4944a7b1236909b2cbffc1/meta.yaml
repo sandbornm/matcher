@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/62502650dd4944a7b1236909b2cbffc1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 62502650dd4944a7b1236909b2cbffc1
+run_name: amazing-crow-783
+run_uuid: 62502650dd4944a7b1236909b2cbffc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670585391458
+status: 1
+tags: []
+user_id: unknown

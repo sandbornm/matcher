@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/77e900739d07413598d8d73347694804/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 77e900739d07413598d8d73347694804
+run_name: thundering-lark-388
+run_uuid: 77e900739d07413598d8d73347694804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670612452611
+status: 1
+tags: []
+user_id: unknown

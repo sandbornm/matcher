@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fb88f1fe743747248518aaa067f811ca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fb88f1fe743747248518aaa067f811ca
+run_name: sedate-shrike-285
+run_uuid: fb88f1fe743747248518aaa067f811ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670586745629
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/38be86bda1984842a80c4be9e3576ee4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 38be86bda1984842a80c4be9e3576ee4
+run_name: clean-fly-421
+run_uuid: 38be86bda1984842a80c4be9e3576ee4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670572686198
+status: 1
+tags: []
+user_id: unknown

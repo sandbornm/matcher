@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fba06d8c62fc4598a4894ad5ad357e44/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fba06d8c62fc4598a4894ad5ad357e44
+run_name: handsome-bee-538
+run_uuid: fba06d8c62fc4598a4894ad5ad357e44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670589179457
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3b58da591a1f40aca5d9ef9af4550294/artifacts
+deleted_time: 1670561191157
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 3b58da591a1f40aca5d9ef9af4550294
+run_name: classy-lark-810
+run_uuid: 3b58da591a1f40aca5d9ef9af4550294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670558314918
+status: 1
+tags: []
+user_id: unknown

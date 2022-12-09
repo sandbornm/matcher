@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ff411cf36d4b4070bd71d758f225d219/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ff411cf36d4b4070bd71d758f225d219
+run_name: honorable-dog-952
+run_uuid: ff411cf36d4b4070bd71d758f225d219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670607014464
+status: 1
+tags: []
+user_id: unknown

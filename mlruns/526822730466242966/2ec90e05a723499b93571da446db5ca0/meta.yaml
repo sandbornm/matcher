@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2ec90e05a723499b93571da446db5ca0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2ec90e05a723499b93571da446db5ca0
+run_name: blushing-newt-600
+run_uuid: 2ec90e05a723499b93571da446db5ca0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670580271643
+status: 1
+tags: []
+user_id: unknown

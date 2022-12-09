@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ff724f38564e46b28426e3e8a3e87a23/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ff724f38564e46b28426e3e8a3e87a23
+run_name: burly-gull-349
+run_uuid: ff724f38564e46b28426e3e8a3e87a23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670591940480
+status: 1
+tags: []
+user_id: unknown

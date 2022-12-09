@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/95083fcb41f74312a060ab5dd7658ad4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 95083fcb41f74312a060ab5dd7658ad4
+run_name: traveling-mule-955
+run_uuid: 95083fcb41f74312a060ab5dd7658ad4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670603558483
+status: 1
+tags: []
+user_id: unknown

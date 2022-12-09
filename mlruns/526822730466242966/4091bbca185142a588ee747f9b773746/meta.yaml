@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4091bbca185142a588ee747f9b773746/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 4091bbca185142a588ee747f9b773746
+run_name: debonair-newt-368
+run_uuid: 4091bbca185142a588ee747f9b773746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670601915951
+status: 1
+tags: []
+user_id: unknown

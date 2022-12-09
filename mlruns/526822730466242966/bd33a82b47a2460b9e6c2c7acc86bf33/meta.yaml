@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bd33a82b47a2460b9e6c2c7acc86bf33/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: bd33a82b47a2460b9e6c2c7acc86bf33
+run_name: unruly-stag-948
+run_uuid: bd33a82b47a2460b9e6c2c7acc86bf33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670583029437
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f62cb30f6249434fa8f913b54c13f649/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f62cb30f6249434fa8f913b54c13f649
+run_name: sneaky-boar-889
+run_uuid: f62cb30f6249434fa8f913b54c13f649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670573546469
+status: 1
+tags: []
+user_id: unknown

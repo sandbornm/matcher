@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cec01ce6919344eba4fb4ec018448b7c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: cec01ce6919344eba4fb4ec018448b7c
+run_name: suave-shoat-322
+run_uuid: cec01ce6919344eba4fb4ec018448b7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670566582163
+status: 1
+tags: []
+user_id: unknown

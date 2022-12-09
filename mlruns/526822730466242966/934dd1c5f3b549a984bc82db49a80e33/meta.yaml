@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/934dd1c5f3b549a984bc82db49a80e33/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 934dd1c5f3b549a984bc82db49a80e33
+run_name: amusing-rat-255
+run_uuid: 934dd1c5f3b549a984bc82db49a80e33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670567841935
+status: 1
+tags: []
+user_id: unknown

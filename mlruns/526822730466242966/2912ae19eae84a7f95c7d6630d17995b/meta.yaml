@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2912ae19eae84a7f95c7d6630d17995b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2912ae19eae84a7f95c7d6630d17995b
+run_name: loud-ram-491
+run_uuid: 2912ae19eae84a7f95c7d6630d17995b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594991862
+status: 1
+tags: []
+user_id: unknown

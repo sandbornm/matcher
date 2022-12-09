@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/355db449ab364e9cbe4a51f35093a43c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 355db449ab364e9cbe4a51f35093a43c
+run_name: placid-rat-472
+run_uuid: 355db449ab364e9cbe4a51f35093a43c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670585027368
+status: 1
+tags: []
+user_id: unknown

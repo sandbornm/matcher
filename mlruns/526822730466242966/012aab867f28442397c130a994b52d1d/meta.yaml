@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/012aab867f28442397c130a994b52d1d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 012aab867f28442397c130a994b52d1d
+run_name: marvelous-hare-57
+run_uuid: 012aab867f28442397c130a994b52d1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670610817154
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5d6f431a19ea4f54949a386f678d70ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5d6f431a19ea4f54949a386f678d70ef
+run_name: delightful-bee-388
+run_uuid: 5d6f431a19ea4f54949a386f678d70ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670594527003
+status: 1
+tags: []
+user_id: unknown

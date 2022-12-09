@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/40bc173590db4873a19aa4ee5a115a2b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 40bc173590db4873a19aa4ee5a115a2b
+run_name: victorious-newt-248
+run_uuid: 40bc173590db4873a19aa4ee5a115a2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670585226436
+status: 1
+tags: []
+user_id: unknown

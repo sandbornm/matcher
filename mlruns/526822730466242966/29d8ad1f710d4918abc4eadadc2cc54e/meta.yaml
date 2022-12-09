@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/29d8ad1f710d4918abc4eadadc2cc54e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 29d8ad1f710d4918abc4eadadc2cc54e
+run_name: defiant-owl-802
+run_uuid: 29d8ad1f710d4918abc4eadadc2cc54e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670599066906
+status: 1
+tags: []
+user_id: unknown

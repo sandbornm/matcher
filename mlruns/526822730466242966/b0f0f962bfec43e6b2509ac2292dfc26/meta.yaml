@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b0f0f962bfec43e6b2509ac2292dfc26/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b0f0f962bfec43e6b2509ac2292dfc26
+run_name: charming-fawn-57
+run_uuid: b0f0f962bfec43e6b2509ac2292dfc26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670590880307
+status: 1
+tags: []
+user_id: unknown
