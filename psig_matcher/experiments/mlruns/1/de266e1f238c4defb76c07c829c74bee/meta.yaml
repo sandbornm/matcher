@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/de266e1f238c4defb76c07c829c74bee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: de266e1f238c4defb76c07c829c74bee
+run_name: carefree-tern-306
+run_uuid: de266e1f238c4defb76c07c829c74bee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552188422
+status: 1
+tags: []
+user_id: unknown

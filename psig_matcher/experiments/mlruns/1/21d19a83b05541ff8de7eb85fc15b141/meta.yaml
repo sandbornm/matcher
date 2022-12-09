@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/21d19a83b05541ff8de7eb85fc15b141/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 21d19a83b05541ff8de7eb85fc15b141
+run_name: crawling-shrike-570
+run_uuid: 21d19a83b05541ff8de7eb85fc15b141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552161201
+status: 1
+tags: []
+user_id: unknown

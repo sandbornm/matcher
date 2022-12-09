@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5940c893ded442efa6246ee4cc9b7619/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5940c893ded442efa6246ee4cc9b7619
+run_name: grandiose-mule-993
+run_uuid: 5940c893ded442efa6246ee4cc9b7619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552107047
+status: 1
+tags: []
+user_id: unknown

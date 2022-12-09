@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c9cadf9a393643ab80867cf689590739/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c9cadf9a393643ab80867cf689590739
+run_name: bald-foal-220
+run_uuid: c9cadf9a393643ab80867cf689590739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552234420
+status: 1
+tags: []
+user_id: unknown

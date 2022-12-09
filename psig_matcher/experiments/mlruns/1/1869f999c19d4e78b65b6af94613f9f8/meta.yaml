@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1869f999c19d4e78b65b6af94613f9f8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1869f999c19d4e78b65b6af94613f9f8
+run_name: gentle-turtle-340
+run_uuid: 1869f999c19d4e78b65b6af94613f9f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552261484
+status: 1
+tags: []
+user_id: unknown

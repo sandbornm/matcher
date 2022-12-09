@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/72685f448dab443bb0291ca03f0c8b51/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 72685f448dab443bb0291ca03f0c8b51
+run_name: useful-stork-524
+run_uuid: 72685f448dab443bb0291ca03f0c8b51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552247677
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b2ef753db1c741a5983d3fa414dc1841/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b2ef753db1c741a5983d3fa414dc1841
+run_name: gifted-mink-380
+run_uuid: b2ef753db1c741a5983d3fa414dc1841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552223154
+status: 1
+tags: []
+user_id: unknown

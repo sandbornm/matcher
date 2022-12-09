@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bfd198885a9442fabd90eb058544f323/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bfd198885a9442fabd90eb058544f323
+run_name: stylish-chimp-927
+run_uuid: bfd198885a9442fabd90eb058544f323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552104440
+status: 1
+tags: []
+user_id: unknown

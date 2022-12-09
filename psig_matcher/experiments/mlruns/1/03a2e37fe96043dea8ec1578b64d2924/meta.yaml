@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/03a2e37fe96043dea8ec1578b64d2924/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 03a2e37fe96043dea8ec1578b64d2924
+run_name: rogue-steed-595
+run_uuid: 03a2e37fe96043dea8ec1578b64d2924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552131557
+status: 1
+tags: []
+user_id: unknown

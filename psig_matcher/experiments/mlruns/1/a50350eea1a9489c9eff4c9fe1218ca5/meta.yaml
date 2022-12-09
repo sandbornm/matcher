@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a50350eea1a9489c9eff4c9fe1218ca5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a50350eea1a9489c9eff4c9fe1218ca5
+run_name: useful-shrike-269
+run_uuid: a50350eea1a9489c9eff4c9fe1218ca5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552229531
+status: 1
+tags: []
+user_id: unknown

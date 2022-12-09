@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f86a7c8943904dda9968d44c8f89f0d7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f86a7c8943904dda9968d44c8f89f0d7
+run_name: efficient-squid-335
+run_uuid: f86a7c8943904dda9968d44c8f89f0d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552198921
+status: 1
+tags: []
+user_id: unknown

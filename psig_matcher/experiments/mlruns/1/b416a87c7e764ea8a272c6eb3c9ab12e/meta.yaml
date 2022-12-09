@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b416a87c7e764ea8a272c6eb3c9ab12e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b416a87c7e764ea8a272c6eb3c9ab12e
+run_name: big-snake-130
+run_uuid: b416a87c7e764ea8a272c6eb3c9ab12e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552087014
+status: 1
+tags: []
+user_id: unknown

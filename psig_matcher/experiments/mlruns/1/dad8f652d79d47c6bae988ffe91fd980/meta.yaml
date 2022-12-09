@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dad8f652d79d47c6bae988ffe91fd980/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dad8f652d79d47c6bae988ffe91fd980
+run_name: bald-stoat-222
+run_uuid: dad8f652d79d47c6bae988ffe91fd980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552136577
+status: 1
+tags: []
+user_id: unknown

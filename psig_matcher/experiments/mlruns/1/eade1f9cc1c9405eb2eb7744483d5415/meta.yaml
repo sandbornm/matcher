@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/eade1f9cc1c9405eb2eb7744483d5415/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eade1f9cc1c9405eb2eb7744483d5415
+run_name: tasteful-sloth-965
+run_uuid: eade1f9cc1c9405eb2eb7744483d5415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552197693
+status: 1
+tags: []
+user_id: unknown

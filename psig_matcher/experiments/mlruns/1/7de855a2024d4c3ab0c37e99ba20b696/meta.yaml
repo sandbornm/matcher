@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7de855a2024d4c3ab0c37e99ba20b696/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7de855a2024d4c3ab0c37e99ba20b696
+run_name: big-sponge-658
+run_uuid: 7de855a2024d4c3ab0c37e99ba20b696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552088518
+status: 1
+tags: []
+user_id: unknown

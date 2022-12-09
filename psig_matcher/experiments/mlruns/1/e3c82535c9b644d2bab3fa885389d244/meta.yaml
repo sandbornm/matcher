@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e3c82535c9b644d2bab3fa885389d244/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e3c82535c9b644d2bab3fa885389d244
+run_name: persistent-calf-498
+run_uuid: e3c82535c9b644d2bab3fa885389d244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552214126
+status: 1
+tags: []
+user_id: unknown

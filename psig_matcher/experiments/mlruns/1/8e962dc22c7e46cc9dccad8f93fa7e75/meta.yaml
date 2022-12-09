@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8e962dc22c7e46cc9dccad8f93fa7e75/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8e962dc22c7e46cc9dccad8f93fa7e75
+run_name: delightful-horse-806
+run_uuid: 8e962dc22c7e46cc9dccad8f93fa7e75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552177519
+status: 1
+tags: []
+user_id: unknown

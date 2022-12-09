@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c92d99f3832f4b12a3a13a4d93aa143a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c92d99f3832f4b12a3a13a4d93aa143a
+run_name: industrious-mule-265
+run_uuid: c92d99f3832f4b12a3a13a4d93aa143a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552097594
+status: 1
+tags: []
+user_id: unknown

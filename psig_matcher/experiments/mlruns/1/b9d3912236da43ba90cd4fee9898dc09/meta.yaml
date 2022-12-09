@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b9d3912236da43ba90cd4fee9898dc09/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b9d3912236da43ba90cd4fee9898dc09
+run_name: skillful-zebra-124
+run_uuid: b9d3912236da43ba90cd4fee9898dc09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552113532
+status: 1
+tags: []
+user_id: unknown

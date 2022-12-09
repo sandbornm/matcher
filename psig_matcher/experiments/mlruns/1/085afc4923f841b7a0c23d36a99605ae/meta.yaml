@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/085afc4923f841b7a0c23d36a99605ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 085afc4923f841b7a0c23d36a99605ae
+run_name: grandiose-perch-683
+run_uuid: 085afc4923f841b7a0c23d36a99605ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552177025
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b3dd547c34154c349943c8aef22e5294/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b3dd547c34154c349943c8aef22e5294
+run_name: upbeat-ant-304
+run_uuid: b3dd547c34154c349943c8aef22e5294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552199257
+status: 1
+tags: []
+user_id: unknown

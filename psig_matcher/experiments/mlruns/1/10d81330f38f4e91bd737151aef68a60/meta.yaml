@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/10d81330f38f4e91bd737151aef68a60/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 10d81330f38f4e91bd737151aef68a60
+run_name: zealous-stoat-998
+run_uuid: 10d81330f38f4e91bd737151aef68a60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552161318
+status: 1
+tags: []
+user_id: unknown

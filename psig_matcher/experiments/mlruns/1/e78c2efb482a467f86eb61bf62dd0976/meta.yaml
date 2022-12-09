@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e78c2efb482a467f86eb61bf62dd0976/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e78c2efb482a467f86eb61bf62dd0976
+run_name: selective-shrimp-283
+run_uuid: e78c2efb482a467f86eb61bf62dd0976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552175755
+status: 1
+tags: []
+user_id: unknown

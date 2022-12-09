@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/90926e13e65643a79669dd35c6a343cf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 90926e13e65643a79669dd35c6a343cf
+run_name: judicious-crow-726
+run_uuid: 90926e13e65643a79669dd35c6a343cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552100597
+status: 1
+tags: []
+user_id: unknown

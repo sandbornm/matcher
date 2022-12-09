@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c913ec37618b4df69be452acd5a4a17c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c913ec37618b4df69be452acd5a4a17c
+run_name: nervous-donkey-715
+run_uuid: c913ec37618b4df69be452acd5a4a17c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552093594
+status: 1
+tags: []
+user_id: unknown

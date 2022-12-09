@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/779be5a996e74591916d30979db5ef17/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 779be5a996e74591916d30979db5ef17
+run_name: caring-pug-420
+run_uuid: 779be5a996e74591916d30979db5ef17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552143677
+status: 1
+tags: []
+user_id: unknown

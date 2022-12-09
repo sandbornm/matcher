@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6cd9d6f9fd6c47468aa7533b47dcb956/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6cd9d6f9fd6c47468aa7533b47dcb956
+run_name: bright-crow-385
+run_uuid: 6cd9d6f9fd6c47468aa7533b47dcb956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552088731
+status: 1
+tags: []
+user_id: unknown

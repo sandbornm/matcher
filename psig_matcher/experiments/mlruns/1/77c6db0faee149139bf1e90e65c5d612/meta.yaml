@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/77c6db0faee149139bf1e90e65c5d612/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 77c6db0faee149139bf1e90e65c5d612
+run_name: resilient-crow-641
+run_uuid: 77c6db0faee149139bf1e90e65c5d612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552113482
+status: 1
+tags: []
+user_id: unknown

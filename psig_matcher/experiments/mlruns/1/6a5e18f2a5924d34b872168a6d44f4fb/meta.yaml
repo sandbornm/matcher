@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6a5e18f2a5924d34b872168a6d44f4fb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6a5e18f2a5924d34b872168a6d44f4fb
+run_name: intrigued-grub-929
+run_uuid: 6a5e18f2a5924d34b872168a6d44f4fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552239440
+status: 1
+tags: []
+user_id: unknown

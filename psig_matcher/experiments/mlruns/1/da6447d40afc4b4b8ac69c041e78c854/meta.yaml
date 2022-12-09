@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/da6447d40afc4b4b8ac69c041e78c854/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da6447d40afc4b4b8ac69c041e78c854
+run_name: persistent-chimp-97
+run_uuid: da6447d40afc4b4b8ac69c041e78c854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552127970
+status: 1
+tags: []
+user_id: unknown

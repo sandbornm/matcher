@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ee81031e7b874dc7bd4628583e246408/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ee81031e7b874dc7bd4628583e246408
+run_name: masked-worm-794
+run_uuid: ee81031e7b874dc7bd4628583e246408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552134907
+status: 1
+tags: []
+user_id: unknown

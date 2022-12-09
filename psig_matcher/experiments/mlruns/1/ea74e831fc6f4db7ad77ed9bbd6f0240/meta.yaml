@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ea74e831fc6f4db7ad77ed9bbd6f0240/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ea74e831fc6f4db7ad77ed9bbd6f0240
+run_name: secretive-grouse-19
+run_uuid: ea74e831fc6f4db7ad77ed9bbd6f0240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552145547
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/240cfd00c4b7406a95478dc7698ac1ee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 240cfd00c4b7406a95478dc7698ac1ee
+run_name: zealous-frog-534
+run_uuid: 240cfd00c4b7406a95478dc7698ac1ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552159543
+status: 1
+tags: []
+user_id: unknown

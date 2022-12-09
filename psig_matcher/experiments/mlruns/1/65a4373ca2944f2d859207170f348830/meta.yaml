@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/65a4373ca2944f2d859207170f348830/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 65a4373ca2944f2d859207170f348830
+run_name: flawless-deer-371
+run_uuid: 65a4373ca2944f2d859207170f348830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552199757
+status: 1
+tags: []
+user_id: unknown

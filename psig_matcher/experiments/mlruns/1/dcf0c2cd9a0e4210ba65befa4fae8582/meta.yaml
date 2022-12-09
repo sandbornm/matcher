@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dcf0c2cd9a0e4210ba65befa4fae8582/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dcf0c2cd9a0e4210ba65befa4fae8582
+run_name: persistent-kite-318
+run_uuid: dcf0c2cd9a0e4210ba65befa4fae8582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552132577
+status: 1
+tags: []
+user_id: unknown

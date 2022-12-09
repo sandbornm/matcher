@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c3f15bb4f1414ad6bb6940f85dcddd50/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c3f15bb4f1414ad6bb6940f85dcddd50
+run_name: secretive-shrike-919
+run_uuid: c3f15bb4f1414ad6bb6940f85dcddd50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552119616
+status: 1
+tags: []
+user_id: unknown

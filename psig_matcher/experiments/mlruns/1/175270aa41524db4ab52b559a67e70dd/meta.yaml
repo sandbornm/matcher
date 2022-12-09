@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/175270aa41524db4ab52b559a67e70dd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 175270aa41524db4ab52b559a67e70dd
+run_name: abundant-squid-527
+run_uuid: 175270aa41524db4ab52b559a67e70dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552104042
+status: 1
+tags: []
+user_id: unknown

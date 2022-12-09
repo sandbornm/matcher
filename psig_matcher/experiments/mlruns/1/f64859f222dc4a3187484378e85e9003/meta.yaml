@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f64859f222dc4a3187484378e85e9003/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f64859f222dc4a3187484378e85e9003
+run_name: wistful-croc-492
+run_uuid: f64859f222dc4a3187484378e85e9003
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552130509
+status: 1
+tags: []
+user_id: unknown

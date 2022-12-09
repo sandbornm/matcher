@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/badb223268cd4f37823ce9c9c5dc48f0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: badb223268cd4f37823ce9c9c5dc48f0
+run_name: worried-calf-332
+run_uuid: badb223268cd4f37823ce9c9c5dc48f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552088223
+status: 1
+tags: []
+user_id: unknown

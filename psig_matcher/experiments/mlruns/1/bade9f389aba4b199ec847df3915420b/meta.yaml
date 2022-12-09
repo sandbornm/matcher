@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bade9f389aba4b199ec847df3915420b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bade9f389aba4b199ec847df3915420b
+run_name: sedate-lamb-298
+run_uuid: bade9f389aba4b199ec847df3915420b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552113363
+status: 1
+tags: []
+user_id: unknown

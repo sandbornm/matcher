@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/fe1b350d56e04793a7b37e6c939e289c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fe1b350d56e04793a7b37e6c939e289c
+run_name: masked-mare-694
+run_uuid: fe1b350d56e04793a7b37e6c939e289c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552229199
+status: 1
+tags: []
+user_id: unknown

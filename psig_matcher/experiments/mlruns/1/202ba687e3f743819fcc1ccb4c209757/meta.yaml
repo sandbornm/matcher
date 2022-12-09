@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/202ba687e3f743819fcc1ccb4c209757/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 202ba687e3f743819fcc1ccb4c209757
+run_name: bold-zebra-657
+run_uuid: 202ba687e3f743819fcc1ccb4c209757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552110899
+status: 1
+tags: []
+user_id: unknown

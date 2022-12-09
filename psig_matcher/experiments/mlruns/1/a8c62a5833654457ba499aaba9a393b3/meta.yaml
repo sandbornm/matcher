@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a8c62a5833654457ba499aaba9a393b3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8c62a5833654457ba499aaba9a393b3
+run_name: flawless-panda-54
+run_uuid: a8c62a5833654457ba499aaba9a393b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552263573
+status: 1
+tags: []
+user_id: unknown

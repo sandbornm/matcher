@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/fd30e3dc4b2b454ca002a8c2c6cc516f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fd30e3dc4b2b454ca002a8c2c6cc516f
+run_name: smiling-ant-754
+run_uuid: fd30e3dc4b2b454ca002a8c2c6cc516f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552141284
+status: 1
+tags: []
+user_id: unknown

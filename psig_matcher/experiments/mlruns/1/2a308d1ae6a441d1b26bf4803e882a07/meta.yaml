@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2a308d1ae6a441d1b26bf4803e882a07/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2a308d1ae6a441d1b26bf4803e882a07
+run_name: learned-midge-989
+run_uuid: 2a308d1ae6a441d1b26bf4803e882a07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552262070
+status: 1
+tags: []
+user_id: unknown

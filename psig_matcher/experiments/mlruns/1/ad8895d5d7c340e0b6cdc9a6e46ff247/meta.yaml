@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ad8895d5d7c340e0b6cdc9a6e46ff247/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad8895d5d7c340e0b6cdc9a6e46ff247
+run_name: abrasive-crow-374
+run_uuid: ad8895d5d7c340e0b6cdc9a6e46ff247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552104854
+status: 1
+tags: []
+user_id: unknown

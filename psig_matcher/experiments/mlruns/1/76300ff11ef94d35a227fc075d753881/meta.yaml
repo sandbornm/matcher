@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/76300ff11ef94d35a227fc075d753881/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 76300ff11ef94d35a227fc075d753881
+run_name: rare-crow-555
+run_uuid: 76300ff11ef94d35a227fc075d753881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552138196
+status: 1
+tags: []
+user_id: unknown

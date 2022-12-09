@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d2f61e4647584acdb51f60074d77d41a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d2f61e4647584acdb51f60074d77d41a
+run_name: capricious-croc-623
+run_uuid: d2f61e4647584acdb51f60074d77d41a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552207328
+status: 1
+tags: []
+user_id: unknown

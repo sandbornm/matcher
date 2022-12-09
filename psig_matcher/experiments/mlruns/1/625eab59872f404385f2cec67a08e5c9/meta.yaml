@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/625eab59872f404385f2cec67a08e5c9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 625eab59872f404385f2cec67a08e5c9
+run_name: vaunted-crane-92
+run_uuid: 625eab59872f404385f2cec67a08e5c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552140313
+status: 1
+tags: []
+user_id: unknown

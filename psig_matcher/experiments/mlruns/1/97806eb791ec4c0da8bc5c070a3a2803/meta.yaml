@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/97806eb791ec4c0da8bc5c070a3a2803/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 97806eb791ec4c0da8bc5c070a3a2803
+run_name: welcoming-trout-149
+run_uuid: 97806eb791ec4c0da8bc5c070a3a2803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552109789
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/598ed1bd2dc8459fb829ce533198a099/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 598ed1bd2dc8459fb829ce533198a099
+run_name: masked-stoat-985
+run_uuid: 598ed1bd2dc8459fb829ce533198a099
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552139072
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/eae0c0da62634618aca35ef203faadc0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eae0c0da62634618aca35ef203faadc0
+run_name: bittersweet-cod-314
+run_uuid: eae0c0da62634618aca35ef203faadc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552094691
+status: 1
+tags: []
+user_id: unknown

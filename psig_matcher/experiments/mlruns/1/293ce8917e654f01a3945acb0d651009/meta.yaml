@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/293ce8917e654f01a3945acb0d651009/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 293ce8917e654f01a3945acb0d651009
+run_name: popular-loon-372
+run_uuid: 293ce8917e654f01a3945acb0d651009
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552127966
+status: 1
+tags: []
+user_id: unknown

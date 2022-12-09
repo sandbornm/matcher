@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2c6a9f4e9b47495fb07df755c4d1c3f5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2c6a9f4e9b47495fb07df755c4d1c3f5
+run_name: spiffy-grub-132
+run_uuid: 2c6a9f4e9b47495fb07df755c4d1c3f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552151591
+status: 1
+tags: []
+user_id: unknown

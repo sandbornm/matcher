@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b0895261c3d2419985f39d1662053e64/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b0895261c3d2419985f39d1662053e64
+run_name: dapper-bass-34
+run_uuid: b0895261c3d2419985f39d1662053e64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552144264
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/82611fecae144104b3ee55c74c92790a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 82611fecae144104b3ee55c74c92790a
+run_name: bald-shrimp-862
+run_uuid: 82611fecae144104b3ee55c74c92790a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552125884
+status: 1
+tags: []
+user_id: unknown

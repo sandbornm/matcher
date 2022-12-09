@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f7a26868e33b4f088809d4dd1cd2f7fb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f7a26868e33b4f088809d4dd1cd2f7fb
+run_name: delightful-stag-546
+run_uuid: f7a26868e33b4f088809d4dd1cd2f7fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552128779
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9279bb383f7c4f618ff51d5c2e5e9229/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9279bb383f7c4f618ff51d5c2e5e9229
+run_name: suave-crane-37
+run_uuid: 9279bb383f7c4f618ff51d5c2e5e9229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552172161
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f0784943d5814b94aca866760ad854ed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f0784943d5814b94aca866760ad854ed
+run_name: melodic-ox-275
+run_uuid: f0784943d5814b94aca866760ad854ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552227432
+status: 1
+tags: []
+user_id: unknown

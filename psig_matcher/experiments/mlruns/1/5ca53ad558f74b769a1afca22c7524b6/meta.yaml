@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5ca53ad558f74b769a1afca22c7524b6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5ca53ad558f74b769a1afca22c7524b6
+run_name: smiling-pug-944
+run_uuid: 5ca53ad558f74b769a1afca22c7524b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552256961
+status: 1
+tags: []
+user_id: unknown

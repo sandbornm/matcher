@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d6168f1e37a040a4b66164e32a017b4a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d6168f1e37a040a4b66164e32a017b4a
+run_name: hilarious-elk-706
+run_uuid: d6168f1e37a040a4b66164e32a017b4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552098309
+status: 1
+tags: []
+user_id: unknown

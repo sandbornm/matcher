@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/efed30b8c2624087a994654d2f874153/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: efed30b8c2624087a994654d2f874153
+run_name: angry-dove-621
+run_uuid: efed30b8c2624087a994654d2f874153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552213559
+status: 1
+tags: []
+user_id: unknown

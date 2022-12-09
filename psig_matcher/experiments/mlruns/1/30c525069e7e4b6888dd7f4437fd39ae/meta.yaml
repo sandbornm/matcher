@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/30c525069e7e4b6888dd7f4437fd39ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 30c525069e7e4b6888dd7f4437fd39ae
+run_name: suave-pig-791
+run_uuid: 30c525069e7e4b6888dd7f4437fd39ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552164998
+status: 1
+tags: []
+user_id: unknown

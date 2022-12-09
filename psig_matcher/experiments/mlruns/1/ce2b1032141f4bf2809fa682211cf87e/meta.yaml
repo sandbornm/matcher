@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ce2b1032141f4bf2809fa682211cf87e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ce2b1032141f4bf2809fa682211cf87e
+run_name: shivering-worm-799
+run_uuid: ce2b1032141f4bf2809fa682211cf87e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552137345
+status: 1
+tags: []
+user_id: unknown

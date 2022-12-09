@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dd109309bc4741da96d2943eff5ac42a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dd109309bc4741da96d2943eff5ac42a
+run_name: skillful-panda-556
+run_uuid: dd109309bc4741da96d2943eff5ac42a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552257472
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/603c9665b08d47129923af208e1c43ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 603c9665b08d47129923af208e1c43ef
+run_name: casual-lynx-820
+run_uuid: 603c9665b08d47129923af208e1c43ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552140490
+status: 1
+tags: []
+user_id: unknown

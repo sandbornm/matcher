@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/624a3eed39c24b8597fa584c4a83edd9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 624a3eed39c24b8597fa584c4a83edd9
+run_name: thundering-perch-195
+run_uuid: 624a3eed39c24b8597fa584c4a83edd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552088300
+status: 1
+tags: []
+user_id: unknown

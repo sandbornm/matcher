@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ab2e77efe2f8433788144aa0c8ef7629/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab2e77efe2f8433788144aa0c8ef7629
+run_name: fun-grub-287
+run_uuid: ab2e77efe2f8433788144aa0c8ef7629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552153365
+status: 1
+tags: []
+user_id: unknown

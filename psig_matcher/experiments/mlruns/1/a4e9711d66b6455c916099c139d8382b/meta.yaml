@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a4e9711d66b6455c916099c139d8382b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a4e9711d66b6455c916099c139d8382b
+run_name: brawny-snail-528
+run_uuid: a4e9711d66b6455c916099c139d8382b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552185070
+status: 1
+tags: []
+user_id: unknown

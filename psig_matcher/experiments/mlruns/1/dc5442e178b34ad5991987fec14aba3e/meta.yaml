@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dc5442e178b34ad5991987fec14aba3e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dc5442e178b34ad5991987fec14aba3e
+run_name: casual-boar-524
+run_uuid: dc5442e178b34ad5991987fec14aba3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552091213
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/210874481c6142eda8da5b71d93c23c9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 210874481c6142eda8da5b71d93c23c9
+run_name: languid-perch-171
+run_uuid: 210874481c6142eda8da5b71d93c23c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552239538
+status: 1
+tags: []
+user_id: unknown

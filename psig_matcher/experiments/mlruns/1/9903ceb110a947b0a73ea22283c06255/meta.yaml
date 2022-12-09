@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9903ceb110a947b0a73ea22283c06255/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9903ceb110a947b0a73ea22283c06255
+run_name: adorable-cub-793
+run_uuid: 9903ceb110a947b0a73ea22283c06255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552099862
+status: 1
+tags: []
+user_id: unknown

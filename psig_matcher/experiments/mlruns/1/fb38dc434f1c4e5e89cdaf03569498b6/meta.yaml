@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/fb38dc434f1c4e5e89cdaf03569498b6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fb38dc434f1c4e5e89cdaf03569498b6
+run_name: indecisive-chimp-306
+run_uuid: fb38dc434f1c4e5e89cdaf03569498b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552102246
+status: 1
+tags: []
+user_id: unknown

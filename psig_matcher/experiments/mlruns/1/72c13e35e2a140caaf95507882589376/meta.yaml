@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/72c13e35e2a140caaf95507882589376/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 72c13e35e2a140caaf95507882589376
+run_name: colorful-shrew-680
+run_uuid: 72c13e35e2a140caaf95507882589376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552085831
+status: 1
+tags: []
+user_id: unknown

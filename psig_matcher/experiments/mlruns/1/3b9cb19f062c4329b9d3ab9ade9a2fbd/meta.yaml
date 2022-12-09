@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3b9cb19f062c4329b9d3ab9ade9a2fbd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3b9cb19f062c4329b9d3ab9ade9a2fbd
+run_name: sassy-pig-613
+run_uuid: 3b9cb19f062c4329b9d3ab9ade9a2fbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552181688
+status: 1
+tags: []
+user_id: unknown

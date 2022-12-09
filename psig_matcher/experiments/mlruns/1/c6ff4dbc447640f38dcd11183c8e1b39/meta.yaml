@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c6ff4dbc447640f38dcd11183c8e1b39/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c6ff4dbc447640f38dcd11183c8e1b39
+run_name: dashing-conch-940
+run_uuid: c6ff4dbc447640f38dcd11183c8e1b39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552199954
+status: 1
+tags: []
+user_id: unknown

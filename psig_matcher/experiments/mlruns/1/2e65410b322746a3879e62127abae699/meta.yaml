@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2e65410b322746a3879e62127abae699/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2e65410b322746a3879e62127abae699
+run_name: luminous-dove-131
+run_uuid: 2e65410b322746a3879e62127abae699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552161900
+status: 1
+tags: []
+user_id: unknown

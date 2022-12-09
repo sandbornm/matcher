@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c57bbfcee5974fdab2f4bb4da5eb356d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c57bbfcee5974fdab2f4bb4da5eb356d
+run_name: skillful-lynx-903
+run_uuid: c57bbfcee5974fdab2f4bb4da5eb356d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552222622
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cb28b9de7f6e41b6b20a4672c7596c03/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cb28b9de7f6e41b6b20a4672c7596c03
+run_name: charming-colt-2
+run_uuid: cb28b9de7f6e41b6b20a4672c7596c03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552148413
+status: 1
+tags: []
+user_id: unknown

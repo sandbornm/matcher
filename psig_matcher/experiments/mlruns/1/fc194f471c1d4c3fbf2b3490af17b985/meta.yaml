@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/fc194f471c1d4c3fbf2b3490af17b985/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc194f471c1d4c3fbf2b3490af17b985
+run_name: gregarious-goose-143
+run_uuid: fc194f471c1d4c3fbf2b3490af17b985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552107805
+status: 1
+tags: []
+user_id: unknown

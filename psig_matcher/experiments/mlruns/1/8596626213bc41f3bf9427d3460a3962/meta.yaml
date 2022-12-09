@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8596626213bc41f3bf9427d3460a3962/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8596626213bc41f3bf9427d3460a3962
+run_name: rogue-boar-435
+run_uuid: 8596626213bc41f3bf9427d3460a3962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552174396
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c6986fed4bd145bc9aea3dbc5b1b8cf5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c6986fed4bd145bc9aea3dbc5b1b8cf5
+run_name: delightful-pig-678
+run_uuid: c6986fed4bd145bc9aea3dbc5b1b8cf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552134963
+status: 1
+tags: []
+user_id: unknown

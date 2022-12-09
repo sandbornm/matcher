@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7dfdbbc402454c9eb2e78c02ddc7b0a7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7dfdbbc402454c9eb2e78c02ddc7b0a7
+run_name: caring-penguin-547
+run_uuid: 7dfdbbc402454c9eb2e78c02ddc7b0a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552201855
+status: 1
+tags: []
+user_id: unknown

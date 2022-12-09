@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e47b5c6702044cc0b6b135c79ce2e176/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e47b5c6702044cc0b6b135c79ce2e176
+run_name: upbeat-newt-93
+run_uuid: e47b5c6702044cc0b6b135c79ce2e176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552211568
+status: 1
+tags: []
+user_id: unknown

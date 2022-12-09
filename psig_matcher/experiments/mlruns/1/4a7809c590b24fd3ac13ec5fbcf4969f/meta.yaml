@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4a7809c590b24fd3ac13ec5fbcf4969f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4a7809c590b24fd3ac13ec5fbcf4969f
+run_name: invincible-ray-994
+run_uuid: 4a7809c590b24fd3ac13ec5fbcf4969f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552102053
+status: 1
+tags: []
+user_id: unknown

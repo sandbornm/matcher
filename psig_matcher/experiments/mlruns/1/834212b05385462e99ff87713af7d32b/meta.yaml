@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/834212b05385462e99ff87713af7d32b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 834212b05385462e99ff87713af7d32b
+run_name: clumsy-cow-523
+run_uuid: 834212b05385462e99ff87713af7d32b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552197485
+status: 1
+tags: []
+user_id: unknown

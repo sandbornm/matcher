@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dda0e642549645f4817ef5521514805a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dda0e642549645f4817ef5521514805a
+run_name: chill-cow-517
+run_uuid: dda0e642549645f4817ef5521514805a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552089351
+status: 1
+tags: []
+user_id: unknown

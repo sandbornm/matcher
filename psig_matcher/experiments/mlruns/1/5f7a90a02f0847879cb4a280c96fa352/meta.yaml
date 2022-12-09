@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5f7a90a02f0847879cb4a280c96fa352/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5f7a90a02f0847879cb4a280c96fa352
+run_name: rebellious-hare-358
+run_uuid: 5f7a90a02f0847879cb4a280c96fa352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552267485
+status: 1
+tags: []
+user_id: unknown

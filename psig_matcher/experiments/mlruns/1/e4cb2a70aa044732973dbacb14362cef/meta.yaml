@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e4cb2a70aa044732973dbacb14362cef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e4cb2a70aa044732973dbacb14362cef
+run_name: thundering-calf-863
+run_uuid: e4cb2a70aa044732973dbacb14362cef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552235595
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/75c8aad5c46a4060ba6a29b0ea3c0dff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 75c8aad5c46a4060ba6a29b0ea3c0dff
+run_name: colorful-sheep-851
+run_uuid: 75c8aad5c46a4060ba6a29b0ea3c0dff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552110307
+status: 1
+tags: []
+user_id: unknown

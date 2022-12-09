@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/61e6c261b0134b64ada1469fc26195dc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 61e6c261b0134b64ada1469fc26195dc
+run_name: upbeat-flea-658
+run_uuid: 61e6c261b0134b64ada1469fc26195dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552099227
+status: 1
+tags: []
+user_id: unknown

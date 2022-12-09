@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cdaa6ecdb08748428aef432347bf9663/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cdaa6ecdb08748428aef432347bf9663
+run_name: sassy-dolphin-565
+run_uuid: cdaa6ecdb08748428aef432347bf9663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552094968
+status: 1
+tags: []
+user_id: unknown

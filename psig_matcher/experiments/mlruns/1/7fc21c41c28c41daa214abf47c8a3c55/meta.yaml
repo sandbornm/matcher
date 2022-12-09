@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7fc21c41c28c41daa214abf47c8a3c55/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7fc21c41c28c41daa214abf47c8a3c55
+run_name: grandiose-ray-955
+run_uuid: 7fc21c41c28c41daa214abf47c8a3c55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552241986
+status: 1
+tags: []
+user_id: unknown

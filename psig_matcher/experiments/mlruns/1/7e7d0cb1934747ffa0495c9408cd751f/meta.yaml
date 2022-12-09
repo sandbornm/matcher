@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7e7d0cb1934747ffa0495c9408cd751f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7e7d0cb1934747ffa0495c9408cd751f
+run_name: orderly-fish-281
+run_uuid: 7e7d0cb1934747ffa0495c9408cd751f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552104976
+status: 1
+tags: []
+user_id: unknown

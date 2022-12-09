@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ed425b5afcdd4a9db09b4fd0e1fe74ba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ed425b5afcdd4a9db09b4fd0e1fe74ba
+run_name: masked-crab-683
+run_uuid: ed425b5afcdd4a9db09b4fd0e1fe74ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552120965
+status: 1
+tags: []
+user_id: unknown

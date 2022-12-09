@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/586a261d9afc4e46975b7d3359058cb4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 586a261d9afc4e46975b7d3359058cb4
+run_name: bouncy-whale-143
+run_uuid: 586a261d9afc4e46975b7d3359058cb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552247479
+status: 1
+tags: []
+user_id: unknown

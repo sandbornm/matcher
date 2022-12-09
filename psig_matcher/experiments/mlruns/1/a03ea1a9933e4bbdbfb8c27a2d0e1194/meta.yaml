@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a03ea1a9933e4bbdbfb8c27a2d0e1194/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a03ea1a9933e4bbdbfb8c27a2d0e1194
+run_name: crawling-zebra-197
+run_uuid: a03ea1a9933e4bbdbfb8c27a2d0e1194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552095598
+status: 1
+tags: []
+user_id: unknown

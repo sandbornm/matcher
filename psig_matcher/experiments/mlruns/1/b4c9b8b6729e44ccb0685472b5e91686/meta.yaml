@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b4c9b8b6729e44ccb0685472b5e91686/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b4c9b8b6729e44ccb0685472b5e91686
+run_name: resilient-lamb-622
+run_uuid: b4c9b8b6729e44ccb0685472b5e91686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552255063
+status: 1
+tags: []
+user_id: unknown

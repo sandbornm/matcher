@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0d2fdc644fa4484e8e8d51606c64e762/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0d2fdc644fa4484e8e8d51606c64e762
+run_name: judicious-shrimp-751
+run_uuid: 0d2fdc644fa4484e8e8d51606c64e762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552153342
+status: 1
+tags: []
+user_id: unknown

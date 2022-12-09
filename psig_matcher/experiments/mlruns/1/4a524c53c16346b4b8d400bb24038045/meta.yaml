@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4a524c53c16346b4b8d400bb24038045/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4a524c53c16346b4b8d400bb24038045
+run_name: judicious-owl-158
+run_uuid: 4a524c53c16346b4b8d400bb24038045
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552246542
+status: 1
+tags: []
+user_id: unknown

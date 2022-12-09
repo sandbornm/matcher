@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cc448db65b1c42a1aee2f7430c6887ab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cc448db65b1c42a1aee2f7430c6887ab
+run_name: popular-fawn-940
+run_uuid: cc448db65b1c42a1aee2f7430c6887ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552119236
+status: 1
+tags: []
+user_id: unknown

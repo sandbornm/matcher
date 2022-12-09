@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/864825bcb7db4de1ad30c4ca9732c993/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 864825bcb7db4de1ad30c4ca9732c993
+run_name: orderly-frog-343
+run_uuid: 864825bcb7db4de1ad30c4ca9732c993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552198328
+status: 1
+tags: []
+user_id: unknown

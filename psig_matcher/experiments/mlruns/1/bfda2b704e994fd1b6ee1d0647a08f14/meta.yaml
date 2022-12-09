@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bfda2b704e994fd1b6ee1d0647a08f14/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bfda2b704e994fd1b6ee1d0647a08f14
+run_name: crawling-bass-44
+run_uuid: bfda2b704e994fd1b6ee1d0647a08f14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552147361
+status: 1
+tags: []
+user_id: unknown

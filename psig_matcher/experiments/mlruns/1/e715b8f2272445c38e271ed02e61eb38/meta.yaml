@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e715b8f2272445c38e271ed02e61eb38/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e715b8f2272445c38e271ed02e61eb38
+run_name: auspicious-bass-760
+run_uuid: e715b8f2272445c38e271ed02e61eb38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552143398
+status: 1
+tags: []
+user_id: unknown

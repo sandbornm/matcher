@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a669f276ad6f41f8a46755f71ee33f91/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a669f276ad6f41f8a46755f71ee33f91
+run_name: melodic-shrew-914
+run_uuid: a669f276ad6f41f8a46755f71ee33f91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552220671
+status: 1
+tags: []
+user_id: unknown

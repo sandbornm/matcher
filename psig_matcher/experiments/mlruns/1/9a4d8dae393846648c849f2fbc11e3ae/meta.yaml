@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9a4d8dae393846648c849f2fbc11e3ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9a4d8dae393846648c849f2fbc11e3ae
+run_name: rebellious-pig-410
+run_uuid: 9a4d8dae393846648c849f2fbc11e3ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552199566
+status: 1
+tags: []
+user_id: unknown

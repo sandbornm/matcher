@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3315eb281be64a209081b945f208036e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3315eb281be64a209081b945f208036e
+run_name: delicate-dolphin-715
+run_uuid: 3315eb281be64a209081b945f208036e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552224053
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dd602dd0716941fdaef6308fdf40792f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dd602dd0716941fdaef6308fdf40792f
+run_name: skillful-loon-108
+run_uuid: dd602dd0716941fdaef6308fdf40792f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552116461
+status: 1
+tags: []
+user_id: unknown

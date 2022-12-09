@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f076b11c673e46a2a5cbd01e1cd31368/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f076b11c673e46a2a5cbd01e1cd31368
+run_name: spiffy-fawn-255
+run_uuid: f076b11c673e46a2a5cbd01e1cd31368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552228965
+status: 1
+tags: []
+user_id: unknown

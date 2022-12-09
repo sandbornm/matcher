@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/02f967b310624360b219d0dc2c559616/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 02f967b310624360b219d0dc2c559616
+run_name: industrious-croc-484
+run_uuid: 02f967b310624360b219d0dc2c559616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552114744
+status: 1
+tags: []
+user_id: unknown

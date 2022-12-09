@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/39972bb6cd8347b6af63111f4c502688/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 39972bb6cd8347b6af63111f4c502688
+run_name: sedate-lark-636
+run_uuid: 39972bb6cd8347b6af63111f4c502688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552124339
+status: 1
+tags: []
+user_id: unknown

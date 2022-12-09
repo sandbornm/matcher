@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/232ff733a2a94f55be713b43b8441d07/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 232ff733a2a94f55be713b43b8441d07
+run_name: thoughtful-conch-860
+run_uuid: 232ff733a2a94f55be713b43b8441d07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552154162
+status: 1
+tags: []
+user_id: unknown

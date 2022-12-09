@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1b9144f38fb04dc2aa117d8a3b28a692/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1b9144f38fb04dc2aa117d8a3b28a692
+run_name: melodic-wasp-6
+run_uuid: 1b9144f38fb04dc2aa117d8a3b28a692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552240080
+status: 1
+tags: []
+user_id: unknown

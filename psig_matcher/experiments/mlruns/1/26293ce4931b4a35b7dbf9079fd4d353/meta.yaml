@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/26293ce4931b4a35b7dbf9079fd4d353/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 26293ce4931b4a35b7dbf9079fd4d353
+run_name: efficient-ox-258
+run_uuid: 26293ce4931b4a35b7dbf9079fd4d353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552107585
+status: 1
+tags: []
+user_id: unknown

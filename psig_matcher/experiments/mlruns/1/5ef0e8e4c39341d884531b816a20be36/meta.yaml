@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5ef0e8e4c39341d884531b816a20be36/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5ef0e8e4c39341d884531b816a20be36
+run_name: silent-sponge-544
+run_uuid: 5ef0e8e4c39341d884531b816a20be36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552125828
+status: 1
+tags: []
+user_id: unknown

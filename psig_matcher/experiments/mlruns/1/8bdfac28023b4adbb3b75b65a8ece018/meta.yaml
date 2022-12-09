@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8bdfac28023b4adbb3b75b65a8ece018/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8bdfac28023b4adbb3b75b65a8ece018
+run_name: big-tern-471
+run_uuid: 8bdfac28023b4adbb3b75b65a8ece018
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552143084
+status: 1
+tags: []
+user_id: unknown

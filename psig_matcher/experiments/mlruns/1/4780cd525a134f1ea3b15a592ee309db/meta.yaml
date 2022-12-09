@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4780cd525a134f1ea3b15a592ee309db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4780cd525a134f1ea3b15a592ee309db
+run_name: mysterious-rook-225
+run_uuid: 4780cd525a134f1ea3b15a592ee309db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552203062
+status: 1
+tags: []
+user_id: unknown

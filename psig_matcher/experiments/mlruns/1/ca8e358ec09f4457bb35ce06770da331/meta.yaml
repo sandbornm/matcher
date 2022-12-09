@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ca8e358ec09f4457bb35ce06770da331/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca8e358ec09f4457bb35ce06770da331
+run_name: redolent-colt-883
+run_uuid: ca8e358ec09f4457bb35ce06770da331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552249334
+status: 1
+tags: []
+user_id: unknown

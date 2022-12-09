@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d51d5894235b401da84e42df0f0d041b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d51d5894235b401da84e42df0f0d041b
+run_name: bold-wolf-655
+run_uuid: d51d5894235b401da84e42df0f0d041b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552206593
+status: 1
+tags: []
+user_id: unknown

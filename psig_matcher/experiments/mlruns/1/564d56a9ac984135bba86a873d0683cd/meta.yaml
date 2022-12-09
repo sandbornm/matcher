@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/564d56a9ac984135bba86a873d0683cd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 564d56a9ac984135bba86a873d0683cd
+run_name: welcoming-quail-867
+run_uuid: 564d56a9ac984135bba86a873d0683cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552197175
+status: 1
+tags: []
+user_id: unknown

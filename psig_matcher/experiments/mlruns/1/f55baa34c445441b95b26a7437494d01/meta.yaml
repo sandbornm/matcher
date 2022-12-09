@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f55baa34c445441b95b26a7437494d01/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f55baa34c445441b95b26a7437494d01
+run_name: aged-slug-406
+run_uuid: f55baa34c445441b95b26a7437494d01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552134244
+status: 1
+tags: []
+user_id: unknown

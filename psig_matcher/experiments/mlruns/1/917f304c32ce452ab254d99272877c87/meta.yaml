@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/917f304c32ce452ab254d99272877c87/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 917f304c32ce452ab254d99272877c87
+run_name: abundant-robin-943
+run_uuid: 917f304c32ce452ab254d99272877c87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552120129
+status: 1
+tags: []
+user_id: unknown

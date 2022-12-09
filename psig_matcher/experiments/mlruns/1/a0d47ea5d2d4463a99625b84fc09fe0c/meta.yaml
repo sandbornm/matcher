@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a0d47ea5d2d4463a99625b84fc09fe0c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a0d47ea5d2d4463a99625b84fc09fe0c
+run_name: likeable-asp-412
+run_uuid: a0d47ea5d2d4463a99625b84fc09fe0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552090972
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b4fe406759bb40dc8c7195cc55a510a4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b4fe406759bb40dc8c7195cc55a510a4
+run_name: melodic-bat-68
+run_uuid: b4fe406759bb40dc8c7195cc55a510a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552231070
+status: 1
+tags: []
+user_id: unknown

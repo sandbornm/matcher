@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d17b5f1852e6430e8699d5b767ba8555/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d17b5f1852e6430e8699d5b767ba8555
+run_name: masked-crow-972
+run_uuid: d17b5f1852e6430e8699d5b767ba8555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552096650
+status: 1
+tags: []
+user_id: unknown

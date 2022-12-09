@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d1fc5ccca7a84351bec5a2d24b0e0a8c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d1fc5ccca7a84351bec5a2d24b0e0a8c
+run_name: gaudy-jay-834
+run_uuid: d1fc5ccca7a84351bec5a2d24b0e0a8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552214845
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8004ea66012b419ba196280f26520630/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8004ea66012b419ba196280f26520630
+run_name: tasteful-lamb-122
+run_uuid: 8004ea66012b419ba196280f26520630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552145608
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/80faec4dbe5545e08f09f80501be5b8d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 80faec4dbe5545e08f09f80501be5b8d
+run_name: adaptable-doe-896
+run_uuid: 80faec4dbe5545e08f09f80501be5b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552145062
+status: 1
+tags: []
+user_id: unknown

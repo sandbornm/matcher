@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ef8293c434494208b7658ff429e7d438/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ef8293c434494208b7658ff429e7d438
+run_name: sassy-stork-991
+run_uuid: ef8293c434494208b7658ff429e7d438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552119004
+status: 1
+tags: []
+user_id: unknown

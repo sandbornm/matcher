@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2d63ecb7060341519cd18cf4ad638354/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2d63ecb7060341519cd18cf4ad638354
+run_name: monumental-moose-594
+run_uuid: 2d63ecb7060341519cd18cf4ad638354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552097709
+status: 1
+tags: []
+user_id: unknown

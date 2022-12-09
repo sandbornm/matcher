@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/93dd49f8e8eb4089ab9b9dd14d5bd299/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 93dd49f8e8eb4089ab9b9dd14d5bd299
+run_name: classy-foal-915
+run_uuid: 93dd49f8e8eb4089ab9b9dd14d5bd299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552216906
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6baec1d5e8ab4b1eb4e276a02e4c039b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6baec1d5e8ab4b1eb4e276a02e4c039b
+run_name: skillful-grouse-912
+run_uuid: 6baec1d5e8ab4b1eb4e276a02e4c039b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552237967
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4740e8d17bfe467991b2659b7b63ff26/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4740e8d17bfe467991b2659b7b63ff26
+run_name: burly-hog-399
+run_uuid: 4740e8d17bfe467991b2659b7b63ff26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552130491
+status: 1
+tags: []
+user_id: unknown

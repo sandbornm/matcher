@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ff4b95c24c8a470e828600be13f36b62/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff4b95c24c8a470e828600be13f36b62
+run_name: fearless-crab-768
+run_uuid: ff4b95c24c8a470e828600be13f36b62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552086183
+status: 1
+tags: []
+user_id: unknown

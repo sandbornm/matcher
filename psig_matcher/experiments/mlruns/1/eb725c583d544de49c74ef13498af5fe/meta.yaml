@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/eb725c583d544de49c74ef13498af5fe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb725c583d544de49c74ef13498af5fe
+run_name: sassy-jay-408
+run_uuid: eb725c583d544de49c74ef13498af5fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552214476
+status: 1
+tags: []
+user_id: unknown

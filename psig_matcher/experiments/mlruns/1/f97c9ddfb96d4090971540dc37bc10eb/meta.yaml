@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f97c9ddfb96d4090971540dc37bc10eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f97c9ddfb96d4090971540dc37bc10eb
+run_name: receptive-rat-735
+run_uuid: f97c9ddfb96d4090971540dc37bc10eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552121330
+status: 1
+tags: []
+user_id: unknown

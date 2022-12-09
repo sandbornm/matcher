@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3873a0e2762c4e209d2a666c622aa4fe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3873a0e2762c4e209d2a666c622aa4fe
+run_name: amazing-worm-159
+run_uuid: 3873a0e2762c4e209d2a666c622aa4fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552086674
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/023c9cf6c49e4613b757052e83100aca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 023c9cf6c49e4613b757052e83100aca
+run_name: chill-squirrel-753
+run_uuid: 023c9cf6c49e4613b757052e83100aca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552156921
+status: 1
+tags: []
+user_id: unknown

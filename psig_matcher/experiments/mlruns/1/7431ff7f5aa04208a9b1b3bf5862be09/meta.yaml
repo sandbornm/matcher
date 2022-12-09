@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7431ff7f5aa04208a9b1b3bf5862be09/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7431ff7f5aa04208a9b1b3bf5862be09
+run_name: stately-gnat-918
+run_uuid: 7431ff7f5aa04208a9b1b3bf5862be09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552207288
+status: 1
+tags: []
+user_id: unknown

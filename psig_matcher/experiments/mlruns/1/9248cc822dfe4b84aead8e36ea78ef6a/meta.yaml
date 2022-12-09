@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9248cc822dfe4b84aead8e36ea78ef6a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9248cc822dfe4b84aead8e36ea78ef6a
+run_name: whimsical-colt-367
+run_uuid: 9248cc822dfe4b84aead8e36ea78ef6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552121959
+status: 1
+tags: []
+user_id: unknown

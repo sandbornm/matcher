@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/808745560e504db2aa2886bb289de0f2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 808745560e504db2aa2886bb289de0f2
+run_name: puzzled-bird-490
+run_uuid: 808745560e504db2aa2886bb289de0f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552248694
+status: 1
+tags: []
+user_id: unknown

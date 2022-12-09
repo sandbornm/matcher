@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5dcea7d6f1cb41c88b5ac5f31e3bfa19/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5dcea7d6f1cb41c88b5ac5f31e3bfa19
+run_name: secretive-steed-524
+run_uuid: 5dcea7d6f1cb41c88b5ac5f31e3bfa19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552251238
+status: 1
+tags: []
+user_id: unknown

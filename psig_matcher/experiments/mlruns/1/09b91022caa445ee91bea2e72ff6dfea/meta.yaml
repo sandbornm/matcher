@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/09b91022caa445ee91bea2e72ff6dfea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 09b91022caa445ee91bea2e72ff6dfea
+run_name: chill-colt-447
+run_uuid: 09b91022caa445ee91bea2e72ff6dfea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552090827
+status: 1
+tags: []
+user_id: unknown

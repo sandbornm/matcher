@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e9771df35ba647d09ad404906e9e6bcf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e9771df35ba647d09ad404906e9e6bcf
+run_name: efficient-rook-401
+run_uuid: e9771df35ba647d09ad404906e9e6bcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552104831
+status: 1
+tags: []
+user_id: unknown

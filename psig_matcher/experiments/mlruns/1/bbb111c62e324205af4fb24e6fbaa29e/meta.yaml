@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bbb111c62e324205af4fb24e6fbaa29e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bbb111c62e324205af4fb24e6fbaa29e
+run_name: delightful-rat-530
+run_uuid: bbb111c62e324205af4fb24e6fbaa29e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552130862
+status: 1
+tags: []
+user_id: unknown

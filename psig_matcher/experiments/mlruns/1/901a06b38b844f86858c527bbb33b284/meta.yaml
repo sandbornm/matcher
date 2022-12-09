@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/901a06b38b844f86858c527bbb33b284/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 901a06b38b844f86858c527bbb33b284
+run_name: nosy-wasp-150
+run_uuid: 901a06b38b844f86858c527bbb33b284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552158221
+status: 1
+tags: []
+user_id: unknown

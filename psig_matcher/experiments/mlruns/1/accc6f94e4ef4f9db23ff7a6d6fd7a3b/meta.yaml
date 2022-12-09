@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/accc6f94e4ef4f9db23ff7a6d6fd7a3b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: accc6f94e4ef4f9db23ff7a6d6fd7a3b
+run_name: merciful-trout-938
+run_uuid: accc6f94e4ef4f9db23ff7a6d6fd7a3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552162190
+status: 1
+tags: []
+user_id: unknown

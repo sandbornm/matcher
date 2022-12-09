@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d6afdb8efe4a4084914f468885fd5c94/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d6afdb8efe4a4084914f468885fd5c94
+run_name: legendary-cub-55
+run_uuid: d6afdb8efe4a4084914f468885fd5c94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552181488
+status: 1
+tags: []
+user_id: unknown

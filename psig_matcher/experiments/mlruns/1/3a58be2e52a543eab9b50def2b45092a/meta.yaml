@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3a58be2e52a543eab9b50def2b45092a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3a58be2e52a543eab9b50def2b45092a
+run_name: industrious-hog-915
+run_uuid: 3a58be2e52a543eab9b50def2b45092a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552098292
+status: 1
+tags: []
+user_id: unknown

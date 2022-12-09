@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f6df327969ae411ea3859a335b6c74e7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f6df327969ae411ea3859a335b6c74e7
+run_name: stately-hound-348
+run_uuid: f6df327969ae411ea3859a335b6c74e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552210893
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1c8e0e67078a45c1811e455b6c348f6a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1c8e0e67078a45c1811e455b6c348f6a
+run_name: dazzling-toad-127
+run_uuid: 1c8e0e67078a45c1811e455b6c348f6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552090179
+status: 1
+tags: []
+user_id: unknown

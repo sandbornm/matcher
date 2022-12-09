@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e9c56c1d45ac46169a1ba15c02fd9a7b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e9c56c1d45ac46169a1ba15c02fd9a7b
+run_name: flawless-hog-215
+run_uuid: e9c56c1d45ac46169a1ba15c02fd9a7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552251956
+status: 1
+tags: []
+user_id: unknown

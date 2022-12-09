@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/878d6ad9763a4342881ba632ad1c495a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 878d6ad9763a4342881ba632ad1c495a
+run_name: orderly-sheep-387
+run_uuid: 878d6ad9763a4342881ba632ad1c495a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552158138
+status: 1
+tags: []
+user_id: unknown

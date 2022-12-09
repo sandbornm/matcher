@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2792e2802cf74c6ea7ef191183e33095/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2792e2802cf74c6ea7ef191183e33095
+run_name: mysterious-gnat-960
+run_uuid: 2792e2802cf74c6ea7ef191183e33095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552226486
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/99feb6bfb15c4e8a8710b5d14679fc18/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 99feb6bfb15c4e8a8710b5d14679fc18
+run_name: stately-bee-247
+run_uuid: 99feb6bfb15c4e8a8710b5d14679fc18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552125804
+status: 1
+tags: []
+user_id: unknown

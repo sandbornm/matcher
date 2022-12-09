@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dc8abc747b5c4f57ad76f2d3e8816146/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dc8abc747b5c4f57ad76f2d3e8816146
+run_name: burly-shrike-110
+run_uuid: dc8abc747b5c4f57ad76f2d3e8816146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552087831
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0c50d458025e4feb9405a220d7ba0676/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0c50d458025e4feb9405a220d7ba0676
+run_name: sincere-horse-835
+run_uuid: 0c50d458025e4feb9405a220d7ba0676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552189695
+status: 1
+tags: []
+user_id: unknown

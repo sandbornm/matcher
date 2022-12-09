@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3d9c4e28307b47ee96638bc226a7cc5e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3d9c4e28307b47ee96638bc226a7cc5e
+run_name: burly-loon-153
+run_uuid: 3d9c4e28307b47ee96638bc226a7cc5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552103917
+status: 1
+tags: []
+user_id: unknown

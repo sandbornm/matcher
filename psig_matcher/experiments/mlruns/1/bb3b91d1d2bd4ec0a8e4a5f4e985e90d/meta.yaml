@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bb3b91d1d2bd4ec0a8e4a5f4e985e90d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bb3b91d1d2bd4ec0a8e4a5f4e985e90d
+run_name: puzzled-zebra-161
+run_uuid: bb3b91d1d2bd4ec0a8e4a5f4e985e90d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552213887
+status: 1
+tags: []
+user_id: unknown

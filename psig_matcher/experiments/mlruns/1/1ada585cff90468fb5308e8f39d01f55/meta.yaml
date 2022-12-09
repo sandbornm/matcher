@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1ada585cff90468fb5308e8f39d01f55/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1ada585cff90468fb5308e8f39d01f55
+run_name: unruly-crab-708
+run_uuid: 1ada585cff90468fb5308e8f39d01f55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552136618
+status: 1
+tags: []
+user_id: unknown

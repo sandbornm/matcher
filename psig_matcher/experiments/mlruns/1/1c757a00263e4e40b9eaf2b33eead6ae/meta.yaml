@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1c757a00263e4e40b9eaf2b33eead6ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1c757a00263e4e40b9eaf2b33eead6ae
+run_name: nervous-shark-761
+run_uuid: 1c757a00263e4e40b9eaf2b33eead6ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552105365
+status: 1
+tags: []
+user_id: unknown

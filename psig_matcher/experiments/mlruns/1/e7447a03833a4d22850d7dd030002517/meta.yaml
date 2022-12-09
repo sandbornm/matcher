@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e7447a03833a4d22850d7dd030002517/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e7447a03833a4d22850d7dd030002517
+run_name: resilient-crane-369
+run_uuid: e7447a03833a4d22850d7dd030002517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552105991
+status: 1
+tags: []
+user_id: unknown

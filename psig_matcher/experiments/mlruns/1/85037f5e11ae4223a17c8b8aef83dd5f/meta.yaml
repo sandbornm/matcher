@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/85037f5e11ae4223a17c8b8aef83dd5f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 85037f5e11ae4223a17c8b8aef83dd5f
+run_name: bedecked-vole-966
+run_uuid: 85037f5e11ae4223a17c8b8aef83dd5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552245492
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a655aee9cbe440ca9c81e85ef7a3f613/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a655aee9cbe440ca9c81e85ef7a3f613
+run_name: bald-fowl-815
+run_uuid: a655aee9cbe440ca9c81e85ef7a3f613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552103427
+status: 1
+tags: []
+user_id: unknown

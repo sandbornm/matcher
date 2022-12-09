@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d33cfd1187384944bf32b64a8b874b68/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d33cfd1187384944bf32b64a8b874b68
+run_name: enchanting-smelt-651
+run_uuid: d33cfd1187384944bf32b64a8b874b68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552119660
+status: 1
+tags: []
+user_id: unknown

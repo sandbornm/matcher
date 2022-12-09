@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9e544b67736e43809ab6a569b0437d5b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9e544b67736e43809ab6a569b0437d5b
+run_name: bald-croc-948
+run_uuid: 9e544b67736e43809ab6a569b0437d5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552159279
+status: 1
+tags: []
+user_id: unknown

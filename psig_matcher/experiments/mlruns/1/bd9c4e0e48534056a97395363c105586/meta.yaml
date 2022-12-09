@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bd9c4e0e48534056a97395363c105586/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bd9c4e0e48534056a97395363c105586
+run_name: funny-koi-884
+run_uuid: bd9c4e0e48534056a97395363c105586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552102485
+status: 1
+tags: []
+user_id: unknown

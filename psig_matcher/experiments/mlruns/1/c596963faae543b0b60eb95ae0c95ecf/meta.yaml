@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c596963faae543b0b60eb95ae0c95ecf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c596963faae543b0b60eb95ae0c95ecf
+run_name: luxuriant-gnu-330
+run_uuid: c596963faae543b0b60eb95ae0c95ecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552088657
+status: 1
+tags: []
+user_id: unknown

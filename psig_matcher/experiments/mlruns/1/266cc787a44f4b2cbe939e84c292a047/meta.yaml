@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/266cc787a44f4b2cbe939e84c292a047/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 266cc787a44f4b2cbe939e84c292a047
+run_name: mercurial-hawk-408
+run_uuid: 266cc787a44f4b2cbe939e84c292a047
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552099599
+status: 1
+tags: []
+user_id: unknown

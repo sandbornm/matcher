@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e58b9a9fa53f42dfb12aa79208348c56/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e58b9a9fa53f42dfb12aa79208348c56
+run_name: omniscient-yak-85
+run_uuid: e58b9a9fa53f42dfb12aa79208348c56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552219315
+status: 1
+tags: []
+user_id: unknown

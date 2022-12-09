@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d17f4f8391fb4a0cacc6393f6dc90645/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d17f4f8391fb4a0cacc6393f6dc90645
+run_name: receptive-snail-288
+run_uuid: d17f4f8391fb4a0cacc6393f6dc90645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552218288
+status: 1
+tags: []
+user_id: unknown

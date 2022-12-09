@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/16f6f0c9c9ac4d7bb14c7d612f94c1e5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 16f6f0c9c9ac4d7bb14c7d612f94c1e5
+run_name: kindly-loon-32
+run_uuid: 16f6f0c9c9ac4d7bb14c7d612f94c1e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552101328
+status: 1
+tags: []
+user_id: unknown

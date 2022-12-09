@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a17566137b894fd29158322f7d5946ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a17566137b894fd29158322f7d5946ff
+run_name: colorful-shrike-961
+run_uuid: a17566137b894fd29158322f7d5946ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552099003
+status: 1
+tags: []
+user_id: unknown

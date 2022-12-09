@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2082f3a645d24f34bb7e9931bb7df302/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2082f3a645d24f34bb7e9931bb7df302
+run_name: resilient-hen-894
+run_uuid: 2082f3a645d24f34bb7e9931bb7df302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552255685
+status: 1
+tags: []
+user_id: unknown

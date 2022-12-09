@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/da7f6190f6b1409f8392c5af82f38e60/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da7f6190f6b1409f8392c5af82f38e60
+run_name: fortunate-calf-995
+run_uuid: da7f6190f6b1409f8392c5af82f38e60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552106140
+status: 1
+tags: []
+user_id: unknown

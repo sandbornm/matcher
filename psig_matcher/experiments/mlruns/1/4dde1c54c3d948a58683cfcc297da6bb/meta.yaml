@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4dde1c54c3d948a58683cfcc297da6bb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4dde1c54c3d948a58683cfcc297da6bb
+run_name: monumental-robin-366
+run_uuid: 4dde1c54c3d948a58683cfcc297da6bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552208515
+status: 1
+tags: []
+user_id: unknown

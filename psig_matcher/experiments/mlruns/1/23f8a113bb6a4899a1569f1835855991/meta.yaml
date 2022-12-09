@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/23f8a113bb6a4899a1569f1835855991/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 23f8a113bb6a4899a1569f1835855991
+run_name: abrasive-wren-439
+run_uuid: 23f8a113bb6a4899a1569f1835855991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552231464
+status: 1
+tags: []
+user_id: unknown

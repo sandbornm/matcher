@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/452710414dbc4367bf3e8e5ac2131159/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 452710414dbc4367bf3e8e5ac2131159
+run_name: bustling-frog-257
+run_uuid: 452710414dbc4367bf3e8e5ac2131159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552100317
+status: 1
+tags: []
+user_id: unknown

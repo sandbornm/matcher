@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b57de22b890b49bba27cf5f9ee5254de/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b57de22b890b49bba27cf5f9ee5254de
+run_name: skittish-snail-250
+run_uuid: b57de22b890b49bba27cf5f9ee5254de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552137935
+status: 1
+tags: []
+user_id: unknown

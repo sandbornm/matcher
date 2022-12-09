@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e272894123dc414bb881946bb4b6c7ea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e272894123dc414bb881946bb4b6c7ea
+run_name: inquisitive-rat-169
+run_uuid: e272894123dc414bb881946bb4b6c7ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552150478
+status: 1
+tags: []
+user_id: unknown

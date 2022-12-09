@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1f51f87a664a41f8a4769ca2b9c30f27/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1f51f87a664a41f8a4769ca2b9c30f27
+run_name: rare-boar-845
+run_uuid: 1f51f87a664a41f8a4769ca2b9c30f27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552161019
+status: 1
+tags: []
+user_id: unknown

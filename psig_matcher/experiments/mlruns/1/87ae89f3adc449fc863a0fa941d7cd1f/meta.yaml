@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/87ae89f3adc449fc863a0fa941d7cd1f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 87ae89f3adc449fc863a0fa941d7cd1f
+run_name: enchanting-skunk-949
+run_uuid: 87ae89f3adc449fc863a0fa941d7cd1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552176755
+status: 1
+tags: []
+user_id: unknown

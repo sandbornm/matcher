@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cfbcb38b268c48bf8aef96169526b250/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cfbcb38b268c48bf8aef96169526b250
+run_name: fun-boar-894
+run_uuid: cfbcb38b268c48bf8aef96169526b250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552119737
+status: 1
+tags: []
+user_id: unknown

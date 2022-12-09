@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d69a22a54ec64bbbb6714f440b73a6e3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d69a22a54ec64bbbb6714f440b73a6e3
+run_name: fun-wasp-268
+run_uuid: d69a22a54ec64bbbb6714f440b73a6e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552094366
+status: 1
+tags: []
+user_id: unknown

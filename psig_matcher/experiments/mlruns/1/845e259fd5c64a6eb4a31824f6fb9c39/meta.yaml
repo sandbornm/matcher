@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/845e259fd5c64a6eb4a31824f6fb9c39/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 845e259fd5c64a6eb4a31824f6fb9c39
+run_name: inquisitive-tern-220
+run_uuid: 845e259fd5c64a6eb4a31824f6fb9c39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552188728
+status: 1
+tags: []
+user_id: unknown

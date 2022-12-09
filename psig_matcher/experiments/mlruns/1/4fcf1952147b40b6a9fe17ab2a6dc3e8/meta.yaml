@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4fcf1952147b40b6a9fe17ab2a6dc3e8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4fcf1952147b40b6a9fe17ab2a6dc3e8
+run_name: resilient-horse-844
+run_uuid: 4fcf1952147b40b6a9fe17ab2a6dc3e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552219406
+status: 1
+tags: []
+user_id: unknown

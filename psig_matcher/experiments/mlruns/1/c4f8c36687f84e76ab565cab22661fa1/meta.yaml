@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c4f8c36687f84e76ab565cab22661fa1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c4f8c36687f84e76ab565cab22661fa1
+run_name: abundant-conch-519
+run_uuid: c4f8c36687f84e76ab565cab22661fa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552095953
+status: 1
+tags: []
+user_id: unknown

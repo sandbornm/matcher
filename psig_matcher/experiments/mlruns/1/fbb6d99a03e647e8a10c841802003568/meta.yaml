@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/fbb6d99a03e647e8a10c841802003568/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fbb6d99a03e647e8a10c841802003568
+run_name: rogue-sponge-170
+run_uuid: fbb6d99a03e647e8a10c841802003568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552189720
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5bfd22c274e648d4a041d3ad35eec231/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5bfd22c274e648d4a041d3ad35eec231
+run_name: flawless-koi-618
+run_uuid: 5bfd22c274e648d4a041d3ad35eec231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552126847
+status: 1
+tags: []
+user_id: unknown

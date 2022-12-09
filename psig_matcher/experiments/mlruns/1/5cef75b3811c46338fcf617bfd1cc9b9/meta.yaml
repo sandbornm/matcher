@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5cef75b3811c46338fcf617bfd1cc9b9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5cef75b3811c46338fcf617bfd1cc9b9
+run_name: placid-dolphin-960
+run_uuid: 5cef75b3811c46338fcf617bfd1cc9b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552232981
+status: 1
+tags: []
+user_id: unknown

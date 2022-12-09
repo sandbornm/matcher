@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/acc54f524c004a74ad3bb3746fe7d900/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: acc54f524c004a74ad3bb3746fe7d900
+run_name: flawless-sloth-578
+run_uuid: acc54f524c004a74ad3bb3746fe7d900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552241254
+status: 1
+tags: []
+user_id: unknown

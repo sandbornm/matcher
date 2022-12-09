@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/306f6191774947de8fffa0aeed8ee2fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 306f6191774947de8fffa0aeed8ee2fc
+run_name: bouncy-stork-105
+run_uuid: 306f6191774947de8fffa0aeed8ee2fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552173660
+status: 1
+tags: []
+user_id: unknown

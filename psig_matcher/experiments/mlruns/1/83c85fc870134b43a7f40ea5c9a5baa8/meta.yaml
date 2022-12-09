@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/83c85fc870134b43a7f40ea5c9a5baa8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 83c85fc870134b43a7f40ea5c9a5baa8
+run_name: incongruous-moth-707
+run_uuid: 83c85fc870134b43a7f40ea5c9a5baa8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552225040
+status: 1
+tags: []
+user_id: unknown

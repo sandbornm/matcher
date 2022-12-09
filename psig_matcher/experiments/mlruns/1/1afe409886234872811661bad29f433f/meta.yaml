@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1afe409886234872811661bad29f433f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1afe409886234872811661bad29f433f
+run_name: tasteful-grouse-373
+run_uuid: 1afe409886234872811661bad29f433f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552101107
+status: 1
+tags: []
+user_id: unknown

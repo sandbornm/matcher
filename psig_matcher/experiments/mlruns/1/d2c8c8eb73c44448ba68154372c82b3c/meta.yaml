@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d2c8c8eb73c44448ba68154372c82b3c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d2c8c8eb73c44448ba68154372c82b3c
+run_name: abrasive-shrew-713
+run_uuid: d2c8c8eb73c44448ba68154372c82b3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552170132
+status: 1
+tags: []
+user_id: unknown

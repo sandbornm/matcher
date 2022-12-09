@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cf44016a6f914590a2e35e1199fd0f21/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf44016a6f914590a2e35e1199fd0f21
+run_name: trusting-goat-366
+run_uuid: cf44016a6f914590a2e35e1199fd0f21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552159620
+status: 1
+tags: []
+user_id: unknown

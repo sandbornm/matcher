@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cffd1aba753f4f878cd801d7929f3673/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cffd1aba753f4f878cd801d7929f3673
+run_name: gaudy-gnu-366
+run_uuid: cffd1aba753f4f878cd801d7929f3673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552143264
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/57661be019ba400383e1b999dd2482e2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 57661be019ba400383e1b999dd2482e2
+run_name: burly-grub-260
+run_uuid: 57661be019ba400383e1b999dd2482e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552096351
+status: 1
+tags: []
+user_id: unknown

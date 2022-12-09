@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ddd9235880b4446fb7f7749c28b969d5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ddd9235880b4446fb7f7749c28b969d5
+run_name: monumental-hound-80
+run_uuid: ddd9235880b4446fb7f7749c28b969d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552085474
+status: 1
+tags: []
+user_id: unknown

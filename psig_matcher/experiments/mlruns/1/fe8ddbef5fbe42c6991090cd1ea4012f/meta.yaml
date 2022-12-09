@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/fe8ddbef5fbe42c6991090cd1ea4012f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fe8ddbef5fbe42c6991090cd1ea4012f
+run_name: gaudy-duck-108
+run_uuid: fe8ddbef5fbe42c6991090cd1ea4012f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552138577
+status: 1
+tags: []
+user_id: unknown

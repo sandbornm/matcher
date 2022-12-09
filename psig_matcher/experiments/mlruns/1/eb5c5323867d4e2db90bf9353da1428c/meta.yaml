@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/eb5c5323867d4e2db90bf9353da1428c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb5c5323867d4e2db90bf9353da1428c
+run_name: angry-shad-251
+run_uuid: eb5c5323867d4e2db90bf9353da1428c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552204912
+status: 1
+tags: []
+user_id: unknown

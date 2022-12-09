@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7bd86bcc591a4743adde24be981b4449/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7bd86bcc591a4743adde24be981b4449
+run_name: rare-rat-367
+run_uuid: 7bd86bcc591a4743adde24be981b4449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552158517
+status: 1
+tags: []
+user_id: unknown

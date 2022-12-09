@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/00006c9b553d407592432efd6bcfead2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 00006c9b553d407592432efd6bcfead2
+run_name: sassy-skink-791
+run_uuid: 00006c9b553d407592432efd6bcfead2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552109944
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/df81fda31dff48dfb25631d2640dc124/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: df81fda31dff48dfb25631d2640dc124
+run_name: languid-rook-400
+run_uuid: df81fda31dff48dfb25631d2640dc124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552091626
+status: 1
+tags: []
+user_id: unknown

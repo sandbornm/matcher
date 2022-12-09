@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0ec800e9f9d34857ba8fd41b961793b9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0ec800e9f9d34857ba8fd41b961793b9
+run_name: mercurial-koi-903
+run_uuid: 0ec800e9f9d34857ba8fd41b961793b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552093020
+status: 1
+tags: []
+user_id: unknown

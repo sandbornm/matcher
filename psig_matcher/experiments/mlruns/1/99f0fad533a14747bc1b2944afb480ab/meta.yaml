@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/99f0fad533a14747bc1b2944afb480ab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 99f0fad533a14747bc1b2944afb480ab
+run_name: popular-worm-547
+run_uuid: 99f0fad533a14747bc1b2944afb480ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552237720
+status: 1
+tags: []
+user_id: unknown

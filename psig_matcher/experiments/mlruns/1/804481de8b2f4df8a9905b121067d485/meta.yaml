@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/804481de8b2f4df8a9905b121067d485/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 804481de8b2f4df8a9905b121067d485
+run_name: rare-shrew-857
+run_uuid: 804481de8b2f4df8a9905b121067d485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552118886
+status: 1
+tags: []
+user_id: unknown

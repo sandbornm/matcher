@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/fde62c890cb3482e9b8a109cee8e6baa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fde62c890cb3482e9b8a109cee8e6baa
+run_name: painted-rook-895
+run_uuid: fde62c890cb3482e9b8a109cee8e6baa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552107761
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d757ebc119f34d899fa17a9d288fc756/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d757ebc119f34d899fa17a9d288fc756
+run_name: abundant-boar-676
+run_uuid: d757ebc119f34d899fa17a9d288fc756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552190189
+status: 1
+tags: []
+user_id: unknown

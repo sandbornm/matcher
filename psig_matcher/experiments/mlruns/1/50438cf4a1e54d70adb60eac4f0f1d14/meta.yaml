@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/50438cf4a1e54d70adb60eac4f0f1d14/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 50438cf4a1e54d70adb60eac4f0f1d14
+run_name: placid-moose-400
+run_uuid: 50438cf4a1e54d70adb60eac4f0f1d14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552260572
+status: 1
+tags: []
+user_id: unknown

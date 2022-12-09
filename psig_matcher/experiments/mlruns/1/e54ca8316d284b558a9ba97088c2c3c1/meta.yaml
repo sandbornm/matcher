@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e54ca8316d284b558a9ba97088c2c3c1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e54ca8316d284b558a9ba97088c2c3c1
+run_name: traveling-shad-88
+run_uuid: e54ca8316d284b558a9ba97088c2c3c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552100792
+status: 1
+tags: []
+user_id: unknown

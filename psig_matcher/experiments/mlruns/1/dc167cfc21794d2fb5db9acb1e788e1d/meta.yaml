@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dc167cfc21794d2fb5db9acb1e788e1d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dc167cfc21794d2fb5db9acb1e788e1d
+run_name: resilient-stork-362
+run_uuid: dc167cfc21794d2fb5db9acb1e788e1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552115905
+status: 1
+tags: []
+user_id: unknown

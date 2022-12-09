@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/abc9c9ab64a446de9aee4e7486828518/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: abc9c9ab64a446de9aee4e7486828518
+run_name: resilient-donkey-60
+run_uuid: abc9c9ab64a446de9aee4e7486828518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552169116
+status: 1
+tags: []
+user_id: unknown

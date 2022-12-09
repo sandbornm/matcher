@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/26e9108435ce4741b63da2e929eb988e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 26e9108435ce4741b63da2e929eb988e
+run_name: carefree-cub-547
+run_uuid: 26e9108435ce4741b63da2e929eb988e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552189058
+status: 1
+tags: []
+user_id: unknown

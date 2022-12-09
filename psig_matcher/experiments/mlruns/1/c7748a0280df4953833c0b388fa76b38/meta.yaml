@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c7748a0280df4953833c0b388fa76b38/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c7748a0280df4953833c0b388fa76b38
+run_name: flawless-skunk-349
+run_uuid: c7748a0280df4953833c0b388fa76b38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552233582
+status: 1
+tags: []
+user_id: unknown

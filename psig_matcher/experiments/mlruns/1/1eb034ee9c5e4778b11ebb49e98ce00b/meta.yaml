@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1eb034ee9c5e4778b11ebb49e98ce00b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1eb034ee9c5e4778b11ebb49e98ce00b
+run_name: fearless-goat-445
+run_uuid: 1eb034ee9c5e4778b11ebb49e98ce00b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552125597
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3ab04606b5194ec6900fdb4f6559b1b6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3ab04606b5194ec6900fdb4f6559b1b6
+run_name: rambunctious-gnu-515
+run_uuid: 3ab04606b5194ec6900fdb4f6559b1b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552097325
+status: 1
+tags: []
+user_id: unknown

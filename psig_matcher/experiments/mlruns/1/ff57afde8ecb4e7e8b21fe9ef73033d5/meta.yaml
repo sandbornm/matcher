@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ff57afde8ecb4e7e8b21fe9ef73033d5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff57afde8ecb4e7e8b21fe9ef73033d5
+run_name: righteous-mole-903
+run_uuid: ff57afde8ecb4e7e8b21fe9ef73033d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552106678
+status: 1
+tags: []
+user_id: unknown

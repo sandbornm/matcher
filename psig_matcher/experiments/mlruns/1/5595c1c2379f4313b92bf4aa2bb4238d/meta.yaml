@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5595c1c2379f4313b92bf4aa2bb4238d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5595c1c2379f4313b92bf4aa2bb4238d
+run_name: blushing-hawk-125
+run_uuid: 5595c1c2379f4313b92bf4aa2bb4238d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552102061
+status: 1
+tags: []
+user_id: unknown

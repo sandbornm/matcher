@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bd755e674c9e48278fe0df315bcc4af0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bd755e674c9e48278fe0df315bcc4af0
+run_name: able-flea-61
+run_uuid: bd755e674c9e48278fe0df315bcc4af0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552131046
+status: 1
+tags: []
+user_id: unknown

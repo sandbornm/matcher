@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/88b56ad8bc594ab2ba1580e5f77de200/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 88b56ad8bc594ab2ba1580e5f77de200
+run_name: upset-kit-584
+run_uuid: 88b56ad8bc594ab2ba1580e5f77de200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552129693
+status: 1
+tags: []
+user_id: unknown

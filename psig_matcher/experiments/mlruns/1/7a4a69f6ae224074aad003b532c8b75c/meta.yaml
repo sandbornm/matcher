@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7a4a69f6ae224074aad003b532c8b75c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7a4a69f6ae224074aad003b532c8b75c
+run_name: upbeat-goose-440
+run_uuid: 7a4a69f6ae224074aad003b532c8b75c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552150340
+status: 1
+tags: []
+user_id: unknown

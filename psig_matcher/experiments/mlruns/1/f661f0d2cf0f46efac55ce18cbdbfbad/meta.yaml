@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f661f0d2cf0f46efac55ce18cbdbfbad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f661f0d2cf0f46efac55ce18cbdbfbad
+run_name: agreeable-cat-412
+run_uuid: f661f0d2cf0f46efac55ce18cbdbfbad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552153601
+status: 1
+tags: []
+user_id: unknown

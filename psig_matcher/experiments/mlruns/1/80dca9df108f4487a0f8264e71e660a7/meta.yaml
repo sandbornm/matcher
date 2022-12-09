@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/80dca9df108f4487a0f8264e71e660a7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 80dca9df108f4487a0f8264e71e660a7
+run_name: awesome-asp-34
+run_uuid: 80dca9df108f4487a0f8264e71e660a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552134142
+status: 1
+tags: []
+user_id: unknown

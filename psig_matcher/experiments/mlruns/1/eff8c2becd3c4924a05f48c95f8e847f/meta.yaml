@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/eff8c2becd3c4924a05f48c95f8e847f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eff8c2becd3c4924a05f48c95f8e847f
+run_name: nebulous-newt-112
+run_uuid: eff8c2becd3c4924a05f48c95f8e847f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552088367
+status: 1
+tags: []
+user_id: unknown

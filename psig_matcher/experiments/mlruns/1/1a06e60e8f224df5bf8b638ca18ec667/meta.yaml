@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1a06e60e8f224df5bf8b638ca18ec667/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1a06e60e8f224df5bf8b638ca18ec667
+run_name: righteous-wren-228
+run_uuid: 1a06e60e8f224df5bf8b638ca18ec667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552218065
+status: 1
+tags: []
+user_id: unknown

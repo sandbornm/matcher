@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/fe3cc7b8e615439c90fed4ca37cd2cad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fe3cc7b8e615439c90fed4ca37cd2cad
+run_name: suave-swan-618
+run_uuid: fe3cc7b8e615439c90fed4ca37cd2cad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552086119
+status: 1
+tags: []
+user_id: unknown

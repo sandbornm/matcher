@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5988e43a9535476bbf84dc47060d2416/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5988e43a9535476bbf84dc47060d2416
+run_name: peaceful-frog-862
+run_uuid: 5988e43a9535476bbf84dc47060d2416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552089037
+status: 1
+tags: []
+user_id: unknown

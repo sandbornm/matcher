@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/49b3c75fcacb4fb6b96be19384f494cd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 49b3c75fcacb4fb6b96be19384f494cd
+run_name: peaceful-pug-560
+run_uuid: 49b3c75fcacb4fb6b96be19384f494cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552145137
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/72d45260c9e04a61a90f62e9b806eb0e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 72d45260c9e04a61a90f62e9b806eb0e
+run_name: sincere-loon-100
+run_uuid: 72d45260c9e04a61a90f62e9b806eb0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552128846
+status: 1
+tags: []
+user_id: unknown

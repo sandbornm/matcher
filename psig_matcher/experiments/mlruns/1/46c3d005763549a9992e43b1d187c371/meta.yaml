@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/46c3d005763549a9992e43b1d187c371/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 46c3d005763549a9992e43b1d187c371
+run_name: mysterious-ray-410
+run_uuid: 46c3d005763549a9992e43b1d187c371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552150978
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/05e65754bbd74c41af96d018b415f95e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 05e65754bbd74c41af96d018b415f95e
+run_name: funny-doe-959
+run_uuid: 05e65754bbd74c41af96d018b415f95e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552156493
+status: 1
+tags: []
+user_id: unknown

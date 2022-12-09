@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ba41ce1605b84b11bb1cae557c3973e1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ba41ce1605b84b11bb1cae557c3973e1
+run_name: lyrical-hound-81
+run_uuid: ba41ce1605b84b11bb1cae557c3973e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552098937
+status: 1
+tags: []
+user_id: unknown

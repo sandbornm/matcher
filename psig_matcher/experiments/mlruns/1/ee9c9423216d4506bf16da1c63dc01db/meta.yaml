@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ee9c9423216d4506bf16da1c63dc01db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ee9c9423216d4506bf16da1c63dc01db
+run_name: casual-calf-17
+run_uuid: ee9c9423216d4506bf16da1c63dc01db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552088262
+status: 1
+tags: []
+user_id: unknown

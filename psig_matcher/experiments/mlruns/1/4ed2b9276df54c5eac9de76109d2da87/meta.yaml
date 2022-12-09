@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4ed2b9276df54c5eac9de76109d2da87/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4ed2b9276df54c5eac9de76109d2da87
+run_name: masked-penguin-654
+run_uuid: 4ed2b9276df54c5eac9de76109d2da87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552087302
+status: 1
+tags: []
+user_id: unknown

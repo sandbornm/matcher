@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/98a8f0c668c24f1abd052d5c546e68f8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 98a8f0c668c24f1abd052d5c546e68f8
+run_name: fun-snail-637
+run_uuid: 98a8f0c668c24f1abd052d5c546e68f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552197154
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d30dda7a3b0d477eb54b60984f574d4a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d30dda7a3b0d477eb54b60984f574d4a
+run_name: placid-dog-350
+run_uuid: d30dda7a3b0d477eb54b60984f574d4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552208271
+status: 1
+tags: []
+user_id: unknown

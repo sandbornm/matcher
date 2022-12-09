@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4a14e9d0b0bd4bec8a8cdce1f4e57428/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4a14e9d0b0bd4bec8a8cdce1f4e57428
+run_name: fearless-croc-251
+run_uuid: 4a14e9d0b0bd4bec8a8cdce1f4e57428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552115219
+status: 1
+tags: []
+user_id: unknown

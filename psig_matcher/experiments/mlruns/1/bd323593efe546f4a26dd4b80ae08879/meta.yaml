@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bd323593efe546f4a26dd4b80ae08879/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bd323593efe546f4a26dd4b80ae08879
+run_name: sassy-frog-709
+run_uuid: bd323593efe546f4a26dd4b80ae08879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552091256
+status: 1
+tags: []
+user_id: unknown

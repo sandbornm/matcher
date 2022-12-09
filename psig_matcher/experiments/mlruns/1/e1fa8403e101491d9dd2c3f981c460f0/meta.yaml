@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e1fa8403e101491d9dd2c3f981c460f0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e1fa8403e101491d9dd2c3f981c460f0
+run_name: chill-kit-560
+run_uuid: e1fa8403e101491d9dd2c3f981c460f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552114322
+status: 1
+tags: []
+user_id: unknown

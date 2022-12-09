@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/74755ad293e1432999f1db9566a5444d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 74755ad293e1432999f1db9566a5444d
+run_name: gaudy-rook-866
+run_uuid: 74755ad293e1432999f1db9566a5444d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552267095
+status: 1
+tags: []
+user_id: unknown

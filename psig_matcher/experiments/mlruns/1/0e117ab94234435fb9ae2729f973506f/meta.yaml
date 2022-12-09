@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0e117ab94234435fb9ae2729f973506f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0e117ab94234435fb9ae2729f973506f
+run_name: polite-bird-320
+run_uuid: 0e117ab94234435fb9ae2729f973506f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552155912
+status: 1
+tags: []
+user_id: unknown

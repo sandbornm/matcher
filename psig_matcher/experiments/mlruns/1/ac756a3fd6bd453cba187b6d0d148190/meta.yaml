@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ac756a3fd6bd453cba187b6d0d148190/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ac756a3fd6bd453cba187b6d0d148190
+run_name: marvelous-asp-562
+run_uuid: ac756a3fd6bd453cba187b6d0d148190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552189400
+status: 1
+tags: []
+user_id: unknown

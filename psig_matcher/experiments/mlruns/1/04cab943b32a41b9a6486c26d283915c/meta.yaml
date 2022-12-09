@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/04cab943b32a41b9a6486c26d283915c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 04cab943b32a41b9a6486c26d283915c
+run_name: debonair-koi-245
+run_uuid: 04cab943b32a41b9a6486c26d283915c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552188854
+status: 1
+tags: []
+user_id: unknown

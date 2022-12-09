@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/29ffd66a7d6c4a6e9172f9e0d84194d3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 29ffd66a7d6c4a6e9172f9e0d84194d3
+run_name: angry-bee-901
+run_uuid: 29ffd66a7d6c4a6e9172f9e0d84194d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552243992
+status: 1
+tags: []
+user_id: unknown

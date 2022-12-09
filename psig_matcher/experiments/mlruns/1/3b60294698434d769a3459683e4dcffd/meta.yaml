@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3b60294698434d769a3459683e4dcffd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3b60294698434d769a3459683e4dcffd
+run_name: vaunted-hawk-907
+run_uuid: 3b60294698434d769a3459683e4dcffd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552128935
+status: 1
+tags: []
+user_id: unknown

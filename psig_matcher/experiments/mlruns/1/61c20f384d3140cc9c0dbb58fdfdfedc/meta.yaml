@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/61c20f384d3140cc9c0dbb58fdfdfedc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 61c20f384d3140cc9c0dbb58fdfdfedc
+run_name: classy-cow-474
+run_uuid: 61c20f384d3140cc9c0dbb58fdfdfedc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552182549
+status: 1
+tags: []
+user_id: unknown

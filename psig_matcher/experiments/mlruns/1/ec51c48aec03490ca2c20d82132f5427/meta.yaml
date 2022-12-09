@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ec51c48aec03490ca2c20d82132f5427/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ec51c48aec03490ca2c20d82132f5427
+run_name: monumental-lynx-178
+run_uuid: ec51c48aec03490ca2c20d82132f5427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552179219
+status: 1
+tags: []
+user_id: unknown

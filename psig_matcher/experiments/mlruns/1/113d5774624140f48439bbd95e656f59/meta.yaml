@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/113d5774624140f48439bbd95e656f59/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 113d5774624140f48439bbd95e656f59
+run_name: skittish-eel-7
+run_uuid: 113d5774624140f48439bbd95e656f59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552209989
+status: 1
+tags: []
+user_id: unknown

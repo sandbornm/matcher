@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/282114d705514aed88095e3615793c17/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 282114d705514aed88095e3615793c17
+run_name: debonair-pug-140
+run_uuid: 282114d705514aed88095e3615793c17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552198089
+status: 1
+tags: []
+user_id: unknown

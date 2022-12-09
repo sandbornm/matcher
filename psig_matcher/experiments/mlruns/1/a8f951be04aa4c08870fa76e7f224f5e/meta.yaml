@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a8f951be04aa4c08870fa76e7f224f5e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8f951be04aa4c08870fa76e7f224f5e
+run_name: flawless-dolphin-541
+run_uuid: a8f951be04aa4c08870fa76e7f224f5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552233497
+status: 1
+tags: []
+user_id: unknown

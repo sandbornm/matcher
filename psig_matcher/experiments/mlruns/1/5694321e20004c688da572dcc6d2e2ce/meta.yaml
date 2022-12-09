@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5694321e20004c688da572dcc6d2e2ce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5694321e20004c688da572dcc6d2e2ce
+run_name: charming-sow-881
+run_uuid: 5694321e20004c688da572dcc6d2e2ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552094152
+status: 1
+tags: []
+user_id: unknown

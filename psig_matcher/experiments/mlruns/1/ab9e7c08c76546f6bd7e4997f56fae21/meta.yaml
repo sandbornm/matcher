@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ab9e7c08c76546f6bd7e4997f56fae21/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab9e7c08c76546f6bd7e4997f56fae21
+run_name: capable-lark-257
+run_uuid: ab9e7c08c76546f6bd7e4997f56fae21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552208237
+status: 1
+tags: []
+user_id: unknown

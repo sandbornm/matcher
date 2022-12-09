@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/104717ab4e4e45f7a42bf6f34b391597/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 104717ab4e4e45f7a42bf6f34b391597
+run_name: intelligent-lamb-480
+run_uuid: 104717ab4e4e45f7a42bf6f34b391597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552156524
+status: 1
+tags: []
+user_id: unknown

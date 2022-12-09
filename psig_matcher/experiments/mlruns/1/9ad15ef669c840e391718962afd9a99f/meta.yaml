@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9ad15ef669c840e391718962afd9a99f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9ad15ef669c840e391718962afd9a99f
+run_name: stylish-bug-141
+run_uuid: 9ad15ef669c840e391718962afd9a99f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552126467
+status: 1
+tags: []
+user_id: unknown

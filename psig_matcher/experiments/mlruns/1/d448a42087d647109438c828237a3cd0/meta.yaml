@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d448a42087d647109438c828237a3cd0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d448a42087d647109438c828237a3cd0
+run_name: able-frog-476
+run_uuid: d448a42087d647109438c828237a3cd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552119877
+status: 1
+tags: []
+user_id: unknown

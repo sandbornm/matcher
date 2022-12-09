@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/24977c0ecaf94f87b8bda3b11ba205a4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 24977c0ecaf94f87b8bda3b11ba205a4
+run_name: able-pig-603
+run_uuid: 24977c0ecaf94f87b8bda3b11ba205a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552135053
+status: 1
+tags: []
+user_id: unknown

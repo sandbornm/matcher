@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cf2bae6e9e4d427dbfda3e12ec23f312/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf2bae6e9e4d427dbfda3e12ec23f312
+run_name: loud-conch-509
+run_uuid: cf2bae6e9e4d427dbfda3e12ec23f312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552214693
+status: 1
+tags: []
+user_id: unknown

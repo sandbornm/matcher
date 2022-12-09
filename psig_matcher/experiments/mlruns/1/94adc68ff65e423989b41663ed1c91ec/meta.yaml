@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/94adc68ff65e423989b41663ed1c91ec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 94adc68ff65e423989b41663ed1c91ec
+run_name: caring-cub-529
+run_uuid: 94adc68ff65e423989b41663ed1c91ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552223651
+status: 1
+tags: []
+user_id: unknown

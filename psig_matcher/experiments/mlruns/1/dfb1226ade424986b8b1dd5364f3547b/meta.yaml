@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dfb1226ade424986b8b1dd5364f3547b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dfb1226ade424986b8b1dd5364f3547b
+run_name: bedecked-koi-804
+run_uuid: dfb1226ade424986b8b1dd5364f3547b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552177653
+status: 1
+tags: []
+user_id: unknown

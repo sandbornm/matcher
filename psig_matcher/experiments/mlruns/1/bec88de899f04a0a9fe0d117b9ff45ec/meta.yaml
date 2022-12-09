@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bec88de899f04a0a9fe0d117b9ff45ec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bec88de899f04a0a9fe0d117b9ff45ec
+run_name: secretive-quail-391
+run_uuid: bec88de899f04a0a9fe0d117b9ff45ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552180301
+status: 1
+tags: []
+user_id: unknown

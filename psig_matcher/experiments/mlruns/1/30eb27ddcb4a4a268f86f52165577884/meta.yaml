@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/30eb27ddcb4a4a268f86f52165577884/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 30eb27ddcb4a4a268f86f52165577884
+run_name: placid-whale-207
+run_uuid: 30eb27ddcb4a4a268f86f52165577884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552087167
+status: 1
+tags: []
+user_id: unknown

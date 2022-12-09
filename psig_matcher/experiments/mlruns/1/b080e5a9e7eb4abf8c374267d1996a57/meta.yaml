@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b080e5a9e7eb4abf8c374267d1996a57/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b080e5a9e7eb4abf8c374267d1996a57
+run_name: bittersweet-crab-716
+run_uuid: b080e5a9e7eb4abf8c374267d1996a57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552120716
+status: 1
+tags: []
+user_id: unknown

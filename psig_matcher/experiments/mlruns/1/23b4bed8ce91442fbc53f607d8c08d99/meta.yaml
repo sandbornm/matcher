@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/23b4bed8ce91442fbc53f607d8c08d99/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 23b4bed8ce91442fbc53f607d8c08d99
+run_name: glamorous-worm-324
+run_uuid: 23b4bed8ce91442fbc53f607d8c08d99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552123877
+status: 1
+tags: []
+user_id: unknown

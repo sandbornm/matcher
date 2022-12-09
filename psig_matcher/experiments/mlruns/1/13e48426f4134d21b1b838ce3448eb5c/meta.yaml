@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/13e48426f4134d21b1b838ce3448eb5c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 13e48426f4134d21b1b838ce3448eb5c
+run_name: mercurial-frog-680
+run_uuid: 13e48426f4134d21b1b838ce3448eb5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552247319
+status: 1
+tags: []
+user_id: unknown

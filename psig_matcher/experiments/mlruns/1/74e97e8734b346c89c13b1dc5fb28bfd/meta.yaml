@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/74e97e8734b346c89c13b1dc5fb28bfd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 74e97e8734b346c89c13b1dc5fb28bfd
+run_name: marvelous-dog-541
+run_uuid: 74e97e8734b346c89c13b1dc5fb28bfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552091777
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/02705031cd174ca29f66dacc5de915fb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 02705031cd174ca29f66dacc5de915fb
+run_name: victorious-goat-530
+run_uuid: 02705031cd174ca29f66dacc5de915fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552187184
+status: 1
+tags: []
+user_id: unknown

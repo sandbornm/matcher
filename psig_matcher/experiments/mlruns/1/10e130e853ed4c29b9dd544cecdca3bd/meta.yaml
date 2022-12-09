@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/10e130e853ed4c29b9dd544cecdca3bd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 10e130e853ed4c29b9dd544cecdca3bd
+run_name: calm-stork-126
+run_uuid: 10e130e853ed4c29b9dd544cecdca3bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552238584
+status: 1
+tags: []
+user_id: unknown

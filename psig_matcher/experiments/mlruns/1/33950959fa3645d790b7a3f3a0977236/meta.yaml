@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/33950959fa3645d790b7a3f3a0977236/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 33950959fa3645d790b7a3f3a0977236
+run_name: languid-horse-412
+run_uuid: 33950959fa3645d790b7a3f3a0977236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552238155
+status: 1
+tags: []
+user_id: unknown

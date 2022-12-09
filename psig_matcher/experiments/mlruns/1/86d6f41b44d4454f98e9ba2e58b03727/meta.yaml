@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/86d6f41b44d4454f98e9ba2e58b03727/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 86d6f41b44d4454f98e9ba2e58b03727
+run_name: dapper-shoat-906
+run_uuid: 86d6f41b44d4454f98e9ba2e58b03727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552125890
+status: 1
+tags: []
+user_id: unknown

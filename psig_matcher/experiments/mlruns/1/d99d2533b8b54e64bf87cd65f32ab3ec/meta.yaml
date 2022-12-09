@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d99d2533b8b54e64bf87cd65f32ab3ec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d99d2533b8b54e64bf87cd65f32ab3ec
+run_name: popular-hog-245
+run_uuid: d99d2533b8b54e64bf87cd65f32ab3ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552087036
+status: 1
+tags: []
+user_id: unknown

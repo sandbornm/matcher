@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a1ed0e1117bd494e9eccfdc1b33da4f9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a1ed0e1117bd494e9eccfdc1b33da4f9
+run_name: carefree-asp-410
+run_uuid: a1ed0e1117bd494e9eccfdc1b33da4f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552251676
+status: 1
+tags: []
+user_id: unknown

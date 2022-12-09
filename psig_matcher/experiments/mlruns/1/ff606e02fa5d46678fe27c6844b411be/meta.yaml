@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ff606e02fa5d46678fe27c6844b411be/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff606e02fa5d46678fe27c6844b411be
+run_name: clean-snail-256
+run_uuid: ff606e02fa5d46678fe27c6844b411be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552167419
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dcca13f15eb94b02b112414c84b542ec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dcca13f15eb94b02b112414c84b542ec
+run_name: selective-loon-435
+run_uuid: dcca13f15eb94b02b112414c84b542ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552111526
+status: 1
+tags: []
+user_id: unknown

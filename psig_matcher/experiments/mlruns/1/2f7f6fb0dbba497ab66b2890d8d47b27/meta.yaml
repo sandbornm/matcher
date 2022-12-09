@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2f7f6fb0dbba497ab66b2890d8d47b27/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2f7f6fb0dbba497ab66b2890d8d47b27
+run_name: enthused-yak-404
+run_uuid: 2f7f6fb0dbba497ab66b2890d8d47b27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552261973
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bc91922bdadc4b3e91c69323de9575a7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bc91922bdadc4b3e91c69323de9575a7
+run_name: carefree-yak-876
+run_uuid: bc91922bdadc4b3e91c69323de9575a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552093199
+status: 1
+tags: []
+user_id: unknown

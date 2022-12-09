@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e3c486c87c594f268ec4a972a0a64413/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e3c486c87c594f268ec4a972a0a64413
+run_name: angry-mouse-929
+run_uuid: e3c486c87c594f268ec4a972a0a64413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552218496
+status: 1
+tags: []
+user_id: unknown

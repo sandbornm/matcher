@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5e8e9bfdac6d441cb57ac03728dbd052/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5e8e9bfdac6d441cb57ac03728dbd052
+run_name: gentle-asp-594
+run_uuid: 5e8e9bfdac6d441cb57ac03728dbd052
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552173678
+status: 1
+tags: []
+user_id: unknown

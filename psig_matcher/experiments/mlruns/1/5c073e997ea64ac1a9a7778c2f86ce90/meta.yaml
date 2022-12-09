@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5c073e997ea64ac1a9a7778c2f86ce90/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5c073e997ea64ac1a9a7778c2f86ce90
+run_name: gregarious-cub-276
+run_uuid: 5c073e997ea64ac1a9a7778c2f86ce90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552183967
+status: 1
+tags: []
+user_id: unknown

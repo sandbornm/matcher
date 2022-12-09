@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/003ee79e1cff46159f6627f170243f3c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 003ee79e1cff46159f6627f170243f3c
+run_name: selective-elk-932
+run_uuid: 003ee79e1cff46159f6627f170243f3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552120177
+status: 1
+tags: []
+user_id: unknown

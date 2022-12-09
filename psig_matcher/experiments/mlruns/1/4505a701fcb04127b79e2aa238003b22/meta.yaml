@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4505a701fcb04127b79e2aa238003b22/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4505a701fcb04127b79e2aa238003b22
+run_name: sedate-vole-930
+run_uuid: 4505a701fcb04127b79e2aa238003b22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552104188
+status: 1
+tags: []
+user_id: unknown

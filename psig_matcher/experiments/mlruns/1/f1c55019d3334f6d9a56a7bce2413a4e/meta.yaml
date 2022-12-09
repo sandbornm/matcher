@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f1c55019d3334f6d9a56a7bce2413a4e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f1c55019d3334f6d9a56a7bce2413a4e
+run_name: omniscient-stork-730
+run_uuid: f1c55019d3334f6d9a56a7bce2413a4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552234268
+status: 1
+tags: []
+user_id: unknown

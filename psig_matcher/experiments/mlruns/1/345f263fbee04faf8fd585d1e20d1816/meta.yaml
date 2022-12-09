@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/345f263fbee04faf8fd585d1e20d1816/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 345f263fbee04faf8fd585d1e20d1816
+run_name: shivering-perch-536
+run_uuid: 345f263fbee04faf8fd585d1e20d1816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552088187
+status: 1
+tags: []
+user_id: unknown

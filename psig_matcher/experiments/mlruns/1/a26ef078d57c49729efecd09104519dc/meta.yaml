@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a26ef078d57c49729efecd09104519dc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a26ef078d57c49729efecd09104519dc
+run_name: nimble-turtle-586
+run_uuid: a26ef078d57c49729efecd09104519dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552197025
+status: 1
+tags: []
+user_id: unknown

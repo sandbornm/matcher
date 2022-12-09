@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2a6da04f9e2449b9b6630072523ae08a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2a6da04f9e2449b9b6630072523ae08a
+run_name: puzzled-tern-121
+run_uuid: 2a6da04f9e2449b9b6630072523ae08a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552095065
+status: 1
+tags: []
+user_id: unknown

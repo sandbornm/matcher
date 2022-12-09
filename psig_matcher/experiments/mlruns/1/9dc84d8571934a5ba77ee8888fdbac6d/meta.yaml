@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9dc84d8571934a5ba77ee8888fdbac6d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9dc84d8571934a5ba77ee8888fdbac6d
+run_name: tasteful-stork-879
+run_uuid: 9dc84d8571934a5ba77ee8888fdbac6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552218059
+status: 1
+tags: []
+user_id: unknown

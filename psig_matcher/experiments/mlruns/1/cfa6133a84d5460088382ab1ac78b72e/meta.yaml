@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cfa6133a84d5460088382ab1ac78b72e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cfa6133a84d5460088382ab1ac78b72e
+run_name: bittersweet-horse-82
+run_uuid: cfa6133a84d5460088382ab1ac78b72e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552175241
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/391b4f1b408a4da380f0848fdfb08e58/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 391b4f1b408a4da380f0848fdfb08e58
+run_name: bedecked-gull-382
+run_uuid: 391b4f1b408a4da380f0848fdfb08e58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552097613
+status: 1
+tags: []
+user_id: unknown

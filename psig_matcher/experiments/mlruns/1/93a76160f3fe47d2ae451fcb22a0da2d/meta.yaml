@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/93a76160f3fe47d2ae451fcb22a0da2d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 93a76160f3fe47d2ae451fcb22a0da2d
+run_name: thundering-zebra-508
+run_uuid: 93a76160f3fe47d2ae451fcb22a0da2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552221173
+status: 1
+tags: []
+user_id: unknown

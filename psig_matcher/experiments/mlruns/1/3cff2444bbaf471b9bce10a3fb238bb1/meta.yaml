@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3cff2444bbaf471b9bce10a3fb238bb1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3cff2444bbaf471b9bce10a3fb238bb1
+run_name: sassy-vole-488
+run_uuid: 3cff2444bbaf471b9bce10a3fb238bb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552107020
+status: 1
+tags: []
+user_id: unknown

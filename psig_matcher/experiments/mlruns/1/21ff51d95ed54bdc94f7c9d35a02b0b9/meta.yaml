@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/21ff51d95ed54bdc94f7c9d35a02b0b9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 21ff51d95ed54bdc94f7c9d35a02b0b9
+run_name: righteous-grouse-960
+run_uuid: 21ff51d95ed54bdc94f7c9d35a02b0b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552159735
+status: 1
+tags: []
+user_id: unknown

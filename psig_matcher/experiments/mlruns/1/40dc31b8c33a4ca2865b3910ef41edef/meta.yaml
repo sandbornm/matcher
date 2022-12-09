@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/40dc31b8c33a4ca2865b3910ef41edef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 40dc31b8c33a4ca2865b3910ef41edef
+run_name: caring-wasp-45
+run_uuid: 40dc31b8c33a4ca2865b3910ef41edef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552230917
+status: 1
+tags: []
+user_id: unknown

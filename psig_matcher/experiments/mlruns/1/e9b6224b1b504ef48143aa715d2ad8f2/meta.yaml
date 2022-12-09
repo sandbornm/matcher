@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e9b6224b1b504ef48143aa715d2ad8f2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e9b6224b1b504ef48143aa715d2ad8f2
+run_name: wise-smelt-985
+run_uuid: e9b6224b1b504ef48143aa715d2ad8f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552171151
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cb8ff6c08c344a8da61b64faac390dfd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cb8ff6c08c344a8da61b64faac390dfd
+run_name: victorious-toad-389
+run_uuid: cb8ff6c08c344a8da61b64faac390dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552173671
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9b777339a0604687ae33e65e3b967431/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9b777339a0604687ae33e65e3b967431
+run_name: nervous-snipe-498
+run_uuid: 9b777339a0604687ae33e65e3b967431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552106363
+status: 1
+tags: []
+user_id: unknown

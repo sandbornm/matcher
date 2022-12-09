@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e87e4ef983c5413b8f44484d9ab6674f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e87e4ef983c5413b8f44484d9ab6674f
+run_name: capricious-dog-270
+run_uuid: e87e4ef983c5413b8f44484d9ab6674f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552179956
+status: 1
+tags: []
+user_id: unknown

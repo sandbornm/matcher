@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d89e8bb3984c42ed8c73e834c47b4044/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d89e8bb3984c42ed8c73e834c47b4044
+run_name: unruly-stork-745
+run_uuid: d89e8bb3984c42ed8c73e834c47b4044
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552135355
+status: 1
+tags: []
+user_id: unknown

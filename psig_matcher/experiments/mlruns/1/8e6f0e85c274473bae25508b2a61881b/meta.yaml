@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8e6f0e85c274473bae25508b2a61881b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8e6f0e85c274473bae25508b2a61881b
+run_name: masked-dove-821
+run_uuid: 8e6f0e85c274473bae25508b2a61881b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552231191
+status: 1
+tags: []
+user_id: unknown

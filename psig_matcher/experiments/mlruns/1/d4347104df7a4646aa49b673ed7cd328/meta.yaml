@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d4347104df7a4646aa49b673ed7cd328/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d4347104df7a4646aa49b673ed7cd328
+run_name: tasteful-midge-127
+run_uuid: d4347104df7a4646aa49b673ed7cd328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552114990
+status: 1
+tags: []
+user_id: unknown

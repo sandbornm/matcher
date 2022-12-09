@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5ac325e77790407b83538ba91f0b6f05/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5ac325e77790407b83538ba91f0b6f05
+run_name: brawny-hound-847
+run_uuid: 5ac325e77790407b83538ba91f0b6f05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552181855
+status: 1
+tags: []
+user_id: unknown

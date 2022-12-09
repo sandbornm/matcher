@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/045b8e80da574ad4b97b9e400e86ef78/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 045b8e80da574ad4b97b9e400e86ef78
+run_name: skillful-perch-876
+run_uuid: 045b8e80da574ad4b97b9e400e86ef78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552240570
+status: 1
+tags: []
+user_id: unknown

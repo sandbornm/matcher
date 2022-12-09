@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9b27336a5f1c48e1962a573c7a132925/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9b27336a5f1c48e1962a573c7a132925
+run_name: clumsy-foal-322
+run_uuid: 9b27336a5f1c48e1962a573c7a132925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552155861
+status: 1
+tags: []
+user_id: unknown

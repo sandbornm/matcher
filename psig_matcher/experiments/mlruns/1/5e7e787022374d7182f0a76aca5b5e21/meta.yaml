@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5e7e787022374d7182f0a76aca5b5e21/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5e7e787022374d7182f0a76aca5b5e21
+run_name: sassy-bird-329
+run_uuid: 5e7e787022374d7182f0a76aca5b5e21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552139172
+status: 1
+tags: []
+user_id: unknown

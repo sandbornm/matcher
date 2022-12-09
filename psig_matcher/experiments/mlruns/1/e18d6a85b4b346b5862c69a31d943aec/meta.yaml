@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e18d6a85b4b346b5862c69a31d943aec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e18d6a85b4b346b5862c69a31d943aec
+run_name: ambitious-crane-671
+run_uuid: e18d6a85b4b346b5862c69a31d943aec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552106265
+status: 1
+tags: []
+user_id: unknown

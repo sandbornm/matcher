@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b7fb313540c24fc2853ac255ee131c87/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b7fb313540c24fc2853ac255ee131c87
+run_name: flawless-mule-752
+run_uuid: b7fb313540c24fc2853ac255ee131c87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552115347
+status: 1
+tags: []
+user_id: unknown

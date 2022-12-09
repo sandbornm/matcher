@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dbce3a20d2224a8a98d09d8905c61b4c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dbce3a20d2224a8a98d09d8905c61b4c
+run_name: selective-wasp-578
+run_uuid: dbce3a20d2224a8a98d09d8905c61b4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552156614
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f1d1ab88a4f241b28c2858be569e3387/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f1d1ab88a4f241b28c2858be569e3387
+run_name: stately-sheep-589
+run_uuid: f1d1ab88a4f241b28c2858be569e3387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552249440
+status: 1
+tags: []
+user_id: unknown

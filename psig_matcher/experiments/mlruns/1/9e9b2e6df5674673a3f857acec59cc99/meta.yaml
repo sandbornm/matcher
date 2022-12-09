@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9e9b2e6df5674673a3f857acec59cc99/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9e9b2e6df5674673a3f857acec59cc99
+run_name: bald-dog-51
+run_uuid: 9e9b2e6df5674673a3f857acec59cc99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552203659
+status: 1
+tags: []
+user_id: unknown

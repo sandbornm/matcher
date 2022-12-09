@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2ba6a08825e147ee80a06d64d8b6d1da/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ba6a08825e147ee80a06d64d8b6d1da
+run_name: skittish-hog-262
+run_uuid: 2ba6a08825e147ee80a06d64d8b6d1da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552102350
+status: 1
+tags: []
+user_id: unknown

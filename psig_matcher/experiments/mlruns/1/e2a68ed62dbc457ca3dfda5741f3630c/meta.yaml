@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e2a68ed62dbc457ca3dfda5741f3630c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e2a68ed62dbc457ca3dfda5741f3630c
+run_name: glamorous-doe-160
+run_uuid: e2a68ed62dbc457ca3dfda5741f3630c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552217462
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/57e4d58fa36a41f490d4bbcdc37982b2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 57e4d58fa36a41f490d4bbcdc37982b2
+run_name: able-hawk-738
+run_uuid: 57e4d58fa36a41f490d4bbcdc37982b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552135777
+status: 1
+tags: []
+user_id: unknown

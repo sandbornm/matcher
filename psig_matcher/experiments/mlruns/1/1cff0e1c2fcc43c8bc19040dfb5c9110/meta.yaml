@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1cff0e1c2fcc43c8bc19040dfb5c9110/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1cff0e1c2fcc43c8bc19040dfb5c9110
+run_name: learned-grub-659
+run_uuid: 1cff0e1c2fcc43c8bc19040dfb5c9110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552204505
+status: 1
+tags: []
+user_id: unknown

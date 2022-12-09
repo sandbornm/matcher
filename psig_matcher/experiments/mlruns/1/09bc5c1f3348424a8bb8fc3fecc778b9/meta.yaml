@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/09bc5c1f3348424a8bb8fc3fecc778b9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 09bc5c1f3348424a8bb8fc3fecc778b9
+run_name: marvelous-lark-108
+run_uuid: 09bc5c1f3348424a8bb8fc3fecc778b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552123044
+status: 1
+tags: []
+user_id: unknown

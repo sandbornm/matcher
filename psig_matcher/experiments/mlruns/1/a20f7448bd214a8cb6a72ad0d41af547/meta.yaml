@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a20f7448bd214a8cb6a72ad0d41af547/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a20f7448bd214a8cb6a72ad0d41af547
+run_name: upbeat-wasp-752
+run_uuid: a20f7448bd214a8cb6a72ad0d41af547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552096424
+status: 1
+tags: []
+user_id: unknown

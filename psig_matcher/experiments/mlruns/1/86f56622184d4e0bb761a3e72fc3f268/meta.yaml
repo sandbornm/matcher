@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/86f56622184d4e0bb761a3e72fc3f268/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 86f56622184d4e0bb761a3e72fc3f268
+run_name: ambitious-eel-831
+run_uuid: 86f56622184d4e0bb761a3e72fc3f268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552169113
+status: 1
+tags: []
+user_id: unknown

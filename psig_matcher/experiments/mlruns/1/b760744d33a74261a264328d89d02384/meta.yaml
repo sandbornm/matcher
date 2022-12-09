@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b760744d33a74261a264328d89d02384/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b760744d33a74261a264328d89d02384
+run_name: capable-shrew-584
+run_uuid: b760744d33a74261a264328d89d02384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552252036
+status: 1
+tags: []
+user_id: unknown

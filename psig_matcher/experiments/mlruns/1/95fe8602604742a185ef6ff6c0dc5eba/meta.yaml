@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/95fe8602604742a185ef6ff6c0dc5eba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 95fe8602604742a185ef6ff6c0dc5eba
+run_name: illustrious-carp-7
+run_uuid: 95fe8602604742a185ef6ff6c0dc5eba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552091967
+status: 1
+tags: []
+user_id: unknown

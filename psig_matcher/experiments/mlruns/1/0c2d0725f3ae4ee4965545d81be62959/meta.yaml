@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0c2d0725f3ae4ee4965545d81be62959/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0c2d0725f3ae4ee4965545d81be62959
+run_name: unleashed-bat-240
+run_uuid: 0c2d0725f3ae4ee4965545d81be62959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552145361
+status: 1
+tags: []
+user_id: unknown

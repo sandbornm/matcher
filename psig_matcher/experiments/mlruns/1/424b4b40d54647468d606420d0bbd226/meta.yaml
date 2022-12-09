@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/424b4b40d54647468d606420d0bbd226/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 424b4b40d54647468d606420d0bbd226
+run_name: polite-bee-267
+run_uuid: 424b4b40d54647468d606420d0bbd226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552154843
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/22744618b6ae47c286ab0eedb8c2ba54/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 22744618b6ae47c286ab0eedb8c2ba54
+run_name: sedate-kit-41
+run_uuid: 22744618b6ae47c286ab0eedb8c2ba54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552131041
+status: 1
+tags: []
+user_id: unknown

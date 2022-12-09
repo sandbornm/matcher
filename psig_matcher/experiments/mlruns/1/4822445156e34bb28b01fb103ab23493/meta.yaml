@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4822445156e34bb28b01fb103ab23493/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4822445156e34bb28b01fb103ab23493
+run_name: fun-ape-647
+run_uuid: 4822445156e34bb28b01fb103ab23493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552141924
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cf6a0e3ca2754eaba645589801344613/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf6a0e3ca2754eaba645589801344613
+run_name: skillful-dog-201
+run_uuid: cf6a0e3ca2754eaba645589801344613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552118645
+status: 1
+tags: []
+user_id: unknown

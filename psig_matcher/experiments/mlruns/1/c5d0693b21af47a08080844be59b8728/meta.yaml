@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c5d0693b21af47a08080844be59b8728/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c5d0693b21af47a08080844be59b8728
+run_name: bright-gnu-910
+run_uuid: c5d0693b21af47a08080844be59b8728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552167617
+status: 1
+tags: []
+user_id: unknown

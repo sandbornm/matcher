@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5aa97232ae3e4416963dc40f65c118cd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5aa97232ae3e4416963dc40f65c118cd
+run_name: ambitious-worm-400
+run_uuid: 5aa97232ae3e4416963dc40f65c118cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552112112
+status: 1
+tags: []
+user_id: unknown

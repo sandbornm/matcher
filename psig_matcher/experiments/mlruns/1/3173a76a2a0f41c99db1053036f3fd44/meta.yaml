@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3173a76a2a0f41c99db1053036f3fd44/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3173a76a2a0f41c99db1053036f3fd44
+run_name: thoughtful-pug-519
+run_uuid: 3173a76a2a0f41c99db1053036f3fd44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552168796
+status: 1
+tags: []
+user_id: unknown

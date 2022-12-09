@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/66bae81a2cf74424bff004e459875927/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 66bae81a2cf74424bff004e459875927
+run_name: rogue-sow-917
+run_uuid: 66bae81a2cf74424bff004e459875927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552150906
+status: 1
+tags: []
+user_id: unknown

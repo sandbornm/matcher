@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9190da71768a471ba22ba16917b52076/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9190da71768a471ba22ba16917b52076
+run_name: skittish-crab-201
+run_uuid: 9190da71768a471ba22ba16917b52076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552091751
+status: 1
+tags: []
+user_id: unknown

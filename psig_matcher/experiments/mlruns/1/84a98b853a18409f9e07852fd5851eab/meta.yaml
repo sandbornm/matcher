@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/84a98b853a18409f9e07852fd5851eab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 84a98b853a18409f9e07852fd5851eab
+run_name: trusting-penguin-83
+run_uuid: 84a98b853a18409f9e07852fd5851eab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552087501
+status: 1
+tags: []
+user_id: unknown

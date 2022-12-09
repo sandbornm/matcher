@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ccdb2b1874ee4660b7343b4b4825fdf1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ccdb2b1874ee4660b7343b4b4825fdf1
+run_name: capricious-boar-475
+run_uuid: ccdb2b1874ee4660b7343b4b4825fdf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552139166
+status: 1
+tags: []
+user_id: unknown

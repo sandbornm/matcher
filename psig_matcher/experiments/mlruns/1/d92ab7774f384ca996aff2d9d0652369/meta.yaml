@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d92ab7774f384ca996aff2d9d0652369/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d92ab7774f384ca996aff2d9d0652369
+run_name: resilient-colt-369
+run_uuid: d92ab7774f384ca996aff2d9d0652369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552097933
+status: 1
+tags: []
+user_id: unknown

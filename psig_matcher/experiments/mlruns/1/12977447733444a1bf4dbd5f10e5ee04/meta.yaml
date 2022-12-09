@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/12977447733444a1bf4dbd5f10e5ee04/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 12977447733444a1bf4dbd5f10e5ee04
+run_name: nebulous-ape-186
+run_uuid: 12977447733444a1bf4dbd5f10e5ee04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552093220
+status: 1
+tags: []
+user_id: unknown

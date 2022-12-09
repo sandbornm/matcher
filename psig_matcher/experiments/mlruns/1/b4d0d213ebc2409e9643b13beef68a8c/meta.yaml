@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b4d0d213ebc2409e9643b13beef68a8c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b4d0d213ebc2409e9643b13beef68a8c
+run_name: sincere-zebra-646
+run_uuid: b4d0d213ebc2409e9643b13beef68a8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552170101
+status: 1
+tags: []
+user_id: unknown

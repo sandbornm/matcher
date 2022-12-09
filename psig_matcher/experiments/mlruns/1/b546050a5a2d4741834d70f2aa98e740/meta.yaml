@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b546050a5a2d4741834d70f2aa98e740/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b546050a5a2d4741834d70f2aa98e740
+run_name: wistful-smelt-401
+run_uuid: b546050a5a2d4741834d70f2aa98e740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552117805
+status: 1
+tags: []
+user_id: unknown

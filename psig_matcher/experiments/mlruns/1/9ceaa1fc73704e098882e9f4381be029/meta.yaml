@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9ceaa1fc73704e098882e9f4381be029/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9ceaa1fc73704e098882e9f4381be029
+run_name: charming-cub-519
+run_uuid: 9ceaa1fc73704e098882e9f4381be029
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552143127
+status: 1
+tags: []
+user_id: unknown

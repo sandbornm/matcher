@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/260be5e22d6e4f2e9030df22c0bfa2ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 260be5e22d6e4f2e9030df22c0bfa2ef
+run_name: inquisitive-boar-61
+run_uuid: 260be5e22d6e4f2e9030df22c0bfa2ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552255724
+status: 1
+tags: []
+user_id: unknown

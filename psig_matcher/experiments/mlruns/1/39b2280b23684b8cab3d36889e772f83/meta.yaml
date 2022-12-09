@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/39b2280b23684b8cab3d36889e772f83/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 39b2280b23684b8cab3d36889e772f83
+run_name: ambitious-mule-291
+run_uuid: 39b2280b23684b8cab3d36889e772f83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552150546
+status: 1
+tags: []
+user_id: unknown

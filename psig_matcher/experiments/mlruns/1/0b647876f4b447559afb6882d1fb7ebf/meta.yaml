@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0b647876f4b447559afb6882d1fb7ebf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0b647876f4b447559afb6882d1fb7ebf
+run_name: placid-elk-347
+run_uuid: 0b647876f4b447559afb6882d1fb7ebf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552108935
+status: 1
+tags: []
+user_id: unknown

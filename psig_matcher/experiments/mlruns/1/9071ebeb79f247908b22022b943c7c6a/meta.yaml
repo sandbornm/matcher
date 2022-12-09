@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9071ebeb79f247908b22022b943c7c6a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9071ebeb79f247908b22022b943c7c6a
+run_name: selective-crow-305
+run_uuid: 9071ebeb79f247908b22022b943c7c6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552138157
+status: 1
+tags: []
+user_id: unknown

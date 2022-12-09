@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b009b2d04f2842b983ad15cf61de8d01/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b009b2d04f2842b983ad15cf61de8d01
+run_name: brawny-trout-896
+run_uuid: b009b2d04f2842b983ad15cf61de8d01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552147982
+status: 1
+tags: []
+user_id: unknown

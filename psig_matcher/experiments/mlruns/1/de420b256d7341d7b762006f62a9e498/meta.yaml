@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/de420b256d7341d7b762006f62a9e498/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: de420b256d7341d7b762006f62a9e498
+run_name: rogue-cod-391
+run_uuid: de420b256d7341d7b762006f62a9e498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552197892
+status: 1
+tags: []
+user_id: unknown

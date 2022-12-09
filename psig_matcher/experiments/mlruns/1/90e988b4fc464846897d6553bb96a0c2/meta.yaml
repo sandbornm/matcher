@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/90e988b4fc464846897d6553bb96a0c2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 90e988b4fc464846897d6553bb96a0c2
+run_name: skillful-mare-238
+run_uuid: 90e988b4fc464846897d6553bb96a0c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552183746
+status: 1
+tags: []
+user_id: unknown

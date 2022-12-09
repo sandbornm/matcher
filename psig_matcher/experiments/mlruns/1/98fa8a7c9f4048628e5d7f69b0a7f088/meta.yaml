@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/98fa8a7c9f4048628e5d7f69b0a7f088/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 98fa8a7c9f4048628e5d7f69b0a7f088
+run_name: powerful-flea-358
+run_uuid: 98fa8a7c9f4048628e5d7f69b0a7f088
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552138360
+status: 1
+tags: []
+user_id: unknown

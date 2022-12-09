@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ed542f964ab74591bbcba846df833eba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ed542f964ab74591bbcba846df833eba
+run_name: popular-lark-347
+run_uuid: ed542f964ab74591bbcba846df833eba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552140704
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b891efd26cbe4247b2b1bca6e3381abf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b891efd26cbe4247b2b1bca6e3381abf
+run_name: gentle-dolphin-391
+run_uuid: b891efd26cbe4247b2b1bca6e3381abf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552147842
+status: 1
+tags: []
+user_id: unknown

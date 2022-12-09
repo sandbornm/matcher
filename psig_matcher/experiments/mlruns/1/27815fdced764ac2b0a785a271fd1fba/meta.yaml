@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/27815fdced764ac2b0a785a271fd1fba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 27815fdced764ac2b0a785a271fd1fba
+run_name: defiant-crab-46
+run_uuid: 27815fdced764ac2b0a785a271fd1fba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552175233
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0c674b3c7650441a93f31d19ad7f2d2b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0c674b3c7650441a93f31d19ad7f2d2b
+run_name: upbeat-elk-774
+run_uuid: 0c674b3c7650441a93f31d19ad7f2d2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552212277
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d9e52f8a9ec44d62ad6d6d5d6c38abd9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d9e52f8a9ec44d62ad6d6d5d6c38abd9
+run_name: zealous-worm-886
+run_uuid: d9e52f8a9ec44d62ad6d6d5d6c38abd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552093114
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e585405de13d4ca9bf69c23959521c99/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e585405de13d4ca9bf69c23959521c99
+run_name: bemused-pug-694
+run_uuid: e585405de13d4ca9bf69c23959521c99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552090604
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cff10e42d3304d7391e58eebc7c22dee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cff10e42d3304d7391e58eebc7c22dee
+run_name: calm-midge-453
+run_uuid: cff10e42d3304d7391e58eebc7c22dee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552087162
+status: 1
+tags: []
+user_id: unknown

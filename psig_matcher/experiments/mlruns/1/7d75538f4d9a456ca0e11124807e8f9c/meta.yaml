@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7d75538f4d9a456ca0e11124807e8f9c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7d75538f4d9a456ca0e11124807e8f9c
+run_name: efficient-croc-595
+run_uuid: 7d75538f4d9a456ca0e11124807e8f9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552144790
+status: 1
+tags: []
+user_id: unknown

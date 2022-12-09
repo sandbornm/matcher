@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4846ab15c2b14490b811467df09e1ce9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4846ab15c2b14490b811467df09e1ce9
+run_name: big-moose-701
+run_uuid: 4846ab15c2b14490b811467df09e1ce9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552248755
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/206a01772b2e4ea384b1f574934b7359/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 206a01772b2e4ea384b1f574934b7359
+run_name: rogue-cub-587
+run_uuid: 206a01772b2e4ea384b1f574934b7359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552100366
+status: 1
+tags: []
+user_id: unknown

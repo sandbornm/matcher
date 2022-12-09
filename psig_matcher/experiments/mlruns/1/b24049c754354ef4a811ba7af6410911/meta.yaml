@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b24049c754354ef4a811ba7af6410911/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b24049c754354ef4a811ba7af6410911
+run_name: lyrical-doe-562
+run_uuid: b24049c754354ef4a811ba7af6410911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552099970
+status: 1
+tags: []
+user_id: unknown

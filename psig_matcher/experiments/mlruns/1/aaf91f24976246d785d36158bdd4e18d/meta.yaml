@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/aaf91f24976246d785d36158bdd4e18d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aaf91f24976246d785d36158bdd4e18d
+run_name: respected-worm-173
+run_uuid: aaf91f24976246d785d36158bdd4e18d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552096155
+status: 1
+tags: []
+user_id: unknown

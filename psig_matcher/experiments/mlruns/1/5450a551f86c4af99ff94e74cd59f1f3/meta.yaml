@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5450a551f86c4af99ff94e74cd59f1f3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5450a551f86c4af99ff94e74cd59f1f3
+run_name: nervous-cow-589
+run_uuid: 5450a551f86c4af99ff94e74cd59f1f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552124337
+status: 1
+tags: []
+user_id: unknown

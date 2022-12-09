@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/aaff323eddcd4123a584de4b31629d35/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aaff323eddcd4123a584de4b31629d35
+run_name: debonair-sponge-604
+run_uuid: aaff323eddcd4123a584de4b31629d35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552194367
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f7e764cb9f484da382dffc83de0070ca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f7e764cb9f484da382dffc83de0070ca
+run_name: unique-rook-310
+run_uuid: f7e764cb9f484da382dffc83de0070ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552222080
+status: 1
+tags: []
+user_id: unknown

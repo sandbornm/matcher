@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2d54c6a9463743e0a13f0cfee157bde0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2d54c6a9463743e0a13f0cfee157bde0
+run_name: auspicious-chimp-152
+run_uuid: 2d54c6a9463743e0a13f0cfee157bde0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552137764
+status: 1
+tags: []
+user_id: unknown

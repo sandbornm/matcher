@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/86457e20d37d4b7e9080478eb02e448f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 86457e20d37d4b7e9080478eb02e448f
+run_name: debonair-trout-883
+run_uuid: 86457e20d37d4b7e9080478eb02e448f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552257787
+status: 1
+tags: []
+user_id: unknown

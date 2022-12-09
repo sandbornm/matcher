@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0b2a916e96d54c2f910558cff9e6a26a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0b2a916e96d54c2f910558cff9e6a26a
+run_name: legendary-croc-100
+run_uuid: 0b2a916e96d54c2f910558cff9e6a26a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552085759
+status: 1
+tags: []
+user_id: unknown

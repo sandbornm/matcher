@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/809e4cef35f5485a8b3904bd5ffb0580/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 809e4cef35f5485a8b3904bd5ffb0580
+run_name: painted-seal-346
+run_uuid: 809e4cef35f5485a8b3904bd5ffb0580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552086344
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d860306c33284c3e882fc1e9f3bb2e18/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d860306c33284c3e882fc1e9f3bb2e18
+run_name: trusting-crow-36
+run_uuid: d860306c33284c3e882fc1e9f3bb2e18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552210560
+status: 1
+tags: []
+user_id: unknown

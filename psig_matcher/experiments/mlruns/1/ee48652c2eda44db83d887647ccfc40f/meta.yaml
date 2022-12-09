@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ee48652c2eda44db83d887647ccfc40f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ee48652c2eda44db83d887647ccfc40f
+run_name: suave-worm-3
+run_uuid: ee48652c2eda44db83d887647ccfc40f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552162891
+status: 1
+tags: []
+user_id: unknown

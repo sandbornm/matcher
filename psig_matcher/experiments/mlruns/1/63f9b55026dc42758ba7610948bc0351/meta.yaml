@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/63f9b55026dc42758ba7610948bc0351/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 63f9b55026dc42758ba7610948bc0351
+run_name: invincible-kite-402
+run_uuid: 63f9b55026dc42758ba7610948bc0351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552210831
+status: 1
+tags: []
+user_id: unknown

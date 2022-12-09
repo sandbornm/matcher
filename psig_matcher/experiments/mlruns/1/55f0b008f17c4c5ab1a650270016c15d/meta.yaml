@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/55f0b008f17c4c5ab1a650270016c15d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 55f0b008f17c4c5ab1a650270016c15d
+run_name: victorious-gull-201
+run_uuid: 55f0b008f17c4c5ab1a650270016c15d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552088665
+status: 1
+tags: []
+user_id: unknown

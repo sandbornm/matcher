@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7d18d26284754696a5d51de75b3abd83/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7d18d26284754696a5d51de75b3abd83
+run_name: wise-ape-817
+run_uuid: 7d18d26284754696a5d51de75b3abd83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552098151
+status: 1
+tags: []
+user_id: unknown

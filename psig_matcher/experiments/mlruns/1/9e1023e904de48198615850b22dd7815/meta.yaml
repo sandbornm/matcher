@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9e1023e904de48198615850b22dd7815/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9e1023e904de48198615850b22dd7815
+run_name: enchanting-kit-852
+run_uuid: 9e1023e904de48198615850b22dd7815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552181054
+status: 1
+tags: []
+user_id: unknown

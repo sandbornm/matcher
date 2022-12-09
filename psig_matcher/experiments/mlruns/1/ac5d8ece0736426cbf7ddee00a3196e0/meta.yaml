@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ac5d8ece0736426cbf7ddee00a3196e0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ac5d8ece0736426cbf7ddee00a3196e0
+run_name: melodic-stoat-203
+run_uuid: ac5d8ece0736426cbf7ddee00a3196e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552104317
+status: 1
+tags: []
+user_id: unknown

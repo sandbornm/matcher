@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7102bdc09bbb40cea11ea64099a7d0cc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7102bdc09bbb40cea11ea64099a7d0cc
+run_name: wistful-wolf-744
+run_uuid: 7102bdc09bbb40cea11ea64099a7d0cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552137513
+status: 1
+tags: []
+user_id: unknown

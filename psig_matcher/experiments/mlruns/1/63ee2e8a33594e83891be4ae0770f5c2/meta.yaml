@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/63ee2e8a33594e83891be4ae0770f5c2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 63ee2e8a33594e83891be4ae0770f5c2
+run_name: brawny-grub-249
+run_uuid: 63ee2e8a33594e83891be4ae0770f5c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552255529
+status: 1
+tags: []
+user_id: unknown

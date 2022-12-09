@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9329f8c0deae4d219bd94584e530bde1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9329f8c0deae4d219bd94584e530bde1
+run_name: spiffy-sheep-565
+run_uuid: 9329f8c0deae4d219bd94584e530bde1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552237494
+status: 1
+tags: []
+user_id: unknown

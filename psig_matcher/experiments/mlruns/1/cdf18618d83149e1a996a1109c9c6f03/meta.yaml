@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cdf18618d83149e1a996a1109c9c6f03/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cdf18618d83149e1a996a1109c9c6f03
+run_name: polite-flea-473
+run_uuid: cdf18618d83149e1a996a1109c9c6f03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552104712
+status: 1
+tags: []
+user_id: unknown

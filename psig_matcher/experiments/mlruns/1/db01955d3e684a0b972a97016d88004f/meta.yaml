@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/db01955d3e684a0b972a97016d88004f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: db01955d3e684a0b972a97016d88004f
+run_name: likeable-toad-442
+run_uuid: db01955d3e684a0b972a97016d88004f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552154514
+status: 1
+tags: []
+user_id: unknown

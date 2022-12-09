@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2b3aa2c5b6554780882cbc856ee89d6b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2b3aa2c5b6554780882cbc856ee89d6b
+run_name: worried-bat-861
+run_uuid: 2b3aa2c5b6554780882cbc856ee89d6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552263966
+status: 1
+tags: []
+user_id: unknown

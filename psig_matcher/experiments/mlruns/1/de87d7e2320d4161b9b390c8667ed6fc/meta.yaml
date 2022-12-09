@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/de87d7e2320d4161b9b390c8667ed6fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: de87d7e2320d4161b9b390c8667ed6fc
+run_name: bittersweet-mare-633
+run_uuid: de87d7e2320d4161b9b390c8667ed6fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552139650
+status: 1
+tags: []
+user_id: unknown

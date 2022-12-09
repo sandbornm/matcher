@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8e7fd35e93094a929daeaa7bb5db57fe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8e7fd35e93094a929daeaa7bb5db57fe
+run_name: incongruous-duck-87
+run_uuid: 8e7fd35e93094a929daeaa7bb5db57fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552085563
+status: 1
+tags: []
+user_id: unknown

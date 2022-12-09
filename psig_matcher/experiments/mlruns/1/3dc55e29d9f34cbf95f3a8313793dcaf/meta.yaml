@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3dc55e29d9f34cbf95f3a8313793dcaf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3dc55e29d9f34cbf95f3a8313793dcaf
+run_name: bold-sheep-941
+run_uuid: 3dc55e29d9f34cbf95f3a8313793dcaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552162209
+status: 1
+tags: []
+user_id: unknown

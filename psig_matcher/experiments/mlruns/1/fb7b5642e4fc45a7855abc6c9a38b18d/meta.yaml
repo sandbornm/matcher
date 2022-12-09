@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/fb7b5642e4fc45a7855abc6c9a38b18d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fb7b5642e4fc45a7855abc6c9a38b18d
+run_name: funny-penguin-80
+run_uuid: fb7b5642e4fc45a7855abc6c9a38b18d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552090216
+status: 1
+tags: []
+user_id: unknown

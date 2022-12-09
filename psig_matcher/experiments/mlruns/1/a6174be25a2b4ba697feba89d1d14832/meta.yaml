@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a6174be25a2b4ba697feba89d1d14832/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a6174be25a2b4ba697feba89d1d14832
+run_name: handsome-kite-511
+run_uuid: a6174be25a2b4ba697feba89d1d14832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552247977
+status: 1
+tags: []
+user_id: unknown

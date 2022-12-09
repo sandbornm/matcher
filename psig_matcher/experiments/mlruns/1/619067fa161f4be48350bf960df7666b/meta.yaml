@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/619067fa161f4be48350bf960df7666b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 619067fa161f4be48350bf960df7666b
+run_name: resilient-fawn-988
+run_uuid: 619067fa161f4be48350bf960df7666b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552109268
+status: 1
+tags: []
+user_id: unknown

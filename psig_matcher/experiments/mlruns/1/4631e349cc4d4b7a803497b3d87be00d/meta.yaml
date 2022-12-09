@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4631e349cc4d4b7a803497b3d87be00d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4631e349cc4d4b7a803497b3d87be00d
+run_name: intelligent-tern-659
+run_uuid: 4631e349cc4d4b7a803497b3d87be00d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552109797
+status: 1
+tags: []
+user_id: unknown

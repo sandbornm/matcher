@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6515fe1d035c493d860d4cccc22e2083/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6515fe1d035c493d860d4cccc22e2083
+run_name: delicate-donkey-141
+run_uuid: 6515fe1d035c493d860d4cccc22e2083
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552210623
+status: 1
+tags: []
+user_id: unknown

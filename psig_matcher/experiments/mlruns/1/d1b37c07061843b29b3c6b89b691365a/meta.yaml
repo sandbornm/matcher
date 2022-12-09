@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d1b37c07061843b29b3c6b89b691365a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d1b37c07061843b29b3c6b89b691365a
+run_name: nosy-squirrel-821
+run_uuid: d1b37c07061843b29b3c6b89b691365a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552151093
+status: 1
+tags: []
+user_id: unknown

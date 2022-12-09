@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b75a6cbba1004a41a8c386e7d223f77c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b75a6cbba1004a41a8c386e7d223f77c
+run_name: nervous-dolphin-248
+run_uuid: b75a6cbba1004a41a8c386e7d223f77c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552192676
+status: 1
+tags: []
+user_id: unknown

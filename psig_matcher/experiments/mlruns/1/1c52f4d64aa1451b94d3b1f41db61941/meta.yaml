@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1c52f4d64aa1451b94d3b1f41db61941/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1c52f4d64aa1451b94d3b1f41db61941
+run_name: upset-fawn-643
+run_uuid: 1c52f4d64aa1451b94d3b1f41db61941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552179936
+status: 1
+tags: []
+user_id: unknown

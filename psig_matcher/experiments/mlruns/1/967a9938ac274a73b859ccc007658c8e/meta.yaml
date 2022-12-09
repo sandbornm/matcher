@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/967a9938ac274a73b859ccc007658c8e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 967a9938ac274a73b859ccc007658c8e
+run_name: popular-hawk-247
+run_uuid: 967a9938ac274a73b859ccc007658c8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552088628
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/87924e0dceac431b8a0a678cab26eeea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 87924e0dceac431b8a0a678cab26eeea
+run_name: caring-hare-445
+run_uuid: 87924e0dceac431b8a0a678cab26eeea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552098792
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bc36d88b553745b4bf9e30cbef406f26/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bc36d88b553745b4bf9e30cbef406f26
+run_name: big-stag-287
+run_uuid: bc36d88b553745b4bf9e30cbef406f26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552179741
+status: 1
+tags: []
+user_id: unknown

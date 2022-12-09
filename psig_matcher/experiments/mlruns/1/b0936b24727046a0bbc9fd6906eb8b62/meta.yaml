@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b0936b24727046a0bbc9fd6906eb8b62/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b0936b24727046a0bbc9fd6906eb8b62
+run_name: learned-tern-138
+run_uuid: b0936b24727046a0bbc9fd6906eb8b62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552090732
+status: 1
+tags: []
+user_id: unknown

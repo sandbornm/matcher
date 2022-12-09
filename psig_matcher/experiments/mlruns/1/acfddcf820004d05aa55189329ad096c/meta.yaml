@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/acfddcf820004d05aa55189329ad096c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: acfddcf820004d05aa55189329ad096c
+run_name: valuable-wren-233
+run_uuid: acfddcf820004d05aa55189329ad096c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552239323
+status: 1
+tags: []
+user_id: unknown

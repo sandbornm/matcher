@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4e6f8a5f85f04ab694cbdb7a9361d31f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4e6f8a5f85f04ab694cbdb7a9361d31f
+run_name: languid-crane-954
+run_uuid: 4e6f8a5f85f04ab694cbdb7a9361d31f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552149490
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f6b9393415fc442792571e300887738a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f6b9393415fc442792571e300887738a
+run_name: sedate-ox-948
+run_uuid: f6b9393415fc442792571e300887738a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552094882
+status: 1
+tags: []
+user_id: unknown

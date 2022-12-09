@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e560d5099ce54d07a82062bd39c6399e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e560d5099ce54d07a82062bd39c6399e
+run_name: dashing-goat-446
+run_uuid: e560d5099ce54d07a82062bd39c6399e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552100084
+status: 1
+tags: []
+user_id: unknown

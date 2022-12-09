@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0d4f3918cc8740fe831a5bae4bda8968/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0d4f3918cc8740fe831a5bae4bda8968
+run_name: melodic-fish-109
+run_uuid: 0d4f3918cc8740fe831a5bae4bda8968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552172490
+status: 1
+tags: []
+user_id: unknown

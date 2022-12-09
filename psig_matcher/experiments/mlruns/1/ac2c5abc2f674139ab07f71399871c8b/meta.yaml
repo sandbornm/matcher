@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ac2c5abc2f674139ab07f71399871c8b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ac2c5abc2f674139ab07f71399871c8b
+run_name: whimsical-rook-91
+run_uuid: ac2c5abc2f674139ab07f71399871c8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552129095
+status: 1
+tags: []
+user_id: unknown

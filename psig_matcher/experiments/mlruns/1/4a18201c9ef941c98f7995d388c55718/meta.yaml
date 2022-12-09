@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4a18201c9ef941c98f7995d388c55718/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4a18201c9ef941c98f7995d388c55718
+run_name: selective-asp-185
+run_uuid: 4a18201c9ef941c98f7995d388c55718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552096360
+status: 1
+tags: []
+user_id: unknown

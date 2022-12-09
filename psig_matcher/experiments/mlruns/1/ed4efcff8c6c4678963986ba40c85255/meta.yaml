@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ed4efcff8c6c4678963986ba40c85255/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ed4efcff8c6c4678963986ba40c85255
+run_name: auspicious-mink-597
+run_uuid: ed4efcff8c6c4678963986ba40c85255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552112085
+status: 1
+tags: []
+user_id: unknown

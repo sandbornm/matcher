@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d59243b0a9d44ea5a4783a09da127df7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d59243b0a9d44ea5a4783a09da127df7
+run_name: learned-robin-614
+run_uuid: d59243b0a9d44ea5a4783a09da127df7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552233696
+status: 1
+tags: []
+user_id: unknown

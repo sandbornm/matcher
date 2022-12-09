@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c9cf7a8bb80f4b659766532c72fa9486/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c9cf7a8bb80f4b659766532c72fa9486
+run_name: clean-grub-679
+run_uuid: c9cf7a8bb80f4b659766532c72fa9486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552131539
+status: 1
+tags: []
+user_id: unknown

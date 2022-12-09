@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/981030812e5c4a34b0fbbb0b444da8ec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 981030812e5c4a34b0fbbb0b444da8ec
+run_name: gregarious-croc-527
+run_uuid: 981030812e5c4a34b0fbbb0b444da8ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552205205
+status: 1
+tags: []
+user_id: unknown

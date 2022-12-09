@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f2b8fd5c300846dd814c993c31a67814/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f2b8fd5c300846dd814c993c31a67814
+run_name: salty-gnu-624
+run_uuid: f2b8fd5c300846dd814c993c31a67814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552091751
+status: 1
+tags: []
+user_id: unknown

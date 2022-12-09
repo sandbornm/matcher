@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/24736033a7bd49a0b9ca20929f49d9b0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 24736033a7bd49a0b9ca20929f49d9b0
+run_name: colorful-ray-59
+run_uuid: 24736033a7bd49a0b9ca20929f49d9b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552114401
+status: 1
+tags: []
+user_id: unknown

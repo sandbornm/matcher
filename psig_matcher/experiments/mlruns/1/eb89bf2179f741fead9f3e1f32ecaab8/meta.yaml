@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/eb89bf2179f741fead9f3e1f32ecaab8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb89bf2179f741fead9f3e1f32ecaab8
+run_name: salty-crow-237
+run_uuid: eb89bf2179f741fead9f3e1f32ecaab8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552243304
+status: 1
+tags: []
+user_id: unknown

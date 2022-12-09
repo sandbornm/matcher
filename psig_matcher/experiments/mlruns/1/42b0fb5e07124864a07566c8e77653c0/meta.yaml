@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/42b0fb5e07124864a07566c8e77653c0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 42b0fb5e07124864a07566c8e77653c0
+run_name: nosy-shrew-908
+run_uuid: 42b0fb5e07124864a07566c8e77653c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552117767
+status: 1
+tags: []
+user_id: unknown

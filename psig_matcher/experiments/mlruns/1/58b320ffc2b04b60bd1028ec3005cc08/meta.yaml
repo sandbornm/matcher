@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/58b320ffc2b04b60bd1028ec3005cc08/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 58b320ffc2b04b60bd1028ec3005cc08
+run_name: languid-bug-827
+run_uuid: 58b320ffc2b04b60bd1028ec3005cc08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552139864
+status: 1
+tags: []
+user_id: unknown

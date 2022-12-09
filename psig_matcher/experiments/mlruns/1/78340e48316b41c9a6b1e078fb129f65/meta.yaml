@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/78340e48316b41c9a6b1e078fb129f65/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 78340e48316b41c9a6b1e078fb129f65
+run_name: popular-lynx-124
+run_uuid: 78340e48316b41c9a6b1e078fb129f65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552232796
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/65f153cec25d489fa2987be674a5027a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 65f153cec25d489fa2987be674a5027a
+run_name: rogue-vole-954
+run_uuid: 65f153cec25d489fa2987be674a5027a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552208347
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a402513974a64522a09362029ca77b5a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a402513974a64522a09362029ca77b5a
+run_name: painted-mole-648
+run_uuid: a402513974a64522a09362029ca77b5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552129547
+status: 1
+tags: []
+user_id: unknown

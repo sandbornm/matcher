@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b51d6ff99ce04be5be9e7bcf3c60173b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b51d6ff99ce04be5be9e7bcf3c60173b
+run_name: classy-lark-503
+run_uuid: b51d6ff99ce04be5be9e7bcf3c60173b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552139237
+status: 1
+tags: []
+user_id: unknown

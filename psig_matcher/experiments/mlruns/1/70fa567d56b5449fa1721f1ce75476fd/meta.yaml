@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/70fa567d56b5449fa1721f1ce75476fd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 70fa567d56b5449fa1721f1ce75476fd
+run_name: peaceful-panda-790
+run_uuid: 70fa567d56b5449fa1721f1ce75476fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552095160
+status: 1
+tags: []
+user_id: unknown

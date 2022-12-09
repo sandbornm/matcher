@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bcd6f5e7588c4a4ebc09c6752333ba08/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bcd6f5e7588c4a4ebc09c6752333ba08
+run_name: polite-pig-865
+run_uuid: bcd6f5e7588c4a4ebc09c6752333ba08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552090132
+status: 1
+tags: []
+user_id: unknown

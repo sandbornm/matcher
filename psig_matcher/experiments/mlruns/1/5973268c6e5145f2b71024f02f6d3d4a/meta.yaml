@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5973268c6e5145f2b71024f02f6d3d4a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5973268c6e5145f2b71024f02f6d3d4a
+run_name: defiant-newt-920
+run_uuid: 5973268c6e5145f2b71024f02f6d3d4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552099850
+status: 1
+tags: []
+user_id: unknown

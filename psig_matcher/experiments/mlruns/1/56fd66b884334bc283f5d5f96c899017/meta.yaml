@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/56fd66b884334bc283f5d5f96c899017/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 56fd66b884334bc283f5d5f96c899017
+run_name: unleashed-yak-63
+run_uuid: 56fd66b884334bc283f5d5f96c899017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552133250
+status: 1
+tags: []
+user_id: unknown

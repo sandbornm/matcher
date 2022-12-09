@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d25e94237b524125a7b1087ee4f191e7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d25e94237b524125a7b1087ee4f191e7
+run_name: bold-rook-593
+run_uuid: d25e94237b524125a7b1087ee4f191e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552086270
+status: 1
+tags: []
+user_id: unknown

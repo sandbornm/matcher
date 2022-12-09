@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/59e99f0cacb547f3a3409cbaff7bf3fb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 59e99f0cacb547f3a3409cbaff7bf3fb
+run_name: powerful-sponge-730
+run_uuid: 59e99f0cacb547f3a3409cbaff7bf3fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552096565
+status: 1
+tags: []
+user_id: unknown

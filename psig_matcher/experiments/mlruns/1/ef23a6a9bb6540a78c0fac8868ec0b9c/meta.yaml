@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ef23a6a9bb6540a78c0fac8868ec0b9c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ef23a6a9bb6540a78c0fac8868ec0b9c
+run_name: judicious-trout-825
+run_uuid: ef23a6a9bb6540a78c0fac8868ec0b9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552231640
+status: 1
+tags: []
+user_id: unknown

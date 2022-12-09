@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d650286a9fd4462dab43050b31d01eb7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d650286a9fd4462dab43050b31d01eb7
+run_name: crawling-pig-349
+run_uuid: d650286a9fd4462dab43050b31d01eb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552126468
+status: 1
+tags: []
+user_id: unknown

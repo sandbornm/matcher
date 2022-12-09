@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8eb90f8c947d4574a5758d8e60a62bf2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8eb90f8c947d4574a5758d8e60a62bf2
+run_name: awesome-bear-303
+run_uuid: 8eb90f8c947d4574a5758d8e60a62bf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552234739
+status: 1
+tags: []
+user_id: unknown

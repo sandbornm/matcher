@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c7809b8ab4d74770ab816d1291cf3d5f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c7809b8ab4d74770ab816d1291cf3d5f
+run_name: thundering-wren-869
+run_uuid: c7809b8ab4d74770ab816d1291cf3d5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552094110
+status: 1
+tags: []
+user_id: unknown

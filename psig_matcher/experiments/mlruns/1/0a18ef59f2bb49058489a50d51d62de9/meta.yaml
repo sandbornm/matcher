@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0a18ef59f2bb49058489a50d51d62de9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0a18ef59f2bb49058489a50d51d62de9
+run_name: thoughtful-fly-793
+run_uuid: 0a18ef59f2bb49058489a50d51d62de9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552178433
+status: 1
+tags: []
+user_id: unknown

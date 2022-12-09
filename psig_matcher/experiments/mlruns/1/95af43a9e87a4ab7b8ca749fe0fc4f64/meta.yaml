@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/95af43a9e87a4ab7b8ca749fe0fc4f64/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 95af43a9e87a4ab7b8ca749fe0fc4f64
+run_name: kindly-duck-844
+run_uuid: 95af43a9e87a4ab7b8ca749fe0fc4f64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552152171
+status: 1
+tags: []
+user_id: unknown

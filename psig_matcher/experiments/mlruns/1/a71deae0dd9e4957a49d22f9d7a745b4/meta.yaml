@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a71deae0dd9e4957a49d22f9d7a745b4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a71deae0dd9e4957a49d22f9d7a745b4
+run_name: defiant-frog-468
+run_uuid: a71deae0dd9e4957a49d22f9d7a745b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552255128
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ca2cfecdd6f64f4981c59bd907168845/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca2cfecdd6f64f4981c59bd907168845
+run_name: rebellious-cod-373
+run_uuid: ca2cfecdd6f64f4981c59bd907168845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552095514
+status: 1
+tags: []
+user_id: unknown

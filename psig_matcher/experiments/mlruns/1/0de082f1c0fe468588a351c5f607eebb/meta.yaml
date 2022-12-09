@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0de082f1c0fe468588a351c5f607eebb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0de082f1c0fe468588a351c5f607eebb
+run_name: classy-sow-429
+run_uuid: 0de082f1c0fe468588a351c5f607eebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552096973
+status: 1
+tags: []
+user_id: unknown

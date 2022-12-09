@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/52096d3951b24958bd7f95ea02e55245/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 52096d3951b24958bd7f95ea02e55245
+run_name: dapper-horse-977
+run_uuid: 52096d3951b24958bd7f95ea02e55245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552268205
+status: 1
+tags: []
+user_id: unknown

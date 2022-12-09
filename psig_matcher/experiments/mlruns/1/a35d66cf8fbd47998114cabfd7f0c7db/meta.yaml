@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a35d66cf8fbd47998114cabfd7f0c7db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a35d66cf8fbd47998114cabfd7f0c7db
+run_name: funny-yak-883
+run_uuid: a35d66cf8fbd47998114cabfd7f0c7db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552209682
+status: 1
+tags: []
+user_id: unknown

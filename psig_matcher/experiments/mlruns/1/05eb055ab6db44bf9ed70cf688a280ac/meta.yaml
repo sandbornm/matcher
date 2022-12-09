@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/05eb055ab6db44bf9ed70cf688a280ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 05eb055ab6db44bf9ed70cf688a280ac
+run_name: sincere-ant-891
+run_uuid: 05eb055ab6db44bf9ed70cf688a280ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552197847
+status: 1
+tags: []
+user_id: unknown

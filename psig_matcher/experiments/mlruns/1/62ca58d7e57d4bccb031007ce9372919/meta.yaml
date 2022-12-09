@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/62ca58d7e57d4bccb031007ce9372919/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 62ca58d7e57d4bccb031007ce9372919
+run_name: melodic-mouse-533
+run_uuid: 62ca58d7e57d4bccb031007ce9372919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552110054
+status: 1
+tags: []
+user_id: unknown

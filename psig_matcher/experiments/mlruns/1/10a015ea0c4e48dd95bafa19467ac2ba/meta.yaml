@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/10a015ea0c4e48dd95bafa19467ac2ba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 10a015ea0c4e48dd95bafa19467ac2ba
+run_name: serious-cub-595
+run_uuid: 10a015ea0c4e48dd95bafa19467ac2ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552087471
+status: 1
+tags: []
+user_id: unknown

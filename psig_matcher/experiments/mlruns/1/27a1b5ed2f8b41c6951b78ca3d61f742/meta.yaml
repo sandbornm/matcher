@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/27a1b5ed2f8b41c6951b78ca3d61f742/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 27a1b5ed2f8b41c6951b78ca3d61f742
+run_name: gentle-kite-663
+run_uuid: 27a1b5ed2f8b41c6951b78ca3d61f742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552207972
+status: 1
+tags: []
+user_id: unknown

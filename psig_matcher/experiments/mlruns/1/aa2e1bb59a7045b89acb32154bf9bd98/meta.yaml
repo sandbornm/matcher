@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/aa2e1bb59a7045b89acb32154bf9bd98/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aa2e1bb59a7045b89acb32154bf9bd98
+run_name: sedate-cub-305
+run_uuid: aa2e1bb59a7045b89acb32154bf9bd98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552146996
+status: 1
+tags: []
+user_id: unknown

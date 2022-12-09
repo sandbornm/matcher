@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/91ef49c9b5a14045aebc1559608dc12f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 91ef49c9b5a14045aebc1559608dc12f
+run_name: classy-mink-503
+run_uuid: 91ef49c9b5a14045aebc1559608dc12f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552166946
+status: 1
+tags: []
+user_id: unknown

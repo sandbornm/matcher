@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/702cf875825849dd95ca61bae4757694/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 702cf875825849dd95ca61bae4757694
+run_name: learned-ox-771
+run_uuid: 702cf875825849dd95ca61bae4757694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552192096
+status: 1
+tags: []
+user_id: unknown

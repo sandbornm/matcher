@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/feb7e6f944834d5b995bb24784c336c2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: feb7e6f944834d5b995bb24784c336c2
+run_name: shivering-bug-181
+run_uuid: feb7e6f944834d5b995bb24784c336c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552130899
+status: 1
+tags: []
+user_id: unknown

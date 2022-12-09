@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/46d5bc2c43014a279d34f2828603e7bb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 46d5bc2c43014a279d34f2828603e7bb
+run_name: dapper-goose-417
+run_uuid: 46d5bc2c43014a279d34f2828603e7bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552210668
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a2ac99f3e58f4b7ea44dc5570daaf5c8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a2ac99f3e58f4b7ea44dc5570daaf5c8
+run_name: industrious-finch-63
+run_uuid: a2ac99f3e58f4b7ea44dc5570daaf5c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552156130
+status: 1
+tags: []
+user_id: unknown

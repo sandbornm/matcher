@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/19e7cf02cdc84f6f8d328b1b9b0b1aa2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 19e7cf02cdc84f6f8d328b1b9b0b1aa2
+run_name: silent-ray-222
+run_uuid: 19e7cf02cdc84f6f8d328b1b9b0b1aa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552127688
+status: 1
+tags: []
+user_id: unknown

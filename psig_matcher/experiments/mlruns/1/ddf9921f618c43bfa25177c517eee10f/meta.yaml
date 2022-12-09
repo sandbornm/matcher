@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ddf9921f618c43bfa25177c517eee10f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ddf9921f618c43bfa25177c517eee10f
+run_name: melodic-cub-979
+run_uuid: ddf9921f618c43bfa25177c517eee10f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552182624
+status: 1
+tags: []
+user_id: unknown

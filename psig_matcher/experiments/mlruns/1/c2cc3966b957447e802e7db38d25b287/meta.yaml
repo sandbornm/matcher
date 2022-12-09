@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c2cc3966b957447e802e7db38d25b287/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c2cc3966b957447e802e7db38d25b287
+run_name: learned-goat-501
+run_uuid: c2cc3966b957447e802e7db38d25b287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552113072
+status: 1
+tags: []
+user_id: unknown

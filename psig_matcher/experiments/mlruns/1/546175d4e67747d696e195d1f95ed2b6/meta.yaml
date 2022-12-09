@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/546175d4e67747d696e195d1f95ed2b6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 546175d4e67747d696e195d1f95ed2b6
+run_name: sedate-moth-812
+run_uuid: 546175d4e67747d696e195d1f95ed2b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552105541
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/18f1c289384841bc8b0f0be026037c2c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 18f1c289384841bc8b0f0be026037c2c
+run_name: sneaky-lynx-886
+run_uuid: 18f1c289384841bc8b0f0be026037c2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552247951
+status: 1
+tags: []
+user_id: unknown

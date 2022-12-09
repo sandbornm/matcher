@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5cd2c8169bd84f90b5a584c9cef36deb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5cd2c8169bd84f90b5a584c9cef36deb
+run_name: able-horse-482
+run_uuid: 5cd2c8169bd84f90b5a584c9cef36deb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552123616
+status: 1
+tags: []
+user_id: unknown

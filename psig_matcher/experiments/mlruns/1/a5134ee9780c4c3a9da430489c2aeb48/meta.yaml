@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a5134ee9780c4c3a9da430489c2aeb48/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a5134ee9780c4c3a9da430489c2aeb48
+run_name: overjoyed-bug-342
+run_uuid: a5134ee9780c4c3a9da430489c2aeb48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552123127
+status: 1
+tags: []
+user_id: unknown

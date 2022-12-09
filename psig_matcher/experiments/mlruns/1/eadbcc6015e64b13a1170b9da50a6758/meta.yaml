@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/eadbcc6015e64b13a1170b9da50a6758/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eadbcc6015e64b13a1170b9da50a6758
+run_name: stylish-rat-838
+run_uuid: eadbcc6015e64b13a1170b9da50a6758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552166460
+status: 1
+tags: []
+user_id: unknown

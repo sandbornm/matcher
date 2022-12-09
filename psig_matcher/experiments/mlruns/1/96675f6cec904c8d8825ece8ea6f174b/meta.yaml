@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/96675f6cec904c8d8825ece8ea6f174b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 96675f6cec904c8d8825ece8ea6f174b
+run_name: fearless-wren-565
+run_uuid: 96675f6cec904c8d8825ece8ea6f174b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552105617
+status: 1
+tags: []
+user_id: unknown

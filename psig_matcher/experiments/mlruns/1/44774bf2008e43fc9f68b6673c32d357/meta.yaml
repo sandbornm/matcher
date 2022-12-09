@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/44774bf2008e43fc9f68b6673c32d357/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 44774bf2008e43fc9f68b6673c32d357
+run_name: sneaky-wolf-945
+run_uuid: 44774bf2008e43fc9f68b6673c32d357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552154841
+status: 1
+tags: []
+user_id: unknown

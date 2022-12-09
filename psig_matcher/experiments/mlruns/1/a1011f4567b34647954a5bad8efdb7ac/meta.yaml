@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a1011f4567b34647954a5bad8efdb7ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a1011f4567b34647954a5bad8efdb7ac
+run_name: spiffy-penguin-881
+run_uuid: a1011f4567b34647954a5bad8efdb7ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552086329
+status: 1
+tags: []
+user_id: unknown

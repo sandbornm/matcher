@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a04b1901f1434c0f8689afffc526e9bb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a04b1901f1434c0f8689afffc526e9bb
+run_name: masked-smelt-61
+run_uuid: a04b1901f1434c0f8689afffc526e9bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552156093
+status: 1
+tags: []
+user_id: unknown

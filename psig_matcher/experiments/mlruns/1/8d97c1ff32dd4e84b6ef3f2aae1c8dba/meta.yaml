@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8d97c1ff32dd4e84b6ef3f2aae1c8dba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8d97c1ff32dd4e84b6ef3f2aae1c8dba
+run_name: chill-hound-134
+run_uuid: 8d97c1ff32dd4e84b6ef3f2aae1c8dba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552088099
+status: 1
+tags: []
+user_id: unknown

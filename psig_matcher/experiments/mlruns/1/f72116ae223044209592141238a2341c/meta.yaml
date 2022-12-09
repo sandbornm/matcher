@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f72116ae223044209592141238a2341c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f72116ae223044209592141238a2341c
+run_name: funny-lynx-650
+run_uuid: f72116ae223044209592141238a2341c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552180585
+status: 1
+tags: []
+user_id: unknown

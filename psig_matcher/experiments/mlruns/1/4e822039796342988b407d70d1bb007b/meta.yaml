@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4e822039796342988b407d70d1bb007b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4e822039796342988b407d70d1bb007b
+run_name: capricious-owl-403
+run_uuid: 4e822039796342988b407d70d1bb007b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552165797
+status: 1
+tags: []
+user_id: unknown

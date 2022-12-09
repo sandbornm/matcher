@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3a459a7a36704c09a8a305fedba2010c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3a459a7a36704c09a8a305fedba2010c
+run_name: debonair-turtle-218
+run_uuid: 3a459a7a36704c09a8a305fedba2010c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552142149
+status: 1
+tags: []
+user_id: unknown

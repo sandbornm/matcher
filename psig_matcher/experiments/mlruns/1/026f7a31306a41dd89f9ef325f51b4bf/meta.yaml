@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/026f7a31306a41dd89f9ef325f51b4bf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 026f7a31306a41dd89f9ef325f51b4bf
+run_name: fortunate-deer-671
+run_uuid: 026f7a31306a41dd89f9ef325f51b4bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552089785
+status: 1
+tags: []
+user_id: unknown

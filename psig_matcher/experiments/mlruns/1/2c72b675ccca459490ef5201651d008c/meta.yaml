@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2c72b675ccca459490ef5201651d008c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2c72b675ccca459490ef5201651d008c
+run_name: stately-hawk-648
+run_uuid: 2c72b675ccca459490ef5201651d008c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552169012
+status: 1
+tags: []
+user_id: unknown

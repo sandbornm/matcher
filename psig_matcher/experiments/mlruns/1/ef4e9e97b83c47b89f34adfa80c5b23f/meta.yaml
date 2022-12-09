@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ef4e9e97b83c47b89f34adfa80c5b23f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ef4e9e97b83c47b89f34adfa80c5b23f
+run_name: thoughtful-hound-232
+run_uuid: ef4e9e97b83c47b89f34adfa80c5b23f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552210882
+status: 1
+tags: []
+user_id: unknown

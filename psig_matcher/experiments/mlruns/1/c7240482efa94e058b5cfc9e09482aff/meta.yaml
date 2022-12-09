@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c7240482efa94e058b5cfc9e09482aff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c7240482efa94e058b5cfc9e09482aff
+run_name: traveling-chimp-473
+run_uuid: c7240482efa94e058b5cfc9e09482aff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552175752
+status: 1
+tags: []
+user_id: unknown

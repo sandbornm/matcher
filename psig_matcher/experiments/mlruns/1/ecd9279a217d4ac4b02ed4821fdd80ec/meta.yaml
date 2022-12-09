@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ecd9279a217d4ac4b02ed4821fdd80ec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ecd9279a217d4ac4b02ed4821fdd80ec
+run_name: worried-lynx-797
+run_uuid: ecd9279a217d4ac4b02ed4821fdd80ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552261843
+status: 1
+tags: []
+user_id: unknown

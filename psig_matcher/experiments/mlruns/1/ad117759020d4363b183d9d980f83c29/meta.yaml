@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ad117759020d4363b183d9d980f83c29/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad117759020d4363b183d9d980f83c29
+run_name: efficient-dog-632
+run_uuid: ad117759020d4363b183d9d980f83c29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552090634
+status: 1
+tags: []
+user_id: unknown

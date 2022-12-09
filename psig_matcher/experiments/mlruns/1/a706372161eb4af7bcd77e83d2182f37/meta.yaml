@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a706372161eb4af7bcd77e83d2182f37/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a706372161eb4af7bcd77e83d2182f37
+run_name: placid-doe-414
+run_uuid: a706372161eb4af7bcd77e83d2182f37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552102300
+status: 1
+tags: []
+user_id: unknown

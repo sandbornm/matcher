@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a0963591b4b1466e983819ae7389c2a2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a0963591b4b1466e983819ae7389c2a2
+run_name: gregarious-stag-755
+run_uuid: a0963591b4b1466e983819ae7389c2a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552237569
+status: 1
+tags: []
+user_id: unknown

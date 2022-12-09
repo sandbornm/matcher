@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9547f4e7cb9b442792fa07598b83f0c5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9547f4e7cb9b442792fa07598b83f0c5
+run_name: puzzled-crab-869
+run_uuid: 9547f4e7cb9b442792fa07598b83f0c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552208335
+status: 1
+tags: []
+user_id: unknown

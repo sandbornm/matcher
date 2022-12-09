@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/eef10607015142a1be8fabe2a1769621/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eef10607015142a1be8fabe2a1769621
+run_name: bold-yak-720
+run_uuid: eef10607015142a1be8fabe2a1769621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552195274
+status: 1
+tags: []
+user_id: unknown

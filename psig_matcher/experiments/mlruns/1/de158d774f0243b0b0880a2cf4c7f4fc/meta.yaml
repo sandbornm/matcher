@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/de158d774f0243b0b0880a2cf4c7f4fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: de158d774f0243b0b0880a2cf4c7f4fc
+run_name: rare-bee-129
+run_uuid: de158d774f0243b0b0880a2cf4c7f4fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552166302
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/33e6e1c1c1954fcc96086b54de7c0bc6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 33e6e1c1c1954fcc96086b54de7c0bc6
+run_name: nervous-snail-272
+run_uuid: 33e6e1c1c1954fcc96086b54de7c0bc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552197003
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f2f78115483244e799352a06465eb1e7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f2f78115483244e799352a06465eb1e7
+run_name: efficient-cow-601
+run_uuid: f2f78115483244e799352a06465eb1e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552096763
+status: 1
+tags: []
+user_id: unknown

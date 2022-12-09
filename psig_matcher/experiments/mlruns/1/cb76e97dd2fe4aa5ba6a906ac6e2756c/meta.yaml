@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cb76e97dd2fe4aa5ba6a906ac6e2756c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cb76e97dd2fe4aa5ba6a906ac6e2756c
+run_name: loud-finch-79
+run_uuid: cb76e97dd2fe4aa5ba6a906ac6e2756c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552088606
+status: 1
+tags: []
+user_id: unknown

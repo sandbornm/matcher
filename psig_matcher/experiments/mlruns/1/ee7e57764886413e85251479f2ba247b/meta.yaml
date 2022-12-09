@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ee7e57764886413e85251479f2ba247b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ee7e57764886413e85251479f2ba247b
+run_name: salty-moth-12
+run_uuid: ee7e57764886413e85251479f2ba247b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552172841
+status: 1
+tags: []
+user_id: unknown

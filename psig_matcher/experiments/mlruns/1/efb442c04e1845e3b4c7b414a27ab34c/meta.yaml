@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/efb442c04e1845e3b4c7b414a27ab34c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: efb442c04e1845e3b4c7b414a27ab34c
+run_name: monumental-crab-870
+run_uuid: efb442c04e1845e3b4c7b414a27ab34c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552245339
+status: 1
+tags: []
+user_id: unknown

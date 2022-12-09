@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/86219fc76af7485ebc2e26d13b7299be/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 86219fc76af7485ebc2e26d13b7299be
+run_name: sassy-fish-307
+run_uuid: 86219fc76af7485ebc2e26d13b7299be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552122203
+status: 1
+tags: []
+user_id: unknown

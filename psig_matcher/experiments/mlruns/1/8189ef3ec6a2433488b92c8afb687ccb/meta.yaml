@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8189ef3ec6a2433488b92c8afb687ccb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8189ef3ec6a2433488b92c8afb687ccb
+run_name: capable-robin-187
+run_uuid: 8189ef3ec6a2433488b92c8afb687ccb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552215441
+status: 1
+tags: []
+user_id: unknown

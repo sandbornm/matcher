@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/984cd76c6daf411b8e0ddbaf993a042c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 984cd76c6daf411b8e0ddbaf993a042c
+run_name: stately-fly-869
+run_uuid: 984cd76c6daf411b8e0ddbaf993a042c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552098844
+status: 1
+tags: []
+user_id: unknown

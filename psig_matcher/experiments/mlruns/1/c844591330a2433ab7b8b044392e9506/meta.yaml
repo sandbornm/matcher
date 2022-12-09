@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c844591330a2433ab7b8b044392e9506/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c844591330a2433ab7b8b044392e9506
+run_name: inquisitive-pig-441
+run_uuid: c844591330a2433ab7b8b044392e9506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552143039
+status: 1
+tags: []
+user_id: unknown

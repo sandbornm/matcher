@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bf8b1d2695d6454f8b3f04fe6c2ec5eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bf8b1d2695d6454f8b3f04fe6c2ec5eb
+run_name: rumbling-owl-355
+run_uuid: bf8b1d2695d6454f8b3f04fe6c2ec5eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552119827
+status: 1
+tags: []
+user_id: unknown

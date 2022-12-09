@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e2eec8f470a64888a12e538d4e35bdaa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e2eec8f470a64888a12e538d4e35bdaa
+run_name: painted-frog-145
+run_uuid: e2eec8f470a64888a12e538d4e35bdaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552268681
+status: 1
+tags: []
+user_id: unknown

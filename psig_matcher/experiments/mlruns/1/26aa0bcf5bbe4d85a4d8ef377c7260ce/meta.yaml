@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/26aa0bcf5bbe4d85a4d8ef377c7260ce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 26aa0bcf5bbe4d85a4d8ef377c7260ce
+run_name: painted-croc-196
+run_uuid: 26aa0bcf5bbe4d85a4d8ef377c7260ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552160656
+status: 1
+tags: []
+user_id: unknown

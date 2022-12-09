@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/213ee7bb22ba4b9cb706ca2b0328b60a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 213ee7bb22ba4b9cb706ca2b0328b60a
+run_name: useful-moth-268
+run_uuid: 213ee7bb22ba4b9cb706ca2b0328b60a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552140502
+status: 1
+tags: []
+user_id: unknown

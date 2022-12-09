@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/35c7ea55205c4b34bbc45a38a85091aa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 35c7ea55205c4b34bbc45a38a85091aa
+run_name: capable-trout-293
+run_uuid: 35c7ea55205c4b34bbc45a38a85091aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552172676
+status: 1
+tags: []
+user_id: unknown

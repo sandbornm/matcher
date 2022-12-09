@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/65bf7f36b109419491e55e1fd312760e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 65bf7f36b109419491e55e1fd312760e
+run_name: bald-bass-286
+run_uuid: 65bf7f36b109419491e55e1fd312760e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552163000
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/923d3a138b3344ea90995c4dc9ea0f18/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 923d3a138b3344ea90995c4dc9ea0f18
+run_name: intrigued-rat-521
+run_uuid: 923d3a138b3344ea90995c4dc9ea0f18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552101336
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0342d625014f43989b71a3a4c936eda7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0342d625014f43989b71a3a4c936eda7
+run_name: dapper-hawk-172
+run_uuid: 0342d625014f43989b71a3a4c936eda7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552128915
+status: 1
+tags: []
+user_id: unknown

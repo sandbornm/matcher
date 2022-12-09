@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ed4d5e6b5b1b476ba21f43542094510a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ed4d5e6b5b1b476ba21f43542094510a
+run_name: peaceful-chimp-825
+run_uuid: ed4d5e6b5b1b476ba21f43542094510a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552131688
+status: 1
+tags: []
+user_id: unknown

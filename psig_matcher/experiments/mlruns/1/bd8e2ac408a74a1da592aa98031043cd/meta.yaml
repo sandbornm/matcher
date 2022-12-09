@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bd8e2ac408a74a1da592aa98031043cd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bd8e2ac408a74a1da592aa98031043cd
+run_name: monumental-worm-341
+run_uuid: bd8e2ac408a74a1da592aa98031043cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552197301
+status: 1
+tags: []
+user_id: unknown

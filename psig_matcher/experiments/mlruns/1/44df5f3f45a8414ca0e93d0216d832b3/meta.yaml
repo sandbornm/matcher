@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/44df5f3f45a8414ca0e93d0216d832b3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 44df5f3f45a8414ca0e93d0216d832b3
+run_name: bemused-squirrel-93
+run_uuid: 44df5f3f45a8414ca0e93d0216d832b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552135945
+status: 1
+tags: []
+user_id: unknown

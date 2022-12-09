@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9fae8f2babc44420b2e506c1f02d2cda/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9fae8f2babc44420b2e506c1f02d2cda
+run_name: incongruous-ram-22
+run_uuid: 9fae8f2babc44420b2e506c1f02d2cda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552200127
+status: 1
+tags: []
+user_id: unknown

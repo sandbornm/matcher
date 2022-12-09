@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e9c8ac08fea44a14b4726900111aa4fe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e9c8ac08fea44a14b4726900111aa4fe
+run_name: masked-vole-794
+run_uuid: e9c8ac08fea44a14b4726900111aa4fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552268302
+status: 1
+tags: []
+user_id: unknown

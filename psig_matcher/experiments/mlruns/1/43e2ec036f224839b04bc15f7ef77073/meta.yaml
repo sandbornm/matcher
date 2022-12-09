@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/43e2ec036f224839b04bc15f7ef77073/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 43e2ec036f224839b04bc15f7ef77073
+run_name: ambitious-sheep-611
+run_uuid: 43e2ec036f224839b04bc15f7ef77073
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552129202
+status: 1
+tags: []
+user_id: unknown

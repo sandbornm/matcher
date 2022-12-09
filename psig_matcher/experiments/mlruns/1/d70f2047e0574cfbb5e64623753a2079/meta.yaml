@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d70f2047e0574cfbb5e64623753a2079/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d70f2047e0574cfbb5e64623753a2079
+run_name: upbeat-fly-717
+run_uuid: d70f2047e0574cfbb5e64623753a2079
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552092488
+status: 1
+tags: []
+user_id: unknown

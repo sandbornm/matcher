@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9dc4e471a4c742c6b2536374e88d0f0a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9dc4e471a4c742c6b2536374e88d0f0a
+run_name: spiffy-owl-6
+run_uuid: 9dc4e471a4c742c6b2536374e88d0f0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552146709
+status: 1
+tags: []
+user_id: unknown

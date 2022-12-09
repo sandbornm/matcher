@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a0f498b7f2894bd99d852eb514278049/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a0f498b7f2894bd99d852eb514278049
+run_name: blushing-pug-964
+run_uuid: a0f498b7f2894bd99d852eb514278049
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552086279
+status: 1
+tags: []
+user_id: unknown

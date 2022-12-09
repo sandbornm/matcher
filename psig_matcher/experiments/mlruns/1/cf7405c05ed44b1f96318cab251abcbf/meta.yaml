@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cf7405c05ed44b1f96318cab251abcbf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf7405c05ed44b1f96318cab251abcbf
+run_name: ambitious-newt-927
+run_uuid: cf7405c05ed44b1f96318cab251abcbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552214646
+status: 1
+tags: []
+user_id: unknown

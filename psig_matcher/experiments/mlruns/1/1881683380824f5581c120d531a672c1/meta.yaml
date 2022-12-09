@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1881683380824f5581c120d531a672c1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1881683380824f5581c120d531a672c1
+run_name: placid-tern-660
+run_uuid: 1881683380824f5581c120d531a672c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552092526
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/38bc6672ba8c40638354079e062ebcdb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 38bc6672ba8c40638354079e062ebcdb
+run_name: dapper-pig-259
+run_uuid: 38bc6672ba8c40638354079e062ebcdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552092184
+status: 1
+tags: []
+user_id: unknown

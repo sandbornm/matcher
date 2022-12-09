@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d9733985969448a78c40da480294a2c1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d9733985969448a78c40da480294a2c1
+run_name: rogue-snail-238
+run_uuid: d9733985969448a78c40da480294a2c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552231520
+status: 1
+tags: []
+user_id: unknown

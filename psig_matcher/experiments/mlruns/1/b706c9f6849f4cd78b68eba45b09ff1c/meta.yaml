@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b706c9f6849f4cd78b68eba45b09ff1c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b706c9f6849f4cd78b68eba45b09ff1c
+run_name: welcoming-bird-439
+run_uuid: b706c9f6849f4cd78b68eba45b09ff1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552123620
+status: 1
+tags: []
+user_id: unknown

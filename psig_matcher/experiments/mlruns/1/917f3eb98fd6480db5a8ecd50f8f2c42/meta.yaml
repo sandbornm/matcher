@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/917f3eb98fd6480db5a8ecd50f8f2c42/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 917f3eb98fd6480db5a8ecd50f8f2c42
+run_name: likeable-penguin-925
+run_uuid: 917f3eb98fd6480db5a8ecd50f8f2c42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552093818
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/fa0d5c341bfa4c968933acac94637967/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fa0d5c341bfa4c968933acac94637967
+run_name: bouncy-fish-51
+run_uuid: fa0d5c341bfa4c968933acac94637967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552154645
+status: 1
+tags: []
+user_id: unknown

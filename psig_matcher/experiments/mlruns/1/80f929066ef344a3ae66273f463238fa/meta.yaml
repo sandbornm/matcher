@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/80f929066ef344a3ae66273f463238fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 80f929066ef344a3ae66273f463238fa
+run_name: selective-fish-649
+run_uuid: 80f929066ef344a3ae66273f463238fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552240528
+status: 1
+tags: []
+user_id: unknown

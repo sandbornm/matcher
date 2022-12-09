@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/fe70b03ff83643579c7452618a2039ce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fe70b03ff83643579c7452618a2039ce
+run_name: classy-bat-592
+run_uuid: fe70b03ff83643579c7452618a2039ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552137492
+status: 1
+tags: []
+user_id: unknown

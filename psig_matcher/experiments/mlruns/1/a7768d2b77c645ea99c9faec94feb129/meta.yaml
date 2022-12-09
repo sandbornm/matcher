@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a7768d2b77c645ea99c9faec94feb129/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a7768d2b77c645ea99c9faec94feb129
+run_name: fun-lark-813
+run_uuid: a7768d2b77c645ea99c9faec94feb129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552146454
+status: 1
+tags: []
+user_id: unknown

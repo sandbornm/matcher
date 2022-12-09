@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d7c41d5b50414d508c1ad3d5dc1e57fd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d7c41d5b50414d508c1ad3d5dc1e57fd
+run_name: amazing-ape-978
+run_uuid: d7c41d5b50414d508c1ad3d5dc1e57fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552225554
+status: 1
+tags: []
+user_id: unknown

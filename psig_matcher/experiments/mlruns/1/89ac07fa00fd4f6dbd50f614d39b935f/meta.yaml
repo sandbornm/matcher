@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/89ac07fa00fd4f6dbd50f614d39b935f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 89ac07fa00fd4f6dbd50f614d39b935f
+run_name: puzzled-moose-884
+run_uuid: 89ac07fa00fd4f6dbd50f614d39b935f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552159494
+status: 1
+tags: []
+user_id: unknown

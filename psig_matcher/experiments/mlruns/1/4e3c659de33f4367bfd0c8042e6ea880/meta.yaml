@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4e3c659de33f4367bfd0c8042e6ea880/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4e3c659de33f4367bfd0c8042e6ea880
+run_name: traveling-sloth-504
+run_uuid: 4e3c659de33f4367bfd0c8042e6ea880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552237425
+status: 1
+tags: []
+user_id: unknown

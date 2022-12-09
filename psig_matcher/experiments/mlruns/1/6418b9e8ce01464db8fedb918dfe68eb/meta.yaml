@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6418b9e8ce01464db8fedb918dfe68eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6418b9e8ce01464db8fedb918dfe68eb
+run_name: casual-shrew-568
+run_uuid: 6418b9e8ce01464db8fedb918dfe68eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552093234
+status: 1
+tags: []
+user_id: unknown

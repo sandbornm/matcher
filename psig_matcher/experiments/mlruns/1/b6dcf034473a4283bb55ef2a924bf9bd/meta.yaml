@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b6dcf034473a4283bb55ef2a924bf9bd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b6dcf034473a4283bb55ef2a924bf9bd
+run_name: clumsy-snake-236
+run_uuid: b6dcf034473a4283bb55ef2a924bf9bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552088322
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/af16dd62b1c0409fa69df9153c0d1847/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: af16dd62b1c0409fa69df9153c0d1847
+run_name: smiling-kit-818
+run_uuid: af16dd62b1c0409fa69df9153c0d1847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552139576
+status: 1
+tags: []
+user_id: unknown

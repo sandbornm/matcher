@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d6dc12fcaa65455ca9453ae7b22d6cdf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d6dc12fcaa65455ca9453ae7b22d6cdf
+run_name: nosy-mink-823
+run_uuid: d6dc12fcaa65455ca9453ae7b22d6cdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552104961
+status: 1
+tags: []
+user_id: unknown

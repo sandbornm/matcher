@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/caf9fc0ec57f42f6bca29df22bfcbdf2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: caf9fc0ec57f42f6bca29df22bfcbdf2
+run_name: awesome-auk-281
+run_uuid: caf9fc0ec57f42f6bca29df22bfcbdf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552141751
+status: 1
+tags: []
+user_id: unknown

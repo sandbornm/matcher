@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ec7674a064ef4389b66513f60752c6e7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ec7674a064ef4389b66513f60752c6e7
+run_name: delicate-trout-614
+run_uuid: ec7674a064ef4389b66513f60752c6e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552163979
+status: 1
+tags: []
+user_id: unknown

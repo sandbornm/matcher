@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/24967d864f45452cbfc967ada42831ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 24967d864f45452cbfc967ada42831ef
+run_name: languid-pig-233
+run_uuid: 24967d864f45452cbfc967ada42831ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552164658
+status: 1
+tags: []
+user_id: unknown

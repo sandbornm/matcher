@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/32f214b3194d42feb6fc088c754a4e0c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 32f214b3194d42feb6fc088c754a4e0c
+run_name: resilient-ox-160
+run_uuid: 32f214b3194d42feb6fc088c754a4e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552138841
+status: 1
+tags: []
+user_id: unknown

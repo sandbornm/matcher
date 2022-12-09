@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/20726ab8b70742a0bc0349ddb779dd78/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 20726ab8b70742a0bc0349ddb779dd78
+run_name: orderly-ram-56
+run_uuid: 20726ab8b70742a0bc0349ddb779dd78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552227752
+status: 1
+tags: []
+user_id: unknown

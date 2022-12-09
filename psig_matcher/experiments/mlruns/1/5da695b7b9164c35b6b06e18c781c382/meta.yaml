@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5da695b7b9164c35b6b06e18c781c382/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5da695b7b9164c35b6b06e18c781c382
+run_name: fun-seal-781
+run_uuid: 5da695b7b9164c35b6b06e18c781c382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552228242
+status: 1
+tags: []
+user_id: unknown

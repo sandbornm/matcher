@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f0025c0c10ac4ddb9f873b4b359906fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f0025c0c10ac4ddb9f873b4b359906fc
+run_name: polite-goose-388
+run_uuid: f0025c0c10ac4ddb9f873b4b359906fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552110773
+status: 1
+tags: []
+user_id: unknown

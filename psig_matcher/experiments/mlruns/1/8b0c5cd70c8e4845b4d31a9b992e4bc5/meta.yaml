@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8b0c5cd70c8e4845b4d31a9b992e4bc5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8b0c5cd70c8e4845b4d31a9b992e4bc5
+run_name: useful-loon-228
+run_uuid: 8b0c5cd70c8e4845b4d31a9b992e4bc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552096447
+status: 1
+tags: []
+user_id: unknown

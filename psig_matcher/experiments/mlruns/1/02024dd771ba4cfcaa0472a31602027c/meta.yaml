@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/02024dd771ba4cfcaa0472a31602027c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 02024dd771ba4cfcaa0472a31602027c
+run_name: capricious-snail-826
+run_uuid: 02024dd771ba4cfcaa0472a31602027c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552260745
+status: 1
+tags: []
+user_id: unknown

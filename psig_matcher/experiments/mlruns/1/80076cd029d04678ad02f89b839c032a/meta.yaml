@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/80076cd029d04678ad02f89b839c032a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 80076cd029d04678ad02f89b839c032a
+run_name: lyrical-skunk-903
+run_uuid: 80076cd029d04678ad02f89b839c032a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552094743
+status: 1
+tags: []
+user_id: unknown

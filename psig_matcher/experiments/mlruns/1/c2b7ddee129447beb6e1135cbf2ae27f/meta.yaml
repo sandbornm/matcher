@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c2b7ddee129447beb6e1135cbf2ae27f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c2b7ddee129447beb6e1135cbf2ae27f
+run_name: sneaky-flea-725
+run_uuid: c2b7ddee129447beb6e1135cbf2ae27f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552092143
+status: 1
+tags: []
+user_id: unknown

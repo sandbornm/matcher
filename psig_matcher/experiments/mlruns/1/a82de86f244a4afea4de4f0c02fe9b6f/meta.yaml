@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a82de86f244a4afea4de4f0c02fe9b6f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a82de86f244a4afea4de4f0c02fe9b6f
+run_name: unique-shrimp-3
+run_uuid: a82de86f244a4afea4de4f0c02fe9b6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552227567
+status: 1
+tags: []
+user_id: unknown

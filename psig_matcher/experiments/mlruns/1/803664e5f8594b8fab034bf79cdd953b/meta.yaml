@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/803664e5f8594b8fab034bf79cdd953b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 803664e5f8594b8fab034bf79cdd953b
+run_name: smiling-perch-179
+run_uuid: 803664e5f8594b8fab034bf79cdd953b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552149183
+status: 1
+tags: []
+user_id: unknown

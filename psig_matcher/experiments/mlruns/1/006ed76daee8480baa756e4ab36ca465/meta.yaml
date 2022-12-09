@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/006ed76daee8480baa756e4ab36ca465/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 006ed76daee8480baa756e4ab36ca465
+run_name: painted-doe-684
+run_uuid: 006ed76daee8480baa756e4ab36ca465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552267263
+status: 1
+tags: []
+user_id: unknown

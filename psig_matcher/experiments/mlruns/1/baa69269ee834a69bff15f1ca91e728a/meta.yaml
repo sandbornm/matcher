@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/baa69269ee834a69bff15f1ca91e728a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: baa69269ee834a69bff15f1ca91e728a
+run_name: unleashed-deer-249
+run_uuid: baa69269ee834a69bff15f1ca91e728a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552229740
+status: 1
+tags: []
+user_id: unknown

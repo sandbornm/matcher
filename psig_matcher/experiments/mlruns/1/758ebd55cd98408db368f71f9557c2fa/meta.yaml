@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/758ebd55cd98408db368f71f9557c2fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 758ebd55cd98408db368f71f9557c2fa
+run_name: hilarious-panda-439
+run_uuid: 758ebd55cd98408db368f71f9557c2fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552207089
+status: 1
+tags: []
+user_id: unknown

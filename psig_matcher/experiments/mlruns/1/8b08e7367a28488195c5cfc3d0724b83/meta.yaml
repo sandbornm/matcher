@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8b08e7367a28488195c5cfc3d0724b83/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8b08e7367a28488195c5cfc3d0724b83
+run_name: enchanting-mouse-724
+run_uuid: 8b08e7367a28488195c5cfc3d0724b83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552111231
+status: 1
+tags: []
+user_id: unknown

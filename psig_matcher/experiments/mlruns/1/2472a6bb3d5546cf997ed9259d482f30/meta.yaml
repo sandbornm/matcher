@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2472a6bb3d5546cf997ed9259d482f30/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2472a6bb3d5546cf997ed9259d482f30
+run_name: bold-newt-607
+run_uuid: 2472a6bb3d5546cf997ed9259d482f30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552187138
+status: 1
+tags: []
+user_id: unknown

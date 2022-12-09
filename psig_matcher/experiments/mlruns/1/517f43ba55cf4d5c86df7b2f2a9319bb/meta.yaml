@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/517f43ba55cf4d5c86df7b2f2a9319bb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 517f43ba55cf4d5c86df7b2f2a9319bb
+run_name: abundant-quail-330
+run_uuid: 517f43ba55cf4d5c86df7b2f2a9319bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552112326
+status: 1
+tags: []
+user_id: unknown

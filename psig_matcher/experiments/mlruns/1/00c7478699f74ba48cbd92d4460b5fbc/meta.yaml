@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/00c7478699f74ba48cbd92d4460b5fbc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 00c7478699f74ba48cbd92d4460b5fbc
+run_name: capricious-hare-744
+run_uuid: 00c7478699f74ba48cbd92d4460b5fbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552173671
+status: 1
+tags: []
+user_id: unknown

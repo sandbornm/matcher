@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b7961325f9ad4bc78503a1728dcd459a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b7961325f9ad4bc78503a1728dcd459a
+run_name: auspicious-swan-886
+run_uuid: b7961325f9ad4bc78503a1728dcd459a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552242804
+status: 1
+tags: []
+user_id: unknown

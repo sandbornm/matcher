@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/092a3b4a32de4f8b99fa6b3594de1289/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 092a3b4a32de4f8b99fa6b3594de1289
+run_name: welcoming-swan-664
+run_uuid: 092a3b4a32de4f8b99fa6b3594de1289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552110581
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/eae66e4e45704a818c93c2fa3f0fed6c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eae66e4e45704a818c93c2fa3f0fed6c
+run_name: delicate-conch-453
+run_uuid: eae66e4e45704a818c93c2fa3f0fed6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552177551
+status: 1
+tags: []
+user_id: unknown

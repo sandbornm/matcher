@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/26c700278729456ab37382735b50b10e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 26c700278729456ab37382735b50b10e
+run_name: beautiful-rat-959
+run_uuid: 26c700278729456ab37382735b50b10e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552236011
+status: 1
+tags: []
+user_id: unknown

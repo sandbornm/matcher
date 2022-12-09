@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9718b8ba8b9a4f1ba0d82b409639df32/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9718b8ba8b9a4f1ba0d82b409639df32
+run_name: fortunate-bug-108
+run_uuid: 9718b8ba8b9a4f1ba0d82b409639df32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552220119
+status: 1
+tags: []
+user_id: unknown

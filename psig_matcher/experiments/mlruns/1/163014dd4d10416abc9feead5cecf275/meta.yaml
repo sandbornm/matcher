@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/163014dd4d10416abc9feead5cecf275/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 163014dd4d10416abc9feead5cecf275
+run_name: tasteful-gull-545
+run_uuid: 163014dd4d10416abc9feead5cecf275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552085709
+status: 1
+tags: []
+user_id: unknown

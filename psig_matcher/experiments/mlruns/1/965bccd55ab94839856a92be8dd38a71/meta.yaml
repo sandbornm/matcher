@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/965bccd55ab94839856a92be8dd38a71/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 965bccd55ab94839856a92be8dd38a71
+run_name: bedecked-cat-653
+run_uuid: 965bccd55ab94839856a92be8dd38a71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552087107
+status: 1
+tags: []
+user_id: unknown

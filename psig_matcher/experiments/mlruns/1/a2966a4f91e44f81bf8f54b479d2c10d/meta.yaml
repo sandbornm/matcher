@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a2966a4f91e44f81bf8f54b479d2c10d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a2966a4f91e44f81bf8f54b479d2c10d
+run_name: calm-foal-995
+run_uuid: a2966a4f91e44f81bf8f54b479d2c10d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552098807
+status: 1
+tags: []
+user_id: unknown

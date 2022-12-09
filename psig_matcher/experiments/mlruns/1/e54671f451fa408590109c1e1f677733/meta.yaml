@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e54671f451fa408590109c1e1f677733/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e54671f451fa408590109c1e1f677733
+run_name: bright-panda-577
+run_uuid: e54671f451fa408590109c1e1f677733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552238144
+status: 1
+tags: []
+user_id: unknown

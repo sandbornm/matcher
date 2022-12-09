@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7273a777e59e431483d52f65c4a6794a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7273a777e59e431483d52f65c4a6794a
+run_name: unruly-midge-547
+run_uuid: 7273a777e59e431483d52f65c4a6794a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552123315
+status: 1
+tags: []
+user_id: unknown

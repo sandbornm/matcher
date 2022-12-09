@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8e5a066a7164440092d5df25b321e120/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8e5a066a7164440092d5df25b321e120
+run_name: flawless-frog-106
+run_uuid: 8e5a066a7164440092d5df25b321e120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552150437
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a10fbaaad9fb4b42ba055ba9847bcae9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a10fbaaad9fb4b42ba055ba9847bcae9
+run_name: aged-stork-260
+run_uuid: a10fbaaad9fb4b42ba055ba9847bcae9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552238884
+status: 1
+tags: []
+user_id: unknown

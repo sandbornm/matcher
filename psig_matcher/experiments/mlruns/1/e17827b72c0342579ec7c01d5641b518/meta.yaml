@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e17827b72c0342579ec7c01d5641b518/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e17827b72c0342579ec7c01d5641b518
+run_name: auspicious-ram-707
+run_uuid: e17827b72c0342579ec7c01d5641b518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552109213
+status: 1
+tags: []
+user_id: unknown

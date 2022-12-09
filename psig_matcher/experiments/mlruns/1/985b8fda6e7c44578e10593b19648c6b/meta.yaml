@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/985b8fda6e7c44578e10593b19648c6b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 985b8fda6e7c44578e10593b19648c6b
+run_name: grandiose-horse-584
+run_uuid: 985b8fda6e7c44578e10593b19648c6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552105312
+status: 1
+tags: []
+user_id: unknown

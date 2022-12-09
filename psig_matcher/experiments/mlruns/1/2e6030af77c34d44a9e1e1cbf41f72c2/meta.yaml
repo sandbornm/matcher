@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2e6030af77c34d44a9e1e1cbf41f72c2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2e6030af77c34d44a9e1e1cbf41f72c2
+run_name: shivering-fox-511
+run_uuid: 2e6030af77c34d44a9e1e1cbf41f72c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552186208
+status: 1
+tags: []
+user_id: unknown

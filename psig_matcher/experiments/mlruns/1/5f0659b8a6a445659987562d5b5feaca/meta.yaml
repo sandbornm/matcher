@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5f0659b8a6a445659987562d5b5feaca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5f0659b8a6a445659987562d5b5feaca
+run_name: secretive-cod-276
+run_uuid: 5f0659b8a6a445659987562d5b5feaca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552110856
+status: 1
+tags: []
+user_id: unknown

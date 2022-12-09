@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/21cf4bfac554445288efeca9c16ff4d8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 21cf4bfac554445288efeca9c16ff4d8
+run_name: placid-finch-967
+run_uuid: 21cf4bfac554445288efeca9c16ff4d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552127439
+status: 1
+tags: []
+user_id: unknown

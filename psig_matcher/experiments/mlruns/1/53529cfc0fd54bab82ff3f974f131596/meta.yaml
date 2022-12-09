@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/53529cfc0fd54bab82ff3f974f131596/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 53529cfc0fd54bab82ff3f974f131596
+run_name: bedecked-lynx-421
+run_uuid: 53529cfc0fd54bab82ff3f974f131596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552088147
+status: 1
+tags: []
+user_id: unknown

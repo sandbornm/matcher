@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a0abfae402d3404fa17f527fd5c9ee72/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a0abfae402d3404fa17f527fd5c9ee72
+run_name: awesome-moth-0
+run_uuid: a0abfae402d3404fa17f527fd5c9ee72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552213865
+status: 1
+tags: []
+user_id: unknown

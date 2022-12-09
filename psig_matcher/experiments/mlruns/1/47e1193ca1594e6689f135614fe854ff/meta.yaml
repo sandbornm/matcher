@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/47e1193ca1594e6689f135614fe854ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 47e1193ca1594e6689f135614fe854ff
+run_name: stately-tern-541
+run_uuid: 47e1193ca1594e6689f135614fe854ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552127490
+status: 1
+tags: []
+user_id: unknown

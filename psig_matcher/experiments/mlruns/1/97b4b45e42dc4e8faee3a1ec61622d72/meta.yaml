@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/97b4b45e42dc4e8faee3a1ec61622d72/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 97b4b45e42dc4e8faee3a1ec61622d72
+run_name: selective-bear-273
+run_uuid: 97b4b45e42dc4e8faee3a1ec61622d72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552158707
+status: 1
+tags: []
+user_id: unknown

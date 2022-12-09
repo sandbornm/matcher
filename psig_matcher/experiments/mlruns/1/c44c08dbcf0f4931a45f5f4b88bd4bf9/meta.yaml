@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c44c08dbcf0f4931a45f5f4b88bd4bf9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c44c08dbcf0f4931a45f5f4b88bd4bf9
+run_name: nimble-skunk-158
+run_uuid: c44c08dbcf0f4931a45f5f4b88bd4bf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552098631
+status: 1
+tags: []
+user_id: unknown

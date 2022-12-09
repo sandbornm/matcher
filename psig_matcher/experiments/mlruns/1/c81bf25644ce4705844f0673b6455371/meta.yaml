@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c81bf25644ce4705844f0673b6455371/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c81bf25644ce4705844f0673b6455371
+run_name: capricious-toad-235
+run_uuid: c81bf25644ce4705844f0673b6455371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552141711
+status: 1
+tags: []
+user_id: unknown

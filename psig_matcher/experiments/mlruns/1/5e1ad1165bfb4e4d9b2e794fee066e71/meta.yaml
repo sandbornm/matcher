@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5e1ad1165bfb4e4d9b2e794fee066e71/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5e1ad1165bfb4e4d9b2e794fee066e71
+run_name: upbeat-mare-50
+run_uuid: 5e1ad1165bfb4e4d9b2e794fee066e71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552128351
+status: 1
+tags: []
+user_id: unknown

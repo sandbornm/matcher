@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a4f517b065744341b42ff678b2a923e2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a4f517b065744341b42ff678b2a923e2
+run_name: dapper-crab-74
+run_uuid: a4f517b065744341b42ff678b2a923e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552208495
+status: 1
+tags: []
+user_id: unknown

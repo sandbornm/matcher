@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/debc5095766a4ed28799d28520106edb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: debc5095766a4ed28799d28520106edb
+run_name: casual-robin-555
+run_uuid: debc5095766a4ed28799d28520106edb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552086126
+status: 1
+tags: []
+user_id: unknown

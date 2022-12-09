@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ed009554cb8d4693bcc630c86c4adfcf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ed009554cb8d4693bcc630c86c4adfcf
+run_name: luminous-kit-202
+run_uuid: ed009554cb8d4693bcc630c86c4adfcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552089051
+status: 1
+tags: []
+user_id: unknown

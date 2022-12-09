@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/869d3e31253540e1b08aab08ddcba921/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 869d3e31253540e1b08aab08ddcba921
+run_name: nimble-mink-179
+run_uuid: 869d3e31253540e1b08aab08ddcba921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552089246
+status: 1
+tags: []
+user_id: unknown

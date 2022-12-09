@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/25fb39d791aa4afab216164e58507559/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 25fb39d791aa4afab216164e58507559
+run_name: salty-pig-743
+run_uuid: 25fb39d791aa4afab216164e58507559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552181115
+status: 1
+tags: []
+user_id: unknown

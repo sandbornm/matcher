@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cf2b2bf5eb3b4d3bbc45c4281515d70b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf2b2bf5eb3b4d3bbc45c4281515d70b
+run_name: honorable-rook-4
+run_uuid: cf2b2bf5eb3b4d3bbc45c4281515d70b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552164704
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3c39f2f3f6df4ca5ae2f0583a9d06b5b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3c39f2f3f6df4ca5ae2f0583a9d06b5b
+run_name: charming-hound-673
+run_uuid: 3c39f2f3f6df4ca5ae2f0583a9d06b5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552090496
+status: 1
+tags: []
+user_id: unknown

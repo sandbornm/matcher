@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/09eca8d737f546b691ee2bb1d548e321/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 09eca8d737f546b691ee2bb1d548e321
+run_name: selective-grouse-29
+run_uuid: 09eca8d737f546b691ee2bb1d548e321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552154173
+status: 1
+tags: []
+user_id: unknown

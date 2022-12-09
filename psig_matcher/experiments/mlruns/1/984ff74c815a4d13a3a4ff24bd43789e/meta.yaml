@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/984ff74c815a4d13a3a4ff24bd43789e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 984ff74c815a4d13a3a4ff24bd43789e
+run_name: sedate-tern-32
+run_uuid: 984ff74c815a4d13a3a4ff24bd43789e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552254098
+status: 1
+tags: []
+user_id: unknown

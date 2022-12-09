@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bdea54cc74e94b899d998e99ba9a837f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bdea54cc74e94b899d998e99ba9a837f
+run_name: orderly-sow-769
+run_uuid: bdea54cc74e94b899d998e99ba9a837f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552256045
+status: 1
+tags: []
+user_id: unknown

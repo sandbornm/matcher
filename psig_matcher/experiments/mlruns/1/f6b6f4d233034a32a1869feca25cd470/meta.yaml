@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f6b6f4d233034a32a1869feca25cd470/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f6b6f4d233034a32a1869feca25cd470
+run_name: judicious-midge-231
+run_uuid: f6b6f4d233034a32a1869feca25cd470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552244931
+status: 1
+tags: []
+user_id: unknown

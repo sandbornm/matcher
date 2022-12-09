@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a663f918b09545e390cf1a5899d1a77a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a663f918b09545e390cf1a5899d1a77a
+run_name: fearless-grub-180
+run_uuid: a663f918b09545e390cf1a5899d1a77a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552200383
+status: 1
+tags: []
+user_id: unknown

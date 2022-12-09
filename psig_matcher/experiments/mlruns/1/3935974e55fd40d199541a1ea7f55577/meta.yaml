@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3935974e55fd40d199541a1ea7f55577/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3935974e55fd40d199541a1ea7f55577
+run_name: chill-shad-812
+run_uuid: 3935974e55fd40d199541a1ea7f55577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552219602
+status: 1
+tags: []
+user_id: unknown

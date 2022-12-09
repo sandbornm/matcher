@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8ce0d63d105e4260b192871757ccdf5d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8ce0d63d105e4260b192871757ccdf5d
+run_name: stylish-eel-275
+run_uuid: 8ce0d63d105e4260b192871757ccdf5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552128222
+status: 1
+tags: []
+user_id: unknown

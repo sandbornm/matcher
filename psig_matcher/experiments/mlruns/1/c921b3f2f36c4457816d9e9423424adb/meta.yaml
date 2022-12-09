@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c921b3f2f36c4457816d9e9423424adb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c921b3f2f36c4457816d9e9423424adb
+run_name: rebellious-stag-925
+run_uuid: c921b3f2f36c4457816d9e9423424adb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552107715
+status: 1
+tags: []
+user_id: unknown

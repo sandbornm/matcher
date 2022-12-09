@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0e6ed62608ab4fc48ede3bef6056c5ca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0e6ed62608ab4fc48ede3bef6056c5ca
+run_name: bright-toad-228
+run_uuid: 0e6ed62608ab4fc48ede3bef6056c5ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552124259
+status: 1
+tags: []
+user_id: unknown

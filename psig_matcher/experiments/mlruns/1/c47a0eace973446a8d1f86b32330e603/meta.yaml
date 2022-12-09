@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c47a0eace973446a8d1f86b32330e603/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c47a0eace973446a8d1f86b32330e603
+run_name: omniscient-wolf-305
+run_uuid: c47a0eace973446a8d1f86b32330e603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552241934
+status: 1
+tags: []
+user_id: unknown

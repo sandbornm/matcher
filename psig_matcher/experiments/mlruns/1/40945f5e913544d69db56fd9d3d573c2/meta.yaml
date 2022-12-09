@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/40945f5e913544d69db56fd9d3d573c2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 40945f5e913544d69db56fd9d3d573c2
+run_name: nimble-eel-988
+run_uuid: 40945f5e913544d69db56fd9d3d573c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552094775
+status: 1
+tags: []
+user_id: unknown

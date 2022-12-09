@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a66c117de4474b52849381a06cdc58d4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a66c117de4474b52849381a06cdc58d4
+run_name: bedecked-lamb-101
+run_uuid: a66c117de4474b52849381a06cdc58d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552137399
+status: 1
+tags: []
+user_id: unknown

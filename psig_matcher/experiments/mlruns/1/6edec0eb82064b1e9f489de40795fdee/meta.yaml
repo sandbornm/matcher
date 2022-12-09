@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6edec0eb82064b1e9f489de40795fdee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6edec0eb82064b1e9f489de40795fdee
+run_name: peaceful-elk-62
+run_uuid: 6edec0eb82064b1e9f489de40795fdee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552124985
+status: 1
+tags: []
+user_id: unknown

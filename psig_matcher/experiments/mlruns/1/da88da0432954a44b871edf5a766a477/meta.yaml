@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/da88da0432954a44b871edf5a766a477/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da88da0432954a44b871edf5a766a477
+run_name: clean-goat-276
+run_uuid: da88da0432954a44b871edf5a766a477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552086515
+status: 1
+tags: []
+user_id: unknown

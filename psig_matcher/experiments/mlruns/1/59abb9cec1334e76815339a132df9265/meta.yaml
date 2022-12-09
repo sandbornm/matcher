@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/59abb9cec1334e76815339a132df9265/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 59abb9cec1334e76815339a132df9265
+run_name: marvelous-elk-620
+run_uuid: 59abb9cec1334e76815339a132df9265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552087820
+status: 1
+tags: []
+user_id: unknown

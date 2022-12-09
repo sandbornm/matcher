@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/54ea6286b31e410083a9d75b3ea709fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 54ea6286b31e410083a9d75b3ea709fa
+run_name: crawling-snipe-828
+run_uuid: 54ea6286b31e410083a9d75b3ea709fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552098571
+status: 1
+tags: []
+user_id: unknown

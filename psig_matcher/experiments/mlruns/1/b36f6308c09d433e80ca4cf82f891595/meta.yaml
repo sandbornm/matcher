@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b36f6308c09d433e80ca4cf82f891595/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b36f6308c09d433e80ca4cf82f891595
+run_name: rumbling-shark-977
+run_uuid: b36f6308c09d433e80ca4cf82f891595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552137059
+status: 1
+tags: []
+user_id: unknown

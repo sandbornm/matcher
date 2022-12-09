@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9225a4b6ceb94fd99463c8b5a71d85ca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9225a4b6ceb94fd99463c8b5a71d85ca
+run_name: beautiful-bass-578
+run_uuid: 9225a4b6ceb94fd99463c8b5a71d85ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552168680
+status: 1
+tags: []
+user_id: unknown

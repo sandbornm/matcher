@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ff315c407a0a4d7cb41da12f7de87d16/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff315c407a0a4d7cb41da12f7de87d16
+run_name: able-fawn-350
+run_uuid: ff315c407a0a4d7cb41da12f7de87d16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552184929
+status: 1
+tags: []
+user_id: unknown

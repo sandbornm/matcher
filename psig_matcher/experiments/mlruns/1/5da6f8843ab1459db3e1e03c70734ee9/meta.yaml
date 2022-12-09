@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5da6f8843ab1459db3e1e03c70734ee9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5da6f8843ab1459db3e1e03c70734ee9
+run_name: unruly-moth-709
+run_uuid: 5da6f8843ab1459db3e1e03c70734ee9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552102807
+status: 1
+tags: []
+user_id: unknown

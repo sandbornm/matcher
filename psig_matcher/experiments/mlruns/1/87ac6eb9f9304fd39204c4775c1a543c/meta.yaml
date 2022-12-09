@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/87ac6eb9f9304fd39204c4775c1a543c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 87ac6eb9f9304fd39204c4775c1a543c
+run_name: illustrious-bat-165
+run_uuid: 87ac6eb9f9304fd39204c4775c1a543c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552191580
+status: 1
+tags: []
+user_id: unknown

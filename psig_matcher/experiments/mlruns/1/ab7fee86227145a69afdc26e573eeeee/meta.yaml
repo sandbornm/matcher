@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ab7fee86227145a69afdc26e573eeeee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab7fee86227145a69afdc26e573eeeee
+run_name: legendary-seal-193
+run_uuid: ab7fee86227145a69afdc26e573eeeee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552161741
+status: 1
+tags: []
+user_id: unknown

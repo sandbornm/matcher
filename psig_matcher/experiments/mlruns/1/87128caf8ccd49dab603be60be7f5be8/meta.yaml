@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/87128caf8ccd49dab603be60be7f5be8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 87128caf8ccd49dab603be60be7f5be8
+run_name: defiant-mouse-47
+run_uuid: 87128caf8ccd49dab603be60be7f5be8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552131242
+status: 1
+tags: []
+user_id: unknown

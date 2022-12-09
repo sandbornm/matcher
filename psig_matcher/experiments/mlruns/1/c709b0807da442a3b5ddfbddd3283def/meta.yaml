@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c709b0807da442a3b5ddfbddd3283def/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c709b0807da442a3b5ddfbddd3283def
+run_name: monumental-quail-206
+run_uuid: c709b0807da442a3b5ddfbddd3283def
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552128382
+status: 1
+tags: []
+user_id: unknown

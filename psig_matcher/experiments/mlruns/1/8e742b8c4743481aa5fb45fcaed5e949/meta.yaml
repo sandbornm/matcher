@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8e742b8c4743481aa5fb45fcaed5e949/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8e742b8c4743481aa5fb45fcaed5e949
+run_name: angry-crane-792
+run_uuid: 8e742b8c4743481aa5fb45fcaed5e949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552169604
+status: 1
+tags: []
+user_id: unknown

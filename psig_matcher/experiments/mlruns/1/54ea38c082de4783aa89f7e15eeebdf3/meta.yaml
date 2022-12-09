@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/54ea38c082de4783aa89f7e15eeebdf3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 54ea38c082de4783aa89f7e15eeebdf3
+run_name: colorful-lynx-369
+run_uuid: 54ea38c082de4783aa89f7e15eeebdf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552093387
+status: 1
+tags: []
+user_id: unknown

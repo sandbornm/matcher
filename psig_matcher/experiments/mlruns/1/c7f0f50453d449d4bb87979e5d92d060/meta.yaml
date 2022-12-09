@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c7f0f50453d449d4bb87979e5d92d060/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c7f0f50453d449d4bb87979e5d92d060
+run_name: nimble-robin-50
+run_uuid: c7f0f50453d449d4bb87979e5d92d060
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552119394
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cbb29d94e9a04765ae304d82a528af01/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cbb29d94e9a04765ae304d82a528af01
+run_name: whimsical-kit-17
+run_uuid: cbb29d94e9a04765ae304d82a528af01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552186065
+status: 1
+tags: []
+user_id: unknown

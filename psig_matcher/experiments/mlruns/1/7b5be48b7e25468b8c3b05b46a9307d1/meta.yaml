@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7b5be48b7e25468b8c3b05b46a9307d1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7b5be48b7e25468b8c3b05b46a9307d1
+run_name: polite-panda-985
+run_uuid: 7b5be48b7e25468b8c3b05b46a9307d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552161212
+status: 1
+tags: []
+user_id: unknown

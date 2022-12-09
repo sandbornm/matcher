@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e7219688f81a47bb8fa9a810620c1153/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e7219688f81a47bb8fa9a810620c1153
+run_name: charming-vole-460
+run_uuid: e7219688f81a47bb8fa9a810620c1153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552179466
+status: 1
+tags: []
+user_id: unknown

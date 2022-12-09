@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/aad89b4d411141ee9e25e035ddb0915b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aad89b4d411141ee9e25e035ddb0915b
+run_name: silent-ox-696
+run_uuid: aad89b4d411141ee9e25e035ddb0915b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552230793
+status: 1
+tags: []
+user_id: unknown

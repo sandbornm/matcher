@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6dddc1d8c25d4b4683511db68a06f2bb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6dddc1d8c25d4b4683511db68a06f2bb
+run_name: beautiful-cod-392
+run_uuid: 6dddc1d8c25d4b4683511db68a06f2bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552198736
+status: 1
+tags: []
+user_id: unknown

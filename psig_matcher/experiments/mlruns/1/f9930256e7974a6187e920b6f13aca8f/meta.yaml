@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f9930256e7974a6187e920b6f13aca8f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f9930256e7974a6187e920b6f13aca8f
+run_name: clean-donkey-439
+run_uuid: f9930256e7974a6187e920b6f13aca8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552095849
+status: 1
+tags: []
+user_id: unknown

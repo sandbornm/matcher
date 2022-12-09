@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b00d5d797eb54cd3a7d56369a17b1707/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b00d5d797eb54cd3a7d56369a17b1707
+run_name: enchanting-snail-390
+run_uuid: b00d5d797eb54cd3a7d56369a17b1707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552089002
+status: 1
+tags: []
+user_id: unknown

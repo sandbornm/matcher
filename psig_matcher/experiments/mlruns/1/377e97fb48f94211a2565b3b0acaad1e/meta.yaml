@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/377e97fb48f94211a2565b3b0acaad1e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 377e97fb48f94211a2565b3b0acaad1e
+run_name: nosy-worm-100
+run_uuid: 377e97fb48f94211a2565b3b0acaad1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552182916
+status: 1
+tags: []
+user_id: unknown

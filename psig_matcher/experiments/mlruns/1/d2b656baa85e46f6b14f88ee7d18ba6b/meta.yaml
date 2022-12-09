@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d2b656baa85e46f6b14f88ee7d18ba6b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d2b656baa85e46f6b14f88ee7d18ba6b
+run_name: bouncy-mole-515
+run_uuid: d2b656baa85e46f6b14f88ee7d18ba6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552085627
+status: 1
+tags: []
+user_id: unknown

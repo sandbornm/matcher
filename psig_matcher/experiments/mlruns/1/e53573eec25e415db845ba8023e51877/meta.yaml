@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e53573eec25e415db845ba8023e51877/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e53573eec25e415db845ba8023e51877
+run_name: painted-sloth-963
+run_uuid: e53573eec25e415db845ba8023e51877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552087359
+status: 1
+tags: []
+user_id: unknown

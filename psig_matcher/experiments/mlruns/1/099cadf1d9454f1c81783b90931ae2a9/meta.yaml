@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/099cadf1d9454f1c81783b90931ae2a9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 099cadf1d9454f1c81783b90931ae2a9
+run_name: whimsical-wren-381
+run_uuid: 099cadf1d9454f1c81783b90931ae2a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552185015
+status: 1
+tags: []
+user_id: unknown

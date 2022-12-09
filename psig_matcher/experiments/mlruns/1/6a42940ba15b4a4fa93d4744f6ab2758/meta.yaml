@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6a42940ba15b4a4fa93d4744f6ab2758/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6a42940ba15b4a4fa93d4744f6ab2758
+run_name: fun-cub-252
+run_uuid: 6a42940ba15b4a4fa93d4744f6ab2758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552088473
+status: 1
+tags: []
+user_id: unknown

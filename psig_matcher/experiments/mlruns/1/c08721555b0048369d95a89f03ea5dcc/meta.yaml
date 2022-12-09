@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c08721555b0048369d95a89f03ea5dcc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c08721555b0048369d95a89f03ea5dcc
+run_name: trusting-lark-258
+run_uuid: c08721555b0048369d95a89f03ea5dcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552090565
+status: 1
+tags: []
+user_id: unknown

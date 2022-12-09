@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/aa29451418a64c9b9b82ddb4668f5a5e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aa29451418a64c9b9b82ddb4668f5a5e
+run_name: caring-crane-267
+run_uuid: aa29451418a64c9b9b82ddb4668f5a5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552086389
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d23f8ea0c0cb44c090aca4afb0a461a3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d23f8ea0c0cb44c090aca4afb0a461a3
+run_name: blushing-crane-91
+run_uuid: d23f8ea0c0cb44c090aca4afb0a461a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552145409
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b65c024898484da48dcdc13d3a98ac20/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b65c024898484da48dcdc13d3a98ac20
+run_name: persistent-gull-220
+run_uuid: b65c024898484da48dcdc13d3a98ac20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552237476
+status: 1
+tags: []
+user_id: unknown

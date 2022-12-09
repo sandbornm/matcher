@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4d95396f902c484e8fd0c8ae3b59776a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4d95396f902c484e8fd0c8ae3b59776a
+run_name: delightful-foal-471
+run_uuid: 4d95396f902c484e8fd0c8ae3b59776a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552203675
+status: 1
+tags: []
+user_id: unknown

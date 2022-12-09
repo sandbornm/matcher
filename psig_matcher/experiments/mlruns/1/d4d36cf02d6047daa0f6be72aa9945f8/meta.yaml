@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d4d36cf02d6047daa0f6be72aa9945f8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d4d36cf02d6047daa0f6be72aa9945f8
+run_name: placid-worm-868
+run_uuid: d4d36cf02d6047daa0f6be72aa9945f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552168327
+status: 1
+tags: []
+user_id: unknown

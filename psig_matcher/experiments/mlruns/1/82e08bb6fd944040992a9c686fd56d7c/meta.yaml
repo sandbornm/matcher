@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/82e08bb6fd944040992a9c686fd56d7c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 82e08bb6fd944040992a9c686fd56d7c
+run_name: kindly-shoat-531
+run_uuid: 82e08bb6fd944040992a9c686fd56d7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552228366
+status: 1
+tags: []
+user_id: unknown

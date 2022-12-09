@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0fc964aa9ea846e69a2fea8a4bd7039c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0fc964aa9ea846e69a2fea8a4bd7039c
+run_name: bright-boar-479
+run_uuid: 0fc964aa9ea846e69a2fea8a4bd7039c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552181613
+status: 1
+tags: []
+user_id: unknown

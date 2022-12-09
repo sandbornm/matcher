@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a43fbc1f5a054fb8afc9225156d3a4ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a43fbc1f5a054fb8afc9225156d3a4ff
+run_name: bedecked-horse-283
+run_uuid: a43fbc1f5a054fb8afc9225156d3a4ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552131909
+status: 1
+tags: []
+user_id: unknown

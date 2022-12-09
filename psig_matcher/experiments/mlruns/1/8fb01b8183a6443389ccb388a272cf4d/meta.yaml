@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8fb01b8183a6443389ccb388a272cf4d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8fb01b8183a6443389ccb388a272cf4d
+run_name: unleashed-snipe-340
+run_uuid: 8fb01b8183a6443389ccb388a272cf4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552147466
+status: 1
+tags: []
+user_id: unknown

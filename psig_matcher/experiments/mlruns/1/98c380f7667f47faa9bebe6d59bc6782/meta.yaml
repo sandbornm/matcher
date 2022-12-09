@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/98c380f7667f47faa9bebe6d59bc6782/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 98c380f7667f47faa9bebe6d59bc6782
+run_name: receptive-lark-204
+run_uuid: 98c380f7667f47faa9bebe6d59bc6782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552136573
+status: 1
+tags: []
+user_id: unknown

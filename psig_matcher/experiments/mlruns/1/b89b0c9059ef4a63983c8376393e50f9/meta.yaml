@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b89b0c9059ef4a63983c8376393e50f9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b89b0c9059ef4a63983c8376393e50f9
+run_name: nervous-conch-554
+run_uuid: b89b0c9059ef4a63983c8376393e50f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552106245
+status: 1
+tags: []
+user_id: unknown

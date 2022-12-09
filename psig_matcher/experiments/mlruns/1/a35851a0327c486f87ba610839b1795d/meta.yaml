@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a35851a0327c486f87ba610839b1795d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a35851a0327c486f87ba610839b1795d
+run_name: rare-pug-187
+run_uuid: a35851a0327c486f87ba610839b1795d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552098067
+status: 1
+tags: []
+user_id: unknown

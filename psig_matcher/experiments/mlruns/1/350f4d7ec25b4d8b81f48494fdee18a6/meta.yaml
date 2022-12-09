@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/350f4d7ec25b4d8b81f48494fdee18a6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 350f4d7ec25b4d8b81f48494fdee18a6
+run_name: traveling-seal-649
+run_uuid: 350f4d7ec25b4d8b81f48494fdee18a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552231527
+status: 1
+tags: []
+user_id: unknown

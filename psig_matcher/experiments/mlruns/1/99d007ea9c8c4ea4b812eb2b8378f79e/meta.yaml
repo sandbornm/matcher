@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/99d007ea9c8c4ea4b812eb2b8378f79e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 99d007ea9c8c4ea4b812eb2b8378f79e
+run_name: silent-zebra-409
+run_uuid: 99d007ea9c8c4ea4b812eb2b8378f79e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552127089
+status: 1
+tags: []
+user_id: unknown

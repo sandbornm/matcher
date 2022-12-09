@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/da235d03e9ad418a9b4269778a1c4303/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: da235d03e9ad418a9b4269778a1c4303
+run_name: abundant-bird-915
+run_uuid: da235d03e9ad418a9b4269778a1c4303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552092480
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/baf27378df6a478f9b8fcb1353eabf93/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: baf27378df6a478f9b8fcb1353eabf93
+run_name: dapper-cow-991
+run_uuid: baf27378df6a478f9b8fcb1353eabf93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552256291
+status: 1
+tags: []
+user_id: unknown

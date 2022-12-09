@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0db0c2d7d77a4b59aade95b88bb29072/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0db0c2d7d77a4b59aade95b88bb29072
+run_name: clean-croc-7
+run_uuid: 0db0c2d7d77a4b59aade95b88bb29072
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552214483
+status: 1
+tags: []
+user_id: unknown

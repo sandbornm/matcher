@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2d881974d11f4384933e34282b94f6d7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2d881974d11f4384933e34282b94f6d7
+run_name: crawling-bear-365
+run_uuid: 2d881974d11f4384933e34282b94f6d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552161273
+status: 1
+tags: []
+user_id: unknown

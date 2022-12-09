@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/80860c77220142e4ac3be92445ca1f67/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 80860c77220142e4ac3be92445ca1f67
+run_name: magnificent-bug-951
+run_uuid: 80860c77220142e4ac3be92445ca1f67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552107977
+status: 1
+tags: []
+user_id: unknown

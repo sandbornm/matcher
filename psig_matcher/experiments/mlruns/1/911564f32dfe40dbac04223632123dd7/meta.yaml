@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/911564f32dfe40dbac04223632123dd7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 911564f32dfe40dbac04223632123dd7
+run_name: awesome-donkey-318
+run_uuid: 911564f32dfe40dbac04223632123dd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552191021
+status: 1
+tags: []
+user_id: unknown

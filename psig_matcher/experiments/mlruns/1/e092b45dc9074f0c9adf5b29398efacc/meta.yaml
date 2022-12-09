@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e092b45dc9074f0c9adf5b29398efacc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e092b45dc9074f0c9adf5b29398efacc
+run_name: brawny-wren-276
+run_uuid: e092b45dc9074f0c9adf5b29398efacc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552240894
+status: 1
+tags: []
+user_id: unknown

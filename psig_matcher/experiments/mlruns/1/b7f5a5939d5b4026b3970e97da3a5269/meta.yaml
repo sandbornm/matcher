@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b7f5a5939d5b4026b3970e97da3a5269/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b7f5a5939d5b4026b3970e97da3a5269
+run_name: loud-wren-818
+run_uuid: b7f5a5939d5b4026b3970e97da3a5269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552088678
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9d30cc72e76c4280a4038fbd6e8f74b4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9d30cc72e76c4280a4038fbd6e8f74b4
+run_name: bemused-skunk-210
+run_uuid: 9d30cc72e76c4280a4038fbd6e8f74b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552095717
+status: 1
+tags: []
+user_id: unknown

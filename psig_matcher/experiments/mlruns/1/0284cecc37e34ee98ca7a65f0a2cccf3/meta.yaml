@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0284cecc37e34ee98ca7a65f0a2cccf3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0284cecc37e34ee98ca7a65f0a2cccf3
+run_name: stately-owl-48
+run_uuid: 0284cecc37e34ee98ca7a65f0a2cccf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552224597
+status: 1
+tags: []
+user_id: unknown

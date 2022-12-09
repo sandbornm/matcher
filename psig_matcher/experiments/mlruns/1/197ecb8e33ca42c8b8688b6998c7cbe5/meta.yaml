@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/197ecb8e33ca42c8b8688b6998c7cbe5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 197ecb8e33ca42c8b8688b6998c7cbe5
+run_name: handsome-carp-151
+run_uuid: 197ecb8e33ca42c8b8688b6998c7cbe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552135304
+status: 1
+tags: []
+user_id: unknown

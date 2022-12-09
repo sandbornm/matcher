@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/fae259100b804ddba0930b6ff4c04c18/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fae259100b804ddba0930b6ff4c04c18
+run_name: nosy-goat-425
+run_uuid: fae259100b804ddba0930b6ff4c04c18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552091169
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ae96f9901e2b4a779b9f4c32eaa1826c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ae96f9901e2b4a779b9f4c32eaa1826c
+run_name: amazing-zebra-404
+run_uuid: ae96f9901e2b4a779b9f4c32eaa1826c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552106796
+status: 1
+tags: []
+user_id: unknown

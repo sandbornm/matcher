@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0b7cad318642445cb0c80eca277a75d8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0b7cad318642445cb0c80eca277a75d8
+run_name: mysterious-shark-404
+run_uuid: 0b7cad318642445cb0c80eca277a75d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552090934
+status: 1
+tags: []
+user_id: unknown

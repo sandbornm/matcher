@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b5b6b15bff6248eb88386c9260b785bc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b5b6b15bff6248eb88386c9260b785bc
+run_name: unique-midge-199
+run_uuid: b5b6b15bff6248eb88386c9260b785bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552177846
+status: 1
+tags: []
+user_id: unknown

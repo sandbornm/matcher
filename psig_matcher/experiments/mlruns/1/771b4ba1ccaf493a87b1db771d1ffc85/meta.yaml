@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/771b4ba1ccaf493a87b1db771d1ffc85/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 771b4ba1ccaf493a87b1db771d1ffc85
+run_name: capricious-shoat-478
+run_uuid: 771b4ba1ccaf493a87b1db771d1ffc85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552200316
+status: 1
+tags: []
+user_id: unknown

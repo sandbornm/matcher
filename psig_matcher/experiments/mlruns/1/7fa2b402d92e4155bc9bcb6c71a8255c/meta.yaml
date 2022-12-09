@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7fa2b402d92e4155bc9bcb6c71a8255c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7fa2b402d92e4155bc9bcb6c71a8255c
+run_name: skittish-croc-179
+run_uuid: 7fa2b402d92e4155bc9bcb6c71a8255c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552105110
+status: 1
+tags: []
+user_id: unknown

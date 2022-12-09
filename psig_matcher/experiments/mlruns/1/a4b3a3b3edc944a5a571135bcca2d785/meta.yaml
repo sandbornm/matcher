@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a4b3a3b3edc944a5a571135bcca2d785/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a4b3a3b3edc944a5a571135bcca2d785
+run_name: capricious-ape-355
+run_uuid: a4b3a3b3edc944a5a571135bcca2d785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552257788
+status: 1
+tags: []
+user_id: unknown

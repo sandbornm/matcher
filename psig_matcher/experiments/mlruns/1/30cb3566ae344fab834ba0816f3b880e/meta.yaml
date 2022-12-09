@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/30cb3566ae344fab834ba0816f3b880e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 30cb3566ae344fab834ba0816f3b880e
+run_name: lyrical-sponge-61
+run_uuid: 30cb3566ae344fab834ba0816f3b880e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552139894
+status: 1
+tags: []
+user_id: unknown

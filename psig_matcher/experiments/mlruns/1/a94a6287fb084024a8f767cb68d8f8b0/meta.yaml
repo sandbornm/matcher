@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a94a6287fb084024a8f767cb68d8f8b0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a94a6287fb084024a8f767cb68d8f8b0
+run_name: grandiose-smelt-98
+run_uuid: a94a6287fb084024a8f767cb68d8f8b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552114911
+status: 1
+tags: []
+user_id: unknown

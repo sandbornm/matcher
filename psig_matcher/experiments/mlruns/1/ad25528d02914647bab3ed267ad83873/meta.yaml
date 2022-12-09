@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ad25528d02914647bab3ed267ad83873/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad25528d02914647bab3ed267ad83873
+run_name: loud-vole-270
+run_uuid: ad25528d02914647bab3ed267ad83873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552092490
+status: 1
+tags: []
+user_id: unknown

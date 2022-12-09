@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cecc5759368c4ad78193b898527a9db7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cecc5759368c4ad78193b898527a9db7
+run_name: mercurial-auk-977
+run_uuid: cecc5759368c4ad78193b898527a9db7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552105793
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9b58165e84db4eeeaa56a62c7c9b2fb4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9b58165e84db4eeeaa56a62c7c9b2fb4
+run_name: crawling-ray-622
+run_uuid: 9b58165e84db4eeeaa56a62c7c9b2fb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552146488
+status: 1
+tags: []
+user_id: unknown

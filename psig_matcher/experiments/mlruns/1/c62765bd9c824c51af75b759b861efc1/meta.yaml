@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c62765bd9c824c51af75b759b861efc1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c62765bd9c824c51af75b759b861efc1
+run_name: able-sloth-783
+run_uuid: c62765bd9c824c51af75b759b861efc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552107982
+status: 1
+tags: []
+user_id: unknown

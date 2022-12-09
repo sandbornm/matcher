@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bb267363b70a46a782e4dff540c4e2f2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bb267363b70a46a782e4dff540c4e2f2
+run_name: resilient-elk-558
+run_uuid: bb267363b70a46a782e4dff540c4e2f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552088013
+status: 1
+tags: []
+user_id: unknown

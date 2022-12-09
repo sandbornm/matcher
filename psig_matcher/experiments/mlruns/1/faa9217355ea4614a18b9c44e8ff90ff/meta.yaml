@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/faa9217355ea4614a18b9c44e8ff90ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: faa9217355ea4614a18b9c44e8ff90ff
+run_name: rogue-doe-57
+run_uuid: faa9217355ea4614a18b9c44e8ff90ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552104715
+status: 1
+tags: []
+user_id: unknown

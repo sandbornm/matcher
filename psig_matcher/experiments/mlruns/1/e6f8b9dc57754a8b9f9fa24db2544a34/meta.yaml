@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e6f8b9dc57754a8b9f9fa24db2544a34/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e6f8b9dc57754a8b9f9fa24db2544a34
+run_name: persistent-hare-189
+run_uuid: e6f8b9dc57754a8b9f9fa24db2544a34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552229838
+status: 1
+tags: []
+user_id: unknown

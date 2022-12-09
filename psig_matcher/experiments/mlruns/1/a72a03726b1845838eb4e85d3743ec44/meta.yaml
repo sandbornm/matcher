@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a72a03726b1845838eb4e85d3743ec44/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a72a03726b1845838eb4e85d3743ec44
+run_name: big-bass-868
+run_uuid: a72a03726b1845838eb4e85d3743ec44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552098734
+status: 1
+tags: []
+user_id: unknown

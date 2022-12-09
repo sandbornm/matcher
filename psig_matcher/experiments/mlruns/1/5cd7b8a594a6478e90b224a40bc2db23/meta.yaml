@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5cd7b8a594a6478e90b224a40bc2db23/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5cd7b8a594a6478e90b224a40bc2db23
+run_name: melodic-moth-22
+run_uuid: 5cd7b8a594a6478e90b224a40bc2db23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552248144
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7952cd09381e43148d8b1013e7e5c81c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7952cd09381e43148d8b1013e7e5c81c
+run_name: agreeable-wasp-894
+run_uuid: 7952cd09381e43148d8b1013e7e5c81c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552192508
+status: 1
+tags: []
+user_id: unknown

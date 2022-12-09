@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/14743f9a0b854736a54b1da6c3db2ac2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 14743f9a0b854736a54b1da6c3db2ac2
+run_name: nervous-worm-443
+run_uuid: 14743f9a0b854736a54b1da6c3db2ac2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552223942
+status: 1
+tags: []
+user_id: unknown

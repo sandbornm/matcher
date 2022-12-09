@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dc5124ef0db4494799b4724ae59125ec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dc5124ef0db4494799b4724ae59125ec
+run_name: sincere-squid-467
+run_uuid: dc5124ef0db4494799b4724ae59125ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552109107
+status: 1
+tags: []
+user_id: unknown

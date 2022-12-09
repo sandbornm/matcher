@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b54689eb096347c983e6a6982cd54301/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b54689eb096347c983e6a6982cd54301
+run_name: thundering-stoat-780
+run_uuid: b54689eb096347c983e6a6982cd54301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552085567
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d2811a623cdd4f2899586811673d08a7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d2811a623cdd4f2899586811673d08a7
+run_name: luxuriant-moose-514
+run_uuid: d2811a623cdd4f2899586811673d08a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552118942
+status: 1
+tags: []
+user_id: unknown

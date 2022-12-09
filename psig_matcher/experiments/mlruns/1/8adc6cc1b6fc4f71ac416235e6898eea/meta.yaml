@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8adc6cc1b6fc4f71ac416235e6898eea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8adc6cc1b6fc4f71ac416235e6898eea
+run_name: fearless-horse-89
+run_uuid: 8adc6cc1b6fc4f71ac416235e6898eea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552178172
+status: 1
+tags: []
+user_id: unknown

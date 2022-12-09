@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/83eedb02c0fd4bb6a0deb92d43d8d873/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 83eedb02c0fd4bb6a0deb92d43d8d873
+run_name: agreeable-kite-687
+run_uuid: 83eedb02c0fd4bb6a0deb92d43d8d873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552228617
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dcd0d1ed00cf4f3f9c9df1d2b6c7e95f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dcd0d1ed00cf4f3f9c9df1d2b6c7e95f
+run_name: upset-eel-844
+run_uuid: dcd0d1ed00cf4f3f9c9df1d2b6c7e95f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552092670
+status: 1
+tags: []
+user_id: unknown

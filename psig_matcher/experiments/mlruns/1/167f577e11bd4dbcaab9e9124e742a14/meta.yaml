@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/167f577e11bd4dbcaab9e9124e742a14/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 167f577e11bd4dbcaab9e9124e742a14
+run_name: glamorous-shark-191
+run_uuid: 167f577e11bd4dbcaab9e9124e742a14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552157333
+status: 1
+tags: []
+user_id: unknown

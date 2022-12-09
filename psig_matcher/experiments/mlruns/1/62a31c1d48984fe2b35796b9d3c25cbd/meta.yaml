@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/62a31c1d48984fe2b35796b9d3c25cbd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 62a31c1d48984fe2b35796b9d3c25cbd
+run_name: salty-flea-628
+run_uuid: 62a31c1d48984fe2b35796b9d3c25cbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552089883
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a8c58585fe274dcfbce63295929ae764/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8c58585fe274dcfbce63295929ae764
+run_name: brawny-carp-888
+run_uuid: a8c58585fe274dcfbce63295929ae764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552090134
+status: 1
+tags: []
+user_id: unknown

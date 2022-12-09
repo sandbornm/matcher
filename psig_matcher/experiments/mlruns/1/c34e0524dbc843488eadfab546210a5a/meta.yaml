@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c34e0524dbc843488eadfab546210a5a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c34e0524dbc843488eadfab546210a5a
+run_name: persistent-moth-102
+run_uuid: c34e0524dbc843488eadfab546210a5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552196446
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5ab7385cd73343d29eddc53c3668c0ee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5ab7385cd73343d29eddc53c3668c0ee
+run_name: inquisitive-dog-870
+run_uuid: 5ab7385cd73343d29eddc53c3668c0ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552132722
+status: 1
+tags: []
+user_id: unknown

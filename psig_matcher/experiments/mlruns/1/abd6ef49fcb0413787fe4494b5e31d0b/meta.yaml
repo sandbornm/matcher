@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/abd6ef49fcb0413787fe4494b5e31d0b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: abd6ef49fcb0413787fe4494b5e31d0b
+run_name: inquisitive-fly-532
+run_uuid: abd6ef49fcb0413787fe4494b5e31d0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552109614
+status: 1
+tags: []
+user_id: unknown

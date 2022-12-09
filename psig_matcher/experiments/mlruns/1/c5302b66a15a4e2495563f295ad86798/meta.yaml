@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c5302b66a15a4e2495563f295ad86798/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c5302b66a15a4e2495563f295ad86798
+run_name: honorable-ray-400
+run_uuid: c5302b66a15a4e2495563f295ad86798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552111012
+status: 1
+tags: []
+user_id: unknown

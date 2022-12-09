@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5ca1b23e65304f2a80d4ec541e457a80/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5ca1b23e65304f2a80d4ec541e457a80
+run_name: enthused-panda-283
+run_uuid: 5ca1b23e65304f2a80d4ec541e457a80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552100351
+status: 1
+tags: []
+user_id: unknown

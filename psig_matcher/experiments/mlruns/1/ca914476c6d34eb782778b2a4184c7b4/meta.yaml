@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ca914476c6d34eb782778b2a4184c7b4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca914476c6d34eb782778b2a4184c7b4
+run_name: tasteful-wasp-276
+run_uuid: ca914476c6d34eb782778b2a4184c7b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552186926
+status: 1
+tags: []
+user_id: unknown

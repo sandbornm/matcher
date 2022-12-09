@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6e1733d0cda942b9b19e01f5a5db0dc3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6e1733d0cda942b9b19e01f5a5db0dc3
+run_name: dashing-dolphin-487
+run_uuid: 6e1733d0cda942b9b19e01f5a5db0dc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552111530
+status: 1
+tags: []
+user_id: unknown

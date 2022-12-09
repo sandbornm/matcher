@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3040806797c348a8a2d1418dab8602c3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3040806797c348a8a2d1418dab8602c3
+run_name: bouncy-elk-73
+run_uuid: 3040806797c348a8a2d1418dab8602c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552128727
+status: 1
+tags: []
+user_id: unknown

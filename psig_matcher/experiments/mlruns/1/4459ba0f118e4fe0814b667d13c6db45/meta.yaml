@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4459ba0f118e4fe0814b667d13c6db45/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4459ba0f118e4fe0814b667d13c6db45
+run_name: bouncy-calf-362
+run_uuid: 4459ba0f118e4fe0814b667d13c6db45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552174926
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f340bd8c6bdf4222b2153e995449a07b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f340bd8c6bdf4222b2153e995449a07b
+run_name: shivering-kit-926
+run_uuid: f340bd8c6bdf4222b2153e995449a07b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552094401
+status: 1
+tags: []
+user_id: unknown

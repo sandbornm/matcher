@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a933874aa28547e4a33fb965ec4d2b9f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a933874aa28547e4a33fb965ec4d2b9f
+run_name: smiling-loon-18
+run_uuid: a933874aa28547e4a33fb965ec4d2b9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552231678
+status: 1
+tags: []
+user_id: unknown

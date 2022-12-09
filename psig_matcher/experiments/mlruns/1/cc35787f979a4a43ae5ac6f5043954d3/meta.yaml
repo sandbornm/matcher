@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cc35787f979a4a43ae5ac6f5043954d3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cc35787f979a4a43ae5ac6f5043954d3
+run_name: hilarious-flea-141
+run_uuid: cc35787f979a4a43ae5ac6f5043954d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552140454
+status: 1
+tags: []
+user_id: unknown

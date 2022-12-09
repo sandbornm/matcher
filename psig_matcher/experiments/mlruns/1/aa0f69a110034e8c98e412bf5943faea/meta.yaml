@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/aa0f69a110034e8c98e412bf5943faea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aa0f69a110034e8c98e412bf5943faea
+run_name: redolent-penguin-22
+run_uuid: aa0f69a110034e8c98e412bf5943faea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552115018
+status: 1
+tags: []
+user_id: unknown

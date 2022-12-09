@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cf15a1bc838a4ebfa7dbaeded4258bff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf15a1bc838a4ebfa7dbaeded4258bff
+run_name: skittish-fawn-411
+run_uuid: cf15a1bc838a4ebfa7dbaeded4258bff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552149282
+status: 1
+tags: []
+user_id: unknown

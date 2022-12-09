@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/015e9def36c549158ec5f936403e8e30/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 015e9def36c549158ec5f936403e8e30
+run_name: orderly-sloth-158
+run_uuid: 015e9def36c549158ec5f936403e8e30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552117405
+status: 1
+tags: []
+user_id: unknown

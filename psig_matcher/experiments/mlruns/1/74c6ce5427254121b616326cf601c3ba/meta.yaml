@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/74c6ce5427254121b616326cf601c3ba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 74c6ce5427254121b616326cf601c3ba
+run_name: clumsy-frog-614
+run_uuid: 74c6ce5427254121b616326cf601c3ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552118162
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1023ecfc0c4841e5ae1d851de954474b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1023ecfc0c4841e5ae1d851de954474b
+run_name: orderly-asp-513
+run_uuid: 1023ecfc0c4841e5ae1d851de954474b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552090537
+status: 1
+tags: []
+user_id: unknown

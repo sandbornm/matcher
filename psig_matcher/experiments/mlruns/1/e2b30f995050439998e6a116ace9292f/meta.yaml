@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e2b30f995050439998e6a116ace9292f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e2b30f995050439998e6a116ace9292f
+run_name: gentle-sheep-890
+run_uuid: e2b30f995050439998e6a116ace9292f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552261323
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7d30da5e1a4246d7bc64333a823dd9cb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7d30da5e1a4246d7bc64333a823dd9cb
+run_name: luminous-stag-510
+run_uuid: 7d30da5e1a4246d7bc64333a823dd9cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552095275
+status: 1
+tags: []
+user_id: unknown

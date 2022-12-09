@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9cfc93b715ad456db06762bb90a4332e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9cfc93b715ad456db06762bb90a4332e
+run_name: powerful-bee-267
+run_uuid: 9cfc93b715ad456db06762bb90a4332e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552170989
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b820acccb10545599a11b63d8c79b3a3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b820acccb10545599a11b63d8c79b3a3
+run_name: amusing-snail-440
+run_uuid: b820acccb10545599a11b63d8c79b3a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552209632
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/23d298378755448390abdc7f47fc3429/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 23d298378755448390abdc7f47fc3429
+run_name: unruly-shrimp-564
+run_uuid: 23d298378755448390abdc7f47fc3429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552144521
+status: 1
+tags: []
+user_id: unknown

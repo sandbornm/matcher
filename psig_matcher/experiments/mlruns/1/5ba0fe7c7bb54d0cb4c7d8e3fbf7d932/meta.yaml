@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5ba0fe7c7bb54d0cb4c7d8e3fbf7d932/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5ba0fe7c7bb54d0cb4c7d8e3fbf7d932
+run_name: fun-skunk-969
+run_uuid: 5ba0fe7c7bb54d0cb4c7d8e3fbf7d932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552107304
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/aa262bd48ec24fe9ab752e8cff60765f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aa262bd48ec24fe9ab752e8cff60765f
+run_name: wistful-whale-175
+run_uuid: aa262bd48ec24fe9ab752e8cff60765f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552089459
+status: 1
+tags: []
+user_id: unknown

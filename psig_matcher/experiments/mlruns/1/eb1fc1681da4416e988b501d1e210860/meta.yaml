@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/eb1fc1681da4416e988b501d1e210860/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb1fc1681da4416e988b501d1e210860
+run_name: fun-crane-344
+run_uuid: eb1fc1681da4416e988b501d1e210860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552149834
+status: 1
+tags: []
+user_id: unknown

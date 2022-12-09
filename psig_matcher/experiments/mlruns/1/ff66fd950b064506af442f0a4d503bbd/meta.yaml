@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ff66fd950b064506af442f0a4d503bbd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff66fd950b064506af442f0a4d503bbd
+run_name: masked-fawn-374
+run_uuid: ff66fd950b064506af442f0a4d503bbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552105004
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5b8a321e5ff34cb7a0bd14c8da5793ab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5b8a321e5ff34cb7a0bd14c8da5793ab
+run_name: orderly-shoat-460
+run_uuid: 5b8a321e5ff34cb7a0bd14c8da5793ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552156712
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/faacd235b6b140399e2db300a6605bd2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: faacd235b6b140399e2db300a6605bd2
+run_name: gentle-shad-404
+run_uuid: faacd235b6b140399e2db300a6605bd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552105812
+status: 1
+tags: []
+user_id: unknown

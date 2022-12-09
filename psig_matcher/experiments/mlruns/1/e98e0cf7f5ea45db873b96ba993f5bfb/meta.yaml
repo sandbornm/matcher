@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e98e0cf7f5ea45db873b96ba993f5bfb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e98e0cf7f5ea45db873b96ba993f5bfb
+run_name: lyrical-turtle-705
+run_uuid: e98e0cf7f5ea45db873b96ba993f5bfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552091760
+status: 1
+tags: []
+user_id: unknown

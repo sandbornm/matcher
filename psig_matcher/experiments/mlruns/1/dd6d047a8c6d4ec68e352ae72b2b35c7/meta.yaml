@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dd6d047a8c6d4ec68e352ae72b2b35c7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dd6d047a8c6d4ec68e352ae72b2b35c7
+run_name: rumbling-robin-840
+run_uuid: dd6d047a8c6d4ec68e352ae72b2b35c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552191891
+status: 1
+tags: []
+user_id: unknown

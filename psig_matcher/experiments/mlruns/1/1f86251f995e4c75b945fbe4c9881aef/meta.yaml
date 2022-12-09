@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1f86251f995e4c75b945fbe4c9881aef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1f86251f995e4c75b945fbe4c9881aef
+run_name: bedecked-loon-890
+run_uuid: 1f86251f995e4c75b945fbe4c9881aef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552179565
+status: 1
+tags: []
+user_id: unknown

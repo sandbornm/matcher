@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8fbbf2ee3b0b45c8b74aaeabf825e1be/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8fbbf2ee3b0b45c8b74aaeabf825e1be
+run_name: blushing-stag-728
+run_uuid: 8fbbf2ee3b0b45c8b74aaeabf825e1be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552088443
+status: 1
+tags: []
+user_id: unknown

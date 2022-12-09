@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ca9916169e59473988bf7b020f968ec1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca9916169e59473988bf7b020f968ec1
+run_name: wistful-kite-54
+run_uuid: ca9916169e59473988bf7b020f968ec1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552241394
+status: 1
+tags: []
+user_id: unknown

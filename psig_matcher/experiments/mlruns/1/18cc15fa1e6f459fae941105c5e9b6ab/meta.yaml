@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/18cc15fa1e6f459fae941105c5e9b6ab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 18cc15fa1e6f459fae941105c5e9b6ab
+run_name: likeable-slug-810
+run_uuid: 18cc15fa1e6f459fae941105c5e9b6ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552129366
+status: 1
+tags: []
+user_id: unknown

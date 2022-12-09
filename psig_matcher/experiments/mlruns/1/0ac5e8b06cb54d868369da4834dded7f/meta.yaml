@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0ac5e8b06cb54d868369da4834dded7f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0ac5e8b06cb54d868369da4834dded7f
+run_name: awesome-fawn-431
+run_uuid: 0ac5e8b06cb54d868369da4834dded7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552102070
+status: 1
+tags: []
+user_id: unknown

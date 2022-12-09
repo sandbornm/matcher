@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ffdd38eda0904062b95c15fd33a07083/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ffdd38eda0904062b95c15fd33a07083
+run_name: blushing-zebra-608
+run_uuid: ffdd38eda0904062b95c15fd33a07083
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552099411
+status: 1
+tags: []
+user_id: unknown

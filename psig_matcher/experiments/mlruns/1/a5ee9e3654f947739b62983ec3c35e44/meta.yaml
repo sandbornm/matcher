@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a5ee9e3654f947739b62983ec3c35e44/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a5ee9e3654f947739b62983ec3c35e44
+run_name: abundant-tern-746
+run_uuid: a5ee9e3654f947739b62983ec3c35e44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552163373
+status: 1
+tags: []
+user_id: unknown

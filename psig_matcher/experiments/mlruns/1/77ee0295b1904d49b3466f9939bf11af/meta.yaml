@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/77ee0295b1904d49b3466f9939bf11af/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 77ee0295b1904d49b3466f9939bf11af
+run_name: mysterious-ape-221
+run_uuid: 77ee0295b1904d49b3466f9939bf11af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552100390
+status: 1
+tags: []
+user_id: unknown

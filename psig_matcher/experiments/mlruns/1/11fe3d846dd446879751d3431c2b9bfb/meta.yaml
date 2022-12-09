@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/11fe3d846dd446879751d3431c2b9bfb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 11fe3d846dd446879751d3431c2b9bfb
+run_name: unleashed-duck-875
+run_uuid: 11fe3d846dd446879751d3431c2b9bfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552166657
+status: 1
+tags: []
+user_id: unknown

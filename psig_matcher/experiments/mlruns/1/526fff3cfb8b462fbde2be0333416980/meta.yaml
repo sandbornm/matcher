@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/526fff3cfb8b462fbde2be0333416980/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 526fff3cfb8b462fbde2be0333416980
+run_name: secretive-foal-288
+run_uuid: 526fff3cfb8b462fbde2be0333416980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552145513
+status: 1
+tags: []
+user_id: unknown

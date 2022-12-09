@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/74c1a7f2afbe441d84802d4a343ea912/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 74c1a7f2afbe441d84802d4a343ea912
+run_name: salty-frog-659
+run_uuid: 74c1a7f2afbe441d84802d4a343ea912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552229896
+status: 1
+tags: []
+user_id: unknown

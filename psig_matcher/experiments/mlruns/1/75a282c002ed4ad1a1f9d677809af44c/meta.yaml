@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/75a282c002ed4ad1a1f9d677809af44c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 75a282c002ed4ad1a1f9d677809af44c
+run_name: thoughtful-stork-527
+run_uuid: 75a282c002ed4ad1a1f9d677809af44c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552179728
+status: 1
+tags: []
+user_id: unknown

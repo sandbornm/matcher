@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b6a8f62530c146a2b1d0d9a6a086e397/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b6a8f62530c146a2b1d0d9a6a086e397
+run_name: fun-mule-267
+run_uuid: b6a8f62530c146a2b1d0d9a6a086e397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552193882
+status: 1
+tags: []
+user_id: unknown

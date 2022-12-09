@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/379a0f111409437ca29c379f599aee8a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 379a0f111409437ca29c379f599aee8a
+run_name: bold-lynx-883
+run_uuid: 379a0f111409437ca29c379f599aee8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552135122
+status: 1
+tags: []
+user_id: unknown

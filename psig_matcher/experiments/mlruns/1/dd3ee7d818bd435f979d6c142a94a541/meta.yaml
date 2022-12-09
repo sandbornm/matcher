@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dd3ee7d818bd435f979d6c142a94a541/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dd3ee7d818bd435f979d6c142a94a541
+run_name: orderly-zebra-654
+run_uuid: dd3ee7d818bd435f979d6c142a94a541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552151534
+status: 1
+tags: []
+user_id: unknown

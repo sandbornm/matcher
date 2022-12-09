@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/31a9c92c66784de3a04b949af004f6fe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 31a9c92c66784de3a04b949af004f6fe
+run_name: aged-fly-131
+run_uuid: 31a9c92c66784de3a04b949af004f6fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552140794
+status: 1
+tags: []
+user_id: unknown

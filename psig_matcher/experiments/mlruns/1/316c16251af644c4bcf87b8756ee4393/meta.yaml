@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/316c16251af644c4bcf87b8756ee4393/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 316c16251af644c4bcf87b8756ee4393
+run_name: gentle-crane-673
+run_uuid: 316c16251af644c4bcf87b8756ee4393
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552100383
+status: 1
+tags: []
+user_id: unknown

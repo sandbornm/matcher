@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f53acfd90da440969a17e9b0b6f31cf5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f53acfd90da440969a17e9b0b6f31cf5
+run_name: invincible-perch-360
+run_uuid: f53acfd90da440969a17e9b0b6f31cf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552085680
+status: 1
+tags: []
+user_id: unknown

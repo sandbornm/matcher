@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dc554915faea41019d5258ca061c29f7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dc554915faea41019d5258ca061c29f7
+run_name: clumsy-boar-884
+run_uuid: dc554915faea41019d5258ca061c29f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552217261
+status: 1
+tags: []
+user_id: unknown

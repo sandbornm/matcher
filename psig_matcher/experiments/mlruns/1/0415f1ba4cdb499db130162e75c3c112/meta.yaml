@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0415f1ba4cdb499db130162e75c3c112/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0415f1ba4cdb499db130162e75c3c112
+run_name: monumental-ox-818
+run_uuid: 0415f1ba4cdb499db130162e75c3c112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552168517
+status: 1
+tags: []
+user_id: unknown

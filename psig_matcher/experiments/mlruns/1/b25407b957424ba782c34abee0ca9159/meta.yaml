@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b25407b957424ba782c34abee0ca9159/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b25407b957424ba782c34abee0ca9159
+run_name: amusing-conch-30
+run_uuid: b25407b957424ba782c34abee0ca9159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552212089
+status: 1
+tags: []
+user_id: unknown

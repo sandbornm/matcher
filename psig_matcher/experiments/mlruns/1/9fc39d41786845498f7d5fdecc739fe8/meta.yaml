@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9fc39d41786845498f7d5fdecc739fe8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9fc39d41786845498f7d5fdecc739fe8
+run_name: popular-eel-785
+run_uuid: 9fc39d41786845498f7d5fdecc739fe8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552110400
+status: 1
+tags: []
+user_id: unknown

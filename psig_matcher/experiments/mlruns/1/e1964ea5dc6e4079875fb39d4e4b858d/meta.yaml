@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e1964ea5dc6e4079875fb39d4e4b858d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e1964ea5dc6e4079875fb39d4e4b858d
+run_name: languid-tern-542
+run_uuid: e1964ea5dc6e4079875fb39d4e4b858d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552265681
+status: 1
+tags: []
+user_id: unknown

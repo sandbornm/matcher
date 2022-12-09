@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b7e36d41905f4822848899c974a6e874/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b7e36d41905f4822848899c974a6e874
+run_name: stylish-panda-996
+run_uuid: b7e36d41905f4822848899c974a6e874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552207687
+status: 1
+tags: []
+user_id: unknown

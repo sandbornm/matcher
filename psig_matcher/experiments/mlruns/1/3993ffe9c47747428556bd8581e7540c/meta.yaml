@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3993ffe9c47747428556bd8581e7540c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3993ffe9c47747428556bd8581e7540c
+run_name: resilient-mink-210
+run_uuid: 3993ffe9c47747428556bd8581e7540c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552108940
+status: 1
+tags: []
+user_id: unknown

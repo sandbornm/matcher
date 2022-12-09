@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3b643fd3de884ff2ac3ea793a2312d41/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3b643fd3de884ff2ac3ea793a2312d41
+run_name: welcoming-shoat-835
+run_uuid: 3b643fd3de884ff2ac3ea793a2312d41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552264296
+status: 1
+tags: []
+user_id: unknown

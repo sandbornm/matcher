@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5d2e14a118a746de9af35a9b2c5d7c50/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5d2e14a118a746de9af35a9b2c5d7c50
+run_name: bemused-mole-745
+run_uuid: 5d2e14a118a746de9af35a9b2c5d7c50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552118345
+status: 1
+tags: []
+user_id: unknown

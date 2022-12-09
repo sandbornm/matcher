@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/651052e76d334adfb167f5db17f2e73f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 651052e76d334adfb167f5db17f2e73f
+run_name: abundant-chimp-674
+run_uuid: 651052e76d334adfb167f5db17f2e73f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552089399
+status: 1
+tags: []
+user_id: unknown

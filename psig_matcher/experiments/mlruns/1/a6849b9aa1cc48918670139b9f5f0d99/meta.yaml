@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a6849b9aa1cc48918670139b9f5f0d99/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a6849b9aa1cc48918670139b9f5f0d99
+run_name: auspicious-gnat-240
+run_uuid: a6849b9aa1cc48918670139b9f5f0d99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552180000
+status: 1
+tags: []
+user_id: unknown

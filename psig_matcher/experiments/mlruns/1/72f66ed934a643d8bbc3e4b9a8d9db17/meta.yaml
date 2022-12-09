@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/72f66ed934a643d8bbc3e4b9a8d9db17/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 72f66ed934a643d8bbc3e4b9a8d9db17
+run_name: serious-horse-397
+run_uuid: 72f66ed934a643d8bbc3e4b9a8d9db17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552207400
+status: 1
+tags: []
+user_id: unknown

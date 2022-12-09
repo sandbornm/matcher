@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b34fcaaf654940939518ec0d633698fb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b34fcaaf654940939518ec0d633698fb
+run_name: skillful-bug-796
+run_uuid: b34fcaaf654940939518ec0d633698fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552130656
+status: 1
+tags: []
+user_id: unknown

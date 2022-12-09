@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/11f1a2ac53074a9ca8027a8d7a999484/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 11f1a2ac53074a9ca8027a8d7a999484
+run_name: angry-lynx-51
+run_uuid: 11f1a2ac53074a9ca8027a8d7a999484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552110793
+status: 1
+tags: []
+user_id: unknown

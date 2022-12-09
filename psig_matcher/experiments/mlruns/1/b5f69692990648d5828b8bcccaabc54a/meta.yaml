@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b5f69692990648d5828b8bcccaabc54a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b5f69692990648d5828b8bcccaabc54a
+run_name: glamorous-mare-480
+run_uuid: b5f69692990648d5828b8bcccaabc54a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552256392
+status: 1
+tags: []
+user_id: unknown

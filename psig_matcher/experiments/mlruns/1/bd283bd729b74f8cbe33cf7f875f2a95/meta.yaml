@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bd283bd729b74f8cbe33cf7f875f2a95/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bd283bd729b74f8cbe33cf7f875f2a95
+run_name: fun-perch-724
+run_uuid: bd283bd729b74f8cbe33cf7f875f2a95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552097392
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/deb2d8997be84c4794b75a34accff6ee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: deb2d8997be84c4794b75a34accff6ee
+run_name: gregarious-trout-919
+run_uuid: deb2d8997be84c4794b75a34accff6ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552236200
+status: 1
+tags: []
+user_id: unknown

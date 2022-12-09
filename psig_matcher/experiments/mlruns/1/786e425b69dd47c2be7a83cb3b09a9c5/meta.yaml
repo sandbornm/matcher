@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/786e425b69dd47c2be7a83cb3b09a9c5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 786e425b69dd47c2be7a83cb3b09a9c5
+run_name: grandiose-jay-828
+run_uuid: 786e425b69dd47c2be7a83cb3b09a9c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552151251
+status: 1
+tags: []
+user_id: unknown

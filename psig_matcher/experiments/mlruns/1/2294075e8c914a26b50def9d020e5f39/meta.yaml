@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2294075e8c914a26b50def9d020e5f39/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2294075e8c914a26b50def9d020e5f39
+run_name: gentle-deer-363
+run_uuid: 2294075e8c914a26b50def9d020e5f39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552102717
+status: 1
+tags: []
+user_id: unknown

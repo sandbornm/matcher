@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ddfee2597bbb4432b2ffe8f781c0d95d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ddfee2597bbb4432b2ffe8f781c0d95d
+run_name: bemused-stag-256
+run_uuid: ddfee2597bbb4432b2ffe8f781c0d95d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552169641
+status: 1
+tags: []
+user_id: unknown

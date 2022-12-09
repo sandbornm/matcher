@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e09c4b51650d4f32a12d19e48778062b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e09c4b51650d4f32a12d19e48778062b
+run_name: fun-whale-35
+run_uuid: e09c4b51650d4f32a12d19e48778062b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552102922
+status: 1
+tags: []
+user_id: unknown

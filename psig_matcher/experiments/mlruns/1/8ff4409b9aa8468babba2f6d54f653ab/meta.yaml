@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8ff4409b9aa8468babba2f6d54f653ab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8ff4409b9aa8468babba2f6d54f653ab
+run_name: delicate-grouse-478
+run_uuid: 8ff4409b9aa8468babba2f6d54f653ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552101570
+status: 1
+tags: []
+user_id: unknown

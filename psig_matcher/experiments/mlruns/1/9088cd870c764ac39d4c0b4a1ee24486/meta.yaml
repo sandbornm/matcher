@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9088cd870c764ac39d4c0b4a1ee24486/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9088cd870c764ac39d4c0b4a1ee24486
+run_name: fearless-skunk-642
+run_uuid: 9088cd870c764ac39d4c0b4a1ee24486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552125851
+status: 1
+tags: []
+user_id: unknown

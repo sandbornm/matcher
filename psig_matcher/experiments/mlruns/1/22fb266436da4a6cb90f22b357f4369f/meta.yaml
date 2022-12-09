@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/22fb266436da4a6cb90f22b357f4369f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 22fb266436da4a6cb90f22b357f4369f
+run_name: rogue-hen-224
+run_uuid: 22fb266436da4a6cb90f22b357f4369f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552179104
+status: 1
+tags: []
+user_id: unknown

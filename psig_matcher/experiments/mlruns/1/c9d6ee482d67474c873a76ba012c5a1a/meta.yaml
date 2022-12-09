@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c9d6ee482d67474c873a76ba012c5a1a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c9d6ee482d67474c873a76ba012c5a1a
+run_name: efficient-stoat-966
+run_uuid: c9d6ee482d67474c873a76ba012c5a1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552223041
+status: 1
+tags: []
+user_id: unknown

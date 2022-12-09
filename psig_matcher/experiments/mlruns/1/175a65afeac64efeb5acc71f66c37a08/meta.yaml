@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/175a65afeac64efeb5acc71f66c37a08/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 175a65afeac64efeb5acc71f66c37a08
+run_name: mysterious-stork-44
+run_uuid: 175a65afeac64efeb5acc71f66c37a08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552126836
+status: 1
+tags: []
+user_id: unknown

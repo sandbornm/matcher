@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b17e6b07d9084f1bac245dccaf372aac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b17e6b07d9084f1bac245dccaf372aac
+run_name: capable-ox-41
+run_uuid: b17e6b07d9084f1bac245dccaf372aac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552133381
+status: 1
+tags: []
+user_id: unknown

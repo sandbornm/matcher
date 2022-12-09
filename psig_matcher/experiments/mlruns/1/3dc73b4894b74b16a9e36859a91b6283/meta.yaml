@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3dc73b4894b74b16a9e36859a91b6283/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3dc73b4894b74b16a9e36859a91b6283
+run_name: stylish-moth-18
+run_uuid: 3dc73b4894b74b16a9e36859a91b6283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552087678
+status: 1
+tags: []
+user_id: unknown

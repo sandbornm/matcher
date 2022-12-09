@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ba858d0d0cb14e5c90c68f8c4c1f6f6a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ba858d0d0cb14e5c90c68f8c4c1f6f6a
+run_name: worried-steed-264
+run_uuid: ba858d0d0cb14e5c90c68f8c4c1f6f6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552213255
+status: 1
+tags: []
+user_id: unknown

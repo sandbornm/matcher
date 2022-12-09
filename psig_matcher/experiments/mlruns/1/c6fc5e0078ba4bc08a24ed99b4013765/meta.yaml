@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c6fc5e0078ba4bc08a24ed99b4013765/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c6fc5e0078ba4bc08a24ed99b4013765
+run_name: placid-gnat-412
+run_uuid: c6fc5e0078ba4bc08a24ed99b4013765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552090292
+status: 1
+tags: []
+user_id: unknown

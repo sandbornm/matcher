@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f10d0389623a4a0785d9e2a77cd0a9ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f10d0389623a4a0785d9e2a77cd0a9ef
+run_name: polite-shoat-768
+run_uuid: f10d0389623a4a0785d9e2a77cd0a9ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552099851
+status: 1
+tags: []
+user_id: unknown

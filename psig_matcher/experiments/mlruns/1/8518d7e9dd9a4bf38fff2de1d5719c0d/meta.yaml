@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8518d7e9dd9a4bf38fff2de1d5719c0d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8518d7e9dd9a4bf38fff2de1d5719c0d
+run_name: suave-moth-333
+run_uuid: 8518d7e9dd9a4bf38fff2de1d5719c0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552123498
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8b9c6009bbd648ffa61dca3f79c04f3a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8b9c6009bbd648ffa61dca3f79c04f3a
+run_name: wistful-ray-848
+run_uuid: 8b9c6009bbd648ffa61dca3f79c04f3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552202903
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/06e0d369d60d4760bc4861ec0abdf569/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 06e0d369d60d4760bc4861ec0abdf569
+run_name: delightful-carp-811
+run_uuid: 06e0d369d60d4760bc4861ec0abdf569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552101723
+status: 1
+tags: []
+user_id: unknown

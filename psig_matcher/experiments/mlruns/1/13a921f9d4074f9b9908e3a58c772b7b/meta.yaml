@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/13a921f9d4074f9b9908e3a58c772b7b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 13a921f9d4074f9b9908e3a58c772b7b
+run_name: dashing-ape-635
+run_uuid: 13a921f9d4074f9b9908e3a58c772b7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552091272
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cbb2da65df644a13adc6fba9374ff3da/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cbb2da65df644a13adc6fba9374ff3da
+run_name: rare-fly-306
+run_uuid: cbb2da65df644a13adc6fba9374ff3da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552188511
+status: 1
+tags: []
+user_id: unknown

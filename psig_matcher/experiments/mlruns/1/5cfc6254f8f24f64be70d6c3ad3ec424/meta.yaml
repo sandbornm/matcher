@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5cfc6254f8f24f64be70d6c3ad3ec424/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5cfc6254f8f24f64be70d6c3ad3ec424
+run_name: lyrical-jay-622
+run_uuid: 5cfc6254f8f24f64be70d6c3ad3ec424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552256207
+status: 1
+tags: []
+user_id: unknown

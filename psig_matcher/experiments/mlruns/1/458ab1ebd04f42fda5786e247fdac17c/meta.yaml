@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/458ab1ebd04f42fda5786e247fdac17c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 458ab1ebd04f42fda5786e247fdac17c
+run_name: masked-colt-616
+run_uuid: 458ab1ebd04f42fda5786e247fdac17c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552124767
+status: 1
+tags: []
+user_id: unknown

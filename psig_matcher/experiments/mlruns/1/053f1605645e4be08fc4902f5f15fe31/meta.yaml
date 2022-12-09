@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/053f1605645e4be08fc4902f5f15fe31/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 053f1605645e4be08fc4902f5f15fe31
+run_name: skittish-goose-798
+run_uuid: 053f1605645e4be08fc4902f5f15fe31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552087635
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6a0d8d3ad7fc46b78168a93e7155a1b7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6a0d8d3ad7fc46b78168a93e7155a1b7
+run_name: peaceful-colt-461
+run_uuid: 6a0d8d3ad7fc46b78168a93e7155a1b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552098843
+status: 1
+tags: []
+user_id: unknown

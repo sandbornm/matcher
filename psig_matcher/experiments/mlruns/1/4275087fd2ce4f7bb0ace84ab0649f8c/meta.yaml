@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4275087fd2ce4f7bb0ace84ab0649f8c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4275087fd2ce4f7bb0ace84ab0649f8c
+run_name: classy-frog-614
+run_uuid: 4275087fd2ce4f7bb0ace84ab0649f8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552085994
+status: 1
+tags: []
+user_id: unknown

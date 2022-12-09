@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/50db85e225aa4487a1d4ab7c04e81d21/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 50db85e225aa4487a1d4ab7c04e81d21
+run_name: sneaky-pig-372
+run_uuid: 50db85e225aa4487a1d4ab7c04e81d21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552120360
+status: 1
+tags: []
+user_id: unknown

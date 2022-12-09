@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f82a7b03a8da439fa283e40e0fb9138c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f82a7b03a8da439fa283e40e0fb9138c
+run_name: incongruous-asp-29
+run_uuid: f82a7b03a8da439fa283e40e0fb9138c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552187842
+status: 1
+tags: []
+user_id: unknown

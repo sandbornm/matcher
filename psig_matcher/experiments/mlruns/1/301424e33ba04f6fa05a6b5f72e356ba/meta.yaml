@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/301424e33ba04f6fa05a6b5f72e356ba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 301424e33ba04f6fa05a6b5f72e356ba
+run_name: wistful-shrimp-274
+run_uuid: 301424e33ba04f6fa05a6b5f72e356ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552242575
+status: 1
+tags: []
+user_id: unknown

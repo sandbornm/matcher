@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/af351e478f7f48fc855a6e4d097ea883/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: af351e478f7f48fc855a6e4d097ea883
+run_name: resilient-toad-861
+run_uuid: af351e478f7f48fc855a6e4d097ea883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552248665
+status: 1
+tags: []
+user_id: unknown

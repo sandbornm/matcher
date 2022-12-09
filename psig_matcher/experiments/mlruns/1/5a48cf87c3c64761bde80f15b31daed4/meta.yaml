@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5a48cf87c3c64761bde80f15b31daed4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5a48cf87c3c64761bde80f15b31daed4
+run_name: mysterious-owl-241
+run_uuid: 5a48cf87c3c64761bde80f15b31daed4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552149607
+status: 1
+tags: []
+user_id: unknown

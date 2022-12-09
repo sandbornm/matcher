@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/29ea96a4218f4a638e910492ed65712e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 29ea96a4218f4a638e910492ed65712e
+run_name: awesome-tern-685
+run_uuid: 29ea96a4218f4a638e910492ed65712e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552089185
+status: 1
+tags: []
+user_id: unknown

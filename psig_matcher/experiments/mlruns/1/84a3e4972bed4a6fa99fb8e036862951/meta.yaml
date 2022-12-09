@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/84a3e4972bed4a6fa99fb8e036862951/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 84a3e4972bed4a6fa99fb8e036862951
+run_name: wise-doe-310
+run_uuid: 84a3e4972bed4a6fa99fb8e036862951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552091072
+status: 1
+tags: []
+user_id: unknown

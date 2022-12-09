@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8c9cb0d10daa4e4695a3e01f3553de9a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8c9cb0d10daa4e4695a3e01f3553de9a
+run_name: inquisitive-deer-328
+run_uuid: 8c9cb0d10daa4e4695a3e01f3553de9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552257630
+status: 1
+tags: []
+user_id: unknown

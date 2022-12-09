@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bef5900bdcc24a188392ddad063b2769/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bef5900bdcc24a188392ddad063b2769
+run_name: upset-owl-807
+run_uuid: bef5900bdcc24a188392ddad063b2769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552158986
+status: 1
+tags: []
+user_id: unknown

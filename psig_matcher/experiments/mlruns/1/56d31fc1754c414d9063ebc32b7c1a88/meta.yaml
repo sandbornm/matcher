@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/56d31fc1754c414d9063ebc32b7c1a88/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 56d31fc1754c414d9063ebc32b7c1a88
+run_name: judicious-sloth-682
+run_uuid: 56d31fc1754c414d9063ebc32b7c1a88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552104285
+status: 1
+tags: []
+user_id: unknown

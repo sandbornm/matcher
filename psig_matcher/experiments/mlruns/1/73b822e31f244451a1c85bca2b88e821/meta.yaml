@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/73b822e31f244451a1c85bca2b88e821/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 73b822e31f244451a1c85bca2b88e821
+run_name: loud-shoat-802
+run_uuid: 73b822e31f244451a1c85bca2b88e821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552176410
+status: 1
+tags: []
+user_id: unknown

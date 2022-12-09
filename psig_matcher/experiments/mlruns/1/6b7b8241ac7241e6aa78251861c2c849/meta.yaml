@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6b7b8241ac7241e6aa78251861c2c849/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6b7b8241ac7241e6aa78251861c2c849
+run_name: melodic-newt-546
+run_uuid: 6b7b8241ac7241e6aa78251861c2c849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552171554
+status: 1
+tags: []
+user_id: unknown

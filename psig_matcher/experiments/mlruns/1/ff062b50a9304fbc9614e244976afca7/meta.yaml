@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ff062b50a9304fbc9614e244976afca7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff062b50a9304fbc9614e244976afca7
+run_name: incongruous-wolf-915
+run_uuid: ff062b50a9304fbc9614e244976afca7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552097474
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bf0c6220748a4cde9a11c7e7265ccf2d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bf0c6220748a4cde9a11c7e7265ccf2d
+run_name: victorious-bug-934
+run_uuid: bf0c6220748a4cde9a11c7e7265ccf2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552244208
+status: 1
+tags: []
+user_id: unknown

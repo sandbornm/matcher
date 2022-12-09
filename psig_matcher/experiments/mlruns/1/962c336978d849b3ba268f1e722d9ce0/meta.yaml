@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/962c336978d849b3ba268f1e722d9ce0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 962c336978d849b3ba268f1e722d9ce0
+run_name: zealous-asp-43
+run_uuid: 962c336978d849b3ba268f1e722d9ce0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552136933
+status: 1
+tags: []
+user_id: unknown

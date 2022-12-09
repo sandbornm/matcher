@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a0604f67290f40aa88b34f4220ad4d23/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a0604f67290f40aa88b34f4220ad4d23
+run_name: casual-roo-564
+run_uuid: a0604f67290f40aa88b34f4220ad4d23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552085258
+status: 1
+tags: []
+user_id: unknown

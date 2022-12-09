@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/24673bc7e68c400aa0ec8dbbe5a015e4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 24673bc7e68c400aa0ec8dbbe5a015e4
+run_name: powerful-squid-512
+run_uuid: 24673bc7e68c400aa0ec8dbbe5a015e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552087283
+status: 1
+tags: []
+user_id: unknown

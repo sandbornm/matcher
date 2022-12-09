@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dc1fa8ddb18a4a9a9a25d8e0d20d160d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dc1fa8ddb18a4a9a9a25d8e0d20d160d
+run_name: likeable-tern-517
+run_uuid: dc1fa8ddb18a4a9a9a25d8e0d20d160d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552124531
+status: 1
+tags: []
+user_id: unknown

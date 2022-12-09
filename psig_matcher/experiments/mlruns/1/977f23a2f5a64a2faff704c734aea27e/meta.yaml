@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/977f23a2f5a64a2faff704c734aea27e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 977f23a2f5a64a2faff704c734aea27e
+run_name: able-eel-795
+run_uuid: 977f23a2f5a64a2faff704c734aea27e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552209973
+status: 1
+tags: []
+user_id: unknown

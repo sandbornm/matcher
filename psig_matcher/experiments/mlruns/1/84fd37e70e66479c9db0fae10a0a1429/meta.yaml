@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/84fd37e70e66479c9db0fae10a0a1429/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 84fd37e70e66479c9db0fae10a0a1429
+run_name: learned-bee-401
+run_uuid: 84fd37e70e66479c9db0fae10a0a1429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552134528
+status: 1
+tags: []
+user_id: unknown

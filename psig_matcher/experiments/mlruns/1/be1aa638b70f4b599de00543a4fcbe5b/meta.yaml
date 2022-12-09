@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/be1aa638b70f4b599de00543a4fcbe5b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: be1aa638b70f4b599de00543a4fcbe5b
+run_name: able-kit-930
+run_uuid: be1aa638b70f4b599de00543a4fcbe5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552097935
+status: 1
+tags: []
+user_id: unknown

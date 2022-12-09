@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a6be1092c5fa42bcb58a1fa74886d1f4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a6be1092c5fa42bcb58a1fa74886d1f4
+run_name: rumbling-crab-691
+run_uuid: a6be1092c5fa42bcb58a1fa74886d1f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552121051
+status: 1
+tags: []
+user_id: unknown

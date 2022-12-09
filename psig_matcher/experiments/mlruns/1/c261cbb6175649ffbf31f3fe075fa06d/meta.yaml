@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c261cbb6175649ffbf31f3fe075fa06d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c261cbb6175649ffbf31f3fe075fa06d
+run_name: painted-horse-686
+run_uuid: c261cbb6175649ffbf31f3fe075fa06d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552200750
+status: 1
+tags: []
+user_id: unknown

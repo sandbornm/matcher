@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d461e4c2b35d4f0fa2821a75f1236798/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d461e4c2b35d4f0fa2821a75f1236798
+run_name: casual-bass-741
+run_uuid: d461e4c2b35d4f0fa2821a75f1236798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552095278
+status: 1
+tags: []
+user_id: unknown

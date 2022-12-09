@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4d9cff13acb94f7093d1dcd9c91feb83/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4d9cff13acb94f7093d1dcd9c91feb83
+run_name: wise-whale-375
+run_uuid: 4d9cff13acb94f7093d1dcd9c91feb83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552240153
+status: 1
+tags: []
+user_id: unknown

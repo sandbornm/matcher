@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3cd6b11ef30b418a92b53dbf44f28afb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3cd6b11ef30b418a92b53dbf44f28afb
+run_name: loud-mink-34
+run_uuid: 3cd6b11ef30b418a92b53dbf44f28afb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552100630
+status: 1
+tags: []
+user_id: unknown

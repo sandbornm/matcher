@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d861185b60844e98a513bc167f37d42d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d861185b60844e98a513bc167f37d42d
+run_name: sincere-skunk-453
+run_uuid: d861185b60844e98a513bc167f37d42d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552245502
+status: 1
+tags: []
+user_id: unknown

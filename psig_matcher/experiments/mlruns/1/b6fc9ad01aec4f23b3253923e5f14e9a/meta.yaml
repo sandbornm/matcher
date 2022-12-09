@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b6fc9ad01aec4f23b3253923e5f14e9a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b6fc9ad01aec4f23b3253923e5f14e9a
+run_name: fearless-koi-260
+run_uuid: b6fc9ad01aec4f23b3253923e5f14e9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552125353
+status: 1
+tags: []
+user_id: unknown

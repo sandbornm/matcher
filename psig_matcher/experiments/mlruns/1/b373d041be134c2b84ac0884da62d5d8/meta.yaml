@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b373d041be134c2b84ac0884da62d5d8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b373d041be134c2b84ac0884da62d5d8
+run_name: trusting-hawk-278
+run_uuid: b373d041be134c2b84ac0884da62d5d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552192240
+status: 1
+tags: []
+user_id: unknown

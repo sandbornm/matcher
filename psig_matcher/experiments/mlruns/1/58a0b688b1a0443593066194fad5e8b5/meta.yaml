@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/58a0b688b1a0443593066194fad5e8b5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 58a0b688b1a0443593066194fad5e8b5
+run_name: serious-perch-138
+run_uuid: 58a0b688b1a0443593066194fad5e8b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552091406
+status: 1
+tags: []
+user_id: unknown

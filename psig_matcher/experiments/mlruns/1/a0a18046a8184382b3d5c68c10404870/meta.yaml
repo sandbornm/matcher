@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a0a18046a8184382b3d5c68c10404870/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a0a18046a8184382b3d5c68c10404870
+run_name: bright-quail-875
+run_uuid: a0a18046a8184382b3d5c68c10404870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552208878
+status: 1
+tags: []
+user_id: unknown

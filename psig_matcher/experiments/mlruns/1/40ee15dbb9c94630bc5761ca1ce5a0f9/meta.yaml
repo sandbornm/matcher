@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/40ee15dbb9c94630bc5761ca1ce5a0f9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 40ee15dbb9c94630bc5761ca1ce5a0f9
+run_name: defiant-tern-495
+run_uuid: 40ee15dbb9c94630bc5761ca1ce5a0f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552239247
+status: 1
+tags: []
+user_id: unknown

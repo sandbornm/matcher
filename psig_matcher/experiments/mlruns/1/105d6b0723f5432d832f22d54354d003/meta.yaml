@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/105d6b0723f5432d832f22d54354d003/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 105d6b0723f5432d832f22d54354d003
+run_name: classy-shrew-349
+run_uuid: 105d6b0723f5432d832f22d54354d003
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552150332
+status: 1
+tags: []
+user_id: unknown

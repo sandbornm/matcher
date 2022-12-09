@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/662849a26ffc4a78bf5714158c9ad3ee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 662849a26ffc4a78bf5714158c9ad3ee
+run_name: delicate-gnat-51
+run_uuid: 662849a26ffc4a78bf5714158c9ad3ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552103820
+status: 1
+tags: []
+user_id: unknown

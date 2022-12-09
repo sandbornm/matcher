@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ab47a6b5f5dd4c2c9013eb77109fffcd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab47a6b5f5dd4c2c9013eb77109fffcd
+run_name: bedecked-panda-645
+run_uuid: ab47a6b5f5dd4c2c9013eb77109fffcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552100618
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/199a06727b724588b78418146048224a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 199a06727b724588b78418146048224a
+run_name: bouncy-bee-726
+run_uuid: 199a06727b724588b78418146048224a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552137450
+status: 1
+tags: []
+user_id: unknown

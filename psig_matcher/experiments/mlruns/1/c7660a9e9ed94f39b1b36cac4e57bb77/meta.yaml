@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c7660a9e9ed94f39b1b36cac4e57bb77/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c7660a9e9ed94f39b1b36cac4e57bb77
+run_name: delicate-bug-787
+run_uuid: c7660a9e9ed94f39b1b36cac4e57bb77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552155098
+status: 1
+tags: []
+user_id: unknown

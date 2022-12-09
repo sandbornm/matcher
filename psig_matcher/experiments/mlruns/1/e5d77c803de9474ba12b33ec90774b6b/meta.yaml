@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e5d77c803de9474ba12b33ec90774b6b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e5d77c803de9474ba12b33ec90774b6b
+run_name: traveling-fox-599
+run_uuid: e5d77c803de9474ba12b33ec90774b6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552093728
+status: 1
+tags: []
+user_id: unknown

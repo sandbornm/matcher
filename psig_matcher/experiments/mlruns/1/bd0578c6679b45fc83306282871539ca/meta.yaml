@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bd0578c6679b45fc83306282871539ca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bd0578c6679b45fc83306282871539ca
+run_name: unruly-fly-929
+run_uuid: bd0578c6679b45fc83306282871539ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552158302
+status: 1
+tags: []
+user_id: unknown

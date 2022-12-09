@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/08e64c12a50c44738aa06daa6fb94151/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 08e64c12a50c44738aa06daa6fb94151
+run_name: dapper-donkey-92
+run_uuid: 08e64c12a50c44738aa06daa6fb94151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552186670
+status: 1
+tags: []
+user_id: unknown

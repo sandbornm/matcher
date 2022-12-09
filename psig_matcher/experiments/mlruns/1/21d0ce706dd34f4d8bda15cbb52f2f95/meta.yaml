@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/21d0ce706dd34f4d8bda15cbb52f2f95/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 21d0ce706dd34f4d8bda15cbb52f2f95
+run_name: orderly-wren-579
+run_uuid: 21d0ce706dd34f4d8bda15cbb52f2f95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552235656
+status: 1
+tags: []
+user_id: unknown

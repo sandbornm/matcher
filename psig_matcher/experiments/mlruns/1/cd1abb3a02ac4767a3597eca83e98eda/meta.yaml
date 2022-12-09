@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cd1abb3a02ac4767a3597eca83e98eda/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cd1abb3a02ac4767a3597eca83e98eda
+run_name: resilient-owl-847
+run_uuid: cd1abb3a02ac4767a3597eca83e98eda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552124721
+status: 1
+tags: []
+user_id: unknown

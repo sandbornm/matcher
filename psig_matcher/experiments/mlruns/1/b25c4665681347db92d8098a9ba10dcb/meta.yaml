@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b25c4665681347db92d8098a9ba10dcb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b25c4665681347db92d8098a9ba10dcb
+run_name: wise-shark-682
+run_uuid: b25c4665681347db92d8098a9ba10dcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552093561
+status: 1
+tags: []
+user_id: unknown

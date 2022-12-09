@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/58a4fd593d51461887b57f8d0411de33/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 58a4fd593d51461887b57f8d0411de33
+run_name: silent-rat-663
+run_uuid: 58a4fd593d51461887b57f8d0411de33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552105975
+status: 1
+tags: []
+user_id: unknown

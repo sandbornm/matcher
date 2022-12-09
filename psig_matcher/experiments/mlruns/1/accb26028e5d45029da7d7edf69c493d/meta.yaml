@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/accb26028e5d45029da7d7edf69c493d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: accb26028e5d45029da7d7edf69c493d
+run_name: puzzled-squirrel-627
+run_uuid: accb26028e5d45029da7d7edf69c493d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552156962
+status: 1
+tags: []
+user_id: unknown

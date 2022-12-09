@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e0b76f73d26c4a48bc3e113d1cbf2f3a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e0b76f73d26c4a48bc3e113d1cbf2f3a
+run_name: illustrious-tern-898
+run_uuid: e0b76f73d26c4a48bc3e113d1cbf2f3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552187535
+status: 1
+tags: []
+user_id: unknown

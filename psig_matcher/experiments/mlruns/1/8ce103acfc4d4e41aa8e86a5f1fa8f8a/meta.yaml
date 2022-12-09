@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8ce103acfc4d4e41aa8e86a5f1fa8f8a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8ce103acfc4d4e41aa8e86a5f1fa8f8a
+run_name: thundering-conch-172
+run_uuid: 8ce103acfc4d4e41aa8e86a5f1fa8f8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552093011
+status: 1
+tags: []
+user_id: unknown

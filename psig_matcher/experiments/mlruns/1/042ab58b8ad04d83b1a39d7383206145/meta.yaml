@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/042ab58b8ad04d83b1a39d7383206145/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 042ab58b8ad04d83b1a39d7383206145
+run_name: grandiose-seal-733
+run_uuid: 042ab58b8ad04d83b1a39d7383206145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552267496
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dcdb7b0d604c4297b670afe1e016c26b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dcdb7b0d604c4297b670afe1e016c26b
+run_name: respected-asp-33
+run_uuid: dcdb7b0d604c4297b670afe1e016c26b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552102555
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f02c7e7cd41544309460b39227761e64/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f02c7e7cd41544309460b39227761e64
+run_name: marvelous-ram-379
+run_uuid: f02c7e7cd41544309460b39227761e64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552120727
+status: 1
+tags: []
+user_id: unknown

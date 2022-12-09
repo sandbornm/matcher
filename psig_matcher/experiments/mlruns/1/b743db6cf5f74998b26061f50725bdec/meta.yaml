@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b743db6cf5f74998b26061f50725bdec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b743db6cf5f74998b26061f50725bdec
+run_name: thundering-cat-169
+run_uuid: b743db6cf5f74998b26061f50725bdec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552091524
+status: 1
+tags: []
+user_id: unknown

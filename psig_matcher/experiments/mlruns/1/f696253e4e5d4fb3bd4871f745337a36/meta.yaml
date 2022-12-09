@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f696253e4e5d4fb3bd4871f745337a36/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f696253e4e5d4fb3bd4871f745337a36
+run_name: omniscient-hound-208
+run_uuid: f696253e4e5d4fb3bd4871f745337a36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552101566
+status: 1
+tags: []
+user_id: unknown

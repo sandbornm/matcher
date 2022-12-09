@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/caee452a535740de8501af2cf1086f5e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: caee452a535740de8501af2cf1086f5e
+run_name: selective-hog-12
+run_uuid: caee452a535740de8501af2cf1086f5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552121678
+status: 1
+tags: []
+user_id: unknown

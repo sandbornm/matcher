@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7cfeec6923454fb89a94ad192e1be725/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7cfeec6923454fb89a94ad192e1be725
+run_name: skittish-robin-509
+run_uuid: 7cfeec6923454fb89a94ad192e1be725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552224584
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0cff2dc0dc9a4ab3b2e5a3277b237ef8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0cff2dc0dc9a4ab3b2e5a3277b237ef8
+run_name: stately-cow-868
+run_uuid: 0cff2dc0dc9a4ab3b2e5a3277b237ef8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552124510
+status: 1
+tags: []
+user_id: unknown

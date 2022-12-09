@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/90ead649fa3f4154b00801866ff9c33a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 90ead649fa3f4154b00801866ff9c33a
+run_name: monumental-koi-967
+run_uuid: 90ead649fa3f4154b00801866ff9c33a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552238860
+status: 1
+tags: []
+user_id: unknown

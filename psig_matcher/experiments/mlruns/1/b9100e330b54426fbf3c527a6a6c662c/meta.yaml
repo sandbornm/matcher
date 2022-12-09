@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b9100e330b54426fbf3c527a6a6c662c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b9100e330b54426fbf3c527a6a6c662c
+run_name: languid-mare-658
+run_uuid: b9100e330b54426fbf3c527a6a6c662c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552155756
+status: 1
+tags: []
+user_id: unknown

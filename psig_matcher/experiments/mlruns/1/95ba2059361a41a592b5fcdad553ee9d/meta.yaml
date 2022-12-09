@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/95ba2059361a41a592b5fcdad553ee9d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 95ba2059361a41a592b5fcdad553ee9d
+run_name: angry-sow-785
+run_uuid: 95ba2059361a41a592b5fcdad553ee9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552229681
+status: 1
+tags: []
+user_id: unknown

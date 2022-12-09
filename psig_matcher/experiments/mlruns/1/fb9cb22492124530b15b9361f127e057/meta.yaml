@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/fb9cb22492124530b15b9361f127e057/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fb9cb22492124530b15b9361f127e057
+run_name: debonair-mouse-85
+run_uuid: fb9cb22492124530b15b9361f127e057
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552254252
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ee9b9c885e5142f19da36642e3d912f2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ee9b9c885e5142f19da36642e3d912f2
+run_name: chill-crane-198
+run_uuid: ee9b9c885e5142f19da36642e3d912f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552134109
+status: 1
+tags: []
+user_id: unknown

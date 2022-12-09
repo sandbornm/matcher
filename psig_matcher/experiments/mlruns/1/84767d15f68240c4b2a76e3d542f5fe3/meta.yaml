@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/84767d15f68240c4b2a76e3d542f5fe3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 84767d15f68240c4b2a76e3d542f5fe3
+run_name: caring-chimp-844
+run_uuid: 84767d15f68240c4b2a76e3d542f5fe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552191645
+status: 1
+tags: []
+user_id: unknown

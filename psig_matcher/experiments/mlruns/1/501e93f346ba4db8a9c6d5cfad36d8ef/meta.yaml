@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/501e93f346ba4db8a9c6d5cfad36d8ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 501e93f346ba4db8a9c6d5cfad36d8ef
+run_name: likeable-owl-814
+run_uuid: 501e93f346ba4db8a9c6d5cfad36d8ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552210873
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/eb36f228ad4842ef9396fb5e6d2bf536/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb36f228ad4842ef9396fb5e6d2bf536
+run_name: bouncy-auk-464
+run_uuid: eb36f228ad4842ef9396fb5e6d2bf536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552143460
+status: 1
+tags: []
+user_id: unknown

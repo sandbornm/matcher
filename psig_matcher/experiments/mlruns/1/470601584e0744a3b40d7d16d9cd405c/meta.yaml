@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/470601584e0744a3b40d7d16d9cd405c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 470601584e0744a3b40d7d16d9cd405c
+run_name: blushing-eel-231
+run_uuid: 470601584e0744a3b40d7d16d9cd405c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552222664
+status: 1
+tags: []
+user_id: unknown

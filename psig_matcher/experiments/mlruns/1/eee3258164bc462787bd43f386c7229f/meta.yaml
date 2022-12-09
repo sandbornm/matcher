@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/eee3258164bc462787bd43f386c7229f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eee3258164bc462787bd43f386c7229f
+run_name: learned-elk-727
+run_uuid: eee3258164bc462787bd43f386c7229f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552191072
+status: 1
+tags: []
+user_id: unknown

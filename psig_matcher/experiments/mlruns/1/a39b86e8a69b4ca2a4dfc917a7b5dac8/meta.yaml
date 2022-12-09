@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a39b86e8a69b4ca2a4dfc917a7b5dac8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a39b86e8a69b4ca2a4dfc917a7b5dac8
+run_name: burly-hound-817
+run_uuid: a39b86e8a69b4ca2a4dfc917a7b5dac8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552152316
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b0ea7dc3f3b44aa686ea9926e0b2b241/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b0ea7dc3f3b44aa686ea9926e0b2b241
+run_name: unruly-frog-267
+run_uuid: b0ea7dc3f3b44aa686ea9926e0b2b241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552099396
+status: 1
+tags: []
+user_id: unknown

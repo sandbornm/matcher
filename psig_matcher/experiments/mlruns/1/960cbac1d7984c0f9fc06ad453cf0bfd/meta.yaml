@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/960cbac1d7984c0f9fc06ad453cf0bfd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 960cbac1d7984c0f9fc06ad453cf0bfd
+run_name: nebulous-bear-171
+run_uuid: 960cbac1d7984c0f9fc06ad453cf0bfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552232386
+status: 1
+tags: []
+user_id: unknown

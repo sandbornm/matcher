@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c8cd82ff16af4b1d9a7523ed596104ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c8cd82ff16af4b1d9a7523ed596104ff
+run_name: whimsical-stoat-29
+run_uuid: c8cd82ff16af4b1d9a7523ed596104ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552159937
+status: 1
+tags: []
+user_id: unknown

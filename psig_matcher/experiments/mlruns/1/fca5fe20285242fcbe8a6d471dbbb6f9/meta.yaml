@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/fca5fe20285242fcbe8a6d471dbbb6f9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fca5fe20285242fcbe8a6d471dbbb6f9
+run_name: rare-shad-4
+run_uuid: fca5fe20285242fcbe8a6d471dbbb6f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552085209
+status: 1
+tags: []
+user_id: unknown

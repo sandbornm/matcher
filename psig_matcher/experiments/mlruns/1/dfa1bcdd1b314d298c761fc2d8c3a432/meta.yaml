@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dfa1bcdd1b314d298c761fc2d8c3a432/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dfa1bcdd1b314d298c761fc2d8c3a432
+run_name: spiffy-sponge-319
+run_uuid: dfa1bcdd1b314d298c761fc2d8c3a432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552189626
+status: 1
+tags: []
+user_id: unknown

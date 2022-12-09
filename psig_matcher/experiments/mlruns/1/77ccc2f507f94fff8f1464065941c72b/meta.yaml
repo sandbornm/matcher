@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/77ccc2f507f94fff8f1464065941c72b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 77ccc2f507f94fff8f1464065941c72b
+run_name: bold-snake-306
+run_uuid: 77ccc2f507f94fff8f1464065941c72b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552090061
+status: 1
+tags: []
+user_id: unknown

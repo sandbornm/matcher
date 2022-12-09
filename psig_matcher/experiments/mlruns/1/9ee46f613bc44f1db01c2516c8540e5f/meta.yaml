@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9ee46f613bc44f1db01c2516c8540e5f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9ee46f613bc44f1db01c2516c8540e5f
+run_name: polite-asp-195
+run_uuid: 9ee46f613bc44f1db01c2516c8540e5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552117503
+status: 1
+tags: []
+user_id: unknown

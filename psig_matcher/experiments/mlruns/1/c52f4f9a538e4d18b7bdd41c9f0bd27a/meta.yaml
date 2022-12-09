@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c52f4f9a538e4d18b7bdd41c9f0bd27a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c52f4f9a538e4d18b7bdd41c9f0bd27a
+run_name: painted-shrike-215
+run_uuid: c52f4f9a538e4d18b7bdd41c9f0bd27a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552157360
+status: 1
+tags: []
+user_id: unknown

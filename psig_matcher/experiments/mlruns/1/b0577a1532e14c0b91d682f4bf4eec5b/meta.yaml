@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b0577a1532e14c0b91d682f4bf4eec5b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b0577a1532e14c0b91d682f4bf4eec5b
+run_name: flawless-fly-377
+run_uuid: b0577a1532e14c0b91d682f4bf4eec5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552222445
+status: 1
+tags: []
+user_id: unknown

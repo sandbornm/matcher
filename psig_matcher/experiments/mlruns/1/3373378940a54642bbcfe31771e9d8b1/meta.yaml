@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3373378940a54642bbcfe31771e9d8b1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3373378940a54642bbcfe31771e9d8b1
+run_name: skillful-bear-928
+run_uuid: 3373378940a54642bbcfe31771e9d8b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552086970
+status: 1
+tags: []
+user_id: unknown

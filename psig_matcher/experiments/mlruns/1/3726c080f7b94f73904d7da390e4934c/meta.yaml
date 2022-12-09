@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3726c080f7b94f73904d7da390e4934c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3726c080f7b94f73904d7da390e4934c
+run_name: kindly-bird-191
+run_uuid: 3726c080f7b94f73904d7da390e4934c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552090805
+status: 1
+tags: []
+user_id: unknown

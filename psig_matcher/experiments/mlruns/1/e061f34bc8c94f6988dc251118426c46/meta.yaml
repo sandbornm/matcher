@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e061f34bc8c94f6988dc251118426c46/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e061f34bc8c94f6988dc251118426c46
+run_name: chill-goat-41
+run_uuid: e061f34bc8c94f6988dc251118426c46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552169436
+status: 1
+tags: []
+user_id: unknown

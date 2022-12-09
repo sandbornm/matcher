@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/b34b5a6f2ba3490b88845e0ffc0f3c0b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b34b5a6f2ba3490b88845e0ffc0f3c0b
+run_name: zealous-robin-210
+run_uuid: b34b5a6f2ba3490b88845e0ffc0f3c0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552094197
+status: 1
+tags: []
+user_id: unknown

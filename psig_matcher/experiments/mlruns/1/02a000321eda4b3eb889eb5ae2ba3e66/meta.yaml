@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/02a000321eda4b3eb889eb5ae2ba3e66/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 02a000321eda4b3eb889eb5ae2ba3e66
+run_name: selective-bat-911
+run_uuid: 02a000321eda4b3eb889eb5ae2ba3e66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552224928
+status: 1
+tags: []
+user_id: unknown

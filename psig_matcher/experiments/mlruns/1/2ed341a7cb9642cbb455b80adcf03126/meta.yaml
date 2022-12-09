@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2ed341a7cb9642cbb455b80adcf03126/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ed341a7cb9642cbb455b80adcf03126
+run_name: resilient-croc-853
+run_uuid: 2ed341a7cb9642cbb455b80adcf03126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552092713
+status: 1
+tags: []
+user_id: unknown

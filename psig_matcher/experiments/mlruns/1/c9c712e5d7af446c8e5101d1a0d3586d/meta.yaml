@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c9c712e5d7af446c8e5101d1a0d3586d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c9c712e5d7af446c8e5101d1a0d3586d
+run_name: bald-auk-254
+run_uuid: c9c712e5d7af446c8e5101d1a0d3586d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552087177
+status: 1
+tags: []
+user_id: unknown

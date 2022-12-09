@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a446f626ca3e43d99fc9f4ce003755ad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a446f626ca3e43d99fc9f4ce003755ad
+run_name: polite-skunk-840
+run_uuid: a446f626ca3e43d99fc9f4ce003755ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552262094
+status: 1
+tags: []
+user_id: unknown

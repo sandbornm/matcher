@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/40b4c6d541564d5298ae9ed87257303c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 40b4c6d541564d5298ae9ed87257303c
+run_name: rare-fawn-391
+run_uuid: 40b4c6d541564d5298ae9ed87257303c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552192686
+status: 1
+tags: []
+user_id: unknown

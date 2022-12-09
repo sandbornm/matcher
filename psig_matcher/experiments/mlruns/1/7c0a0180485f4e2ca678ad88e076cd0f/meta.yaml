@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7c0a0180485f4e2ca678ad88e076cd0f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7c0a0180485f4e2ca678ad88e076cd0f
+run_name: traveling-turtle-849
+run_uuid: 7c0a0180485f4e2ca678ad88e076cd0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552146542
+status: 1
+tags: []
+user_id: unknown

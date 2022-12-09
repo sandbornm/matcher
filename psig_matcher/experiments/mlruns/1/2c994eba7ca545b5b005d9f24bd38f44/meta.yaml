@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2c994eba7ca545b5b005d9f24bd38f44/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2c994eba7ca545b5b005d9f24bd38f44
+run_name: mysterious-crab-889
+run_uuid: 2c994eba7ca545b5b005d9f24bd38f44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552106993
+status: 1
+tags: []
+user_id: unknown

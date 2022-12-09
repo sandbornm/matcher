@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c76c462f86f147fa9725e6f417148669/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c76c462f86f147fa9725e6f417148669
+run_name: incongruous-rook-471
+run_uuid: c76c462f86f147fa9725e6f417148669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552095465
+status: 1
+tags: []
+user_id: unknown

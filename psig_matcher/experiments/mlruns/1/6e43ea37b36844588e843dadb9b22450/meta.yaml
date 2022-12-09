@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6e43ea37b36844588e843dadb9b22450/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6e43ea37b36844588e843dadb9b22450
+run_name: bold-stork-842
+run_uuid: 6e43ea37b36844588e843dadb9b22450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552091476
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c621dfd105b4478ea1cea855e1e0abf7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c621dfd105b4478ea1cea855e1e0abf7
+run_name: big-mouse-618
+run_uuid: c621dfd105b4478ea1cea855e1e0abf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552232316
+status: 1
+tags: []
+user_id: unknown

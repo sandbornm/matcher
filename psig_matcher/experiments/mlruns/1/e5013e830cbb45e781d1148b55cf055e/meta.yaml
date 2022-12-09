@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e5013e830cbb45e781d1148b55cf055e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e5013e830cbb45e781d1148b55cf055e
+run_name: adaptable-snipe-938
+run_uuid: e5013e830cbb45e781d1148b55cf055e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552245692
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c397891959384b6ba4f2a1ddbbf4fe78/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c397891959384b6ba4f2a1ddbbf4fe78
+run_name: likeable-wren-129
+run_uuid: c397891959384b6ba4f2a1ddbbf4fe78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552226184
+status: 1
+tags: []
+user_id: unknown

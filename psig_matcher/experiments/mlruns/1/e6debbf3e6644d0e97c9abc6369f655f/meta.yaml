@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e6debbf3e6644d0e97c9abc6369f655f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e6debbf3e6644d0e97c9abc6369f655f
+run_name: spiffy-cub-869
+run_uuid: e6debbf3e6644d0e97c9abc6369f655f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552123520
+status: 1
+tags: []
+user_id: unknown

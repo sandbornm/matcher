@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/7faf33b36127433abc3f101b8848d7b9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7faf33b36127433abc3f101b8848d7b9
+run_name: calm-jay-480
+run_uuid: 7faf33b36127433abc3f101b8848d7b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552241378
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1c0d24fa305a44b5bc44c3d55746c90e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1c0d24fa305a44b5bc44c3d55746c90e
+run_name: rumbling-grub-200
+run_uuid: 1c0d24fa305a44b5bc44c3d55746c90e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552239512
+status: 1
+tags: []
+user_id: unknown

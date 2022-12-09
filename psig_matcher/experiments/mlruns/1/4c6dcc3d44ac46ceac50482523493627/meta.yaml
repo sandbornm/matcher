@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4c6dcc3d44ac46ceac50482523493627/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4c6dcc3d44ac46ceac50482523493627
+run_name: big-auk-468
+run_uuid: 4c6dcc3d44ac46ceac50482523493627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552128529
+status: 1
+tags: []
+user_id: unknown

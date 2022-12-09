@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2a8e6fef433e4629a2912b75255b01ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2a8e6fef433e4629a2912b75255b01ef
+run_name: righteous-crow-73
+run_uuid: 2a8e6fef433e4629a2912b75255b01ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552119536
+status: 1
+tags: []
+user_id: unknown

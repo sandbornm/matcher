@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/113fd5a9190c465b97c7a3d181489a39/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 113fd5a9190c465b97c7a3d181489a39
+run_name: sneaky-tern-123
+run_uuid: 113fd5a9190c465b97c7a3d181489a39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552095091
+status: 1
+tags: []
+user_id: unknown

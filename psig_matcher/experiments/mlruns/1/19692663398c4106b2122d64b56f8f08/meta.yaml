@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/19692663398c4106b2122d64b56f8f08/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 19692663398c4106b2122d64b56f8f08
+run_name: dapper-perch-768
+run_uuid: 19692663398c4106b2122d64b56f8f08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552208902
+status: 1
+tags: []
+user_id: unknown

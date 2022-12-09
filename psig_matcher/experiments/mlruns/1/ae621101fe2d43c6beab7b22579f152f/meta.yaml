@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ae621101fe2d43c6beab7b22579f152f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ae621101fe2d43c6beab7b22579f152f
+run_name: luminous-foal-862
+run_uuid: ae621101fe2d43c6beab7b22579f152f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552198233
+status: 1
+tags: []
+user_id: unknown

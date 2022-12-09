@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2ee20c1e5196460b88f6a70929c8eaf3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ee20c1e5196460b88f6a70929c8eaf3
+run_name: wistful-bat-789
+run_uuid: 2ee20c1e5196460b88f6a70929c8eaf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552181729
+status: 1
+tags: []
+user_id: unknown

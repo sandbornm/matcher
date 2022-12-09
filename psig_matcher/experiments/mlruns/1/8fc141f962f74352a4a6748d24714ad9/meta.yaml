@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8fc141f962f74352a4a6748d24714ad9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8fc141f962f74352a4a6748d24714ad9
+run_name: gentle-doe-346
+run_uuid: 8fc141f962f74352a4a6748d24714ad9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552142083
+status: 1
+tags: []
+user_id: unknown

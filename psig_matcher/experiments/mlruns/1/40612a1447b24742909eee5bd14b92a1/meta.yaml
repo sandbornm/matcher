@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/40612a1447b24742909eee5bd14b92a1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 40612a1447b24742909eee5bd14b92a1
+run_name: auspicious-zebra-735
+run_uuid: 40612a1447b24742909eee5bd14b92a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552200626
+status: 1
+tags: []
+user_id: unknown

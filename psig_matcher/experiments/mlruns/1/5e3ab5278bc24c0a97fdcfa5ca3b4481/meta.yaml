@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5e3ab5278bc24c0a97fdcfa5ca3b4481/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5e3ab5278bc24c0a97fdcfa5ca3b4481
+run_name: puzzled-smelt-403
+run_uuid: 5e3ab5278bc24c0a97fdcfa5ca3b4481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552116684
+status: 1
+tags: []
+user_id: unknown

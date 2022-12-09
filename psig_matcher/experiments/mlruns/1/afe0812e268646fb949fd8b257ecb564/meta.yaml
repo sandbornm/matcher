@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/afe0812e268646fb949fd8b257ecb564/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: afe0812e268646fb949fd8b257ecb564
+run_name: placid-bee-249
+run_uuid: afe0812e268646fb949fd8b257ecb564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552145783
+status: 1
+tags: []
+user_id: unknown

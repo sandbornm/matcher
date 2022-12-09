@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3224253c4e0740e293cea7fbd3a77d2f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3224253c4e0740e293cea7fbd3a77d2f
+run_name: glamorous-ape-895
+run_uuid: 3224253c4e0740e293cea7fbd3a77d2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552184384
+status: 1
+tags: []
+user_id: unknown

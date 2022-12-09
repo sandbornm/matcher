@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/700ae16277594ab7b27db37230ef208c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 700ae16277594ab7b27db37230ef208c
+run_name: efficient-pig-438
+run_uuid: 700ae16277594ab7b27db37230ef208c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552087799
+status: 1
+tags: []
+user_id: unknown

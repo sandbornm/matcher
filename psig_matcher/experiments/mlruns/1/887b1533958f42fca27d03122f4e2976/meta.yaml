@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/887b1533958f42fca27d03122f4e2976/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 887b1533958f42fca27d03122f4e2976
+run_name: classy-pig-808
+run_uuid: 887b1533958f42fca27d03122f4e2976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552092823
+status: 1
+tags: []
+user_id: unknown

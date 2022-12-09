@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/5990b486da4a474aaa278cca61dec38f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5990b486da4a474aaa278cca61dec38f
+run_name: awesome-shark-165
+run_uuid: 5990b486da4a474aaa278cca61dec38f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552210487
+status: 1
+tags: []
+user_id: unknown

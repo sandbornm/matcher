@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2e9e0a6cdf1e43b6a80e03c8e722cc1a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2e9e0a6cdf1e43b6a80e03c8e722cc1a
+run_name: peaceful-mole-419
+run_uuid: 2e9e0a6cdf1e43b6a80e03c8e722cc1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552115739
+status: 1
+tags: []
+user_id: unknown

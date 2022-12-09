@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/222f20a8d39f4b2f90d53d8413b06529/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 222f20a8d39f4b2f90d53d8413b06529
+run_name: flawless-crab-742
+run_uuid: 222f20a8d39f4b2f90d53d8413b06529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552132238
+status: 1
+tags: []
+user_id: unknown

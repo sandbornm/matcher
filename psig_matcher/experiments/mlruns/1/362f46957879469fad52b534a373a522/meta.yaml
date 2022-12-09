@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/362f46957879469fad52b534a373a522/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 362f46957879469fad52b534a373a522
+run_name: smiling-lamb-870
+run_uuid: 362f46957879469fad52b534a373a522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552103292
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a8365598efab4064a65b30ae720853ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8365598efab4064a65b30ae720853ff
+run_name: silent-conch-767
+run_uuid: a8365598efab4064a65b30ae720853ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552112168
+status: 1
+tags: []
+user_id: unknown

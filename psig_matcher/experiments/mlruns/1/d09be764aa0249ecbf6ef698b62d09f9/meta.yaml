@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d09be764aa0249ecbf6ef698b62d09f9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d09be764aa0249ecbf6ef698b62d09f9
+run_name: sassy-elk-566
+run_uuid: d09be764aa0249ecbf6ef698b62d09f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552199012
+status: 1
+tags: []
+user_id: unknown

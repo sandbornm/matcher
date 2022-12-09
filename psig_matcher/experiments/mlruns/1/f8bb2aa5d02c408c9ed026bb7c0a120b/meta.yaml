@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f8bb2aa5d02c408c9ed026bb7c0a120b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f8bb2aa5d02c408c9ed026bb7c0a120b
+run_name: grandiose-foal-522
+run_uuid: f8bb2aa5d02c408c9ed026bb7c0a120b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552085218
+status: 1
+tags: []
+user_id: unknown

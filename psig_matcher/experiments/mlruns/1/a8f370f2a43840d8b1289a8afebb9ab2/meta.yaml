@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a8f370f2a43840d8b1289a8afebb9ab2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8f370f2a43840d8b1289a8afebb9ab2
+run_name: tasteful-kite-490
+run_uuid: a8f370f2a43840d8b1289a8afebb9ab2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552239932
+status: 1
+tags: []
+user_id: unknown

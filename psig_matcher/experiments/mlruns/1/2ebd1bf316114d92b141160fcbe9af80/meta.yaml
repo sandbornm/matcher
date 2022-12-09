@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2ebd1bf316114d92b141160fcbe9af80/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2ebd1bf316114d92b141160fcbe9af80
+run_name: redolent-smelt-665
+run_uuid: 2ebd1bf316114d92b141160fcbe9af80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552241536
+status: 1
+tags: []
+user_id: unknown

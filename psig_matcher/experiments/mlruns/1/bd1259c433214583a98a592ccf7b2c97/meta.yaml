@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/bd1259c433214583a98a592ccf7b2c97/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bd1259c433214583a98a592ccf7b2c97
+run_name: puzzled-fly-863
+run_uuid: bd1259c433214583a98a592ccf7b2c97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552241490
+status: 1
+tags: []
+user_id: unknown

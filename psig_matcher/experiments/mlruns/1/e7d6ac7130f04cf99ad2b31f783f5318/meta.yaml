@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e7d6ac7130f04cf99ad2b31f783f5318/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e7d6ac7130f04cf99ad2b31f783f5318
+run_name: omniscient-shark-466
+run_uuid: e7d6ac7130f04cf99ad2b31f783f5318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552237240
+status: 1
+tags: []
+user_id: unknown

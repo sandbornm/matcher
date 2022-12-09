@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d391c5d7d99746cabb16bf34a449fcf4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d391c5d7d99746cabb16bf34a449fcf4
+run_name: fortunate-squid-912
+run_uuid: d391c5d7d99746cabb16bf34a449fcf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552105934
+status: 1
+tags: []
+user_id: unknown

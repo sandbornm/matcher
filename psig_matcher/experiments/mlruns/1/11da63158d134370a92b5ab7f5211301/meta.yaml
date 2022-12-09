@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/11da63158d134370a92b5ab7f5211301/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 11da63158d134370a92b5ab7f5211301
+run_name: upset-seal-624
+run_uuid: 11da63158d134370a92b5ab7f5211301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552221426
+status: 1
+tags: []
+user_id: unknown

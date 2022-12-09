@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/abd375ac23c34316bbef7492e81fce1c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: abd375ac23c34316bbef7492e81fce1c
+run_name: bald-whale-917
+run_uuid: abd375ac23c34316bbef7492e81fce1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552143324
+status: 1
+tags: []
+user_id: unknown

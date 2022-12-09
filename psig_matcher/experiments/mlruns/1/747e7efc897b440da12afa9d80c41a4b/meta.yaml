@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/747e7efc897b440da12afa9d80c41a4b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 747e7efc897b440da12afa9d80c41a4b
+run_name: loud-ape-708
+run_uuid: 747e7efc897b440da12afa9d80c41a4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552129296
+status: 1
+tags: []
+user_id: unknown

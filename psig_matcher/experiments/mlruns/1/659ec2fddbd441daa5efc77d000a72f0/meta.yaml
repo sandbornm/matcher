@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/659ec2fddbd441daa5efc77d000a72f0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 659ec2fddbd441daa5efc77d000a72f0
+run_name: blushing-lynx-913
+run_uuid: 659ec2fddbd441daa5efc77d000a72f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552246234
+status: 1
+tags: []
+user_id: unknown

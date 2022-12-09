@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/cf3ab2aa9da9442bac676578cfda25ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf3ab2aa9da9442bac676578cfda25ae
+run_name: adorable-ox-240
+run_uuid: cf3ab2aa9da9442bac676578cfda25ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552093124
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/76b6c68c8b844d5baffbe0790505499a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 76b6c68c8b844d5baffbe0790505499a
+run_name: aged-ram-801
+run_uuid: 76b6c68c8b844d5baffbe0790505499a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552086529
+status: 1
+tags: []
+user_id: unknown

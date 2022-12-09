@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1bcd2b2a608b406289c8756612c7c836/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1bcd2b2a608b406289c8756612c7c836
+run_name: salty-lamb-66
+run_uuid: 1bcd2b2a608b406289c8756612c7c836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552103804
+status: 1
+tags: []
+user_id: unknown

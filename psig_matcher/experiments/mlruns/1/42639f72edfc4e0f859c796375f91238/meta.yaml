@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/42639f72edfc4e0f859c796375f91238/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 42639f72edfc4e0f859c796375f91238
+run_name: awesome-crow-152
+run_uuid: 42639f72edfc4e0f859c796375f91238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552167752
+status: 1
+tags: []
+user_id: unknown

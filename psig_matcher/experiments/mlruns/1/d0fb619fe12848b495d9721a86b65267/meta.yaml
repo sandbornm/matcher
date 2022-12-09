@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d0fb619fe12848b495d9721a86b65267/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d0fb619fe12848b495d9721a86b65267
+run_name: gregarious-hog-31
+run_uuid: d0fb619fe12848b495d9721a86b65267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552100837
+status: 1
+tags: []
+user_id: unknown

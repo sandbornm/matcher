@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/48486c11d0c145a19be1561f8eede96f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 48486c11d0c145a19be1561f8eede96f
+run_name: debonair-stag-68
+run_uuid: 48486c11d0c145a19be1561f8eede96f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552144305
+status: 1
+tags: []
+user_id: unknown

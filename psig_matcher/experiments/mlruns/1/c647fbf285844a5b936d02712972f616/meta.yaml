@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c647fbf285844a5b936d02712972f616/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c647fbf285844a5b936d02712972f616
+run_name: righteous-koi-272
+run_uuid: c647fbf285844a5b936d02712972f616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552232124
+status: 1
+tags: []
+user_id: unknown

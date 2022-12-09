@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/084cadf32f174f9a8bd4486e5637c295/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 084cadf32f174f9a8bd4486e5637c295
+run_name: peaceful-donkey-215
+run_uuid: 084cadf32f174f9a8bd4486e5637c295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552219309
+status: 1
+tags: []
+user_id: unknown

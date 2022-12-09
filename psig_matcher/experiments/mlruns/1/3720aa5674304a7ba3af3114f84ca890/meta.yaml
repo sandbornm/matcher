@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3720aa5674304a7ba3af3114f84ca890/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3720aa5674304a7ba3af3114f84ca890
+run_name: welcoming-frog-263
+run_uuid: 3720aa5674304a7ba3af3114f84ca890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552127121
+status: 1
+tags: []
+user_id: unknown

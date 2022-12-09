@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d8a2f2b9f4c8451395b80d94af265aeb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d8a2f2b9f4c8451395b80d94af265aeb
+run_name: selective-quail-476
+run_uuid: d8a2f2b9f4c8451395b80d94af265aeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552111617
+status: 1
+tags: []
+user_id: unknown

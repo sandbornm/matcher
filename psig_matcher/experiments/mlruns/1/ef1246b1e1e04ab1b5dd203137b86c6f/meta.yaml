@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/ef1246b1e1e04ab1b5dd203137b86c6f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ef1246b1e1e04ab1b5dd203137b86c6f
+run_name: awesome-goose-320
+run_uuid: ef1246b1e1e04ab1b5dd203137b86c6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552124859
+status: 1
+tags: []
+user_id: unknown

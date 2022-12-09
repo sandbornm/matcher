@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/69f61a09d51b4747b3a42b69d58fa4ce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 69f61a09d51b4747b3a42b69d58fa4ce
+run_name: calm-hen-490
+run_uuid: 69f61a09d51b4747b3a42b69d58fa4ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552112117
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/46765f53fec4415f912a8e1e60483a88/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 46765f53fec4415f912a8e1e60483a88
+run_name: gentle-yak-124
+run_uuid: 46765f53fec4415f912a8e1e60483a88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552106756
+status: 1
+tags: []
+user_id: unknown

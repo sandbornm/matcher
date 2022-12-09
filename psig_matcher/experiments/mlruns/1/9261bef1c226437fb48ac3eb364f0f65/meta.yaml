@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/9261bef1c226437fb48ac3eb364f0f65/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9261bef1c226437fb48ac3eb364f0f65
+run_name: polite-hen-437
+run_uuid: 9261bef1c226437fb48ac3eb364f0f65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552099178
+status: 1
+tags: []
+user_id: unknown

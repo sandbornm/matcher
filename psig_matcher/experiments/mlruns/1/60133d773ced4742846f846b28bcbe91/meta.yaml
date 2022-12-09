@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/60133d773ced4742846f846b28bcbe91/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 60133d773ced4742846f846b28bcbe91
+run_name: smiling-moose-163
+run_uuid: 60133d773ced4742846f846b28bcbe91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552116869
+status: 1
+tags: []
+user_id: unknown

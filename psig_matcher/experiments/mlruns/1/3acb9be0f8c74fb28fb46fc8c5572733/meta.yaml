@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3acb9be0f8c74fb28fb46fc8c5572733/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3acb9be0f8c74fb28fb46fc8c5572733
+run_name: nimble-loon-321
+run_uuid: 3acb9be0f8c74fb28fb46fc8c5572733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552091940
+status: 1
+tags: []
+user_id: unknown

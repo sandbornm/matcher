@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/80cb1f84471f42c2a4bbd0931bbfe1b0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 80cb1f84471f42c2a4bbd0931bbfe1b0
+run_name: luxuriant-quail-857
+run_uuid: 80cb1f84471f42c2a4bbd0931bbfe1b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552141582
+status: 1
+tags: []
+user_id: unknown

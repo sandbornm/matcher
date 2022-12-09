@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/089bf415ad7a41c9868f79019144fc3f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 089bf415ad7a41c9868f79019144fc3f
+run_name: abrasive-fish-742
+run_uuid: 089bf415ad7a41c9868f79019144fc3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552207096
+status: 1
+tags: []
+user_id: unknown

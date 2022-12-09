@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e80c70d35b2d4ef3917fc9b3a9841cfb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e80c70d35b2d4ef3917fc9b3a9841cfb
+run_name: useful-ox-912
+run_uuid: e80c70d35b2d4ef3917fc9b3a9841cfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552175749
+status: 1
+tags: []
+user_id: unknown

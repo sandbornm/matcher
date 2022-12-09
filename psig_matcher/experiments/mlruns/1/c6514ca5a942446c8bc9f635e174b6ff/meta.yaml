@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c6514ca5a942446c8bc9f635e174b6ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c6514ca5a942446c8bc9f635e174b6ff
+run_name: shivering-ray-993
+run_uuid: c6514ca5a942446c8bc9f635e174b6ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552214742
+status: 1
+tags: []
+user_id: unknown

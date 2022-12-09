@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6e7db174c97641e38cb41536daa866fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6e7db174c97641e38cb41536daa866fa
+run_name: crawling-dove-280
+run_uuid: 6e7db174c97641e38cb41536daa866fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552187717
+status: 1
+tags: []
+user_id: unknown

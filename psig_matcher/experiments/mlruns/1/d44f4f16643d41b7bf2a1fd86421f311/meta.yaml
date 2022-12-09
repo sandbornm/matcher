@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d44f4f16643d41b7bf2a1fd86421f311/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d44f4f16643d41b7bf2a1fd86421f311
+run_name: rogue-ram-487
+run_uuid: d44f4f16643d41b7bf2a1fd86421f311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552212357
+status: 1
+tags: []
+user_id: unknown

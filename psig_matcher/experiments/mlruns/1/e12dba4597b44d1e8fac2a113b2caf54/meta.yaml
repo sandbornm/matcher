@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/e12dba4597b44d1e8fac2a113b2caf54/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e12dba4597b44d1e8fac2a113b2caf54
+run_name: skittish-loon-946
+run_uuid: e12dba4597b44d1e8fac2a113b2caf54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552145208
+status: 1
+tags: []
+user_id: unknown

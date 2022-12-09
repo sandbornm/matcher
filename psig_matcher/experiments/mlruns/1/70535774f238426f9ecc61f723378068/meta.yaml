@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/70535774f238426f9ecc61f723378068/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 70535774f238426f9ecc61f723378068
+run_name: persistent-foal-656
+run_uuid: 70535774f238426f9ecc61f723378068
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552088852
+status: 1
+tags: []
+user_id: unknown

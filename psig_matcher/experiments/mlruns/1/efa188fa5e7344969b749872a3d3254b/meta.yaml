@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/efa188fa5e7344969b749872a3d3254b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: efa188fa5e7344969b749872a3d3254b
+run_name: receptive-worm-455
+run_uuid: efa188fa5e7344969b749872a3d3254b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552160093
+status: 1
+tags: []
+user_id: unknown

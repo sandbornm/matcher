@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/05b9deaea34244c796ef95326d591a91/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 05b9deaea34244c796ef95326d591a91
+run_name: luminous-calf-959
+run_uuid: 05b9deaea34244c796ef95326d591a91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552121531
+status: 1
+tags: []
+user_id: unknown

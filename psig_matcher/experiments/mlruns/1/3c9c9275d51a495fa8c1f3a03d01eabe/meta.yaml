@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3c9c9275d51a495fa8c1f3a03d01eabe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3c9c9275d51a495fa8c1f3a03d01eabe
+run_name: salty-sow-902
+run_uuid: 3c9c9275d51a495fa8c1f3a03d01eabe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552216290
+status: 1
+tags: []
+user_id: unknown

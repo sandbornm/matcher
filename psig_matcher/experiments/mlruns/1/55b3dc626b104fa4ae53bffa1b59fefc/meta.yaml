@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/55b3dc626b104fa4ae53bffa1b59fefc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 55b3dc626b104fa4ae53bffa1b59fefc
+run_name: peaceful-mink-234
+run_uuid: 55b3dc626b104fa4ae53bffa1b59fefc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552085337
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/09747b7e6bcb47b2995106f50b3f3f1b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 09747b7e6bcb47b2995106f50b3f3f1b
+run_name: sedate-crane-932
+run_uuid: 09747b7e6bcb47b2995106f50b3f3f1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552151968
+status: 1
+tags: []
+user_id: unknown

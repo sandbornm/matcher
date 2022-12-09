@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/f3b991808904424eb00a0aaee319e22e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f3b991808904424eb00a0aaee319e22e
+run_name: dazzling-ray-333
+run_uuid: f3b991808904424eb00a0aaee319e22e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552140423
+status: 1
+tags: []
+user_id: unknown

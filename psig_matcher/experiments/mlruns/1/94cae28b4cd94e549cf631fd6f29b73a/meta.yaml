@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/94cae28b4cd94e549cf631fd6f29b73a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 94cae28b4cd94e549cf631fd6f29b73a
+run_name: serious-squirrel-370
+run_uuid: 94cae28b4cd94e549cf631fd6f29b73a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552200435
+status: 1
+tags: []
+user_id: unknown

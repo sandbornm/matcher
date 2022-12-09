@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/8e25a2121b184ba7832be89a70a335ed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8e25a2121b184ba7832be89a70a335ed
+run_name: redolent-steed-586
+run_uuid: 8e25a2121b184ba7832be89a70a335ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552089472
+status: 1
+tags: []
+user_id: unknown

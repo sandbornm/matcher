@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0fd15b6eb89e402e8b19109922d5ea3c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0fd15b6eb89e402e8b19109922d5ea3c
+run_name: glamorous-mouse-205
+run_uuid: 0fd15b6eb89e402e8b19109922d5ea3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552160717
+status: 1
+tags: []
+user_id: unknown

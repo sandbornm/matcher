@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2a97789b9e914a26a07cb1c45298d1d2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2a97789b9e914a26a07cb1c45298d1d2
+run_name: defiant-snail-623
+run_uuid: 2a97789b9e914a26a07cb1c45298d1d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552182788
+status: 1
+tags: []
+user_id: unknown

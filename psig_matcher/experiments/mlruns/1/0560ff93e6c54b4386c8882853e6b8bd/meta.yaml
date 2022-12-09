@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/0560ff93e6c54b4386c8882853e6b8bd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0560ff93e6c54b4386c8882853e6b8bd
+run_name: gaudy-ape-258
+run_uuid: 0560ff93e6c54b4386c8882853e6b8bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552085046
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3ce55bbf5fba440782d87c0f3065877d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3ce55bbf5fba440782d87c0f3065877d
+run_name: burly-bear-468
+run_uuid: 3ce55bbf5fba440782d87c0f3065877d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552238653
+status: 1
+tags: []
+user_id: unknown

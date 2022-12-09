@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/6e6d085ba5cf46409da2a104e30c5e06/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6e6d085ba5cf46409da2a104e30c5e06
+run_name: rare-slug-128
+run_uuid: 6e6d085ba5cf46409da2a104e30c5e06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552199928
+status: 1
+tags: []
+user_id: unknown

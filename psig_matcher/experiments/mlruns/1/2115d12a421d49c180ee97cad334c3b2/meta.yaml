@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/2115d12a421d49c180ee97cad334c3b2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2115d12a421d49c180ee97cad334c3b2
+run_name: omniscient-trout-646
+run_uuid: 2115d12a421d49c180ee97cad334c3b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552201140
+status: 1
+tags: []
+user_id: unknown

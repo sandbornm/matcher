@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/90bc0aae09d348a4a57b6aba3d5c840f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 90bc0aae09d348a4a57b6aba3d5c840f
+run_name: bold-ray-910
+run_uuid: 90bc0aae09d348a4a57b6aba3d5c840f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552085855
+status: 1
+tags: []
+user_id: unknown

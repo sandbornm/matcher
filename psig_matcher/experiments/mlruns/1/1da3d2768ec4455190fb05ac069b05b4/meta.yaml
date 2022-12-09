@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1da3d2768ec4455190fb05ac069b05b4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1da3d2768ec4455190fb05ac069b05b4
+run_name: wise-lamb-836
+run_uuid: 1da3d2768ec4455190fb05ac069b05b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552267623
+status: 1
+tags: []
+user_id: unknown

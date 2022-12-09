@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/707db746366f43a1a2937ffa6ff56ba0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 707db746366f43a1a2937ffa6ff56ba0
+run_name: gregarious-cat-364
+run_uuid: 707db746366f43a1a2937ffa6ff56ba0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552233602
+status: 1
+tags: []
+user_id: unknown

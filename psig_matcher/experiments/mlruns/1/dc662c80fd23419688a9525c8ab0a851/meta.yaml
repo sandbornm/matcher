@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/dc662c80fd23419688a9525c8ab0a851/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dc662c80fd23419688a9525c8ab0a851
+run_name: languid-hen-877
+run_uuid: dc662c80fd23419688a9525c8ab0a851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552217124
+status: 1
+tags: []
+user_id: unknown

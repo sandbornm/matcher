@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/32aa1ac4ab004d74a40d904d326de539/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 32aa1ac4ab004d74a40d904d326de539
+run_name: ambitious-auk-182
+run_uuid: 32aa1ac4ab004d74a40d904d326de539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552258347
+status: 1
+tags: []
+user_id: unknown

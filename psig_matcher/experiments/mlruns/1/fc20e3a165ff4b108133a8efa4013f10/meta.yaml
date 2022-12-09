@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/fc20e3a165ff4b108133a8efa4013f10/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc20e3a165ff4b108133a8efa4013f10
+run_name: unruly-cow-387
+run_uuid: fc20e3a165ff4b108133a8efa4013f10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552231132
+status: 1
+tags: []
+user_id: unknown

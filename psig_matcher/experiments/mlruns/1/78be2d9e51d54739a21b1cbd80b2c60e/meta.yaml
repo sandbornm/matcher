@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/78be2d9e51d54739a21b1cbd80b2c60e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 78be2d9e51d54739a21b1cbd80b2c60e
+run_name: resilient-hawk-955
+run_uuid: 78be2d9e51d54739a21b1cbd80b2c60e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552122728
+status: 1
+tags: []
+user_id: unknown

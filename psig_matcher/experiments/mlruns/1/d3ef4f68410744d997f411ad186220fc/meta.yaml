@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/d3ef4f68410744d997f411ad186220fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d3ef4f68410744d997f411ad186220fc
+run_name: charming-ant-66
+run_uuid: d3ef4f68410744d997f411ad186220fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552127456
+status: 1
+tags: []
+user_id: unknown

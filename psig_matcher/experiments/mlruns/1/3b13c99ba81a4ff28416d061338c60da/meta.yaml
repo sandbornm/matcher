@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/3b13c99ba81a4ff28416d061338c60da/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3b13c99ba81a4ff28416d061338c60da
+run_name: mercurial-doe-743
+run_uuid: 3b13c99ba81a4ff28416d061338c60da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552107845
+status: 1
+tags: []
+user_id: unknown

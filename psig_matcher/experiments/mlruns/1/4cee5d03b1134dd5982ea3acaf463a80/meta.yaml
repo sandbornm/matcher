@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/4cee5d03b1134dd5982ea3acaf463a80/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4cee5d03b1134dd5982ea3acaf463a80
+run_name: tasteful-ape-184
+run_uuid: 4cee5d03b1134dd5982ea3acaf463a80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552260451
+status: 1
+tags: []
+user_id: unknown

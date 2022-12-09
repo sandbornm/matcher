@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/65c9e420f09541769e201a191d526619/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 65c9e420f09541769e201a191d526619
+run_name: clumsy-quail-249
+run_uuid: 65c9e420f09541769e201a191d526619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552173524
+status: 1
+tags: []
+user_id: unknown

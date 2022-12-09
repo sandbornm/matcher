@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/69c021c08dd543d19c17bbc7c47b3996/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 69c021c08dd543d19c17bbc7c47b3996
+run_name: abundant-hound-354
+run_uuid: 69c021c08dd543d19c17bbc7c47b3996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552144185
+status: 1
+tags: []
+user_id: unknown

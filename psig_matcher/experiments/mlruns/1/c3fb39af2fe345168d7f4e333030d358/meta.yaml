@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/c3fb39af2fe345168d7f4e333030d358/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c3fb39af2fe345168d7f4e333030d358
+run_name: carefree-perch-280
+run_uuid: c3fb39af2fe345168d7f4e333030d358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552225290
+status: 1
+tags: []
+user_id: unknown

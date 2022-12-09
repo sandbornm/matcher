@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/132c23002d8e48b7bf157a764ab46a0c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 132c23002d8e48b7bf157a764ab46a0c
+run_name: suave-lark-922
+run_uuid: 132c23002d8e48b7bf157a764ab46a0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552162385
+status: 1
+tags: []
+user_id: unknown

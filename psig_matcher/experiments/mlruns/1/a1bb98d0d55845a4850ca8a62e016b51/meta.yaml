@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/a1bb98d0d55845a4850ca8a62e016b51/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a1bb98d0d55845a4850ca8a62e016b51
+run_name: fortunate-wasp-296
+run_uuid: a1bb98d0d55845a4850ca8a62e016b51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552230560
+status: 1
+tags: []
+user_id: unknown

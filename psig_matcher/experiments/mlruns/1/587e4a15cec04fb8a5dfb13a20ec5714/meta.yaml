@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/587e4a15cec04fb8a5dfb13a20ec5714/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 587e4a15cec04fb8a5dfb13a20ec5714
+run_name: skittish-calf-104
+run_uuid: 587e4a15cec04fb8a5dfb13a20ec5714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552144750
+status: 1
+tags: []
+user_id: unknown

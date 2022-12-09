@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/789a5874266e435db336a1a5d7610a9c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 789a5874266e435db336a1a5d7610a9c
+run_name: peaceful-doe-317
+run_uuid: 789a5874266e435db336a1a5d7610a9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552099163
+status: 1
+tags: []
+user_id: unknown

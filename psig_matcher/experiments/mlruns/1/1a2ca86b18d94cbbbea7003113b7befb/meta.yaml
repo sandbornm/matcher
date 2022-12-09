@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/1a2ca86b18d94cbbbea7003113b7befb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1a2ca86b18d94cbbbea7003113b7befb
+run_name: merciful-pig-646
+run_uuid: 1a2ca86b18d94cbbbea7003113b7befb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552248082
+status: 1
+tags: []
+user_id: unknown

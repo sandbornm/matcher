@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Downloads/matcher/psig_matcher/experiments/mlruns/1/72b61523c98a4dfdab7d9f519667aacf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 72b61523c98a4dfdab7d9f519667aacf
+run_name: aged-cub-730
+run_uuid: 72b61523c98a4dfdab7d9f519667aacf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670552127264
+status: 1
+tags: []
+user_id: unknown
