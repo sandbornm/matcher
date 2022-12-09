@@ -207,11 +207,11 @@ def run_parallel_experiment():
     
     parameter_grid = list(ParameterGrid(param_values))
     print(f"Running {len(parameter_grid)} experiments")
+    return
     
     pool = mp.Pool(mp.cpu_count())
     for params in parameter_grid:
         pool.apply_async(run_experiment, kwds=params)
-        #run_experiment(**params)
 
     pool.close()
     pool.join()
