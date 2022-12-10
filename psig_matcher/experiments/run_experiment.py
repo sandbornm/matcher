@@ -196,11 +196,16 @@ def run_experiment(experiment_id: int, part_type: str, part_dim: int, num_sample
     client.log_param(run_id, "part_pdf_ci", part_pdf_ci)
     client.log_param(run_id, "confidence_bound", confidence_bound)
 
-    con_parts = load_part_data(part_type)
-    for _ in range(30):
-        upper_collision_rate = run_meta_markov_multivariant_analysis(client, run_id, con_parts, part_dim, num_samples, meta_pdf_ci, part_pdf_ci, confidence_bound)
-        client.log_metric(run_id, "monte_carlo_upper_collision_rate", upper_collision_rate)
-        print(f"Upper collision rate: {upper_collision_rate * 100}%")
+    try:
+        con_parts = load_part_data(part_type)
+        for _ in range(30):
+            upper_collision_rate = run_meta_markov_multivariant_analysis(client, run_id, con_parts, part_dim, num_samples, meta_pdf_ci, part_pdf_ci, confidence_bound)
+            client.log_metric(run_id, "monte_carlo_upper_collision_rate", upper_collision_rate)
+            print(f"Upper collision rate: {upper_collision_rate * 100}% for: {part_type}, {part_dim}, {num_samples}, {meta_pdf_ci}, {part_pdf_ci}, {confidence_bound}")
+
+    except Exception as e:
+        print(f"Error: {e} - Params: {part_type}, {part_dim}, {num_samples}, {meta_pdf_ci}, {part_pdf_ci}, {confidence_bound}")
+        #client.set_terminated(run_id, str(e))
 
 def main():
     """ This script can be run as such:
@@ -217,10 +222,39 @@ def main():
     args = parser.parse_args()
     run_experiment(args.part_type, args.part_dim, args.num_samples, args.meta_pdf_ci, args.part_pdf_ci, args.confidence_bound)
 
+def delete_uncompleted_experiment_runs(experiment_id: int):
+
+    runs_df = mlflow.search_runs(experiment_ids=experiment_id, max_results=10_000)
+    incomplete_runs = runs_df[runs_df['metrics.monte_carlo_upper_collision_rate'].isna()]['run_id'].to_list()
+    print(f"Deleting {len(incomplete_runs)} incomplete runs")
+    for run_id in incomplete_runs:
+        mlflow.delete_run(run_id)
+
+def get_completed_parameters(experiment_id: int):
+
+    runs_df = mlflow.search_runs(experiment_ids=experiment_id, max_results=10_000)
+    incomplete_runs = runs_df[runs_df['metrics.monte_carlo_upper_collision_rate'].isna()]
+    if not incomplete_runs.empty:
+        raise ValueError("There are incomplete runs in the experiment")
+
+    runs_df = runs_df.rename(columns={'params.part_type': 'part_type', 'params.part_dim': 'part_dim', 'params.num_samples': 'num_samples', 'params.meta_pdf_ci': 'meta_pdf_ci', 'params.part_pdf_ci': 'part_pdf_ci', 'params.confidence_bound': 'confidence_bound'})
+
+    runs_df['meta_pdf_ci']= runs_df['meta_pdf_ci'].astype(float)
+    runs_df['confidence_bound']= runs_df['confidence_bound'].astype(float)
+    runs_df['part_pdf_ci']= runs_df['part_pdf_ci'].astype(float)
+
+    runs_df['num_samples']= runs_df['num_samples'].astype(int)
+    runs_df['part_dim']= runs_df['part_dim'].astype(int)
+
+    param_dicts = runs_df[['part_type', 'part_dim', 'num_samples', 'meta_pdf_ci', 'part_pdf_ci', 'confidence_bound']].to_dict('records')
+    {d.update({'experiment_id':experiment_id}) for d in param_dicts}
+    return param_dicts
 def run_parallel_experiment():
 
     mlflow.set_experiment("Experiment 3")
     experiment_id = mlflow.get_experiment_by_name(name='Experiment 3').experiment_id
+    delete_uncompleted_experiment_runs(experiment_id)
+    completed_params = get_completed_parameters(experiment_id)
 
     # part_types = ["BEAM", "BOX", "BRK", "CON", "CONLID", "FLG", "IMP", "LID", "SEN", "TUBE", "VNT"]
 
@@ -235,6 +269,8 @@ def run_parallel_experiment():
 
     parameter_grid = list(ParameterGrid(param_values))
     random.shuffle(parameter_grid)
+    non_completed_params = [p for p in parameter_grid if p not in completed_params]
+
     print(f"Running {len(parameter_grid)} experiments - starting at: {time.time()}")
 
     pool = mp.Pool(mp.cpu_count())
@@ -243,9 +279,6 @@ def run_parallel_experiment():
 
     pool.close()
     pool.join()
-    # for params in parameter_grid:
-    #     for _ in range(100):
-    #         run_experiment(**params)
 
 if __name__ == '__main__':
     run_parallel_experiment()
