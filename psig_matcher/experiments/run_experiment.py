@@ -161,26 +161,25 @@ def run_meta_markov_multivariant_analysis(client: mlflow.tracking.MlflowClient, 
         if len(confidence_ranges) > 100 and np.mean(confidence_ranges[-10:]) >= np.mean(confidence_ranges[-100:]):
             return upper
 
-def simulate_part_pdf_convergence(part_signals: np.ndarray, part_dim: int, meta_pdf_ci: float, part_pdf_ci: float):
+def simulate_part_pdf_convergence(client: mlflow.tracking.MlflowClient, run_id: str, part_signals: np.ndarray, meta_pdf_ci: float, part_pdf_ci: float):
     """ Given a discrete set of signals, this will simulate the part PDF CI convergence methodology.
     This function pretend that the set of the signals is infinite, Also incorporate logic to handle
     if we didn't converge before we ran out of data. Have modular connection style such that we could
     add streaming data source in the future. """
+    
     sub_samples = []
     confidence_ranges = []
-    while len(part_signals) != 0:
-        # The below segment is equivalent to sub_samples.append(part_signals.pop())
-        part_sig = part_signals[0:5]
-        part_signals = part_signals[6:]
-        sub_samples += part_sig
+    part_pdf = estimate_normal_dist(part_signals, meta_pdf_ci)
+    
+    while True:
         
+        sub_samples.append(np.random.multivariate_normal(part_pdf.mean, part_pdf.cov, 5))
         lower, upper = compute_normal_ci(sub_samples, part_pdf_ci)
         confidence_ranges.append(upper - lower)
         
-        # mlflow.log_metric("part_pdf_confidence_interval", np.mean(upper - lower))
-
+        client.log_metric(run_id, "part_pdf_confidence_interval", upper - lower)
         if len(confidence_ranges) > 100 and np.mean(confidence_ranges[-10:]) >= np.mean(confidence_ranges[-100:]):
-            return upper
+            return len(sub_samples)
 
 def run_experiment(experiment_id: int, part_type: str, part_dim: int, meta_pdf_ci: float, part_pdf_ci: float):
 
@@ -196,33 +195,14 @@ def run_experiment(experiment_id: int, part_type: str, part_dim: int, meta_pdf_c
     con_parts = load_part_data(part_type)
     con_parts = limit_deminsionality(con_parts, list(range(part_dim)))
     for con_part in con_parts:
-        print(con_part.sub_part_name)
-        upper_collision_rate = simulate_part_pdf_convergence(con_part.signals, part_dim, part_pdf_ci)
-        client.log_metric(run_id, "part_pdf_convergence_upper_collision_rate", upper_collision_rate)
-        print("final upper collision rate -", upper_collision_rate)
-
-
-# def main():
-#     """ This script can be run as such:
-#     python3 psig_matcher/experiments/run_experiment.py --part_type=CONTAINER --part_dim=5 --num_samples=100 --meta_pdf_ci=0.999 --part_pdf_ci=0.999 --confidence_bound=0.999 """
-
-#     parser = argparse.ArgumentParser()
-#     parser.add_argument('--part_type', type=str, required=True)
-#     parser.add_argument('--part_dim', type=int, required=True)
-#     parser.add_argument('--num_samples', type=int, required=True)
-#     parser.add_argument('--meta_pdf_ci', type=float, required=True)
-#     parser.add_argument('--part_pdf_ci', type=float, required=True)
-#     parser.add_argument('--confidence_bound', type=float, required=True)
-
-#     args = parser.parse_args()
-#     run_experiment(args.part_type, args.part_dim, args.num_samples, args.meta_pdf_ci, args.part_pdf_ci, args.confidence_bound)
+        num_samples_for_convergence = simulate_part_pdf_convergence(client, run_id, con_part.signals, part_pdf_ci)
+        client.log_metric(run_id, "num_samples_for_convergence", num_samples_for_convergence)
+        print(num_samples_for_convergence)
 
 def run_parallel_experiment():
 
     mlflow.set_experiment("Experiment 1")
     experiment_id = mlflow.get_experiment_by_name(name='Experiment 1').experiment_id
-
-    # part_types = ["BEAM", "BOX", "BRK", "CON", "CONLID", "FLG", "IMP", "LID", "SEN", "TUBE", "VNT"]
 
     part_types=["BEAM", "CONTAINER", "CONLID", "LID", "SEN", "TUBE"]
     part_dim=2
