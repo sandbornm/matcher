@@ -16,14 +16,14 @@ import random
 import warnings
 import traceback
 
-def warn_with_traceback(message, category, filename, lineno, file=None, line=None):
-
-    log = file if hasattr(file,'write') else sys.stderr
-    traceback.print_stack(file=log)
-    log.write(warnings.formatwarning(message, category, filename, lineno, line))
-
-warnings.showwarning = warn_with_traceback
-warnings.simplefilter("always")
+# def warn_with_traceback(message, category, filename, lineno, file=None, line=None):
+#
+#     log = file if hasattr(file,'write') else sys.stderr
+#     traceback.print_stack(file=log)
+#     log.write(warnings.formatwarning(message, category, filename, lineno, line))
+#
+# warnings.showwarning = warn_with_traceback
+# warnings.simplefilter("always")
 
 @dataclass
 class MultivariateNormalDistribution:
@@ -249,6 +249,7 @@ def get_completed_parameters(experiment_id: int):
     param_dicts = runs_df[['part_type', 'part_dim', 'num_samples', 'meta_pdf_ci', 'part_pdf_ci', 'confidence_bound']].to_dict('records')
     {d.update({'experiment_id':experiment_id}) for d in param_dicts}
     return param_dicts
+
 def run_parallel_experiment():
 
     mlflow.set_experiment("Experiment 3")
@@ -274,7 +275,7 @@ def run_parallel_experiment():
     print(f"Running {len(non_completed_params)} experiments - starting at: {time.time()}")
 
     pool = mp.Pool(mp.cpu_count())
-    for params in parameter_grid:
+    for params in non_completed_params:
         pool.apply_async(run_experiment, kwds=params)
 
     pool.close()
