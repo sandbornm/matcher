@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/867968243476437dbb84e1b5dbd24e0c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 867968243476437dbb84e1b5dbd24e0c
+run_name: nervous-seal-78
+run_uuid: 867968243476437dbb84e1b5dbd24e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670697038056
+status: 1
+tags: []
+user_id: unknown

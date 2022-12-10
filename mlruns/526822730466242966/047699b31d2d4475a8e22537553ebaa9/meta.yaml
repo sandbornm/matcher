@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/047699b31d2d4475a8e22537553ebaa9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 047699b31d2d4475a8e22537553ebaa9
+run_name: abrasive-hen-375
+run_uuid: 047699b31d2d4475a8e22537553ebaa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670639719891
+status: 1
+tags: []
+user_id: unknown

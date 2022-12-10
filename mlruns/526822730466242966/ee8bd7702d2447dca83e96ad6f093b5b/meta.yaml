@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ee8bd7702d2447dca83e96ad6f093b5b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ee8bd7702d2447dca83e96ad6f093b5b
+run_name: luxuriant-lynx-432
+run_uuid: ee8bd7702d2447dca83e96ad6f093b5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638638414
+status: 1
+tags: []
+user_id: unknown

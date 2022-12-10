@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6d60eef2cb894d8cb68dc625e172d869/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6d60eef2cb894d8cb68dc625e172d869
+run_name: gaudy-seal-299
+run_uuid: 6d60eef2cb894d8cb68dc625e172d869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638775692
+status: 1
+tags: []
+user_id: unknown

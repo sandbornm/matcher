@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b091134fc2b44c5ebf77adde1dd10622/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b091134fc2b44c5ebf77adde1dd10622
+run_name: unequaled-gull-236
+run_uuid: b091134fc2b44c5ebf77adde1dd10622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670640306668
+status: 1
+tags: []
+user_id: unknown

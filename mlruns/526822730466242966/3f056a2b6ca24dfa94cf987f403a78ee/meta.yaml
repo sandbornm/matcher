@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3f056a2b6ca24dfa94cf987f403a78ee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3f056a2b6ca24dfa94cf987f403a78ee
+run_name: clean-boar-793
+run_uuid: 3f056a2b6ca24dfa94cf987f403a78ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670639935634
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e6e98933e4aa48f2b74dd308367133e2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e6e98933e4aa48f2b74dd308367133e2
+run_name: dazzling-dove-472
+run_uuid: e6e98933e4aa48f2b74dd308367133e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638475977
+status: 1
+tags: []
+user_id: unknown

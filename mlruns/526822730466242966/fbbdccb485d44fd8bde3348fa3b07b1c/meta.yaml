@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fbbdccb485d44fd8bde3348fa3b07b1c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fbbdccb485d44fd8bde3348fa3b07b1c
+run_name: dazzling-bat-12
+run_uuid: fbbdccb485d44fd8bde3348fa3b07b1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637248276
+status: 1
+tags: []
+user_id: unknown

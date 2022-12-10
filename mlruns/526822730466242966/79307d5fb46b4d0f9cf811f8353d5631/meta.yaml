@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/79307d5fb46b4d0f9cf811f8353d5631/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 79307d5fb46b4d0f9cf811f8353d5631
+run_name: stylish-croc-194
+run_uuid: 79307d5fb46b4d0f9cf811f8353d5631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670639823842
+status: 1
+tags: []
+user_id: unknown

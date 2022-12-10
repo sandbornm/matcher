@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5e6bb2645b7648bfa6bcde488e81181d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5e6bb2645b7648bfa6bcde488e81181d
+run_name: popular-wasp-568
+run_uuid: 5e6bb2645b7648bfa6bcde488e81181d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638293821
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/56129c25125f47c9a44223a7e09804ad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 56129c25125f47c9a44223a7e09804ad
+run_name: masked-koi-899
+run_uuid: 56129c25125f47c9a44223a7e09804ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670639494145
+status: 1
+tags: []
+user_id: unknown

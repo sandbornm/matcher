@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e8cfe1d5176f4411bb2fd38fb7e186ca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e8cfe1d5176f4411bb2fd38fb7e186ca
+run_name: legendary-duck-229
+run_uuid: e8cfe1d5176f4411bb2fd38fb7e186ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638795372
+status: 1
+tags: []
+user_id: unknown

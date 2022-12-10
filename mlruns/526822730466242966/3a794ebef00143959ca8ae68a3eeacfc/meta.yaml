@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3a794ebef00143959ca8ae68a3eeacfc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3a794ebef00143959ca8ae68a3eeacfc
+run_name: mysterious-moose-717
+run_uuid: 3a794ebef00143959ca8ae68a3eeacfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670640660154
+status: 1
+tags: []
+user_id: unknown

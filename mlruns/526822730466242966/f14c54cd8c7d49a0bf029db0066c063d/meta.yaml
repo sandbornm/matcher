@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f14c54cd8c7d49a0bf029db0066c063d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f14c54cd8c7d49a0bf029db0066c063d
+run_name: shivering-stag-862
+run_uuid: f14c54cd8c7d49a0bf029db0066c063d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670697038056
+status: 1
+tags: []
+user_id: unknown

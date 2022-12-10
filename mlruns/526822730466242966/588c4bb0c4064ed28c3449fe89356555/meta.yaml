@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/588c4bb0c4064ed28c3449fe89356555/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 588c4bb0c4064ed28c3449fe89356555
+run_name: amusing-fowl-487
+run_uuid: 588c4bb0c4064ed28c3449fe89356555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670697803266
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/eb77f8a5692b405a8e4f52d19ea8025e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: eb77f8a5692b405a8e4f52d19ea8025e
+run_name: resilient-frog-113
+run_uuid: eb77f8a5692b405a8e4f52d19ea8025e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637725326
+status: 1
+tags: []
+user_id: unknown

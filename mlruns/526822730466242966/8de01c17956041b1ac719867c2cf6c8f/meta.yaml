@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8de01c17956041b1ac719867c2cf6c8f/artifacts
+deleted_time: 1670697034767
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 8de01c17956041b1ac719867c2cf6c8f
+run_name: powerful-mule-741
+run_uuid: 8de01c17956041b1ac719867c2cf6c8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670641203714
+status: 1
+tags: []
+user_id: unknown

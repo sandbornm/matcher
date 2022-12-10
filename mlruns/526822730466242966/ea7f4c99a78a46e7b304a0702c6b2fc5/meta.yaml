@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ea7f4c99a78a46e7b304a0702c6b2fc5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ea7f4c99a78a46e7b304a0702c6b2fc5
+run_name: magnificent-bear-663
+run_uuid: ea7f4c99a78a46e7b304a0702c6b2fc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638285892
+status: 1
+tags: []
+user_id: unknown

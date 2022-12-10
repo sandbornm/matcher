@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f0a66e503cff433aade991424bed3b2c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f0a66e503cff433aade991424bed3b2c
+run_name: vaunted-squid-296
+run_uuid: f0a66e503cff433aade991424bed3b2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670639874623
+status: 1
+tags: []
+user_id: unknown

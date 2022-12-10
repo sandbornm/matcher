@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/eb67da83c5b0496fa58b9ee4af329d43/artifacts
+deleted_time: 1670697034814
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: eb67da83c5b0496fa58b9ee4af329d43
+run_name: bustling-eel-284
+run_uuid: eb67da83c5b0496fa58b9ee4af329d43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670640119586
+status: 1
+tags: []
+user_id: unknown

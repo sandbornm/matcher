@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/932106f7c1bb474b8372b8aa85ab4e6a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 932106f7c1bb474b8372b8aa85ab4e6a
+run_name: silent-finch-135
+run_uuid: 932106f7c1bb474b8372b8aa85ab4e6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670697188023
+status: 1
+tags: []
+user_id: unknown

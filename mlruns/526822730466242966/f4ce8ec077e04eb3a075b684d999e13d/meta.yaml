@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f4ce8ec077e04eb3a075b684d999e13d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f4ce8ec077e04eb3a075b684d999e13d
+run_name: fun-yak-919
+run_uuid: f4ce8ec077e04eb3a075b684d999e13d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637219132
+status: 1
+tags: []
+user_id: unknown

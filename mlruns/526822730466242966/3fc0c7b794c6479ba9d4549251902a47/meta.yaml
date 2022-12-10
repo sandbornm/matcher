@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3fc0c7b794c6479ba9d4549251902a47/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3fc0c7b794c6479ba9d4549251902a47
+run_name: merciful-quail-455
+run_uuid: 3fc0c7b794c6479ba9d4549251902a47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637097091
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a834ba0ce3a2487daddc51547a72cbc3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a834ba0ce3a2487daddc51547a72cbc3
+run_name: beautiful-kit-595
+run_uuid: a834ba0ce3a2487daddc51547a72cbc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637598788
+status: 1
+tags: []
+user_id: unknown

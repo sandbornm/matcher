@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b4337145319d48c68ca526b353241746/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b4337145319d48c68ca526b353241746
+run_name: marvelous-robin-338
+run_uuid: b4337145319d48c68ca526b353241746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670639113900
+status: 1
+tags: []
+user_id: unknown

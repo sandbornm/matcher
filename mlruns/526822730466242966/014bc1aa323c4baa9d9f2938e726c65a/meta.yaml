@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/014bc1aa323c4baa9d9f2938e726c65a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 014bc1aa323c4baa9d9f2938e726c65a
+run_name: skillful-mare-96
+run_uuid: 014bc1aa323c4baa9d9f2938e726c65a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670697038056
+status: 1
+tags: []
+user_id: unknown

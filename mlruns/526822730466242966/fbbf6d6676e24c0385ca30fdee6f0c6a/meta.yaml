@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fbbf6d6676e24c0385ca30fdee6f0c6a/artifacts
+deleted_time: 1670697799986
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: fbbf6d6676e24c0385ca30fdee6f0c6a
+run_name: honorable-shark-321
+run_uuid: fbbf6d6676e24c0385ca30fdee6f0c6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670697038057
+status: 1
+tags: []
+user_id: unknown

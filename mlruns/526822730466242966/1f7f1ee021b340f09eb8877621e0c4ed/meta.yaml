@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1f7f1ee021b340f09eb8877621e0c4ed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1f7f1ee021b340f09eb8877621e0c4ed
+run_name: secretive-asp-102
+run_uuid: 1f7f1ee021b340f09eb8877621e0c4ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670639296090
+status: 1
+tags: []
+user_id: unknown

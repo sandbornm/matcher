@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5b28f7d22bd24b65a4bf91a92c4023b6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5b28f7d22bd24b65a4bf91a92c4023b6
+run_name: bright-mink-834
+run_uuid: 5b28f7d22bd24b65a4bf91a92c4023b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670697038057
+status: 1
+tags: []
+user_id: unknown

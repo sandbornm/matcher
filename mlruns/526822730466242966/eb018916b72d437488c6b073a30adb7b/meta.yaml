@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/eb018916b72d437488c6b073a30adb7b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: eb018916b72d437488c6b073a30adb7b
+run_name: glamorous-cow-677
+run_uuid: eb018916b72d437488c6b073a30adb7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670636703608
+status: 1
+tags: []
+user_id: unknown

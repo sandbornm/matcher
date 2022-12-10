@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9f3bd6e3e9f44877bca7cbd39b5f8b3b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9f3bd6e3e9f44877bca7cbd39b5f8b3b
+run_name: fortunate-jay-144
+run_uuid: 9f3bd6e3e9f44877bca7cbd39b5f8b3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637128365
+status: 1
+tags: []
+user_id: unknown

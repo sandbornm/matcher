@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b3e617f3a1ed4b1b9e8138c550c85ce8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b3e617f3a1ed4b1b9e8138c550c85ce8
+run_name: kindly-wasp-540
+run_uuid: b3e617f3a1ed4b1b9e8138c550c85ce8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670697038056
+status: 1
+tags: []
+user_id: unknown

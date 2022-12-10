@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/05405476d60c40489bfe2363396243d9/artifacts
+deleted_time: 1670697799963
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 05405476d60c40489bfe2363396243d9
+run_name: masked-lamb-63
+run_uuid: 05405476d60c40489bfe2363396243d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670697528995
+status: 1
+tags: []
+user_id: unknown

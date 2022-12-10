@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d6eec2e84c3346588cdace008fef2f19/artifacts
+deleted_time: 1670697799970
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: d6eec2e84c3346588cdace008fef2f19
+run_name: sneaky-seal-279
+run_uuid: d6eec2e84c3346588cdace008fef2f19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670697412367
+status: 1
+tags: []
+user_id: unknown

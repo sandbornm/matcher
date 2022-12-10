@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fabb9532363240e7b974b1ea94981a74/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fabb9532363240e7b974b1ea94981a74
+run_name: carefree-lynx-5
+run_uuid: fabb9532363240e7b974b1ea94981a74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637866414
+status: 1
+tags: []
+user_id: unknown

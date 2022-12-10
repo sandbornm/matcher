@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a4bfe0c1febd4b0592eb8297d35562df/artifacts
+deleted_time: 1670697034794
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: a4bfe0c1febd4b0592eb8297d35562df
+run_name: lyrical-deer-580
+run_uuid: a4bfe0c1febd4b0592eb8297d35562df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670640917189
+status: 1
+tags: []
+user_id: unknown

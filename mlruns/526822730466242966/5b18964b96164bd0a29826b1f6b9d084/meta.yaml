@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5b18964b96164bd0a29826b1f6b9d084/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5b18964b96164bd0a29826b1f6b9d084
+run_name: indecisive-trout-797
+run_uuid: 5b18964b96164bd0a29826b1f6b9d084
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670639868370
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7fa96eda4a1d47eda1b6eb6de5bd3737/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7fa96eda4a1d47eda1b6eb6de5bd3737
+run_name: abundant-ape-647
+run_uuid: 7fa96eda4a1d47eda1b6eb6de5bd3737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670636908246
+status: 1
+tags: []
+user_id: unknown

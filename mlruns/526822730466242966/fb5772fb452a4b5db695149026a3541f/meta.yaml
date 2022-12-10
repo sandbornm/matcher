@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fb5772fb452a4b5db695149026a3541f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fb5772fb452a4b5db695149026a3541f
+run_name: stylish-hen-435
+run_uuid: fb5772fb452a4b5db695149026a3541f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638709400
+status: 1
+tags: []
+user_id: unknown

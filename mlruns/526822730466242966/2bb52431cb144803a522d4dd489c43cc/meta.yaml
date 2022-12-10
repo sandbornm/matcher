@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2bb52431cb144803a522d4dd489c43cc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2bb52431cb144803a522d4dd489c43cc
+run_name: victorious-koi-975
+run_uuid: 2bb52431cb144803a522d4dd489c43cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637310972
+status: 1
+tags: []
+user_id: unknown

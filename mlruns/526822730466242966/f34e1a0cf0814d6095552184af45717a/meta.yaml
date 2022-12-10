@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f34e1a0cf0814d6095552184af45717a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f34e1a0cf0814d6095552184af45717a
+run_name: puzzled-sloth-678
+run_uuid: f34e1a0cf0814d6095552184af45717a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670636902070
+status: 1
+tags: []
+user_id: unknown

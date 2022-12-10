@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/157a6ddc41874926b2b05d7279f28560/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 157a6ddc41874926b2b05d7279f28560
+run_name: blushing-midge-984
+run_uuid: 157a6ddc41874926b2b05d7279f28560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670640722990
+status: 1
+tags: []
+user_id: unknown

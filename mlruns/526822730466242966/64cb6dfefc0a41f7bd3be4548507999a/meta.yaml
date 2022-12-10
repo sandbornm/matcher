@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/64cb6dfefc0a41f7bd3be4548507999a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 64cb6dfefc0a41f7bd3be4548507999a
+run_name: calm-stag-309
+run_uuid: 64cb6dfefc0a41f7bd3be4548507999a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670636792568
+status: 1
+tags: []
+user_id: unknown

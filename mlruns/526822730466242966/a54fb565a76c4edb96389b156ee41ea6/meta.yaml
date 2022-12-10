@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a54fb565a76c4edb96389b156ee41ea6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a54fb565a76c4edb96389b156ee41ea6
+run_name: enchanting-wolf-293
+run_uuid: a54fb565a76c4edb96389b156ee41ea6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670697038057
+status: 1
+tags: []
+user_id: unknown

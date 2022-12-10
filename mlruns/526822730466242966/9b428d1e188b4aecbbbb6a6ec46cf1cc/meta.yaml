@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9b428d1e188b4aecbbbb6a6ec46cf1cc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9b428d1e188b4aecbbbb6a6ec46cf1cc
+run_name: popular-foal-739
+run_uuid: 9b428d1e188b4aecbbbb6a6ec46cf1cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670641041282
+status: 1
+tags: []
+user_id: unknown

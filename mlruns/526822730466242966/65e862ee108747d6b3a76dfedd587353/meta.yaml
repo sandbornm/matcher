@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/65e862ee108747d6b3a76dfedd587353/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 65e862ee108747d6b3a76dfedd587353
+run_name: enchanting-mouse-383
+run_uuid: 65e862ee108747d6b3a76dfedd587353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670639730786
+status: 1
+tags: []
+user_id: unknown

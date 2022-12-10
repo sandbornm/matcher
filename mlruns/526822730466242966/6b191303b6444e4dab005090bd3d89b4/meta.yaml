@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6b191303b6444e4dab005090bd3d89b4/artifacts
+deleted_time: 1670697034771
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 6b191303b6444e4dab005090bd3d89b4
+run_name: intrigued-vole-562
+run_uuid: 6b191303b6444e4dab005090bd3d89b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670641200950
+status: 1
+tags: []
+user_id: unknown

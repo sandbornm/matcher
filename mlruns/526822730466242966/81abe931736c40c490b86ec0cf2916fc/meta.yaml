@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/81abe931736c40c490b86ec0cf2916fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 81abe931736c40c490b86ec0cf2916fc
+run_name: mysterious-croc-417
+run_uuid: 81abe931736c40c490b86ec0cf2916fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637132334
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0d5636e3e61f40d6b5eeaa2bfe7f2f0d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 0d5636e3e61f40d6b5eeaa2bfe7f2f0d
+run_name: bemused-shoat-757
+run_uuid: 0d5636e3e61f40d6b5eeaa2bfe7f2f0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670639264338
+status: 1
+tags: []
+user_id: unknown

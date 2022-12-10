@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/13f05689f1674403ab5b48a86c9af15f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 13f05689f1674403ab5b48a86c9af15f
+run_name: victorious-robin-108
+run_uuid: 13f05689f1674403ab5b48a86c9af15f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670697331538
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/72cd73a9b61d4861b7f409b2f23e0abb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 72cd73a9b61d4861b7f409b2f23e0abb
+run_name: suave-chimp-228
+run_uuid: 72cd73a9b61d4861b7f409b2f23e0abb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637444852
+status: 1
+tags: []
+user_id: unknown

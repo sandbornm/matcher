@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ad16c40e9acb4812bc1222113b733994/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ad16c40e9acb4812bc1222113b733994
+run_name: colorful-skink-527
+run_uuid: ad16c40e9acb4812bc1222113b733994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638875406
+status: 1
+tags: []
+user_id: unknown

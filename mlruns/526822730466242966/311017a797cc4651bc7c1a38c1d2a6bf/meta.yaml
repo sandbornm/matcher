@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/311017a797cc4651bc7c1a38c1d2a6bf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 311017a797cc4651bc7c1a38c1d2a6bf
+run_name: sassy-hog-142
+run_uuid: 311017a797cc4651bc7c1a38c1d2a6bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670640597043
+status: 1
+tags: []
+user_id: unknown

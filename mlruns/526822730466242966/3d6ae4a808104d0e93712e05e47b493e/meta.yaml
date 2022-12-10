@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3d6ae4a808104d0e93712e05e47b493e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3d6ae4a808104d0e93712e05e47b493e
+run_name: welcoming-midge-692
+run_uuid: 3d6ae4a808104d0e93712e05e47b493e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637497581
+status: 1
+tags: []
+user_id: unknown

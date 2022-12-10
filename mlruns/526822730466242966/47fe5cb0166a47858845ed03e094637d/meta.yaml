@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/47fe5cb0166a47858845ed03e094637d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 47fe5cb0166a47858845ed03e094637d
+run_name: skillful-foal-238
+run_uuid: 47fe5cb0166a47858845ed03e094637d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670640424742
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4cb50f1c378347168b101112707957a9/artifacts
+deleted_time: 1670697034786
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 4cb50f1c378347168b101112707957a9
+run_name: enthused-rook-396
+run_uuid: 4cb50f1c378347168b101112707957a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670641039234
+status: 1
+tags: []
+user_id: unknown

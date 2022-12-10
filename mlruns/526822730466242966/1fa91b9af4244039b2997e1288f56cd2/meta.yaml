@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1fa91b9af4244039b2997e1288f56cd2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1fa91b9af4244039b2997e1288f56cd2
+run_name: inquisitive-fox-813
+run_uuid: 1fa91b9af4244039b2997e1288f56cd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670697230214
+status: 1
+tags: []
+user_id: unknown

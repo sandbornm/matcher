@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7df681e785fe4581aa8274998a843972/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7df681e785fe4581aa8274998a843972
+run_name: suave-skink-522
+run_uuid: 7df681e785fe4581aa8274998a843972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670639179832
+status: 1
+tags: []
+user_id: unknown

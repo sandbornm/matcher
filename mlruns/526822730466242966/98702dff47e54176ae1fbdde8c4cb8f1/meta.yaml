@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/98702dff47e54176ae1fbdde8c4cb8f1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 98702dff47e54176ae1fbdde8c4cb8f1
+run_name: legendary-worm-551
+run_uuid: 98702dff47e54176ae1fbdde8c4cb8f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670640310850
+status: 1
+tags: []
+user_id: unknown

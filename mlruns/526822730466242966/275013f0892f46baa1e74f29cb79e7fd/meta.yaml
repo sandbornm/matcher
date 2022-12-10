@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/275013f0892f46baa1e74f29cb79e7fd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 275013f0892f46baa1e74f29cb79e7fd
+run_name: salty-grub-164
+run_uuid: 275013f0892f46baa1e74f29cb79e7fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638201310
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1c4a303d04154bbe87c72a977a7f5f38/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1c4a303d04154bbe87c72a977a7f5f38
+run_name: puzzled-gull-96
+run_uuid: 1c4a303d04154bbe87c72a977a7f5f38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638835634
+status: 1
+tags: []
+user_id: unknown

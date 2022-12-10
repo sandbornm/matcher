@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0e037feabc0a47cf84d3525fe72ec89b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 0e037feabc0a47cf84d3525fe72ec89b
+run_name: orderly-squid-200
+run_uuid: 0e037feabc0a47cf84d3525fe72ec89b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670697181275
+status: 1
+tags: []
+user_id: unknown

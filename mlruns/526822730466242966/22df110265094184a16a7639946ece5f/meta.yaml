@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/22df110265094184a16a7639946ece5f/artifacts
+deleted_time: 1670697034755
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 22df110265094184a16a7639946ece5f
+run_name: trusting-doe-509
+run_uuid: 22df110265094184a16a7639946ece5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670641236915
+status: 1
+tags: []
+user_id: unknown

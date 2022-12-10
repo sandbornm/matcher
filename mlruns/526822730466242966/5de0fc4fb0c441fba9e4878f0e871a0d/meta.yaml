@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5de0fc4fb0c441fba9e4878f0e871a0d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5de0fc4fb0c441fba9e4878f0e871a0d
+run_name: gifted-mole-660
+run_uuid: 5de0fc4fb0c441fba9e4878f0e871a0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670640655948
+status: 1
+tags: []
+user_id: unknown

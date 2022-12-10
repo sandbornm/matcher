@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c6ce68b3c6684bed8aff8d3ffa6b1233/artifacts
+deleted_time: 1670697799974
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: c6ce68b3c6684bed8aff8d3ffa6b1233
+run_name: stylish-snake-776
+run_uuid: c6ce68b3c6684bed8aff8d3ffa6b1233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670697387940
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/af67b7fca47340cca4b08743fb2ac0d4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: af67b7fca47340cca4b08743fb2ac0d4
+run_name: nervous-shoat-357
+run_uuid: af67b7fca47340cca4b08743fb2ac0d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638217558
+status: 1
+tags: []
+user_id: unknown

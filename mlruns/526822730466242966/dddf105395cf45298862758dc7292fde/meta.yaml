@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/dddf105395cf45298862758dc7292fde/artifacts
+deleted_time: 1670697799978
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: dddf105395cf45298862758dc7292fde
+run_name: fearless-shark-14
+run_uuid: dddf105395cf45298862758dc7292fde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670697345978
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/96ad0953810644f3be8012316c9db981/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 96ad0953810644f3be8012316c9db981
+run_name: bedecked-ant-675
+run_uuid: 96ad0953810644f3be8012316c9db981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670640725144
+status: 1
+tags: []
+user_id: unknown

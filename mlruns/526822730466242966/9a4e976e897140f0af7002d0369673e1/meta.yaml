@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9a4e976e897140f0af7002d0369673e1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9a4e976e897140f0af7002d0369673e1
+run_name: wise-moose-485
+run_uuid: 9a4e976e897140f0af7002d0369673e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638123678
+status: 1
+tags: []
+user_id: unknown

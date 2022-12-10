@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f00e03da2ed840baab4202652df8f21d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f00e03da2ed840baab4202652df8f21d
+run_name: peaceful-conch-990
+run_uuid: f00e03da2ed840baab4202652df8f21d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637343531
+status: 1
+tags: []
+user_id: unknown

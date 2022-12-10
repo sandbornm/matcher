@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3399de1da63c46c0a80d8aeee16f7b1d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3399de1da63c46c0a80d8aeee16f7b1d
+run_name: clumsy-goose-510
+run_uuid: 3399de1da63c46c0a80d8aeee16f7b1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637588844
+status: 1
+tags: []
+user_id: unknown
