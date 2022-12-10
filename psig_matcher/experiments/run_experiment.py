@@ -271,7 +271,7 @@ def run_parallel_experiment():
     random.shuffle(parameter_grid)
     non_completed_params = [p for p in parameter_grid if p not in completed_params]
 
-    print(f"Running {len(parameter_grid)} experiments - starting at: {time.time()}")
+    print(f"Running {len(non_completed_params)} experiments - starting at: {time.time()}")
 
     pool = mp.Pool(mp.cpu_count())
     for params in parameter_grid:
