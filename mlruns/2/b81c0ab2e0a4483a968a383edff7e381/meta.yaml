@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/2/b81c0ab2e0a4483a968a383edff7e381/artifacts
+end_time: 1670712600214
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: b81c0ab2e0a4483a968a383edff7e381
+run_name: sneaky-finch-710
+run_uuid: b81c0ab2e0a4483a968a383edff7e381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670712573203
+status: 3
+tags: []
+user_id: Xayah

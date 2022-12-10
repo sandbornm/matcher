@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/2/710b0ca4792e42d981f8251c8b385313/artifacts
+end_time: 1670712921753
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 710b0ca4792e42d981f8251c8b385313
+run_name: placid-rook-201
+run_uuid: 710b0ca4792e42d981f8251c8b385313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670712911837
+status: 3
+tags: []
+user_id: Xayah

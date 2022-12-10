@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/952d3cc4564c422b86002d2f91122f73/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 952d3cc4564c422b86002d2f91122f73
+run_name: mercurial-fly-749
+run_uuid: 952d3cc4564c422b86002d2f91122f73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711111525
+status: 1
+tags: []
+user_id: unknown

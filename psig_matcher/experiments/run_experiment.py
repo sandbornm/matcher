@@ -188,30 +188,30 @@ def get_metrics_series(mlruns_path: str, experiment_id: str, run_id: str, metric
     return [float(line.split()[1]) for line in file_lines]
 
 def delete_uncompleted_experiment_runs(experiment_id: int):
-    
+
     runs_df = mlflow.search_runs(experiment_ids=experiment_id, max_results=10_000)
     run_ids = runs_df['run_id'].to_list()
     incomplete_run_ids = [run_id
                    for run_id in run_ids
                    if len(get_metrics_series('mlruns', experiment_id, run_id, 'num_samples_for_convergence')) != 100]
-    
+
     print(f"Deleting {len(incomplete_run_ids)} incomplete runs")
     for run_id in incomplete_run_ids:
         mlflow.delete_run(run_id)
 
 def get_completed_parameters(experiment_id: int):
-    
+
     runs_df = mlflow.search_runs(experiment_ids=experiment_id, max_results=10_000)
     runs_df = runs_df.rename(columns={'params.part_type': 'part_type', 'params.part_dim': 'part_dim', 'params.num_samples': 'num_samples', 'params.meta_pdf_ci': 'meta_pdf_ci', 'params.part_pdf_ci': 'part_pdf_ci', 'params.confidence_bound': 'confidence_bound'})
-    
+
     runs_df['meta_pdf_ci']= runs_df['meta_pdf_ci'].astype(float)
     runs_df['confidence_bound']= runs_df['confidence_bound'].astype(float)
     runs_df['part_pdf_ci']= runs_df['part_pdf_ci'].astype(float)
-    
+
     runs_df['num_samples']= runs_df['num_samples'].astype(int)
     runs_df['part_dim']= runs_df['part_dim'].astype(int)
-   
-    param_dicts = runs_df[['part_type', 'part_dim', 'num_samples', 'meta_pdf_ci', 'part_pdf_ci', 'confidence_bound']].to_dict('records')    
+
+    param_dicts = runs_df[['part_type', 'part_dim', 'num_samples', 'meta_pdf_ci', 'part_pdf_ci', 'confidence_bound']].to_dict('records')
     {d.update({'experiment_id':experiment_id}) for d in param_dicts}
     return param_dicts
 
@@ -228,7 +228,7 @@ def run_experiment(experiment_id: int, part_type: str, part_dim: int, meta_pdf_c
 
     parts = load_part_data(part_type)
     parts = limit_deminsionality(parts, list(range(part_dim)))
-    
+
     for _ in range(100):
         part_type_num_samples = []
         for part in parts:
@@ -240,29 +240,27 @@ def run_parallel_experiment():
 
     mlflow.set_experiment("Experiment 1")
     experiment_id = mlflow.get_experiment_by_name(name='Experiment 1').experiment_id
-    delete_uncompleted_experiment_runs(experiment_id)
-    completed_params = get_completed_parameters(experiment_id)
+    # delete_uncompleted_experiment_runs(experiment_id)
+    # completed_params = get_completed_parameters(experiment_id)
 
     param_values = {
-        'part_types': ["BEAM", "CONTAINER", "CONLID", "LID", "SEN", "TUBE"],
-        'part_dim': 2,
-        'meta_pdf_ci': 0.95,
-        'part_pdf_ci': 0.95}
-    
-    parameter_grid = list(ParameterGrid(param_values)) 
+        'experiment_id': [experiment_id],
+        'part_type': ["BEAM", "CONTAINER", "CONLID", "LID", "SEN", "TUBE"],
+        'part_dim': [2],
+        'meta_pdf_ci': [0.95],
+        'part_pdf_ci': [0.95]}
+
+    parameter_grid = list(ParameterGrid(param_values))
     np.random.shuffle(parameter_grid)
-    non_completed_params = [p for p in parameter_grid if p not in completed_params]
-    print(f"Running {len(non_completed_params)} experiments - starting at: {time.time()}")
-    
+    # non_completed_params = [p for p in parameter_grid if p not in completed_params]
+    print(f"Running {len(parameter_grid)} experiments - starting at: {time.time()}")
+
     pool = mp.Pool(mp.cpu_count())
-    for params in non_completed_params:
+    for params in parameter_grid:
         pool.apply_async(run_experiment, kwds=params)
 
     pool.close()
     pool.join()
-    
-    
-
 
 if __name__ == '__main__':
     run_parallel_experiment()
