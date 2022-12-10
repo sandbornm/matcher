@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/ab81bfe4b41f41a49e7b8749b69818c0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: ab81bfe4b41f41a49e7b8749b69818c0
+run_name: bemused-deer-939
+run_uuid: ab81bfe4b41f41a49e7b8749b69818c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670709040629
+status: 1
+tags: []
+user_id: unknown

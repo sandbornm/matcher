@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/9e4610d557ec4adebe003c2ff77955d3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 9e4610d557ec4adebe003c2ff77955d3
+run_name: loud-pug-655
+run_uuid: 9e4610d557ec4adebe003c2ff77955d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670708847398
+status: 1
+tags: []
+user_id: unknown

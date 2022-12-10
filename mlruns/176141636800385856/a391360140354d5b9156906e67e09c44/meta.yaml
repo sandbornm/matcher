@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/a391360140354d5b9156906e67e09c44/artifacts
+deleted_time: 1670708554363
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: deleted
+run_id: a391360140354d5b9156906e67e09c44
+run_name: overjoyed-slug-911
+run_uuid: a391360140354d5b9156906e67e09c44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670708532738
+status: 1
+tags: []
+user_id: unknown

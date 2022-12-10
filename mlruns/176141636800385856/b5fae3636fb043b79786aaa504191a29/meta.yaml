@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/b5fae3636fb043b79786aaa504191a29/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: b5fae3636fb043b79786aaa504191a29
+run_name: fearless-mule-488
+run_uuid: b5fae3636fb043b79786aaa504191a29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670708847674
+status: 1
+tags: []
+user_id: unknown

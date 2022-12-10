@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/4a8b006e92494f2c9bbc04fd663cfb0b/artifacts
+deleted_time: 1670708554361
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: deleted
+run_id: 4a8b006e92494f2c9bbc04fd663cfb0b
+run_name: sneaky-lynx-414
+run_uuid: 4a8b006e92494f2c9bbc04fd663cfb0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670708532921
+status: 1
+tags: []
+user_id: unknown

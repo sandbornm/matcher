@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/7ea238ab2c7549ed9fe6a6c23413ec83/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 7ea238ab2c7549ed9fe6a6c23413ec83
+run_name: burly-goose-444
+run_uuid: 7ea238ab2c7549ed9fe6a6c23413ec83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670708996874
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/7b37312c866b4db8a19fa4b29de4fa83/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 7b37312c866b4db8a19fa4b29de4fa83
+run_name: hilarious-wasp-545
+run_uuid: 7b37312c866b4db8a19fa4b29de4fa83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670708753448
+status: 1
+tags: []
+user_id: unknown

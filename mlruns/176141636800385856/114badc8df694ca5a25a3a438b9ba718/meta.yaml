@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/114badc8df694ca5a25a3a438b9ba718/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 114badc8df694ca5a25a3a438b9ba718
+run_name: rambunctious-bat-265
+run_uuid: 114badc8df694ca5a25a3a438b9ba718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670708532804
+status: 1
+tags: []
+user_id: unknown

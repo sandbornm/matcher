@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/6dd3d48c15a24a6ca6b7165b32793454/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 6dd3d48c15a24a6ca6b7165b32793454
+run_name: magnificent-lark-573
+run_uuid: 6dd3d48c15a24a6ca6b7165b32793454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670708585411
+status: 1
+tags: []
+user_id: unknown

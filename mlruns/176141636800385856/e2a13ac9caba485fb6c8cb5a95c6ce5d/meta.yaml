@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/e2a13ac9caba485fb6c8cb5a95c6ce5d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: e2a13ac9caba485fb6c8cb5a95c6ce5d
+run_name: wistful-vole-150
+run_uuid: e2a13ac9caba485fb6c8cb5a95c6ce5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670708792755
+status: 1
+tags: []
+user_id: unknown

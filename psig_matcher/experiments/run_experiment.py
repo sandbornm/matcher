@@ -16,6 +16,8 @@ import random
 import warnings
 import traceback
 
+random.seed(0)
+np.random.seed(0)
 # def warn_with_traceback(message, category, filename, lineno, file=None, line=None):
 #
 #     log = file if hasattr(file,'write') else sys.stderr
@@ -197,15 +199,20 @@ def run_experiment(experiment_id: int, part_type: str, part_dim: int, num_sample
     client.log_param(run_id, "confidence_bound", confidence_bound)
 
     try:
-        con_parts = load_part_data(part_type)
-        for _ in range(30):
-            upper_collision_rate = run_meta_markov_multivariant_analysis(client, run_id, con_parts, part_dim, num_samples, meta_pdf_ci, part_pdf_ci, confidence_bound)
-            client.log_metric(run_id, "monte_carlo_upper_collision_rate", upper_collision_rate)
-            print(f"Upper collision rate: {upper_collision_rate * 100}% for: {part_type}, {part_dim}, {num_samples}, {meta_pdf_ci}, {part_pdf_ci}, {confidence_bound}")
+        parts = load_part_data(part_type)
+        multivariant_parts = limit_deminsionality(parts, list(range(part_dim)))
+        part_pdfs_with_num_samples = [(estimate_normal_dist(part.signals, part_pdf_ci), len(part.signals)) for part in multivariant_parts]
+        
+        part_pdf_entrophys = []
+        for part_pdf, num_samples in part_pdfs_with_num_samples:
+            log_returns_det = np.log(np.linalg.det(part_pdf.cov)+1e-10)
+            part_pdf_entrophys.append((num_samples/2) * (1 + np.log(2*np.pi)) + 0.5 * log_returns_det)
+        
+        print(f"Average part pdf entropy: {np.mean(part_pdf_entrophys)}")
+        client.log_metric(run_id, "average_part_pdf_entropy", np.mean(part_pdf_entrophys))
 
     except Exception as e:
         print(f"Error: {e} - Params: {part_type}, {part_dim}, {num_samples}, {meta_pdf_ci}, {part_pdf_ci}, {confidence_bound}")
-        #client.set_terminated(run_id, str(e))
 
 def main():
     """ This script can be run as such:
@@ -225,16 +232,21 @@ def main():
 def delete_uncompleted_experiment_runs(experiment_id: int):
 
     runs_df = mlflow.search_runs(experiment_ids=experiment_id, max_results=10_000)
+    if 'metrics.average_part_pdf_entropy' not in runs_df.columns:
+        return
     
-    incomplete_runs = runs_df[runs_df['metrics.monte_carlo_upper_collision_rate'].isna()]['run_id'].to_list()
+    incomplete_runs = runs_df[runs_df['metrics.average_part_pdf_entropy'].isna()]['run_id'].to_list()
     print(f"Deleting {len(incomplete_runs)} incomplete runs")
     for run_id in incomplete_runs:
         mlflow.delete_run(run_id)
 
-def get_completed_parameters(experiment_id: int):
+def get_completed_parameters(experiment_id: int) -> list:
 
     runs_df = mlflow.search_runs(experiment_ids=experiment_id, max_results=10_000)
-    incomplete_runs = runs_df[runs_df['metrics.monte_carlo_upper_collision_rate'].isna()]
+    if 'metrics.average_part_pdf_entropy' not in runs_df.columns:
+        return []
+    
+    incomplete_runs = runs_df[runs_df['metrics.average_part_pdf_entropy'].isna()]
     if not incomplete_runs.empty:
         raise ValueError("There are incomplete runs in the experiment")
 
@@ -253,16 +265,16 @@ def get_completed_parameters(experiment_id: int):
 
 def run_parallel_experiment():
 
-    mlflow.set_experiment("Experiment 3")
-    experiment_id = mlflow.get_experiment_by_name(name='Experiment 3').experiment_id
+    mlflow.set_experiment("Experiment 4")
+    experiment_id = mlflow.get_experiment_by_name(name='Experiment 4').experiment_id
     delete_uncompleted_experiment_runs(experiment_id)
     completed_params = get_completed_parameters(experiment_id)
 
     # part_types = ["BEAM", "BOX", "BRK", "CON", "CONLID", "FLG", "IMP", "LID", "SEN", "TUBE", "VNT"]
 
     param_values = {
-    'part_type': ["BEAM", "CONTAINER", "CONLID", "LID", "SEN", "TUBE"],
-    'part_dim' : [2],
+    'part_type': ["BEAM"],
+    'part_dim' : [2, 3, 5, 10, 50, 100, 400],
     'num_samples': [100],
     'meta_pdf_ci' : [0.995, 0.999, 0.9995, 0.9999],
     'part_pdf_ci' : [0.995, 0.999, 0.9995, 0.9999],

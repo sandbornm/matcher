@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/e695c5ac296249c0a5cc6f58044a3fbf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: e695c5ac296249c0a5cc6f58044a3fbf
+run_name: lyrical-shoat-891
+run_uuid: e695c5ac296249c0a5cc6f58044a3fbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670709005273
+status: 1
+tags: []
+user_id: unknown

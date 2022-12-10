@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/f2934c563622400597cc6ec7b2772386/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: f2934c563622400597cc6ec7b2772386
+run_name: big-vole-870
+run_uuid: f2934c563622400597cc6ec7b2772386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670708694123
+status: 1
+tags: []
+user_id: unknown

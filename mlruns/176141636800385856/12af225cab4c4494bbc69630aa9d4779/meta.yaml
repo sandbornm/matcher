@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/12af225cab4c4494bbc69630aa9d4779/artifacts
+deleted_time: 1670708554359
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: deleted
+run_id: 12af225cab4c4494bbc69630aa9d4779
+run_name: intrigued-conch-773
+run_uuid: 12af225cab4c4494bbc69630aa9d4779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670708533529
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/f2c20902fa344ffc8c2418dac10d2a03/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: f2c20902fa344ffc8c2418dac10d2a03
+run_name: redolent-calf-82
+run_uuid: f2c20902fa344ffc8c2418dac10d2a03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670708934543
+status: 1
+tags: []
+user_id: unknown
