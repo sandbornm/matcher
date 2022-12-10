@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/313279154321415347/e8f95cac41ff4e18992e11b032b9d354/artifacts
+end_time: 1670716395496
+entry_point_name: ''
+experiment_id: '313279154321415347'
+lifecycle_stage: active
+run_id: e8f95cac41ff4e18992e11b032b9d354
+run_name: thoughtful-cat-812
+run_uuid: e8f95cac41ff4e18992e11b032b9d354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670716344816
+status: 3
+tags: []
+user_id: henrygilbert

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/313279154321415347/24b74a0f218e49849d45bfa38b0018a5/artifacts
+end_time: 1670716344813
+entry_point_name: ''
+experiment_id: '313279154321415347'
+lifecycle_stage: active
+run_id: 24b74a0f218e49849d45bfa38b0018a5
+run_name: shivering-whale-45
+run_uuid: 24b74a0f218e49849d45bfa38b0018a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670716267485
+status: 3
+tags: []
+user_id: henrygilbert

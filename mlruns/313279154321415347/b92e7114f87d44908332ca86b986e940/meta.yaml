@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/313279154321415347/b92e7114f87d44908332ca86b986e940/artifacts
+end_time: 1670716451294
+entry_point_name: ''
+experiment_id: '313279154321415347'
+lifecycle_stage: active
+run_id: b92e7114f87d44908332ca86b986e940
+run_name: unruly-mare-26
+run_uuid: b92e7114f87d44908332ca86b986e940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670716405318
+status: 3
+tags: []
+user_id: henrygilbert

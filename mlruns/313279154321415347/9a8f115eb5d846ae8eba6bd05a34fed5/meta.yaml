@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/313279154321415347/9a8f115eb5d846ae8eba6bd05a34fed5/artifacts
+end_time: 1670716472482
+entry_point_name: ''
+experiment_id: '313279154321415347'
+lifecycle_stage: active
+run_id: 9a8f115eb5d846ae8eba6bd05a34fed5
+run_name: rumbling-doe-207
+run_uuid: 9a8f115eb5d846ae8eba6bd05a34fed5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670716451297
+status: 3
+tags: []
+user_id: henrygilbert
