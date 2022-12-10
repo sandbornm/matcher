@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/c518e75a453f47b6a154e3d575bd3854/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c518e75a453f47b6a154e3d575bd3854
+run_name: mercurial-tern-112
+run_uuid: c518e75a453f47b6a154e3d575bd3854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638048133
+status: 1
+tags: []
+user_id: unknown

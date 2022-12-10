@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/b3de70bc2a64429f8dcee242fbefb1ad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b3de70bc2a64429f8dcee242fbefb1ad
+run_name: incongruous-ray-483
+run_uuid: b3de70bc2a64429f8dcee242fbefb1ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637675432
+status: 1
+tags: []
+user_id: unknown

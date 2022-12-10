@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/0d42544a4d7f4f0e930b1149a9a37bde/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0d42544a4d7f4f0e930b1149a9a37bde
+run_name: omniscient-bee-486
+run_uuid: 0d42544a4d7f4f0e930b1149a9a37bde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637708768
+status: 1
+tags: []
+user_id: unknown

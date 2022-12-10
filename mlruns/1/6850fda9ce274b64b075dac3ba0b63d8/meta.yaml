@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/6850fda9ce274b64b075dac3ba0b63d8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6850fda9ce274b64b075dac3ba0b63d8
+run_name: bittersweet-gnu-743
+run_uuid: 6850fda9ce274b64b075dac3ba0b63d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637683905
+status: 1
+tags: []
+user_id: unknown

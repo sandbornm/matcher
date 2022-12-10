@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/e774c26ff6ee40a4b01dc5edb731e70a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e774c26ff6ee40a4b01dc5edb731e70a
+run_name: bright-deer-17
+run_uuid: e774c26ff6ee40a4b01dc5edb731e70a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637830195
+status: 1
+tags: []
+user_id: unknown

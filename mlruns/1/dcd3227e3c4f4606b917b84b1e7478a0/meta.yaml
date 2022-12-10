@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/dcd3227e3c4f4606b917b84b1e7478a0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dcd3227e3c4f4606b917b84b1e7478a0
+run_name: welcoming-shark-458
+run_uuid: dcd3227e3c4f4606b917b84b1e7478a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637741178
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/7b0d617b48ba472eb69195e418729dde/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7b0d617b48ba472eb69195e418729dde
+run_name: luxuriant-eel-82
+run_uuid: 7b0d617b48ba472eb69195e418729dde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638378908
+status: 1
+tags: []
+user_id: unknown

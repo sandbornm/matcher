@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/16ccdacadd2d4014ae1841bb1789ff5c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 16ccdacadd2d4014ae1841bb1789ff5c
+run_name: intelligent-kite-806
+run_uuid: 16ccdacadd2d4014ae1841bb1789ff5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638370124
+status: 1
+tags: []
+user_id: unknown

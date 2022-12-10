@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/2c2bb70f6bb34a2db07834484b67a2a4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2c2bb70f6bb34a2db07834484b67a2a4
+run_name: traveling-crane-795
+run_uuid: 2c2bb70f6bb34a2db07834484b67a2a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637647717
+status: 1
+tags: []
+user_id: unknown

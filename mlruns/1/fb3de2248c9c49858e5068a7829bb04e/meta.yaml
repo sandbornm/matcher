@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/fb3de2248c9c49858e5068a7829bb04e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fb3de2248c9c49858e5068a7829bb04e
+run_name: clumsy-hound-652
+run_uuid: fb3de2248c9c49858e5068a7829bb04e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637134397
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/d88a523e29294009a2cfd1d3d91a2edf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d88a523e29294009a2cfd1d3d91a2edf
+run_name: adventurous-stag-346
+run_uuid: d88a523e29294009a2cfd1d3d91a2edf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637656171
+status: 1
+tags: []
+user_id: unknown

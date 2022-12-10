@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/de4efd70c24e44b2afd0779c243e6f03/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: de4efd70c24e44b2afd0779c243e6f03
+run_name: burly-hound-57
+run_uuid: de4efd70c24e44b2afd0779c243e6f03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638060604
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/fdf19578852a4d648b89bf8ff94f0206/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fdf19578852a4d648b89bf8ff94f0206
+run_name: respected-worm-266
+run_uuid: fdf19578852a4d648b89bf8ff94f0206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637902063
+status: 1
+tags: []
+user_id: unknown

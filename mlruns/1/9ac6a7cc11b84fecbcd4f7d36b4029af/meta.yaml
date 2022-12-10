@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/9ac6a7cc11b84fecbcd4f7d36b4029af/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9ac6a7cc11b84fecbcd4f7d36b4029af
+run_name: placid-hawk-279
+run_uuid: 9ac6a7cc11b84fecbcd4f7d36b4029af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637974814
+status: 1
+tags: []
+user_id: unknown

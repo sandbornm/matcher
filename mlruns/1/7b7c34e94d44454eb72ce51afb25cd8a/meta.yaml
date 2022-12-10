@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/7b7c34e94d44454eb72ce51afb25cd8a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7b7c34e94d44454eb72ce51afb25cd8a
+run_name: auspicious-pug-757
+run_uuid: 7b7c34e94d44454eb72ce51afb25cd8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637483251
+status: 1
+tags: []
+user_id: unknown

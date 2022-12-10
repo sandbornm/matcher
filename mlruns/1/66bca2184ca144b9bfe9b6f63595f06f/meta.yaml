@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/66bca2184ca144b9bfe9b6f63595f06f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 66bca2184ca144b9bfe9b6f63595f06f
+run_name: funny-bass-552
+run_uuid: 66bca2184ca144b9bfe9b6f63595f06f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637937486
+status: 1
+tags: []
+user_id: unknown

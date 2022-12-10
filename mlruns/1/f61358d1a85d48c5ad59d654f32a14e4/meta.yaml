@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/f61358d1a85d48c5ad59d654f32a14e4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f61358d1a85d48c5ad59d654f32a14e4
+run_name: rare-bat-203
+run_uuid: f61358d1a85d48c5ad59d654f32a14e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637864654
+status: 1
+tags: []
+user_id: unknown

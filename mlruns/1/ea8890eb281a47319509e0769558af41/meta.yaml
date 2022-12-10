@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/ea8890eb281a47319509e0769558af41/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ea8890eb281a47319509e0769558af41
+run_name: flawless-goat-699
+run_uuid: ea8890eb281a47319509e0769558af41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638043980
+status: 1
+tags: []
+user_id: unknown

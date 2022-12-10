@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/505eaa34dc3642f8832ad2e31ece086d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 505eaa34dc3642f8832ad2e31ece086d
+run_name: gifted-crab-973
+run_uuid: 505eaa34dc3642f8832ad2e31ece086d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637651297
+status: 1
+tags: []
+user_id: unknown

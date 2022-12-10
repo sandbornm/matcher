@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/a3e5fc2db2c0475e975837ac527ef5b9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a3e5fc2db2c0475e975837ac527ef5b9
+run_name: righteous-yak-779
+run_uuid: a3e5fc2db2c0475e975837ac527ef5b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638081327
+status: 1
+tags: []
+user_id: unknown

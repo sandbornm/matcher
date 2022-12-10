@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/488a0d35d4a9470d96867d7c8be32a82/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 488a0d35d4a9470d96867d7c8be32a82
+run_name: rare-skink-322
+run_uuid: 488a0d35d4a9470d96867d7c8be32a82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637496597
+status: 1
+tags: []
+user_id: unknown

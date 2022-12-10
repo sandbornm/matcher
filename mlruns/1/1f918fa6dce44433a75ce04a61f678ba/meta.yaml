@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/1f918fa6dce44433a75ce04a61f678ba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1f918fa6dce44433a75ce04a61f678ba
+run_name: judicious-toad-754
+run_uuid: 1f918fa6dce44433a75ce04a61f678ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638009755
+status: 1
+tags: []
+user_id: unknown

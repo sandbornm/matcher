@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/1753c581214f4556b3b11f693782e6d3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1753c581214f4556b3b11f693782e6d3
+run_name: placid-cub-171
+run_uuid: 1753c581214f4556b3b11f693782e6d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638004092
+status: 1
+tags: []
+user_id: unknown

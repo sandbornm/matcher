@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/1ccd5b05c716429eb453d8043004ca0f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1ccd5b05c716429eb453d8043004ca0f
+run_name: treasured-wasp-280
+run_uuid: 1ccd5b05c716429eb453d8043004ca0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638370592
+status: 1
+tags: []
+user_id: unknown

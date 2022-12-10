@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/d337b1b746ab4d20b171f412096e0dfb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d337b1b746ab4d20b171f412096e0dfb
+run_name: serious-mouse-248
+run_uuid: d337b1b746ab4d20b171f412096e0dfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638229195
+status: 1
+tags: []
+user_id: unknown

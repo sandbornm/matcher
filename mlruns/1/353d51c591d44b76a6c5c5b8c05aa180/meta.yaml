@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/353d51c591d44b76a6c5c5b8c05aa180/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 353d51c591d44b76a6c5c5b8c05aa180
+run_name: melodic-bug-453
+run_uuid: 353d51c591d44b76a6c5c5b8c05aa180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638316132
+status: 1
+tags: []
+user_id: unknown

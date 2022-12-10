@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/751ea7a66fd743cd8798115f1a14e1cf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 751ea7a66fd743cd8798115f1a14e1cf
+run_name: rumbling-kite-437
+run_uuid: 751ea7a66fd743cd8798115f1a14e1cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637392489
+status: 1
+tags: []
+user_id: unknown

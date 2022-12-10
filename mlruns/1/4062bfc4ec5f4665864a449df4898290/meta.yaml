@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/4062bfc4ec5f4665864a449df4898290/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4062bfc4ec5f4665864a449df4898290
+run_name: wise-penguin-212
+run_uuid: 4062bfc4ec5f4665864a449df4898290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637635670
+status: 1
+tags: []
+user_id: unknown

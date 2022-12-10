@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/0ffe01aa3eb3468ea09a6803b4f39414/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0ffe01aa3eb3468ea09a6803b4f39414
+run_name: clean-slug-651
+run_uuid: 0ffe01aa3eb3468ea09a6803b4f39414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637380356
+status: 1
+tags: []
+user_id: unknown

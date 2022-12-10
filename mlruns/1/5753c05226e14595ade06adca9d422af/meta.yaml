@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/5753c05226e14595ade06adca9d422af/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5753c05226e14595ade06adca9d422af
+run_name: merciful-fawn-112
+run_uuid: 5753c05226e14595ade06adca9d422af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637956246
+status: 1
+tags: []
+user_id: unknown

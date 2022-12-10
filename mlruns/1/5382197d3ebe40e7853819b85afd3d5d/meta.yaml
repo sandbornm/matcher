@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/5382197d3ebe40e7853819b85afd3d5d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5382197d3ebe40e7853819b85afd3d5d
+run_name: carefree-midge-321
+run_uuid: 5382197d3ebe40e7853819b85afd3d5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638375474
+status: 1
+tags: []
+user_id: unknown

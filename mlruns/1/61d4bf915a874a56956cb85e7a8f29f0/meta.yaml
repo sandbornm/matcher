@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/61d4bf915a874a56956cb85e7a8f29f0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 61d4bf915a874a56956cb85e7a8f29f0
+run_name: kindly-crane-970
+run_uuid: 61d4bf915a874a56956cb85e7a8f29f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637885102
+status: 1
+tags: []
+user_id: unknown

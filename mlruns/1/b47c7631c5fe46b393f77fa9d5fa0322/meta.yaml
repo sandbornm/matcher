@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/b47c7631c5fe46b393f77fa9d5fa0322/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b47c7631c5fe46b393f77fa9d5fa0322
+run_name: selective-ray-135
+run_uuid: b47c7631c5fe46b393f77fa9d5fa0322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637987476
+status: 1
+tags: []
+user_id: unknown

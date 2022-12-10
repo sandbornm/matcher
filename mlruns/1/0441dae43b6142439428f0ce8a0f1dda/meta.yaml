@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/0441dae43b6142439428f0ce8a0f1dda/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0441dae43b6142439428f0ce8a0f1dda
+run_name: adorable-penguin-379
+run_uuid: 0441dae43b6142439428f0ce8a0f1dda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638099022
+status: 1
+tags: []
+user_id: unknown

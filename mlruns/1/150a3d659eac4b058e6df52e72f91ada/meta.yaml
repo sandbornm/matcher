@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/150a3d659eac4b058e6df52e72f91ada/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 150a3d659eac4b058e6df52e72f91ada
+run_name: illustrious-fox-353
+run_uuid: 150a3d659eac4b058e6df52e72f91ada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637657216
+status: 1
+tags: []
+user_id: unknown

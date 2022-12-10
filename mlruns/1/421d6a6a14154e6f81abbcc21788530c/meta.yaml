@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/421d6a6a14154e6f81abbcc21788530c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 421d6a6a14154e6f81abbcc21788530c
+run_name: silent-hog-349
+run_uuid: 421d6a6a14154e6f81abbcc21788530c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637692136
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/dd0d495aab6144f7a3275035c8b36e2e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dd0d495aab6144f7a3275035c8b36e2e
+run_name: colorful-seal-653
+run_uuid: dd0d495aab6144f7a3275035c8b36e2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637930737
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/45bef358ecf84ce78035db83b756d65d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 45bef358ecf84ce78035db83b756d65d
+run_name: dashing-trout-144
+run_uuid: 45bef358ecf84ce78035db83b756d65d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638343522
+status: 1
+tags: []
+user_id: unknown

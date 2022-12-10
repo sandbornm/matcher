@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/95e7a4dd113f45b89fcc63238510d763/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 95e7a4dd113f45b89fcc63238510d763
+run_name: smiling-snail-232
+run_uuid: 95e7a4dd113f45b89fcc63238510d763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637302345
+status: 1
+tags: []
+user_id: unknown

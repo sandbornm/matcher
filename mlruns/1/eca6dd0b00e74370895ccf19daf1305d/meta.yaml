@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/eca6dd0b00e74370895ccf19daf1305d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eca6dd0b00e74370895ccf19daf1305d
+run_name: classy-owl-765
+run_uuid: eca6dd0b00e74370895ccf19daf1305d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638182255
+status: 1
+tags: []
+user_id: unknown

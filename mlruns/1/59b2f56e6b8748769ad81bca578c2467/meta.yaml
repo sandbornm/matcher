@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/59b2f56e6b8748769ad81bca578c2467/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 59b2f56e6b8748769ad81bca578c2467
+run_name: polite-moth-60
+run_uuid: 59b2f56e6b8748769ad81bca578c2467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637803348
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/4a0b0826e1534a98b6a6d3d35e0a2c7f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4a0b0826e1534a98b6a6d3d35e0a2c7f
+run_name: redolent-roo-505
+run_uuid: 4a0b0826e1534a98b6a6d3d35e0a2c7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637199247
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/2c9ec7e6ffa34e57a7c14ef4650b0998/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2c9ec7e6ffa34e57a7c14ef4650b0998
+run_name: agreeable-bug-585
+run_uuid: 2c9ec7e6ffa34e57a7c14ef4650b0998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637848335
+status: 1
+tags: []
+user_id: unknown

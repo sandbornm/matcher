@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/afab8d2002c9419e97f13822a2252906/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: afab8d2002c9419e97f13822a2252906
+run_name: intelligent-carp-708
+run_uuid: afab8d2002c9419e97f13822a2252906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637715524
+status: 1
+tags: []
+user_id: unknown

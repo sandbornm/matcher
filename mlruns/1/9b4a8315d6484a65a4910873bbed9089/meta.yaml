@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/9b4a8315d6484a65a4910873bbed9089/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9b4a8315d6484a65a4910873bbed9089
+run_name: bald-donkey-547
+run_uuid: 9b4a8315d6484a65a4910873bbed9089
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638258051
+status: 1
+tags: []
+user_id: unknown

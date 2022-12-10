@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/1505f498c2b94aa4ac1b337e682079fe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1505f498c2b94aa4ac1b337e682079fe
+run_name: efficient-fawn-240
+run_uuid: 1505f498c2b94aa4ac1b337e682079fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638322265
+status: 1
+tags: []
+user_id: unknown

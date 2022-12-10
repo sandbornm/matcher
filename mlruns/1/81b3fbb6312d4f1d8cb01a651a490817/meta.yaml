@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/81b3fbb6312d4f1d8cb01a651a490817/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 81b3fbb6312d4f1d8cb01a651a490817
+run_name: placid-loon-193
+run_uuid: 81b3fbb6312d4f1d8cb01a651a490817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638359116
+status: 1
+tags: []
+user_id: unknown

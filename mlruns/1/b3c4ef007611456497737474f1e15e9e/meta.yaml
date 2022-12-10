@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/b3c4ef007611456497737474f1e15e9e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b3c4ef007611456497737474f1e15e9e
+run_name: painted-dove-358
+run_uuid: b3c4ef007611456497737474f1e15e9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637338299
+status: 1
+tags: []
+user_id: unknown

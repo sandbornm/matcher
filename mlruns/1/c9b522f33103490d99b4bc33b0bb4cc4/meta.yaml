@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/c9b522f33103490d99b4bc33b0bb4cc4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c9b522f33103490d99b4bc33b0bb4cc4
+run_name: illustrious-worm-694
+run_uuid: c9b522f33103490d99b4bc33b0bb4cc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638300392
+status: 1
+tags: []
+user_id: unknown

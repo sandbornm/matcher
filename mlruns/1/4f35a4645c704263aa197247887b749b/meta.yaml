@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/4f35a4645c704263aa197247887b749b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4f35a4645c704263aa197247887b749b
+run_name: monumental-grub-350
+run_uuid: 4f35a4645c704263aa197247887b749b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637924569
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/dd1770743bbc420e80692021ed94b0af/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dd1770743bbc420e80692021ed94b0af
+run_name: clean-snipe-812
+run_uuid: dd1770743bbc420e80692021ed94b0af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638278745
+status: 1
+tags: []
+user_id: unknown

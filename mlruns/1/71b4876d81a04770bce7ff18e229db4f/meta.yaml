@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/71b4876d81a04770bce7ff18e229db4f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 71b4876d81a04770bce7ff18e229db4f
+run_name: nimble-koi-204
+run_uuid: 71b4876d81a04770bce7ff18e229db4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638226818
+status: 1
+tags: []
+user_id: unknown

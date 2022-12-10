@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/9dfa15b05f4c40c7ac20198bc76b78e2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9dfa15b05f4c40c7ac20198bc76b78e2
+run_name: clean-sow-577
+run_uuid: 9dfa15b05f4c40c7ac20198bc76b78e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638344974
+status: 1
+tags: []
+user_id: unknown

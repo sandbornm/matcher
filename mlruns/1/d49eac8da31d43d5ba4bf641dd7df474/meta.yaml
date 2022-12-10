@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/d49eac8da31d43d5ba4bf641dd7df474/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d49eac8da31d43d5ba4bf641dd7df474
+run_name: amazing-colt-557
+run_uuid: d49eac8da31d43d5ba4bf641dd7df474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638340214
+status: 1
+tags: []
+user_id: unknown

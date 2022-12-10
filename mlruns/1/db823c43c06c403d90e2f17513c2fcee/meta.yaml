@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/db823c43c06c403d90e2f17513c2fcee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: db823c43c06c403d90e2f17513c2fcee
+run_name: clean-ape-356
+run_uuid: db823c43c06c403d90e2f17513c2fcee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638369546
+status: 1
+tags: []
+user_id: unknown

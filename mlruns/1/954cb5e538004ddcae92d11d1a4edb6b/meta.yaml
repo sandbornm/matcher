@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/954cb5e538004ddcae92d11d1a4edb6b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 954cb5e538004ddcae92d11d1a4edb6b
+run_name: thundering-shad-455
+run_uuid: 954cb5e538004ddcae92d11d1a4edb6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638355461
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/c71d28ffc67b484c858391635bdd0248/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c71d28ffc67b484c858391635bdd0248
+run_name: magnificent-owl-217
+run_uuid: c71d28ffc67b484c858391635bdd0248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638354218
+status: 1
+tags: []
+user_id: unknown

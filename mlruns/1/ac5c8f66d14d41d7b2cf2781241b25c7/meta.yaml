@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/ac5c8f66d14d41d7b2cf2781241b25c7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ac5c8f66d14d41d7b2cf2781241b25c7
+run_name: judicious-ram-272
+run_uuid: ac5c8f66d14d41d7b2cf2781241b25c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637487099
+status: 1
+tags: []
+user_id: unknown

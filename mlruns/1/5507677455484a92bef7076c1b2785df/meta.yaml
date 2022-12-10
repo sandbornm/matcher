@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/5507677455484a92bef7076c1b2785df/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5507677455484a92bef7076c1b2785df
+run_name: worried-squid-603
+run_uuid: 5507677455484a92bef7076c1b2785df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638131353
+status: 1
+tags: []
+user_id: unknown

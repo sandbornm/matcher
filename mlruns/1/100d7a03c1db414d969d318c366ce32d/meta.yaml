@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/100d7a03c1db414d969d318c366ce32d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 100d7a03c1db414d969d318c366ce32d
+run_name: stylish-calf-431
+run_uuid: 100d7a03c1db414d969d318c366ce32d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637566122
+status: 1
+tags: []
+user_id: unknown

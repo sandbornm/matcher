@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/1a4adcdcd5604f8b8385b5243af988b8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1a4adcdcd5604f8b8385b5243af988b8
+run_name: charming-whale-767
+run_uuid: 1a4adcdcd5604f8b8385b5243af988b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638123756
+status: 1
+tags: []
+user_id: unknown

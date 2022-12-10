@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/aed86b858f9c48f789c0d12317cd1fdb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: aed86b858f9c48f789c0d12317cd1fdb
+run_name: languid-smelt-890
+run_uuid: aed86b858f9c48f789c0d12317cd1fdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638215709
+status: 1
+tags: []
+user_id: unknown

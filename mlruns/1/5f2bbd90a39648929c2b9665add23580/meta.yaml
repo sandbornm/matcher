@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/5f2bbd90a39648929c2b9665add23580/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5f2bbd90a39648929c2b9665add23580
+run_name: grandiose-pug-245
+run_uuid: 5f2bbd90a39648929c2b9665add23580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637343612
+status: 1
+tags: []
+user_id: unknown

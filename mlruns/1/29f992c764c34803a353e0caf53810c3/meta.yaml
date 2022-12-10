@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/29f992c764c34803a353e0caf53810c3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 29f992c764c34803a353e0caf53810c3
+run_name: upset-mole-989
+run_uuid: 29f992c764c34803a353e0caf53810c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638063191
+status: 1
+tags: []
+user_id: unknown

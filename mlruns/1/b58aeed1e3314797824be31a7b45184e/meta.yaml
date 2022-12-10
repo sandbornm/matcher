@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/b58aeed1e3314797824be31a7b45184e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b58aeed1e3314797824be31a7b45184e
+run_name: delicate-mare-440
+run_uuid: b58aeed1e3314797824be31a7b45184e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638346764
+status: 1
+tags: []
+user_id: unknown

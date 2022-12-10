@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/d51d6fa6281541b7a619c645ed77538c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d51d6fa6281541b7a619c645ed77538c
+run_name: traveling-lynx-234
+run_uuid: d51d6fa6281541b7a619c645ed77538c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638142456
+status: 1
+tags: []
+user_id: unknown

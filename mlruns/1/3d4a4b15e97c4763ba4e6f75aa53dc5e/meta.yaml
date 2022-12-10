@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/3d4a4b15e97c4763ba4e6f75aa53dc5e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3d4a4b15e97c4763ba4e6f75aa53dc5e
+run_name: grandiose-bass-411
+run_uuid: 3d4a4b15e97c4763ba4e6f75aa53dc5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637582837
+status: 1
+tags: []
+user_id: unknown

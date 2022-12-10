@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/cfdf1727a6b4454799c979441a1c3d1d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cfdf1727a6b4454799c979441a1c3d1d
+run_name: nervous-dove-885
+run_uuid: cfdf1727a6b4454799c979441a1c3d1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638377494
+status: 1
+tags: []
+user_id: unknown

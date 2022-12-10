@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/7d3b8beb1ecd4658832eaa1d245dc358/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7d3b8beb1ecd4658832eaa1d245dc358
+run_name: nebulous-crow-403
+run_uuid: 7d3b8beb1ecd4658832eaa1d245dc358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638134093
+status: 1
+tags: []
+user_id: unknown

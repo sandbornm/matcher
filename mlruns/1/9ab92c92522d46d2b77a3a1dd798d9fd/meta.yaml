@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/9ab92c92522d46d2b77a3a1dd798d9fd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9ab92c92522d46d2b77a3a1dd798d9fd
+run_name: bright-quail-6
+run_uuid: 9ab92c92522d46d2b77a3a1dd798d9fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637596154
+status: 1
+tags: []
+user_id: unknown

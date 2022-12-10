@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/2191daccae8b483aac0bcb5c7f535f1b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2191daccae8b483aac0bcb5c7f535f1b
+run_name: handsome-gull-220
+run_uuid: 2191daccae8b483aac0bcb5c7f535f1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638348079
+status: 1
+tags: []
+user_id: unknown

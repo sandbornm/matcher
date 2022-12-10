@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/4c253343cd7c44cbaca77dc1b902a5d7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4c253343cd7c44cbaca77dc1b902a5d7
+run_name: gifted-donkey-145
+run_uuid: 4c253343cd7c44cbaca77dc1b902a5d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637761808
+status: 1
+tags: []
+user_id: unknown

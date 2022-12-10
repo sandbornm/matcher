@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/9f37713e6503416fafb736b005b9642a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9f37713e6503416fafb736b005b9642a
+run_name: trusting-roo-248
+run_uuid: 9f37713e6503416fafb736b005b9642a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637867170
+status: 1
+tags: []
+user_id: unknown

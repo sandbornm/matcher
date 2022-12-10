@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/22ed79ccf9c64113893cac6083785086/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 22ed79ccf9c64113893cac6083785086
+run_name: serious-quail-879
+run_uuid: 22ed79ccf9c64113893cac6083785086
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638288506
+status: 1
+tags: []
+user_id: unknown

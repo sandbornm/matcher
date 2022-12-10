@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/b33cd8c8c0054ddba02fb1cea76be546/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b33cd8c8c0054ddba02fb1cea76be546
+run_name: luxuriant-croc-969
+run_uuid: b33cd8c8c0054ddba02fb1cea76be546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638089707
+status: 1
+tags: []
+user_id: unknown

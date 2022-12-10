@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/5c4cc72b6a184e31b6475e618e923ad4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5c4cc72b6a184e31b6475e618e923ad4
+run_name: auspicious-panda-259
+run_uuid: 5c4cc72b6a184e31b6475e618e923ad4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638352033
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/13dbb5b770ab4accb03d72b6d3d5df58/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 13dbb5b770ab4accb03d72b6d3d5df58
+run_name: skittish-duck-139
+run_uuid: 13dbb5b770ab4accb03d72b6d3d5df58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637321790
+status: 1
+tags: []
+user_id: unknown

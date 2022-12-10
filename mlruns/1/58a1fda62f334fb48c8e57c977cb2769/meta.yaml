@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/58a1fda62f334fb48c8e57c977cb2769/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 58a1fda62f334fb48c8e57c977cb2769
+run_name: righteous-doe-933
+run_uuid: 58a1fda62f334fb48c8e57c977cb2769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637787347
+status: 1
+tags: []
+user_id: unknown

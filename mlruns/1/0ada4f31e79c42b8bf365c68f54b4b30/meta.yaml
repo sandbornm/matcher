@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/0ada4f31e79c42b8bf365c68f54b4b30/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0ada4f31e79c42b8bf365c68f54b4b30
+run_name: wise-cat-67
+run_uuid: 0ada4f31e79c42b8bf365c68f54b4b30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637878174
+status: 1
+tags: []
+user_id: unknown

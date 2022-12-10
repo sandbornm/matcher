@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/eb7d32ff05e74b1ca6072d0c7d43503e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: eb7d32ff05e74b1ca6072d0c7d43503e
+run_name: placid-moose-287
+run_uuid: eb7d32ff05e74b1ca6072d0c7d43503e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638345875
+status: 1
+tags: []
+user_id: unknown

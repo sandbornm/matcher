@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/e051231233914dc1b40bae4775d4c72a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e051231233914dc1b40bae4775d4c72a
+run_name: crawling-bird-438
+run_uuid: e051231233914dc1b40bae4775d4c72a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637170517
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/43208b2a3e3143e9b9facf3cb33b5f19/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 43208b2a3e3143e9b9facf3cb33b5f19
+run_name: debonair-pug-416
+run_uuid: 43208b2a3e3143e9b9facf3cb33b5f19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637970317
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/7e607a9ef88f41c9aa325398e120b74b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7e607a9ef88f41c9aa325398e120b74b
+run_name: sassy-calf-102
+run_uuid: 7e607a9ef88f41c9aa325398e120b74b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637766882
+status: 1
+tags: []
+user_id: unknown

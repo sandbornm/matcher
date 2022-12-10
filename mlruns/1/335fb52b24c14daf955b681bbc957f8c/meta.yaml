@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/335fb52b24c14daf955b681bbc957f8c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 335fb52b24c14daf955b681bbc957f8c
+run_name: nervous-kit-31
+run_uuid: 335fb52b24c14daf955b681bbc957f8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638360736
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/105a4320303e4861b6d22952f3a63a91/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 105a4320303e4861b6d22952f3a63a91
+run_name: bald-vole-49
+run_uuid: 105a4320303e4861b6d22952f3a63a91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637701122
+status: 1
+tags: []
+user_id: unknown

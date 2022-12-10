@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/af8398ecc60e494484db04bde0ad2caf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: af8398ecc60e494484db04bde0ad2caf
+run_name: bouncy-hen-419
+run_uuid: af8398ecc60e494484db04bde0ad2caf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637439004
+status: 1
+tags: []
+user_id: unknown

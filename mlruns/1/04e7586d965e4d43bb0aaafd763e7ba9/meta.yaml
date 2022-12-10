@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/04e7586d965e4d43bb0aaafd763e7ba9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 04e7586d965e4d43bb0aaafd763e7ba9
+run_name: efficient-worm-787
+run_uuid: 04e7586d965e4d43bb0aaafd763e7ba9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638066604
+status: 1
+tags: []
+user_id: unknown

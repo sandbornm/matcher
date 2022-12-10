@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/d2e361368bc04f729d749815a76e4889/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d2e361368bc04f729d749815a76e4889
+run_name: judicious-wasp-107
+run_uuid: d2e361368bc04f729d749815a76e4889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637272411
+status: 1
+tags: []
+user_id: unknown

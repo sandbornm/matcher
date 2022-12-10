@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/ec01e39b4d68461db54a8e81fa28703d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ec01e39b4d68461db54a8e81fa28703d
+run_name: hilarious-panda-410
+run_uuid: ec01e39b4d68461db54a8e81fa28703d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638347672
+status: 1
+tags: []
+user_id: unknown

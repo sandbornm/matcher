@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/cddb804fd04b4775a7525f8a417d9a85/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cddb804fd04b4775a7525f8a417d9a85
+run_name: victorious-bat-951
+run_uuid: cddb804fd04b4775a7525f8a417d9a85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637587390
+status: 1
+tags: []
+user_id: unknown

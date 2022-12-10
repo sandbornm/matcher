@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/9cfa67abea0841c494b813ac7e3a7dd3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9cfa67abea0841c494b813ac7e3a7dd3
+run_name: nosy-hare-690
+run_uuid: 9cfa67abea0841c494b813ac7e3a7dd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638339778
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/69243b6d6d11421486b20d9fdf518364/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 69243b6d6d11421486b20d9fdf518364
+run_name: efficient-elk-916
+run_uuid: 69243b6d6d11421486b20d9fdf518364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637677985
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/cf2218a362ff402e8998314c70282f6f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf2218a362ff402e8998314c70282f6f
+run_name: amusing-sheep-190
+run_uuid: cf2218a362ff402e8998314c70282f6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637581390
+status: 1
+tags: []
+user_id: unknown

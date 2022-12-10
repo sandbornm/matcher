@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/201dfaf11cb5410ab1727fda0c38c4ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 201dfaf11cb5410ab1727fda0c38c4ae
+run_name: funny-dog-172
+run_uuid: 201dfaf11cb5410ab1727fda0c38c4ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637935394
+status: 1
+tags: []
+user_id: unknown

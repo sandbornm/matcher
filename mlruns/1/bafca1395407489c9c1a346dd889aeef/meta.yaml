@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/bafca1395407489c9c1a346dd889aeef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bafca1395407489c9c1a346dd889aeef
+run_name: kindly-cow-990
+run_uuid: bafca1395407489c9c1a346dd889aeef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637911934
+status: 1
+tags: []
+user_id: unknown

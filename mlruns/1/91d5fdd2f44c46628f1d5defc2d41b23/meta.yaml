@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/91d5fdd2f44c46628f1d5defc2d41b23/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 91d5fdd2f44c46628f1d5defc2d41b23
+run_name: orderly-bird-681
+run_uuid: 91d5fdd2f44c46628f1d5defc2d41b23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637359655
+status: 1
+tags: []
+user_id: unknown

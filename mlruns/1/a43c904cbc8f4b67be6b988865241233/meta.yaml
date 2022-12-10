@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/a43c904cbc8f4b67be6b988865241233/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a43c904cbc8f4b67be6b988865241233
+run_name: bald-lark-140
+run_uuid: a43c904cbc8f4b67be6b988865241233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637928678
+status: 1
+tags: []
+user_id: unknown

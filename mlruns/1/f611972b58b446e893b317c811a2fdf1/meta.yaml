@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/f611972b58b446e893b317c811a2fdf1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f611972b58b446e893b317c811a2fdf1
+run_name: trusting-snail-493
+run_uuid: f611972b58b446e893b317c811a2fdf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638353756
+status: 1
+tags: []
+user_id: unknown

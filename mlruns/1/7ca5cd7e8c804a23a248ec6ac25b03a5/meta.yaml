@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/7ca5cd7e8c804a23a248ec6ac25b03a5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7ca5cd7e8c804a23a248ec6ac25b03a5
+run_name: bouncy-donkey-427
+run_uuid: 7ca5cd7e8c804a23a248ec6ac25b03a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637975848
+status: 1
+tags: []
+user_id: unknown

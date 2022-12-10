@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/d0396586ca2a46b29d34235ca2f10773/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d0396586ca2a46b29d34235ca2f10773
+run_name: nervous-boar-52
+run_uuid: d0396586ca2a46b29d34235ca2f10773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637427141
+status: 1
+tags: []
+user_id: unknown

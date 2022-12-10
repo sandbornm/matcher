@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/52ec1558160449d2a1cd191857401bad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 52ec1558160449d2a1cd191857401bad
+run_name: suave-asp-807
+run_uuid: 52ec1558160449d2a1cd191857401bad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638268122
+status: 1
+tags: []
+user_id: unknown

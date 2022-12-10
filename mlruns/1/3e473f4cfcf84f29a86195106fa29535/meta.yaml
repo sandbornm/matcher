@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/3e473f4cfcf84f29a86195106fa29535/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3e473f4cfcf84f29a86195106fa29535
+run_name: bouncy-sponge-551
+run_uuid: 3e473f4cfcf84f29a86195106fa29535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637812267
+status: 1
+tags: []
+user_id: unknown

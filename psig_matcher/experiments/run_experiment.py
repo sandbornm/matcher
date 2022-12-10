@@ -16,14 +16,14 @@ import random
 import warnings
 import traceback
 
-def warn_with_traceback(message, category, filename, lineno, file=None, line=None):
-
-    log = file if hasattr(file,'write') else sys.stderr
-    traceback.print_stack(file=log)
-    log.write(warnings.formatwarning(message, category, filename, lineno, line))
-
-warnings.showwarning = warn_with_traceback
-warnings.simplefilter("always")
+# def warn_with_traceback(message, category, filename, lineno, file=None, line=None):
+#
+#     log = file if hasattr(file,'write') else sys.stderr
+#     traceback.print_stack(file=log)
+#     log.write(warnings.formatwarning(message, category, filename, lineno, line))
+#
+# warnings.showwarning = warn_with_traceback
+# warnings.simplefilter("always")
 
 @dataclass
 class MultivariateNormalDistribution:
@@ -166,18 +166,18 @@ def simulate_part_pdf_convergence(client: mlflow.tracking.MlflowClient, run_id: 
     This function pretend that the set of the signals is infinite, Also incorporate logic to handle
     if we didn't converge before we ran out of data. Have modular connection style such that we could
     add streaming data source in the future. """
-    
+
     sub_samples = []
     confidence_ranges = []
     part_pdf = estimate_normal_dist(part_signals, meta_pdf_ci)
-    
+
     while True:
-        
+
         sub_samples.append(np.random.multivariate_normal(part_pdf.mean, part_pdf.cov, 5))
         lower, upper = compute_normal_ci(sub_samples, part_pdf_ci)
         confidence_ranges.append(upper - lower)
-        
-        client.log_metric(run_id, "part_pdf_confidence_interval", upper - lower)
+
+        # client.log_metric(run_id, "part_pdf_confidence_interval", upper - lower)
         if len(confidence_ranges) > 100 and np.mean(confidence_ranges[-10:]) >= np.mean(confidence_ranges[-100:]):
             return len(sub_samples)
 
@@ -191,11 +191,11 @@ def run_experiment(experiment_id: int, part_type: str, part_dim: int, meta_pdf_c
     client.log_param(run_id, "part_dim", part_dim)
     client.log_param(run_id, "meta_pdf_ci", meta_pdf_ci)
     client.log_param(run_id, "part_pdf_ci", part_pdf_ci)
-    
+
     con_parts = load_part_data(part_type)
     con_parts = limit_deminsionality(con_parts, list(range(part_dim)))
     for con_part in con_parts:
-        num_samples_for_convergence = simulate_part_pdf_convergence(client, run_id, con_part.signals, part_pdf_ci)
+        num_samples_for_convergence = simulate_part_pdf_convergence(client, run_id, con_part.signals, meta_pdf_ci, part_pdf_ci)
         client.log_metric(run_id, "num_samples_for_convergence", num_samples_for_convergence)
         print(num_samples_for_convergence)
 
@@ -207,9 +207,10 @@ def run_parallel_experiment():
     part_types=["BEAM", "CONTAINER", "CONLID", "LID", "SEN", "TUBE"]
     part_dim=2
     meta_pdf_ci=0.95
-    part_pdf_ci=0.95   
-    for part_type in part_types:   
-        run_experiment(experiment_id, part_type, part_dim, meta_pdf_ci, part_pdf_ci)
+    part_pdf_ci=0.95
+    for part_type in part_types:
+        for _ in range(100):
+            run_experiment(experiment_id, part_type, part_dim, meta_pdf_ci, part_pdf_ci)
 
 
 if __name__ == '__main__':

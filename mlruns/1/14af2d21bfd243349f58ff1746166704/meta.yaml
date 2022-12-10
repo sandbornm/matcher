@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/14af2d21bfd243349f58ff1746166704/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 14af2d21bfd243349f58ff1746166704
+run_name: suave-fly-739
+run_uuid: 14af2d21bfd243349f58ff1746166704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637646116
+status: 1
+tags: []
+user_id: unknown

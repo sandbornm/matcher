@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/197ec1de441842ceb7576fd3ecd3636c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 197ec1de441842ceb7576fd3ecd3636c
+run_name: indecisive-gnu-311
+run_uuid: 197ec1de441842ceb7576fd3ecd3636c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638010790
+status: 1
+tags: []
+user_id: unknown

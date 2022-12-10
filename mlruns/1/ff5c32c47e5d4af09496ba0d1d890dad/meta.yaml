@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/ff5c32c47e5d4af09496ba0d1d890dad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ff5c32c47e5d4af09496ba0d1d890dad
+run_name: kindly-koi-0
+run_uuid: ff5c32c47e5d4af09496ba0d1d890dad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638096047
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/a8405f7763024898bb5ff1defdfb26eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8405f7763024898bb5ff1defdfb26eb
+run_name: sedate-jay-800
+run_uuid: a8405f7763024898bb5ff1defdfb26eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637157038
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/ca20af1d6f7e4539b210c06ce8f619ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ca20af1d6f7e4539b210c06ce8f619ff
+run_name: nosy-stork-459
+run_uuid: ca20af1d6f7e4539b210c06ce8f619ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638054312
+status: 1
+tags: []
+user_id: unknown

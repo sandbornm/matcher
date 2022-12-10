@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/77375a98e4734363b8f94b52072e941c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 77375a98e4734363b8f94b52072e941c
+run_name: amazing-hawk-29
+run_uuid: 77375a98e4734363b8f94b52072e941c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637703733
+status: 1
+tags: []
+user_id: unknown

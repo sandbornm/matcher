@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/Documents/matcher/mlruns/1/12bebde2b3fc4473bf4c482dc51a796b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 12bebde2b3fc4473bf4c482dc51a796b
+run_name: gifted-panda-693
+run_uuid: 12bebde2b3fc4473bf4c482dc51a796b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637882883
+status: 1
+tags: []
+user_id: unknown
