@@ -202,20 +202,20 @@ def run_experiment(experiment_id: int, part_type: str, part_dim: int, meta_pdf_c
         print("final upper collision rate -", upper_collision_rate)
 
 
-def main():
-    """ This script can be run as such:
-    python3 psig_matcher/experiments/run_experiment.py --part_type=CONTAINER --part_dim=5 --num_samples=100 --meta_pdf_ci=0.999 --part_pdf_ci=0.999 --confidence_bound=0.999 """
+# def main():
+#     """ This script can be run as such:
+#     python3 psig_matcher/experiments/run_experiment.py --part_type=CONTAINER --part_dim=5 --num_samples=100 --meta_pdf_ci=0.999 --part_pdf_ci=0.999 --confidence_bound=0.999 """
 
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--part_type', type=str, required=True)
-    parser.add_argument('--part_dim', type=int, required=True)
-    parser.add_argument('--num_samples', type=int, required=True)
-    parser.add_argument('--meta_pdf_ci', type=float, required=True)
-    parser.add_argument('--part_pdf_ci', type=float, required=True)
-    parser.add_argument('--confidence_bound', type=float, required=True)
+#     parser = argparse.ArgumentParser()
+#     parser.add_argument('--part_type', type=str, required=True)
+#     parser.add_argument('--part_dim', type=int, required=True)
+#     parser.add_argument('--num_samples', type=int, required=True)
+#     parser.add_argument('--meta_pdf_ci', type=float, required=True)
+#     parser.add_argument('--part_pdf_ci', type=float, required=True)
+#     parser.add_argument('--confidence_bound', type=float, required=True)
 
-    args = parser.parse_args()
-    run_experiment(args.part_type, args.part_dim, args.num_samples, args.meta_pdf_ci, args.part_pdf_ci, args.confidence_bound)
+#     args = parser.parse_args()
+#     run_experiment(args.part_type, args.part_dim, args.num_samples, args.meta_pdf_ci, args.part_pdf_ci, args.confidence_bound)
 
 def run_parallel_experiment():
 
@@ -226,9 +226,8 @@ def run_parallel_experiment():
 
     part_types=["BEAM", "CONTAINER", "CONLID", "LID", "SEN", "TUBE"]
     part_dim=2
-    meta_pdf_ci=0.999
-    part_pdf_ci=0.999
-    
+    meta_pdf_ci=0.95
+    part_pdf_ci=0.95   
     for part_type in part_types:   
         run_experiment(experiment_id, part_type, part_dim, meta_pdf_ci, part_pdf_ci)
 
