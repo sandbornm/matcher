@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/40962f38f9154fa4ba23c3d5262b1030/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 40962f38f9154fa4ba23c3d5262b1030
+run_name: brawny-shrike-860
+run_uuid: 40962f38f9154fa4ba23c3d5262b1030
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670713588865
+status: 1
+tags: []
+user_id: unknown

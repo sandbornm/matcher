@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/14b2e7680e6744f5ac75119ddb2a69aa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 14b2e7680e6744f5ac75119ddb2a69aa
+run_name: treasured-whale-14
+run_uuid: 14b2e7680e6744f5ac75119ddb2a69aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670713695720
+status: 1
+tags: []
+user_id: unknown

@@ -270,15 +270,13 @@ def run_parallel_experiment():
     delete_uncompleted_experiment_runs(experiment_id)
     completed_params = get_completed_parameters(experiment_id)
 
-    # part_types = ["BEAM", "BOX", "BRK", "CON", "CONLID", "FLG", "IMP", "LID", "SEN", "TUBE", "VNT"]
-
     param_values = {
-    'part_type': ["BEAM"],
+    'part_type': ["BEAM", "CONTAINER", "CONLID", "LID", "SEN", "TUBE"],
     'part_dim' : [2, 3, 5, 10, 50, 100, 400],
     'num_samples': [100],
-    'meta_pdf_ci' : [0.995, 0.999, 0.9995, 0.9999],
+    'meta_pdf_ci' : [0.995],
     'part_pdf_ci' : [0.995, 0.999, 0.9995, 0.9999],
-    'confidence_bound' : [0.995, 0.999, 0.9995, 0.9999],
+    'confidence_bound' : [0.995],
     'experiment_id': [experiment_id]}
 
     parameter_grid = list(ParameterGrid(param_values))
@@ -286,7 +284,6 @@ def run_parallel_experiment():
     non_completed_params = [p for p in parameter_grid if p not in completed_params]
 
     print(f"Running {len(non_completed_params)} experiments - starting at: {time.time()}")
-
     pool = mp.Pool(mp.cpu_count())
     for params in non_completed_params:
         pool.apply_async(run_experiment, kwds=params)

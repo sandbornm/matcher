@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/2c9f269147ae4bd8bf35e73356bda723/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 2c9f269147ae4bd8bf35e73356bda723
+run_name: wistful-mule-601
+run_uuid: 2c9f269147ae4bd8bf35e73356bda723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670713617658
+status: 1
+tags: []
+user_id: unknown

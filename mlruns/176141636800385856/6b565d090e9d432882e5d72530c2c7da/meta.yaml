@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/6b565d090e9d432882e5d72530c2c7da/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 6b565d090e9d432882e5d72530c2c7da
+run_name: bright-quail-818
+run_uuid: 6b565d090e9d432882e5d72530c2c7da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670713621873
+status: 1
+tags: []
+user_id: unknown

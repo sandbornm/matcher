@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/7e8a17bc91474c69aa2aaa11ac92808b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 7e8a17bc91474c69aa2aaa11ac92808b
+run_name: receptive-swan-533
+run_uuid: 7e8a17bc91474c69aa2aaa11ac92808b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670713588550
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/959d33ac605c4d3faa688996b4a64a03/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 959d33ac605c4d3faa688996b4a64a03
+run_name: illustrious-lark-70
+run_uuid: 959d33ac605c4d3faa688996b4a64a03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670713618637
+status: 1
+tags: []
+user_id: unknown

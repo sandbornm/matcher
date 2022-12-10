@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/612940520222737177/ccb2310ccccb4e30a8588ddf53bac087/artifacts
+end_time: 1670714360060
+entry_point_name: ''
+experiment_id: '612940520222737177'
+lifecycle_stage: active
+run_id: ccb2310ccccb4e30a8588ddf53bac087
+run_name: gentle-gnu-916
+run_uuid: ccb2310ccccb4e30a8588ddf53bac087
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670714325483
+status: 3
+tags: []
+user_id: henrygilbert

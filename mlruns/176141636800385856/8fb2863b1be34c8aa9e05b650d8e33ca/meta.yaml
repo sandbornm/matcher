@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/8fb2863b1be34c8aa9e05b650d8e33ca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 8fb2863b1be34c8aa9e05b650d8e33ca
+run_name: valuable-turtle-929
+run_uuid: 8fb2863b1be34c8aa9e05b650d8e33ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670713635175
+status: 1
+tags: []
+user_id: unknown

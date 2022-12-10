@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/612940520222737177/23c2c43c8dff48b19e49bc67d0443ba4/artifacts
+end_time: 1670713064758
+entry_point_name: ''
+experiment_id: '612940520222737177'
+lifecycle_stage: active
+run_id: 23c2c43c8dff48b19e49bc67d0443ba4
+run_name: honorable-whale-531
+run_uuid: 23c2c43c8dff48b19e49bc67d0443ba4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670713040047
+status: 3
+tags: []
+user_id: henrygilbert

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/612940520222737177/e087f298a0794a59b0beb739f8fd3c1b/artifacts
+end_time: 1670713225194
+entry_point_name: ''
+experiment_id: '612940520222737177'
+lifecycle_stage: active
+run_id: e087f298a0794a59b0beb739f8fd3c1b
+run_name: handsome-asp-689
+run_uuid: e087f298a0794a59b0beb739f8fd3c1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670713177805
+status: 3
+tags: []
+user_id: henrygilbert

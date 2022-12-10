@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/612940520222737177/75869af11d274e4d95b08b09534c1d57/artifacts
+end_time: 1670712963378
+entry_point_name: ''
+experiment_id: '612940520222737177'
+lifecycle_stage: active
+run_id: 75869af11d274e4d95b08b09534c1d57
+run_name: wistful-eel-807
+run_uuid: 75869af11d274e4d95b08b09534c1d57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670712952568
+status: 3
+tags: []
+user_id: henrygilbert

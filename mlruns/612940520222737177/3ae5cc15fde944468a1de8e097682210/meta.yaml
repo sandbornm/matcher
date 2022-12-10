@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/612940520222737177/3ae5cc15fde944468a1de8e097682210/artifacts
+end_time: 1670713030043
+entry_point_name: ''
+experiment_id: '612940520222737177'
+lifecycle_stage: active
+run_id: 3ae5cc15fde944468a1de8e097682210
+run_name: nimble-grouse-665
+run_uuid: 3ae5cc15fde944468a1de8e097682210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670712963380
+status: 3
+tags: []
+user_id: henrygilbert

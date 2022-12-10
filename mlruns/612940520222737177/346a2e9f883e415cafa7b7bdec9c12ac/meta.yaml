@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/612940520222737177/346a2e9f883e415cafa7b7bdec9c12ac/artifacts
+end_time: 1670713040045
+entry_point_name: ''
+experiment_id: '612940520222737177'
+lifecycle_stage: active
+run_id: 346a2e9f883e415cafa7b7bdec9c12ac
+run_name: classy-fish-863
+run_uuid: 346a2e9f883e415cafa7b7bdec9c12ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670713030045
+status: 3
+tags: []
+user_id: henrygilbert

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/612940520222737177/a9be0a5d6ada45c382419e96622a088a/artifacts
+end_time: 1670713318305
+entry_point_name: ''
+experiment_id: '612940520222737177'
+lifecycle_stage: active
+run_id: a9be0a5d6ada45c382419e96622a088a
+run_name: nervous-dolphin-130
+run_uuid: a9be0a5d6ada45c382419e96622a088a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670713225196
+status: 3
+tags: []
+user_id: henrygilbert

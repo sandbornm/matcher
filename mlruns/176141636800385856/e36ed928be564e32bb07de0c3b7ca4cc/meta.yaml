@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/e36ed928be564e32bb07de0c3b7ca4cc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: e36ed928be564e32bb07de0c3b7ca4cc
+run_name: illustrious-bee-824
+run_uuid: e36ed928be564e32bb07de0c3b7ca4cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670713674635
+status: 1
+tags: []
+user_id: unknown

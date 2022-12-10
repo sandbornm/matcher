@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/612940520222737177/5ac4c10b09d24ed3935e84fbc1fe831f/artifacts
+end_time: 1670714266586
+entry_point_name: ''
+experiment_id: '612940520222737177'
+lifecycle_stage: active
+run_id: 5ac4c10b09d24ed3935e84fbc1fe831f
+run_name: resilient-snake-127
+run_uuid: 5ac4c10b09d24ed3935e84fbc1fe831f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670713318307
+status: 3
+tags: []
+user_id: henrygilbert

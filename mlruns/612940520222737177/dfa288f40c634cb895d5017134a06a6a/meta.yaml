@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/612940520222737177/dfa288f40c634cb895d5017134a06a6a/artifacts
+end_time: 1670713172247
+entry_point_name: ''
+experiment_id: '612940520222737177'
+lifecycle_stage: active
+run_id: dfa288f40c634cb895d5017134a06a6a
+run_name: abrasive-frog-401
+run_uuid: dfa288f40c634cb895d5017134a06a6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670713064760
+status: 3
+tags: []
+user_id: henrygilbert

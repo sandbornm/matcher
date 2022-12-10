@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/fdf7a915710f4536b69820f201150c05/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: fdf7a915710f4536b69820f201150c05
+run_name: learned-loon-366
+run_uuid: fdf7a915710f4536b69820f201150c05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670713590176
+status: 1
+tags: []
+user_id: unknown
