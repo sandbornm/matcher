@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/49f9cd3a8d974b74ac30e38aa674d452/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 49f9cd3a8d974b74ac30e38aa674d452
+run_name: luminous-toad-520
+run_uuid: 49f9cd3a8d974b74ac30e38aa674d452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670710843450
+status: 1
+tags: []
+user_id: unknown

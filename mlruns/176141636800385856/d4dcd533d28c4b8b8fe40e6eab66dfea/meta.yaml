@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/d4dcd533d28c4b8b8fe40e6eab66dfea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: d4dcd533d28c4b8b8fe40e6eab66dfea
+run_name: unleashed-donkey-244
+run_uuid: d4dcd533d28c4b8b8fe40e6eab66dfea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670710888333
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/54e5af26b62a4259a730a6c604bb34bb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 54e5af26b62a4259a730a6c604bb34bb
+run_name: worried-chimp-498
+run_uuid: 54e5af26b62a4259a730a6c604bb34bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711337418
+status: 1
+tags: []
+user_id: unknown

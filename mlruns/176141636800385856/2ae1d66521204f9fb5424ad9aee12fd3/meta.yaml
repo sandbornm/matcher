@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/2ae1d66521204f9fb5424ad9aee12fd3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 2ae1d66521204f9fb5424ad9aee12fd3
+run_name: welcoming-sow-394
+run_uuid: 2ae1d66521204f9fb5424ad9aee12fd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670710878367
+status: 1
+tags: []
+user_id: unknown

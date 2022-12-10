@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/7c2ba969ce4147cdb43bfda2d7ae90e1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 7c2ba969ce4147cdb43bfda2d7ae90e1
+run_name: clean-sow-556
+run_uuid: 7c2ba969ce4147cdb43bfda2d7ae90e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670710947482
+status: 1
+tags: []
+user_id: unknown

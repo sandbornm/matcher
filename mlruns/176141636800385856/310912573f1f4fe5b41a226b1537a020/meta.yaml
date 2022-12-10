@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/310912573f1f4fe5b41a226b1537a020/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 310912573f1f4fe5b41a226b1537a020
+run_name: glamorous-stoat-220
+run_uuid: 310912573f1f4fe5b41a226b1537a020
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670710823502
+status: 1
+tags: []
+user_id: unknown

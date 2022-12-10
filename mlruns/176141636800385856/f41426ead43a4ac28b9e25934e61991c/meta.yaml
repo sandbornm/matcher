@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/f41426ead43a4ac28b9e25934e61991c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: f41426ead43a4ac28b9e25934e61991c
+run_name: sedate-dog-744
+run_uuid: f41426ead43a4ac28b9e25934e61991c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711173370
+status: 1
+tags: []
+user_id: unknown

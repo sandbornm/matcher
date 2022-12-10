@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/02cf6a431dce49afab944e0cbce9df00/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 02cf6a431dce49afab944e0cbce9df00
+run_name: adventurous-deer-984
+run_uuid: 02cf6a431dce49afab944e0cbce9df00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711186433
+status: 1
+tags: []
+user_id: unknown

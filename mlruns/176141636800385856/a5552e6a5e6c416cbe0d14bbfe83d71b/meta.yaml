@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/a5552e6a5e6c416cbe0d14bbfe83d71b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: a5552e6a5e6c416cbe0d14bbfe83d71b
+run_name: trusting-fly-723
+run_uuid: a5552e6a5e6c416cbe0d14bbfe83d71b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711087030
+status: 1
+tags: []
+user_id: unknown

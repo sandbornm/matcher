@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/c0f9e4bc472f4ebeb95617ba3679354d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: c0f9e4bc472f4ebeb95617ba3679354d
+run_name: amazing-steed-82
+run_uuid: c0f9e4bc472f4ebeb95617ba3679354d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711112100
+status: 1
+tags: []
+user_id: unknown

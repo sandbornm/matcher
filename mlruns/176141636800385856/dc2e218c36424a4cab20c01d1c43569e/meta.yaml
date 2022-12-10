@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/dc2e218c36424a4cab20c01d1c43569e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: dc2e218c36424a4cab20c01d1c43569e
+run_name: invincible-kit-93
+run_uuid: dc2e218c36424a4cab20c01d1c43569e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711219228
+status: 1
+tags: []
+user_id: unknown

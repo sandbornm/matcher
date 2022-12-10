@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/3cdabdd7d9ab4b1995deb9f786e301ce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 3cdabdd7d9ab4b1995deb9f786e301ce
+run_name: tasteful-pig-696
+run_uuid: 3cdabdd7d9ab4b1995deb9f786e301ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711019454
+status: 1
+tags: []
+user_id: unknown

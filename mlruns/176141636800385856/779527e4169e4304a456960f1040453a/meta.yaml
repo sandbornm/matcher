@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/779527e4169e4304a456960f1040453a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 779527e4169e4304a456960f1040453a
+run_name: mercurial-jay-184
+run_uuid: 779527e4169e4304a456960f1040453a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711302612
+status: 1
+tags: []
+user_id: unknown

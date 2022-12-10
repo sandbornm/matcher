@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/78220cdd7861426d8a91f2cc0d3f355d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 78220cdd7861426d8a91f2cc0d3f355d
+run_name: defiant-gnat-436
+run_uuid: 78220cdd7861426d8a91f2cc0d3f355d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711018370
+status: 1
+tags: []
+user_id: unknown

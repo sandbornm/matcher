@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/f8609fd388b34f4aa49be2bec4ec300b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: f8609fd388b34f4aa49be2bec4ec300b
+run_name: thundering-shad-400
+run_uuid: f8609fd388b34f4aa49be2bec4ec300b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711112322
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/f91dc6a4f7b046deb30c3c7e4734e2e5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: f91dc6a4f7b046deb30c3c7e4734e2e5
+run_name: resilient-mare-676
+run_uuid: f91dc6a4f7b046deb30c3c7e4734e2e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711261851
+status: 1
+tags: []
+user_id: unknown

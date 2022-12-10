@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/f91eb6dba7b042af90be1d9ba3e4e75b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: f91eb6dba7b042af90be1d9ba3e4e75b
+run_name: efficient-bass-627
+run_uuid: f91eb6dba7b042af90be1d9ba3e4e75b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711111264
+status: 1
+tags: []
+user_id: unknown

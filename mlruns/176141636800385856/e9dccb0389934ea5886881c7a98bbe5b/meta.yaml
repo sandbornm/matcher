@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/e9dccb0389934ea5886881c7a98bbe5b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: e9dccb0389934ea5886881c7a98bbe5b
+run_name: suave-fish-534
+run_uuid: e9dccb0389934ea5886881c7a98bbe5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670710823311
+status: 1
+tags: []
+user_id: unknown

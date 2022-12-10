@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/cfd54f283b9f4b73a3320916d8b348ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: cfd54f283b9f4b73a3320916d8b348ac
+run_name: upbeat-cod-400
+run_uuid: cfd54f283b9f4b73a3320916d8b348ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670710967670
+status: 1
+tags: []
+user_id: unknown

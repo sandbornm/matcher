@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/cb7158f345724e4c8db9abad05961bcd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: cb7158f345724e4c8db9abad05961bcd
+run_name: useful-rat-931
+run_uuid: cb7158f345724e4c8db9abad05961bcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670710931488
+status: 1
+tags: []
+user_id: unknown

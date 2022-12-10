@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/c206c9b47bce49818e946cfc96f3bf4b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: c206c9b47bce49818e946cfc96f3bf4b
+run_name: thundering-dog-986
+run_uuid: c206c9b47bce49818e946cfc96f3bf4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711218799
+status: 1
+tags: []
+user_id: unknown

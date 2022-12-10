@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/91dd2d1c82a645e09c02d45af862f03e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 91dd2d1c82a645e09c02d45af862f03e
+run_name: judicious-cub-193
+run_uuid: 91dd2d1c82a645e09c02d45af862f03e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670710878954
+status: 1
+tags: []
+user_id: unknown

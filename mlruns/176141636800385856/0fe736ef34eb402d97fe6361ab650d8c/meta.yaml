@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/0fe736ef34eb402d97fe6361ab650d8c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 0fe736ef34eb402d97fe6361ab650d8c
+run_name: charming-toad-153
+run_uuid: 0fe736ef34eb402d97fe6361ab650d8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670710979549
+status: 1
+tags: []
+user_id: unknown

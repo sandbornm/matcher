@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/aa990690bef64c8db816b3847fd437d2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: aa990690bef64c8db816b3847fd437d2
+run_name: carefree-bass-620
+run_uuid: aa990690bef64c8db816b3847fd437d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711098679
+status: 1
+tags: []
+user_id: unknown

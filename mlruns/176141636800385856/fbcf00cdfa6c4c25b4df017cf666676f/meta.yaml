@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/fbcf00cdfa6c4c25b4df017cf666676f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: fbcf00cdfa6c4c25b4df017cf666676f
+run_name: enchanting-pig-850
+run_uuid: fbcf00cdfa6c4c25b4df017cf666676f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670710967516
+status: 1
+tags: []
+user_id: unknown

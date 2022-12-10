@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/7bc522a0809441ee854b5929b53852ee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 7bc522a0809441ee854b5929b53852ee
+run_name: bouncy-seal-775
+run_uuid: 7bc522a0809441ee854b5929b53852ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670710953126
+status: 1
+tags: []
+user_id: unknown

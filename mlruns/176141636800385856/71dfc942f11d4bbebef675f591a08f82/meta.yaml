@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/71dfc942f11d4bbebef675f591a08f82/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 71dfc942f11d4bbebef675f591a08f82
+run_name: funny-bat-836
+run_uuid: 71dfc942f11d4bbebef675f591a08f82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711347730
+status: 1
+tags: []
+user_id: unknown

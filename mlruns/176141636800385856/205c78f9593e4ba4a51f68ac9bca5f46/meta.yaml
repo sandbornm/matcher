@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/205c78f9593e4ba4a51f68ac9bca5f46/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 205c78f9593e4ba4a51f68ac9bca5f46
+run_name: illustrious-bird-226
+run_uuid: 205c78f9593e4ba4a51f68ac9bca5f46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711302205
+status: 1
+tags: []
+user_id: unknown

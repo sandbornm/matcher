@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/40996d44a2074f72b003085099143347/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 40996d44a2074f72b003085099143347
+run_name: zealous-carp-855
+run_uuid: 40996d44a2074f72b003085099143347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711187201
+status: 1
+tags: []
+user_id: unknown

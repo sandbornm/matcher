@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/8be27008e04a40e3ad38559efc28b173/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 8be27008e04a40e3ad38559efc28b173
+run_name: caring-mule-340
+run_uuid: 8be27008e04a40e3ad38559efc28b173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670710851924
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/e6cb8926df5b44c6874ec1d74f13b019/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: e6cb8926df5b44c6874ec1d74f13b019
+run_name: mysterious-bug-332
+run_uuid: e6cb8926df5b44c6874ec1d74f13b019
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711274721
+status: 1
+tags: []
+user_id: unknown

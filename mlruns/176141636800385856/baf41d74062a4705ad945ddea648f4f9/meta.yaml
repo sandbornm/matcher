@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/baf41d74062a4705ad945ddea648f4f9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: baf41d74062a4705ad945ddea648f4f9
+run_name: marvelous-eel-747
+run_uuid: baf41d74062a4705ad945ddea648f4f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670710887792
+status: 1
+tags: []
+user_id: unknown

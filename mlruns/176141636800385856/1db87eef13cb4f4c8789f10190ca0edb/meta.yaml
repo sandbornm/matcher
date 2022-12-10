@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/1db87eef13cb4f4c8789f10190ca0edb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 1db87eef13cb4f4c8789f10190ca0edb
+run_name: abundant-pug-505
+run_uuid: 1db87eef13cb4f4c8789f10190ca0edb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670710975153
+status: 1
+tags: []
+user_id: unknown

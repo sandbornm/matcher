@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/6701ef9d722c443b935e71bc00f9b9bc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 6701ef9d722c443b935e71bc00f9b9bc
+run_name: vaunted-ram-343
+run_uuid: 6701ef9d722c443b935e71bc00f9b9bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711275063
+status: 1
+tags: []
+user_id: unknown

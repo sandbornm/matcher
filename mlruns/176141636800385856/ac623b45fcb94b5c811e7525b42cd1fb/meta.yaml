@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/ac623b45fcb94b5c811e7525b42cd1fb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: ac623b45fcb94b5c811e7525b42cd1fb
+run_name: vaunted-squirrel-972
+run_uuid: ac623b45fcb94b5c811e7525b42cd1fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670710989782
+status: 1
+tags: []
+user_id: unknown

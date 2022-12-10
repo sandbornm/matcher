@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/b70b3d9e364b4387a7943c7ed195a53b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: b70b3d9e364b4387a7943c7ed195a53b
+run_name: luminous-ox-247
+run_uuid: b70b3d9e364b4387a7943c7ed195a53b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670710734592
+status: 1
+tags: []
+user_id: unknown

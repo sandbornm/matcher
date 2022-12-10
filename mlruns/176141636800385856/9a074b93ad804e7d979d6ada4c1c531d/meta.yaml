@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/9a074b93ad804e7d979d6ada4c1c531d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 9a074b93ad804e7d979d6ada4c1c531d
+run_name: beautiful-carp-801
+run_uuid: 9a074b93ad804e7d979d6ada4c1c531d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711018537
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/8c826f391d0442a5a8be37dc16a5ac1b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 8c826f391d0442a5a8be37dc16a5ac1b
+run_name: funny-grub-813
+run_uuid: 8c826f391d0442a5a8be37dc16a5ac1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711157014
+status: 1
+tags: []
+user_id: unknown

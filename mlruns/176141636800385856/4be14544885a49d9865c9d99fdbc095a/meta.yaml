@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/176141636800385856/4be14544885a49d9865c9d99fdbc095a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '176141636800385856'
+lifecycle_stage: active
+run_id: 4be14544885a49d9865c9d99fdbc095a
+run_name: big-auk-127
+run_uuid: 4be14544885a49d9865c9d99fdbc095a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670710931933
+status: 1
+tags: []
+user_id: unknown
