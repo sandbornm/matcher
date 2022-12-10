@@ -177,7 +177,7 @@ def simulate_part_pdf_convergence(part_signals: np.ndarray, part_dim: int, meta_
         lower, upper = compute_normal_ci(sub_samples, part_pdf_ci)
         confidence_ranges.append(upper - lower)
         
-        mlflow.log_metric("part_pdf_confidence_interval", np.mean(upper - lower))
+        # mlflow.log_metric("part_pdf_confidence_interval", np.mean(upper - lower))
 
         if len(confidence_ranges) > 100 and np.mean(confidence_ranges[-10:]) >= np.mean(confidence_ranges[-100:]):
             return upper
