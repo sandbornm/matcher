@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/99fcdd5aa7bb43cf9fa53c60539d1c52/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 99fcdd5aa7bb43cf9fa53c60539d1c52
+run_name: puzzled-cod-155
+run_uuid: 99fcdd5aa7bb43cf9fa53c60539d1c52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638265963
+status: 1
+tags: []
+user_id: unknown

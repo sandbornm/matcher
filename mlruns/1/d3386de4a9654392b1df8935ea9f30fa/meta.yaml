@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/d3386de4a9654392b1df8935ea9f30fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d3386de4a9654392b1df8935ea9f30fa
+run_name: bright-steed-362
+run_uuid: d3386de4a9654392b1df8935ea9f30fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670650826475
+status: 1
+tags: []
+user_id: unknown

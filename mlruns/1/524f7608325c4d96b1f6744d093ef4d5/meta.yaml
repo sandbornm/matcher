@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/524f7608325c4d96b1f6744d093ef4d5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 524f7608325c4d96b1f6744d093ef4d5
+run_name: popular-sponge-768
+run_uuid: 524f7608325c4d96b1f6744d093ef4d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634228195
+status: 1
+tags: []
+user_id: unknown

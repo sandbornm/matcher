@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/d8c0325a971b4de0b38b4d4a48e2a248/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d8c0325a971b4de0b38b4d4a48e2a248
+run_name: angry-zebra-419
+run_uuid: d8c0325a971b4de0b38b4d4a48e2a248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670633493384
+status: 1
+tags: []
+user_id: unknown

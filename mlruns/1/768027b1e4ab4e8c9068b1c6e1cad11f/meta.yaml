@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/768027b1e4ab4e8c9068b1c6e1cad11f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 768027b1e4ab4e8c9068b1c6e1cad11f
+run_name: amusing-gull-752
+run_uuid: 768027b1e4ab4e8c9068b1c6e1cad11f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670641643253
+status: 1
+tags: []
+user_id: unknown

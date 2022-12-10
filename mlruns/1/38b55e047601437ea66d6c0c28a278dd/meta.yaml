@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/38b55e047601437ea66d6c0c28a278dd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 38b55e047601437ea66d6c0c28a278dd
+run_name: wise-skink-849
+run_uuid: 38b55e047601437ea66d6c0c28a278dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670635260573
+status: 1
+tags: []
+user_id: unknown

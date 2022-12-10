@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/98ea8ae1d517440083398917f78be926/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 98ea8ae1d517440083398917f78be926
+run_name: adorable-gnat-42
+run_uuid: 98ea8ae1d517440083398917f78be926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670644645613
+status: 1
+tags: []
+user_id: unknown

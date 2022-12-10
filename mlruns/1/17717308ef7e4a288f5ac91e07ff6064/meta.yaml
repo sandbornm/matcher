@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/17717308ef7e4a288f5ac91e07ff6064/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 17717308ef7e4a288f5ac91e07ff6064
+run_name: unequaled-mule-433
+run_uuid: 17717308ef7e4a288f5ac91e07ff6064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670633940182
+status: 1
+tags: []
+user_id: unknown

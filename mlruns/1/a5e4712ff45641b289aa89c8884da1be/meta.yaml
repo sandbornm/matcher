@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/a5e4712ff45641b289aa89c8884da1be/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a5e4712ff45641b289aa89c8884da1be
+run_name: whimsical-wren-650
+run_uuid: a5e4712ff45641b289aa89c8884da1be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630245949
+status: 1
+tags: []
+user_id: unknown

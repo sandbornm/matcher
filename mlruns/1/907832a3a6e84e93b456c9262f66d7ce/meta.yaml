@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/907832a3a6e84e93b456c9262f66d7ce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 907832a3a6e84e93b456c9262f66d7ce
+run_name: sneaky-ox-402
+run_uuid: 907832a3a6e84e93b456c9262f66d7ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630242987
+status: 1
+tags: []
+user_id: unknown

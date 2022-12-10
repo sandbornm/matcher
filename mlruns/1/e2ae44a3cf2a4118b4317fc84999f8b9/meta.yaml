@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/e2ae44a3cf2a4118b4317fc84999f8b9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e2ae44a3cf2a4118b4317fc84999f8b9
+run_name: persistent-perch-997
+run_uuid: e2ae44a3cf2a4118b4317fc84999f8b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670633295033
+status: 1
+tags: []
+user_id: unknown

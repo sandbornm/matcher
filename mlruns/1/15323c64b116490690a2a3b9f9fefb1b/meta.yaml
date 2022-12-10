@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/15323c64b116490690a2a3b9f9fefb1b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 15323c64b116490690a2a3b9f9fefb1b
+run_name: auspicious-midge-536
+run_uuid: 15323c64b116490690a2a3b9f9fefb1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634709356
+status: 1
+tags: []
+user_id: unknown

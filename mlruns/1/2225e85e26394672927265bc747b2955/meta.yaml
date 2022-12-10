@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/2225e85e26394672927265bc747b2955/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2225e85e26394672927265bc747b2955
+run_name: sneaky-elk-275
+run_uuid: 2225e85e26394672927265bc747b2955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637970227
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/ab6376e062c4416f81220ba897636208/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ab6376e062c4416f81220ba897636208
+run_name: bold-hen-371
+run_uuid: ab6376e062c4416f81220ba897636208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670642705219
+status: 1
+tags: []
+user_id: unknown

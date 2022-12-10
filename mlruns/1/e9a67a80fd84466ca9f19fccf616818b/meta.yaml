@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/e9a67a80fd84466ca9f19fccf616818b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e9a67a80fd84466ca9f19fccf616818b
+run_name: luxuriant-moose-418
+run_uuid: e9a67a80fd84466ca9f19fccf616818b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670628196401
+status: 1
+tags: []
+user_id: unknown

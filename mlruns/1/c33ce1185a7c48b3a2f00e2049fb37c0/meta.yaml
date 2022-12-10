@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/c33ce1185a7c48b3a2f00e2049fb37c0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c33ce1185a7c48b3a2f00e2049fb37c0
+run_name: unequaled-hog-978
+run_uuid: c33ce1185a7c48b3a2f00e2049fb37c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670643518243
+status: 1
+tags: []
+user_id: unknown

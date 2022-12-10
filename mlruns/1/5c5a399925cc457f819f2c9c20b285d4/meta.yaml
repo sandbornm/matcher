@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/5c5a399925cc457f819f2c9c20b285d4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5c5a399925cc457f819f2c9c20b285d4
+run_name: rambunctious-kit-164
+run_uuid: 5c5a399925cc457f819f2c9c20b285d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630005603
+status: 1
+tags: []
+user_id: unknown

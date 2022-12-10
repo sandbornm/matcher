@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/925f764ba7604771aafa82915df64584/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 925f764ba7604771aafa82915df64584
+run_name: nimble-gnu-417
+run_uuid: 925f764ba7604771aafa82915df64584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670644978631
+status: 1
+tags: []
+user_id: unknown

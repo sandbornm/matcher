@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/e2cdd23cac0d489fb22770297d9fa4f5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e2cdd23cac0d489fb22770297d9fa4f5
+run_name: adaptable-skink-449
+run_uuid: e2cdd23cac0d489fb22770297d9fa4f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670632708096
+status: 1
+tags: []
+user_id: unknown

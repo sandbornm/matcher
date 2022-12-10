@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/fa691cf05bc947188f81be7a8bf0d481/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fa691cf05bc947188f81be7a8bf0d481
+run_name: brawny-cub-253
+run_uuid: fa691cf05bc947188f81be7a8bf0d481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670647506788
+status: 1
+tags: []
+user_id: unknown

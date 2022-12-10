@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/45e2ce40b4fc4bb9a62b3ed11f81e957/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 45e2ce40b4fc4bb9a62b3ed11f81e957
+run_name: sincere-stag-714
+run_uuid: 45e2ce40b4fc4bb9a62b3ed11f81e957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630512137
+status: 1
+tags: []
+user_id: unknown

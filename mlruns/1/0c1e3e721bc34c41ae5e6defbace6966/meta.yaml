@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/0c1e3e721bc34c41ae5e6defbace6966/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0c1e3e721bc34c41ae5e6defbace6966
+run_name: big-stag-591
+run_uuid: 0c1e3e721bc34c41ae5e6defbace6966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670645277382
+status: 1
+tags: []
+user_id: unknown

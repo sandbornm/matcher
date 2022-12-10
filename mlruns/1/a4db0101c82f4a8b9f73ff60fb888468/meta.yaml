@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/a4db0101c82f4a8b9f73ff60fb888468/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a4db0101c82f4a8b9f73ff60fb888468
+run_name: nimble-frog-660
+run_uuid: a4db0101c82f4a8b9f73ff60fb888468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670646443646
+status: 1
+tags: []
+user_id: unknown

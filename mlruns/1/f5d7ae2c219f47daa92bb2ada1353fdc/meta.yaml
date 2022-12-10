@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/f5d7ae2c219f47daa92bb2ada1353fdc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f5d7ae2c219f47daa92bb2ada1353fdc
+run_name: serious-stoat-152
+run_uuid: f5d7ae2c219f47daa92bb2ada1353fdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634431313
+status: 1
+tags: []
+user_id: unknown

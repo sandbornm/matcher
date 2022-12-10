@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/817f4c3244774c8e8e25c5377466bd96/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 817f4c3244774c8e8e25c5377466bd96
+run_name: peaceful-colt-664
+run_uuid: 817f4c3244774c8e8e25c5377466bd96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670646518186
+status: 1
+tags: []
+user_id: unknown

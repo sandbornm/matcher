@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/864dd4ea1b35474ba4910bb8bcd53bf0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 864dd4ea1b35474ba4910bb8bcd53bf0
+run_name: sincere-slug-81
+run_uuid: 864dd4ea1b35474ba4910bb8bcd53bf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638679772
+status: 1
+tags: []
+user_id: unknown

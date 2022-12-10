@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/d7b02e462218411e8bb8d8a35a7b9624/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d7b02e462218411e8bb8d8a35a7b9624
+run_name: unruly-turtle-960
+run_uuid: d7b02e462218411e8bb8d8a35a7b9624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634933737
+status: 1
+tags: []
+user_id: unknown

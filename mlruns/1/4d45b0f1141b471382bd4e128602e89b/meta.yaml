@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/4d45b0f1141b471382bd4e128602e89b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4d45b0f1141b471382bd4e128602e89b
+run_name: luminous-shoat-799
+run_uuid: 4d45b0f1141b471382bd4e128602e89b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670639821438
+status: 1
+tags: []
+user_id: unknown

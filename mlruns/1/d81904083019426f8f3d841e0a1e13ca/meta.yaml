@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/d81904083019426f8f3d841e0a1e13ca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d81904083019426f8f3d841e0a1e13ca
+run_name: melodic-chimp-988
+run_uuid: d81904083019426f8f3d841e0a1e13ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670641491325
+status: 1
+tags: []
+user_id: unknown

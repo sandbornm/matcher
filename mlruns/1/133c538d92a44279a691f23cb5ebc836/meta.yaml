@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/133c538d92a44279a691f23cb5ebc836/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 133c538d92a44279a691f23cb5ebc836
+run_name: whimsical-hare-34
+run_uuid: 133c538d92a44279a691f23cb5ebc836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670639341927
+status: 1
+tags: []
+user_id: unknown

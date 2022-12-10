@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/85f1151d30b147e18d6fa0535336f4e3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 85f1151d30b147e18d6fa0535336f4e3
+run_name: rumbling-fox-516
+run_uuid: 85f1151d30b147e18d6fa0535336f4e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670644421330
+status: 1
+tags: []
+user_id: unknown

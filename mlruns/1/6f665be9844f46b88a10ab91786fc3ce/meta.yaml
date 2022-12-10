@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/6f665be9844f46b88a10ab91786fc3ce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6f665be9844f46b88a10ab91786fc3ce
+run_name: unique-cod-750
+run_uuid: 6f665be9844f46b88a10ab91786fc3ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670646634824
+status: 1
+tags: []
+user_id: unknown

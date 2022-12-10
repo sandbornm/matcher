@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/8da6c54aad6c40cdbc68ef961f42255a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8da6c54aad6c40cdbc68ef961f42255a
+run_name: crawling-shrike-316
+run_uuid: 8da6c54aad6c40cdbc68ef961f42255a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670648387730
+status: 1
+tags: []
+user_id: unknown

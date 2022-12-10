@@ -80,17 +80,27 @@ def compute_normal_ci(x: List[float], confidence: float) -> Tuple[float, float]:
     else:
         return stats.norm.interval(confidence, loc=np.mean(x, axis=0), scale=np.std(x, axis=0))
 
-def estimate_normal_dist(x: List[float], confidence: float) -> NormalDistribution:
+def estimate_normal_dist(x: List[float], confidence: float) -> MultivariateNormalDistribution:
     """Estimate the normal distribution for the given data.
     This is done using: https://handbook-5-1.cochrane.org/chapter_7/7_7_3_2_obtaining_standard_deviations_from_standard_errors_and.htm#:~:text=The%20standard%20deviation%20for%20each,should%20be%20replaced%20by%205.15.
     """
 
-    val_comp = st.t.ppf if len(x) < 30 else stats.norm.ppf
-    lower, upper = compute_normal_ci(x, confidence)
+    data_mean = np.mean(x, axis=0)
+    data_std = np.std(x, axis=0)
 
-    val = val_comp(confidence, len(x)-1)
-    std = np.sqrt(len(x))*(upper-lower)*val
-    return NormalDistribution(np.mean(x, axis=0), std)
+    t_score = st.t.ppf(confidence, np.array(x).shape[0] - 1)
+    z_score = st.norm.ppf(confidence)
+    scaling_factor = t_score if len(x) < 30 else z_score
+
+    desired_std = data_std + (data_std * scaling_factor)
+    derived_data = (x - data_mean) / data_std * desired_std + data_mean
+    derived_data_cov = np.cov(derived_data, rowvar=False)
+
+    regularization_term = 1e-3
+    if derived_data_cov.shape[0] >= derived_data.shape[0]:
+        derived_data_cov += np.eye(derived_data_cov.shape[0]) * regularization_term
+
+    return MultivariateNormalDistribution(data_mean, derived_data_cov)
 
 def probability_of_multivariant_point(mu: np.ndarray, cov: np.ndarray, x: np.ndarray) -> float:
 
@@ -179,7 +189,6 @@ def run_experiment(experiment_id: int, part_type: str, part_dim: int, num_sample
     client = mlflow.tracking.MlflowClient()
     run_id = client.create_run(experiment_id).info.run_id
 
-    client.log_param(run_id, "part_type", part_type)
     client.log_param(run_id, "part_type", part_type)
     client.log_param(run_id, "part_dim", part_dim)
     client.log_param(run_id, "num_samples", num_samples)

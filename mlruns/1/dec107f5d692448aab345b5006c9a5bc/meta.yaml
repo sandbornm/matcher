@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/dec107f5d692448aab345b5006c9a5bc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dec107f5d692448aab345b5006c9a5bc
+run_name: bright-grouse-584
+run_uuid: dec107f5d692448aab345b5006c9a5bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670644737277
+status: 1
+tags: []
+user_id: unknown

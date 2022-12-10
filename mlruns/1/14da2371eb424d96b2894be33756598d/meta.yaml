@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/14da2371eb424d96b2894be33756598d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 14da2371eb424d96b2894be33756598d
+run_name: gifted-dove-783
+run_uuid: 14da2371eb424d96b2894be33756598d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670633196310
+status: 1
+tags: []
+user_id: unknown

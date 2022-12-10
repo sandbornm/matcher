@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/c3a167b423e84689b4ed63c7f1775faa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c3a167b423e84689b4ed63c7f1775faa
+run_name: auspicious-croc-860
+run_uuid: c3a167b423e84689b4ed63c7f1775faa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670647941538
+status: 1
+tags: []
+user_id: unknown

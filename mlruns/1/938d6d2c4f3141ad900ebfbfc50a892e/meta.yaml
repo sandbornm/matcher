@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/938d6d2c4f3141ad900ebfbfc50a892e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 938d6d2c4f3141ad900ebfbfc50a892e
+run_name: salty-lynx-307
+run_uuid: 938d6d2c4f3141ad900ebfbfc50a892e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670651017660
+status: 1
+tags: []
+user_id: unknown

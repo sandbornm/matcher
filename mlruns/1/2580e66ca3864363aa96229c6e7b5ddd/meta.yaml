@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/2580e66ca3864363aa96229c6e7b5ddd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2580e66ca3864363aa96229c6e7b5ddd
+run_name: blushing-ape-593
+run_uuid: 2580e66ca3864363aa96229c6e7b5ddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670628196425
+status: 1
+tags: []
+user_id: unknown

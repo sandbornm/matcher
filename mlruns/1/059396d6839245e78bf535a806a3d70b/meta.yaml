@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/059396d6839245e78bf535a806a3d70b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 059396d6839245e78bf535a806a3d70b
+run_name: puzzled-deer-719
+run_uuid: 059396d6839245e78bf535a806a3d70b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670650494553
+status: 1
+tags: []
+user_id: unknown

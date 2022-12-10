@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/ac210ec347404c2eb2daca3962c631a2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ac210ec347404c2eb2daca3962c631a2
+run_name: nimble-yak-376
+run_uuid: ac210ec347404c2eb2daca3962c631a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670643469811
+status: 1
+tags: []
+user_id: unknown

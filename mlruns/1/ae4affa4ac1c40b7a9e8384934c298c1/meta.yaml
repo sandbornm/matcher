@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/ae4affa4ac1c40b7a9e8384934c298c1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ae4affa4ac1c40b7a9e8384934c298c1
+run_name: able-tern-791
+run_uuid: ae4affa4ac1c40b7a9e8384934c298c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670636213791
+status: 1
+tags: []
+user_id: unknown

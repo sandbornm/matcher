@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/e800400be04d4e508fdea26ed3e62ab2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e800400be04d4e508fdea26ed3e62ab2
+run_name: peaceful-lamb-532
+run_uuid: e800400be04d4e508fdea26ed3e62ab2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670651476346
+status: 1
+tags: []
+user_id: unknown

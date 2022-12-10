@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/4b69e86180a349cd8cf6a52d164d1596/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4b69e86180a349cd8cf6a52d164d1596
+run_name: polite-koi-485
+run_uuid: 4b69e86180a349cd8cf6a52d164d1596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670643934774
+status: 1
+tags: []
+user_id: unknown

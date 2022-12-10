@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/b4c8128ac79f4e7d82f53a1f4e3e7ac0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b4c8128ac79f4e7d82f53a1f4e3e7ac0
+run_name: enchanting-goat-569
+run_uuid: b4c8128ac79f4e7d82f53a1f4e3e7ac0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670649164266
+status: 1
+tags: []
+user_id: unknown

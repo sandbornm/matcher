@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/d7b29bbf2d9840fbb74a83b6d8b19c89/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d7b29bbf2d9840fbb74a83b6d8b19c89
+run_name: angry-auk-591
+run_uuid: d7b29bbf2d9840fbb74a83b6d8b19c89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670635134702
+status: 1
+tags: []
+user_id: unknown

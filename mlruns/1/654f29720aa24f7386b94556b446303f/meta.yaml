@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/654f29720aa24f7386b94556b446303f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 654f29720aa24f7386b94556b446303f
+run_name: trusting-goat-429
+run_uuid: 654f29720aa24f7386b94556b446303f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670645584131
+status: 1
+tags: []
+user_id: unknown

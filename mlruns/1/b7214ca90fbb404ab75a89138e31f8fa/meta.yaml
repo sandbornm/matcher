@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/b7214ca90fbb404ab75a89138e31f8fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b7214ca90fbb404ab75a89138e31f8fa
+run_name: monumental-shad-944
+run_uuid: b7214ca90fbb404ab75a89138e31f8fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670640724924
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/cee29573467f40e99c923f4b57363978/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cee29573467f40e99c923f4b57363978
+run_name: mysterious-bat-725
+run_uuid: cee29573467f40e99c923f4b57363978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670635008025
+status: 1
+tags: []
+user_id: unknown

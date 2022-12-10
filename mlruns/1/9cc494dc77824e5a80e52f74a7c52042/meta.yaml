@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/9cc494dc77824e5a80e52f74a7c52042/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9cc494dc77824e5a80e52f74a7c52042
+run_name: valuable-tern-545
+run_uuid: 9cc494dc77824e5a80e52f74a7c52042
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670649166101
+status: 1
+tags: []
+user_id: unknown

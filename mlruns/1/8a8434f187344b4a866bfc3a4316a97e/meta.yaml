@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/8a8434f187344b4a866bfc3a4316a97e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8a8434f187344b4a866bfc3a4316a97e
+run_name: rare-midge-194
+run_uuid: 8a8434f187344b4a866bfc3a4316a97e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670636209849
+status: 1
+tags: []
+user_id: unknown

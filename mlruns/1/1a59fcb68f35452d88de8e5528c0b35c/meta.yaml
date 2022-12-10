@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/1a59fcb68f35452d88de8e5528c0b35c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1a59fcb68f35452d88de8e5528c0b35c
+run_name: mercurial-asp-417
+run_uuid: 1a59fcb68f35452d88de8e5528c0b35c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670632944078
+status: 1
+tags: []
+user_id: unknown

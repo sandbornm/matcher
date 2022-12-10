@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/78eef6cfd72b46c88c5d4436c559051b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 78eef6cfd72b46c88c5d4436c559051b
+run_name: enthused-sheep-662
+run_uuid: 78eef6cfd72b46c88c5d4436c559051b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670636545255
+status: 1
+tags: []
+user_id: unknown

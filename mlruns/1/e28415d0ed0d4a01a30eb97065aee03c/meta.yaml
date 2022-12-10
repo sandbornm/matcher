@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/e28415d0ed0d4a01a30eb97065aee03c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e28415d0ed0d4a01a30eb97065aee03c
+run_name: awesome-toad-51
+run_uuid: e28415d0ed0d4a01a30eb97065aee03c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670650269238
+status: 1
+tags: []
+user_id: unknown

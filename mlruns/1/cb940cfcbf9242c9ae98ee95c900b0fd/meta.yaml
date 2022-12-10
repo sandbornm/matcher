@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/cb940cfcbf9242c9ae98ee95c900b0fd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cb940cfcbf9242c9ae98ee95c900b0fd
+run_name: wistful-chimp-782
+run_uuid: cb940cfcbf9242c9ae98ee95c900b0fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670635358850
+status: 1
+tags: []
+user_id: unknown

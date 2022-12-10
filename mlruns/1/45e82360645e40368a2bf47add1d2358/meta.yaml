@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/45e82360645e40368a2bf47add1d2358/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 45e82360645e40368a2bf47add1d2358
+run_name: rare-tern-801
+run_uuid: 45e82360645e40368a2bf47add1d2358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670639377639
+status: 1
+tags: []
+user_id: unknown

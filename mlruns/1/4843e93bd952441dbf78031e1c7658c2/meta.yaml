@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/4843e93bd952441dbf78031e1c7658c2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4843e93bd952441dbf78031e1c7658c2
+run_name: intelligent-swan-850
+run_uuid: 4843e93bd952441dbf78031e1c7658c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670641775217
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/e45d54d6a4be4f40a7b4b2a0d65ef54d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e45d54d6a4be4f40a7b4b2a0d65ef54d
+run_name: adaptable-hare-831
+run_uuid: e45d54d6a4be4f40a7b4b2a0d65ef54d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670639144765
+status: 1
+tags: []
+user_id: unknown

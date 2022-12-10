@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/ebf41a5f388b45f9a5f7033264fc800b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ebf41a5f388b45f9a5f7033264fc800b
+run_name: rogue-hen-12
+run_uuid: ebf41a5f388b45f9a5f7033264fc800b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670636485579
+status: 1
+tags: []
+user_id: unknown

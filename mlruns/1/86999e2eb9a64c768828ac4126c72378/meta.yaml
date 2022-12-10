@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/86999e2eb9a64c768828ac4126c72378/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 86999e2eb9a64c768828ac4126c72378
+run_name: upset-stork-762
+run_uuid: 86999e2eb9a64c768828ac4126c72378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670633339603
+status: 1
+tags: []
+user_id: unknown

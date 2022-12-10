@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/5699be7c83dc4c07a3792dc630862540/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5699be7c83dc4c07a3792dc630862540
+run_name: angry-seal-553
+run_uuid: 5699be7c83dc4c07a3792dc630862540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670636272405
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/6341dcb9f9be419386db263a184b6454/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6341dcb9f9be419386db263a184b6454
+run_name: skittish-foal-34
+run_uuid: 6341dcb9f9be419386db263a184b6454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670642426919
+status: 1
+tags: []
+user_id: unknown

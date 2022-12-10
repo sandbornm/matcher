@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/6b92b467e29546daa39e9dd43b736196/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6b92b467e29546daa39e9dd43b736196
+run_name: enchanting-mink-422
+run_uuid: 6b92b467e29546daa39e9dd43b736196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670650737589
+status: 1
+tags: []
+user_id: unknown

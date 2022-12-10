@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/7931b09b3d854a2e82bd5303d82c099f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7931b09b3d854a2e82bd5303d82c099f
+run_name: puzzled-vole-708
+run_uuid: 7931b09b3d854a2e82bd5303d82c099f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670642570329
+status: 1
+tags: []
+user_id: unknown

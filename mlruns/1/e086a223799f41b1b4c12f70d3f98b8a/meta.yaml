@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/e086a223799f41b1b4c12f70d3f98b8a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e086a223799f41b1b4c12f70d3f98b8a
+run_name: lyrical-robin-753
+run_uuid: e086a223799f41b1b4c12f70d3f98b8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670646430918
+status: 1
+tags: []
+user_id: unknown

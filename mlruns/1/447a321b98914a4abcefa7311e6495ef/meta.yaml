@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/447a321b98914a4abcefa7311e6495ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 447a321b98914a4abcefa7311e6495ef
+run_name: rebellious-cow-664
+run_uuid: 447a321b98914a4abcefa7311e6495ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670633339606
+status: 1
+tags: []
+user_id: unknown

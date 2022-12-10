@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/2b5b84ad9e2f42f3a53ed85ae3074643/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2b5b84ad9e2f42f3a53ed85ae3074643
+run_name: intrigued-wasp-724
+run_uuid: 2b5b84ad9e2f42f3a53ed85ae3074643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670635172938
+status: 1
+tags: []
+user_id: unknown

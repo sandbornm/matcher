@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/0c1af363b5a64f06883048611255e60c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0c1af363b5a64f06883048611255e60c
+run_name: bemused-rat-652
+run_uuid: 0c1af363b5a64f06883048611255e60c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670639639741
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/9b83c15e9d5147c5948d40732a2807d9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9b83c15e9d5147c5948d40732a2807d9
+run_name: big-ape-699
+run_uuid: 9b83c15e9d5147c5948d40732a2807d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670647161645
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/7c64772355234b99bc7fd7948a12c0c8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7c64772355234b99bc7fd7948a12c0c8
+run_name: fearless-loon-325
+run_uuid: 7c64772355234b99bc7fd7948a12c0c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670644401614
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/a2ce67079fad40ba9a66d56ab9eb0c05/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a2ce67079fad40ba9a66d56ab9eb0c05
+run_name: tasteful-asp-826
+run_uuid: a2ce67079fad40ba9a66d56ab9eb0c05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670647626058
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/2df09bd8458d4462bb83c4f0f8986578/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2df09bd8458d4462bb83c4f0f8986578
+run_name: enthused-asp-879
+run_uuid: 2df09bd8458d4462bb83c4f0f8986578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670642049302
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/3f2eee1939584a7eb284dff6f8dbfd45/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3f2eee1939584a7eb284dff6f8dbfd45
+run_name: stately-hound-939
+run_uuid: 3f2eee1939584a7eb284dff6f8dbfd45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670632810477
+status: 1
+tags: []
+user_id: unknown

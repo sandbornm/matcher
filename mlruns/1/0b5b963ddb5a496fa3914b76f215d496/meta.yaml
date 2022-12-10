@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/0b5b963ddb5a496fa3914b76f215d496/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0b5b963ddb5a496fa3914b76f215d496
+run_name: honorable-gnat-95
+run_uuid: 0b5b963ddb5a496fa3914b76f215d496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670640087397
+status: 1
+tags: []
+user_id: unknown

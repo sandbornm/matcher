@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/a93fc407a69a4940bae8c4c24801695f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a93fc407a69a4940bae8c4c24801695f
+run_name: zealous-ape-298
+run_uuid: a93fc407a69a4940bae8c4c24801695f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670628561809
+status: 1
+tags: []
+user_id: unknown

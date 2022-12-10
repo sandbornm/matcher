@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/def5b1cf18454aa392a1ca846dddbd14/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: def5b1cf18454aa392a1ca846dddbd14
+run_name: unruly-snail-329
+run_uuid: def5b1cf18454aa392a1ca846dddbd14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670648030117
+status: 1
+tags: []
+user_id: unknown

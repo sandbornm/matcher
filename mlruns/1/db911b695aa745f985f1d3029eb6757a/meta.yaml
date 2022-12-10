@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/db911b695aa745f985f1d3029eb6757a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: db911b695aa745f985f1d3029eb6757a
+run_name: bright-roo-579
+run_uuid: db911b695aa745f985f1d3029eb6757a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634635176
+status: 1
+tags: []
+user_id: unknown

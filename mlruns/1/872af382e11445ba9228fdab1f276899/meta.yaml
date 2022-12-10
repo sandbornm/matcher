@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/872af382e11445ba9228fdab1f276899/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 872af382e11445ba9228fdab1f276899
+run_name: selective-mole-665
+run_uuid: 872af382e11445ba9228fdab1f276899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670643354514
+status: 1
+tags: []
+user_id: unknown

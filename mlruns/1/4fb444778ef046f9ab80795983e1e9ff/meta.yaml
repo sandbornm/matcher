@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/4fb444778ef046f9ab80795983e1e9ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4fb444778ef046f9ab80795983e1e9ff
+run_name: aged-seal-145
+run_uuid: 4fb444778ef046f9ab80795983e1e9ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670640241003
+status: 1
+tags: []
+user_id: unknown

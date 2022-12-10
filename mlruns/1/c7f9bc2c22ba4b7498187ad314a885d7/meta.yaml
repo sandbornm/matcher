@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/c7f9bc2c22ba4b7498187ad314a885d7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c7f9bc2c22ba4b7498187ad314a885d7
+run_name: smiling-robin-514
+run_uuid: c7f9bc2c22ba4b7498187ad314a885d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670637551072
+status: 1
+tags: []
+user_id: unknown

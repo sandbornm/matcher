@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/2109a1b40c354aa39abb9c33bc5f332e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2109a1b40c354aa39abb9c33bc5f332e
+run_name: placid-ape-217
+run_uuid: 2109a1b40c354aa39abb9c33bc5f332e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670633634139
+status: 1
+tags: []
+user_id: unknown

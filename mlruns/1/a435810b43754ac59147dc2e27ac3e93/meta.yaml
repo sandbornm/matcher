@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/a435810b43754ac59147dc2e27ac3e93/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a435810b43754ac59147dc2e27ac3e93
+run_name: mysterious-sheep-852
+run_uuid: a435810b43754ac59147dc2e27ac3e93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630984221
+status: 1
+tags: []
+user_id: unknown

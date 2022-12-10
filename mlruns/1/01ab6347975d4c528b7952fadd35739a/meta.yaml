@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/01ab6347975d4c528b7952fadd35739a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 01ab6347975d4c528b7952fadd35739a
+run_name: thundering-slug-953
+run_uuid: 01ab6347975d4c528b7952fadd35739a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670646358549
+status: 1
+tags: []
+user_id: unknown

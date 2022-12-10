@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/f719a045aa1946b5adb11da81cd037ce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f719a045aa1946b5adb11da81cd037ce
+run_name: kindly-fowl-386
+run_uuid: f719a045aa1946b5adb11da81cd037ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670646366725
+status: 1
+tags: []
+user_id: unknown

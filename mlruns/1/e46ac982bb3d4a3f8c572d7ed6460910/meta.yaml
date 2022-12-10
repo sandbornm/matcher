@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/e46ac982bb3d4a3f8c572d7ed6460910/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e46ac982bb3d4a3f8c572d7ed6460910
+run_name: likeable-shrike-87
+run_uuid: e46ac982bb3d4a3f8c572d7ed6460910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670632565955
+status: 1
+tags: []
+user_id: unknown

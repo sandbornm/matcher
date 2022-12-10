@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/42453beee5914d18bac9f42231e4546b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 42453beee5914d18bac9f42231e4546b
+run_name: clean-grouse-920
+run_uuid: 42453beee5914d18bac9f42231e4546b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670633270972
+status: 1
+tags: []
+user_id: unknown

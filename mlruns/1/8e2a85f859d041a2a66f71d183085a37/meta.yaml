@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/8e2a85f859d041a2a66f71d183085a37/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8e2a85f859d041a2a66f71d183085a37
+run_name: capable-asp-382
+run_uuid: 8e2a85f859d041a2a66f71d183085a37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670638315838
+status: 1
+tags: []
+user_id: unknown

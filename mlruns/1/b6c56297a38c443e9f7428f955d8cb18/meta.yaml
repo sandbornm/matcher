@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/b6c56297a38c443e9f7428f955d8cb18/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b6c56297a38c443e9f7428f955d8cb18
+run_name: trusting-horse-247
+run_uuid: b6c56297a38c443e9f7428f955d8cb18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670651069521
+status: 1
+tags: []
+user_id: unknown

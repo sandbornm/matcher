@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/85f99226d34a43aebcb86aa92571c0c7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 85f99226d34a43aebcb86aa92571c0c7
+run_name: placid-snipe-652
+run_uuid: 85f99226d34a43aebcb86aa92571c0c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629476919
+status: 1
+tags: []
+user_id: unknown

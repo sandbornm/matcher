@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/0c7fef5d5bd3455c9fd5734f2eb8b125/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0c7fef5d5bd3455c9fd5734f2eb8b125
+run_name: charming-auk-223
+run_uuid: 0c7fef5d5bd3455c9fd5734f2eb8b125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670644012967
+status: 1
+tags: []
+user_id: unknown

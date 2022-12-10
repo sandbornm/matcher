@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/a30929f0ebf7407b88d68208daa7f6a0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a30929f0ebf7407b88d68208daa7f6a0
+run_name: lyrical-mink-719
+run_uuid: a30929f0ebf7407b88d68208daa7f6a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670645211944
+status: 1
+tags: []
+user_id: unknown

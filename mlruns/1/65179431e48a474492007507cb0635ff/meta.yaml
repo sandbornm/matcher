@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/65179431e48a474492007507cb0635ff/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 65179431e48a474492007507cb0635ff
+run_name: sincere-sponge-235
+run_uuid: 65179431e48a474492007507cb0635ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670631452270
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/761053e300fb4c0a80c1c50c2c70895f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 761053e300fb4c0a80c1c50c2c70895f
+run_name: nervous-jay-330
+run_uuid: 761053e300fb4c0a80c1c50c2c70895f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670632222442
+status: 1
+tags: []
+user_id: unknown

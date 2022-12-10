@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/5ce477a494084952bf88c97c8ab2d93b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5ce477a494084952bf88c97c8ab2d93b
+run_name: nimble-sloth-971
+run_uuid: 5ce477a494084952bf88c97c8ab2d93b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670647388066
+status: 1
+tags: []
+user_id: unknown

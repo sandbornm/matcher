@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/a4ac7fce570540ce8e9c7ab1851cd5fd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a4ac7fce570540ce8e9c7ab1851cd5fd
+run_name: bedecked-roo-502
+run_uuid: a4ac7fce570540ce8e9c7ab1851cd5fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670650791134
+status: 1
+tags: []
+user_id: unknown

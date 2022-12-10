@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/2479a167ac2e453e87120403b9f1f3ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2479a167ac2e453e87120403b9f1f3ae
+run_name: defiant-elk-144
+run_uuid: 2479a167ac2e453e87120403b9f1f3ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670650834077
+status: 1
+tags: []
+user_id: unknown
