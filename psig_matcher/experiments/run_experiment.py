@@ -225,6 +225,7 @@ def main():
 def delete_uncompleted_experiment_runs(experiment_id: int):
 
     runs_df = mlflow.search_runs(experiment_ids=experiment_id, max_results=10_000)
+    
     incomplete_runs = runs_df[runs_df['metrics.monte_carlo_upper_collision_rate'].isna()]['run_id'].to_list()
     print(f"Deleting {len(incomplete_runs)} incomplete runs")
     for run_id in incomplete_runs:
