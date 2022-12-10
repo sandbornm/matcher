@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4205ece3eb064cfa9ebd2e7a9f67715a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 4205ece3eb064cfa9ebd2e7a9f67715a
+run_name: silent-sheep-860
+run_uuid: 4205ece3eb064cfa9ebd2e7a9f67715a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670635588270
+status: 1
+tags: []
+user_id: unknown

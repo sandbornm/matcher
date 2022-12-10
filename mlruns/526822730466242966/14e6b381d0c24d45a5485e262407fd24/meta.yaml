@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/14e6b381d0c24d45a5485e262407fd24/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 14e6b381d0c24d45a5485e262407fd24
+run_name: big-bee-630
+run_uuid: 14e6b381d0c24d45a5485e262407fd24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629813623
+status: 1
+tags: []
+user_id: unknown

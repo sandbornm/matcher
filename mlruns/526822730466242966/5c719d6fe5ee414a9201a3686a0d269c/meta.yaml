@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5c719d6fe5ee414a9201a3686a0d269c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5c719d6fe5ee414a9201a3686a0d269c
+run_name: bald-lamb-882
+run_uuid: 5c719d6fe5ee414a9201a3686a0d269c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630456850
+status: 1
+tags: []
+user_id: unknown

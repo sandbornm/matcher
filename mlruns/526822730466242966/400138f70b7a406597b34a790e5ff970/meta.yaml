@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/400138f70b7a406597b34a790e5ff970/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 400138f70b7a406597b34a790e5ff970
+run_name: marvelous-croc-321
+run_uuid: 400138f70b7a406597b34a790e5ff970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670631670770
+status: 1
+tags: []
+user_id: unknown

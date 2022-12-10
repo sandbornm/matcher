@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5614d88146984d0bb34d1bd5017aa767/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5614d88146984d0bb34d1bd5017aa767
+run_name: fun-bug-30
+run_uuid: 5614d88146984d0bb34d1bd5017aa767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670631148058
+status: 1
+tags: []
+user_id: unknown

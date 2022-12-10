@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2ae56d9f0457432cb1893112d854e360/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2ae56d9f0457432cb1893112d854e360
+run_name: blushing-crab-510
+run_uuid: 2ae56d9f0457432cb1893112d854e360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634417231
+status: 1
+tags: []
+user_id: unknown

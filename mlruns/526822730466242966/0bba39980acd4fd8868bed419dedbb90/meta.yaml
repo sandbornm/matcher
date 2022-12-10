@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0bba39980acd4fd8868bed419dedbb90/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 0bba39980acd4fd8868bed419dedbb90
+run_name: flawless-kite-854
+run_uuid: 0bba39980acd4fd8868bed419dedbb90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629665361
+status: 1
+tags: []
+user_id: unknown

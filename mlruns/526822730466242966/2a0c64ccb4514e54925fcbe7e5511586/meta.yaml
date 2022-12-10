@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2a0c64ccb4514e54925fcbe7e5511586/artifacts
+deleted_time: 1670630063982
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 2a0c64ccb4514e54925fcbe7e5511586
+run_name: rebellious-toad-452
+run_uuid: 2a0c64ccb4514e54925fcbe7e5511586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629715858
+status: 1
+tags: []
+user_id: unknown

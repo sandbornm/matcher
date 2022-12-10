@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cad1a6cd8d064e378df4d283cec38f5c/artifacts
+deleted_time: 1670633209317
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: cad1a6cd8d064e378df4d283cec38f5c
+run_name: upbeat-vole-863
+run_uuid: cad1a6cd8d064e378df4d283cec38f5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670631988086
+status: 1
+tags: []
+user_id: unknown

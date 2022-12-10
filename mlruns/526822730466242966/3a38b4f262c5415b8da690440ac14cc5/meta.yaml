@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3a38b4f262c5415b8da690440ac14cc5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3a38b4f262c5415b8da690440ac14cc5
+run_name: adaptable-kite-973
+run_uuid: 3a38b4f262c5415b8da690440ac14cc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630433386
+status: 1
+tags: []
+user_id: unknown

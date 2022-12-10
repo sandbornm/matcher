@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1d83d7fc57744983887d2456c75f0544/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1d83d7fc57744983887d2456c75f0544
+run_name: merciful-lark-915
+run_uuid: 1d83d7fc57744983887d2456c75f0544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670623041507
+status: 1
+tags: []
+user_id: unknown

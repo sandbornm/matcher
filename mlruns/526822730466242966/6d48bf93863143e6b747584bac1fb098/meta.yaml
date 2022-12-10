@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6d48bf93863143e6b747584bac1fb098/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6d48bf93863143e6b747584bac1fb098
+run_name: monumental-bass-246
+run_uuid: 6d48bf93863143e6b747584bac1fb098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630129785
+status: 1
+tags: []
+user_id: unknown

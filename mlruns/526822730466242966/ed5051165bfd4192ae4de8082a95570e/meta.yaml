@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ed5051165bfd4192ae4de8082a95570e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ed5051165bfd4192ae4de8082a95570e
+run_name: crawling-skink-456
+run_uuid: ed5051165bfd4192ae4de8082a95570e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634730466
+status: 1
+tags: []
+user_id: unknown

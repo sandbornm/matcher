@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7a09835f43d34e0b9869126c4f8fe6c7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7a09835f43d34e0b9869126c4f8fe6c7
+run_name: calm-bee-420
+run_uuid: 7a09835f43d34e0b9869126c4f8fe6c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634864166
+status: 1
+tags: []
+user_id: unknown

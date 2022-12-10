@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/763a4a3310ec419bb147d05f1a5fac92/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 763a4a3310ec419bb147d05f1a5fac92
+run_name: capable-auk-704
+run_uuid: 763a4a3310ec419bb147d05f1a5fac92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630687115
+status: 1
+tags: []
+user_id: unknown

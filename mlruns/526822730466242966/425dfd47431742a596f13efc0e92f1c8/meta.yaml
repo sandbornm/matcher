@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/425dfd47431742a596f13efc0e92f1c8/artifacts
+deleted_time: 1670630063975
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 425dfd47431742a596f13efc0e92f1c8
+run_name: dapper-yak-629
+run_uuid: 425dfd47431742a596f13efc0e92f1c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629810622
+status: 1
+tags: []
+user_id: unknown

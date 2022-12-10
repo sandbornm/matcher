@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/660b393af8574f93b71cb9f0fcd8e7ab/artifacts
+deleted_time: 1670629662278
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 660b393af8574f93b71cb9f0fcd8e7ab
+run_name: overjoyed-moose-797
+run_uuid: 660b393af8574f93b71cb9f0fcd8e7ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629604896
+status: 1
+tags: []
+user_id: unknown

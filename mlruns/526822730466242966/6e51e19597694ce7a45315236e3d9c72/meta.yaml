@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/6e51e19597694ce7a45315236e3d9c72/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 6e51e19597694ce7a45315236e3d9c72
+run_name: luminous-squid-514
+run_uuid: 6e51e19597694ce7a45315236e3d9c72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670633212247
+status: 1
+tags: []
+user_id: unknown

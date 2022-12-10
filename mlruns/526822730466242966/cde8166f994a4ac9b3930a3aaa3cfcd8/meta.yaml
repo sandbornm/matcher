@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cde8166f994a4ac9b3930a3aaa3cfcd8/artifacts
+deleted_time: 1670630063954
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: cde8166f994a4ac9b3930a3aaa3cfcd8
+run_name: exultant-hound-986
+run_uuid: cde8166f994a4ac9b3930a3aaa3cfcd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630004534
+status: 1
+tags: []
+user_id: unknown

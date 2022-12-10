@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/8e70b91359304080ac952fa169d59485/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 8e70b91359304080ac952fa169d59485
+run_name: glamorous-owl-620
+run_uuid: 8e70b91359304080ac952fa169d59485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670625682376
+status: 1
+tags: []
+user_id: unknown

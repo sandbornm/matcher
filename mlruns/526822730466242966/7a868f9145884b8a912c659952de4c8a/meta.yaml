@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7a868f9145884b8a912c659952de4c8a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7a868f9145884b8a912c659952de4c8a
+run_name: overjoyed-ray-776
+run_uuid: 7a868f9145884b8a912c659952de4c8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634852412
+status: 1
+tags: []
+user_id: unknown

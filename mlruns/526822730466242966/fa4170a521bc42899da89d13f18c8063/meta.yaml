@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fa4170a521bc42899da89d13f18c8063/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fa4170a521bc42899da89d13f18c8063
+run_name: judicious-kite-486
+run_uuid: fa4170a521bc42899da89d13f18c8063
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670628477526
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/dd335f84c50a4ab88293cc0c5afb3593/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: dd335f84c50a4ab88293cc0c5afb3593
+run_name: abundant-penguin-612
+run_uuid: dd335f84c50a4ab88293cc0c5afb3593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670633386562
+status: 1
+tags: []
+user_id: unknown

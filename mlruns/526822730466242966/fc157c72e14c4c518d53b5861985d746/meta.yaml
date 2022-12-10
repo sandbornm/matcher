@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fc157c72e14c4c518d53b5861985d746/artifacts
+deleted_time: 1670630063965
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: fc157c72e14c4c518d53b5861985d746
+run_name: resilient-worm-359
+run_uuid: fc157c72e14c4c518d53b5861985d746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629977011
+status: 1
+tags: []
+user_id: unknown

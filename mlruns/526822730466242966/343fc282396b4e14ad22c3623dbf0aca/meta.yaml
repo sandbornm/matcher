@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/343fc282396b4e14ad22c3623dbf0aca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 343fc282396b4e14ad22c3623dbf0aca
+run_name: calm-goose-166
+run_uuid: 343fc282396b4e14ad22c3623dbf0aca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670623093890
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c528a8b2b97140cf892ddb1ffb356c73/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: c528a8b2b97140cf892ddb1ffb356c73
+run_name: clumsy-cow-186
+run_uuid: c528a8b2b97140cf892ddb1ffb356c73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670633907498
+status: 1
+tags: []
+user_id: unknown

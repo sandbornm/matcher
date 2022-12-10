@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/85775ad0fbe9460b9d91c0bb3decd2a8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 85775ad0fbe9460b9d91c0bb3decd2a8
+run_name: honorable-sloth-840
+run_uuid: 85775ad0fbe9460b9d91c0bb3decd2a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670628787862
+status: 1
+tags: []
+user_id: unknown

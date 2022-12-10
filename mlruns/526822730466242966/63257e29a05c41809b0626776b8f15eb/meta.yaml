@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/63257e29a05c41809b0626776b8f15eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 63257e29a05c41809b0626776b8f15eb
+run_name: rare-eel-373
+run_uuid: 63257e29a05c41809b0626776b8f15eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629665318
+status: 1
+tags: []
+user_id: unknown

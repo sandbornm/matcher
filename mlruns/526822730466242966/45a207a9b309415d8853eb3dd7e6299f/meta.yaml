@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/45a207a9b309415d8853eb3dd7e6299f/artifacts
+deleted_time: 1670629662261
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 45a207a9b309415d8853eb3dd7e6299f
+run_name: whimsical-crane-786
+run_uuid: 45a207a9b309415d8853eb3dd7e6299f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629604904
+status: 1
+tags: []
+user_id: unknown

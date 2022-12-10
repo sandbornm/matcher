@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/be4be010035141dfa82e49fc374b55ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: be4be010035141dfa82e49fc374b55ac
+run_name: sedate-colt-783
+run_uuid: be4be010035141dfa82e49fc374b55ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670625682378
+status: 1
+tags: []
+user_id: unknown

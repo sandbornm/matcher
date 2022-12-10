@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f6ded72644bd408aa45c30935a56088a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f6ded72644bd408aa45c30935a56088a
+run_name: rebellious-gnat-779
+run_uuid: f6ded72644bd408aa45c30935a56088a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634418697
+status: 1
+tags: []
+user_id: unknown

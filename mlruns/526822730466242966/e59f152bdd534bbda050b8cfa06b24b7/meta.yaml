@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e59f152bdd534bbda050b8cfa06b24b7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e59f152bdd534bbda050b8cfa06b24b7
+run_name: persistent-dog-684
+run_uuid: e59f152bdd534bbda050b8cfa06b24b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670635111570
+status: 1
+tags: []
+user_id: unknown

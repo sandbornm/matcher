@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/9a1cf818eb8c45f2abf2bf825dfdf759/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 9a1cf818eb8c45f2abf2bf825dfdf759
+run_name: magnificent-gnat-111
+run_uuid: 9a1cf818eb8c45f2abf2bf825dfdf759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630444988
+status: 1
+tags: []
+user_id: unknown

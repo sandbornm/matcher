@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/13d1e2eeb2a745b78abe075123ee8b5a/artifacts
+deleted_time: 1670629601906
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 13d1e2eeb2a745b78abe075123ee8b5a
+run_name: bustling-skink-855
+run_uuid: 13d1e2eeb2a745b78abe075123ee8b5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629121149
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/dc2d3186d9fe4bd1be5d92166a8a3653/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: dc2d3186d9fe4bd1be5d92166a8a3653
+run_name: stately-bass-255
+run_uuid: dc2d3186d9fe4bd1be5d92166a8a3653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630794530
+status: 1
+tags: []
+user_id: unknown

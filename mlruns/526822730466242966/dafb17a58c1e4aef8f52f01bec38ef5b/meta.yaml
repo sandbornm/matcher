@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/dafb17a58c1e4aef8f52f01bec38ef5b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: dafb17a58c1e4aef8f52f01bec38ef5b
+run_name: learned-bird-194
+run_uuid: dafb17a58c1e4aef8f52f01bec38ef5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670627183195
+status: 1
+tags: []
+user_id: unknown

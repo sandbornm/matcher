@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4a086f3dbbcb4b88bdffc6359534f45f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 4a086f3dbbcb4b88bdffc6359534f45f
+run_name: spiffy-robin-411
+run_uuid: 4a086f3dbbcb4b88bdffc6359534f45f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634123902
+status: 1
+tags: []
+user_id: unknown

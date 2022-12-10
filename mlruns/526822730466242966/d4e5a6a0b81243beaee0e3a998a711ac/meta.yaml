@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d4e5a6a0b81243beaee0e3a998a711ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d4e5a6a0b81243beaee0e3a998a711ac
+run_name: adventurous-shad-244
+run_uuid: d4e5a6a0b81243beaee0e3a998a711ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670633212247
+status: 1
+tags: []
+user_id: unknown

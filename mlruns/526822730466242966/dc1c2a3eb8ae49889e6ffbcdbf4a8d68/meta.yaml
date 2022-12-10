@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/dc1c2a3eb8ae49889e6ffbcdbf4a8d68/artifacts
+deleted_time: 1670633209277
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: dc1c2a3eb8ae49889e6ffbcdbf4a8d68
+run_name: peaceful-mare-478
+run_uuid: dc1c2a3eb8ae49889e6ffbcdbf4a8d68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670632503040
+status: 1
+tags: []
+user_id: unknown

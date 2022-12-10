@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1bfa7065bb534bad96fba066a1aa1807/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1bfa7065bb534bad96fba066a1aa1807
+run_name: polite-fawn-946
+run_uuid: 1bfa7065bb534bad96fba066a1aa1807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670635702474
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f966bdd650da4bd792b13748629b70c5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f966bdd650da4bd792b13748629b70c5
+run_name: mercurial-moth-609
+run_uuid: f966bdd650da4bd792b13748629b70c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670633212246
+status: 1
+tags: []
+user_id: unknown

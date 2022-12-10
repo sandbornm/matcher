@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bb40a9e8708142f5adf18e2ccdffdb69/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: bb40a9e8708142f5adf18e2ccdffdb69
+run_name: thundering-gull-284
+run_uuid: bb40a9e8708142f5adf18e2ccdffdb69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634236676
+status: 1
+tags: []
+user_id: unknown

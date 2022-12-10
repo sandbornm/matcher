@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b9b1c81619e54ec582dbb13f9f628dfd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b9b1c81619e54ec582dbb13f9f628dfd
+run_name: judicious-grouse-330
+run_uuid: b9b1c81619e54ec582dbb13f9f628dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670624249324
+status: 1
+tags: []
+user_id: unknown

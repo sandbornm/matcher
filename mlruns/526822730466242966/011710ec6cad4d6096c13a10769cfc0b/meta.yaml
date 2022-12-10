@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/011710ec6cad4d6096c13a10769cfc0b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 011710ec6cad4d6096c13a10769cfc0b
+run_name: tasteful-wolf-381
+run_uuid: 011710ec6cad4d6096c13a10769cfc0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670631476918
+status: 1
+tags: []
+user_id: unknown

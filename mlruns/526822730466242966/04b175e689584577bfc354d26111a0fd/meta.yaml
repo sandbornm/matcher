@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/04b175e689584577bfc354d26111a0fd/artifacts
+deleted_time: 1670633209306
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 04b175e689584577bfc354d26111a0fd
+run_name: unruly-squid-30
+run_uuid: 04b175e689584577bfc354d26111a0fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670632139806
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d81fb433de554536b20bb7e97b9b18a3/artifacts
+deleted_time: 1670629601920
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: d81fb433de554536b20bb7e97b9b18a3
+run_name: nebulous-shrike-981
+run_uuid: d81fb433de554536b20bb7e97b9b18a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629083026
+status: 1
+tags: []
+user_id: unknown

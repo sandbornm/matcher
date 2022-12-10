@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e7b5b38ebcce4c98ba7deca96368bd43/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e7b5b38ebcce4c98ba7deca96368bd43
+run_name: bold-hawk-217
+run_uuid: e7b5b38ebcce4c98ba7deca96368bd43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670635266882
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ec7a5e71b98f42b9a14a1543a724ba71/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ec7a5e71b98f42b9a14a1543a724ba71
+run_name: magnificent-moth-645
+run_uuid: ec7a5e71b98f42b9a14a1543a724ba71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630389982
+status: 1
+tags: []
+user_id: unknown

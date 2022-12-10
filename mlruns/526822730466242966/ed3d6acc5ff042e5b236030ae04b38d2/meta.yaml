@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ed3d6acc5ff042e5b236030ae04b38d2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ed3d6acc5ff042e5b236030ae04b38d2
+run_name: amazing-mouse-482
+run_uuid: ed3d6acc5ff042e5b236030ae04b38d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634102858
+status: 1
+tags: []
+user_id: unknown

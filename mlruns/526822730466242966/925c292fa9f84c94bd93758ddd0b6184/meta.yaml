@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/925c292fa9f84c94bd93758ddd0b6184/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 925c292fa9f84c94bd93758ddd0b6184
+run_name: casual-mole-254
+run_uuid: 925c292fa9f84c94bd93758ddd0b6184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634058082
+status: 1
+tags: []
+user_id: unknown

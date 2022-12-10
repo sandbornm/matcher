@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d5372d538a7e40a1a82e02ada6c20aca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d5372d538a7e40a1a82e02ada6c20aca
+run_name: powerful-snail-577
+run_uuid: d5372d538a7e40a1a82e02ada6c20aca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630239566
+status: 1
+tags: []
+user_id: unknown

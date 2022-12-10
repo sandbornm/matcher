@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/91506b63ab9f4776abd49bde9bdeaf8b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 91506b63ab9f4776abd49bde9bdeaf8b
+run_name: unique-skink-197
+run_uuid: 91506b63ab9f4776abd49bde9bdeaf8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670625682377
+status: 1
+tags: []
+user_id: unknown

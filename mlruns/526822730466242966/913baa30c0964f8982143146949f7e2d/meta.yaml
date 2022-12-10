@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/913baa30c0964f8982143146949f7e2d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 913baa30c0964f8982143146949f7e2d
+run_name: hilarious-pig-702
+run_uuid: 913baa30c0964f8982143146949f7e2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634422328
+status: 1
+tags: []
+user_id: unknown

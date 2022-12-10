@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e1ec1de9b6ac4133a1bf7b1e55041a9d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e1ec1de9b6ac4133a1bf7b1e55041a9d
+run_name: unique-jay-420
+run_uuid: e1ec1de9b6ac4133a1bf7b1e55041a9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629665358
+status: 1
+tags: []
+user_id: unknown

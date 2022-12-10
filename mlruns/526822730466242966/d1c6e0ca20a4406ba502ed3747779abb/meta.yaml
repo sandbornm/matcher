@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d1c6e0ca20a4406ba502ed3747779abb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d1c6e0ca20a4406ba502ed3747779abb
+run_name: rogue-bird-981
+run_uuid: d1c6e0ca20a4406ba502ed3747779abb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670631548082
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/00ce30d06dd74596a69f9df0f50c08ed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 00ce30d06dd74596a69f9df0f50c08ed
+run_name: monumental-boar-298
+run_uuid: 00ce30d06dd74596a69f9df0f50c08ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670633971270
+status: 1
+tags: []
+user_id: unknown

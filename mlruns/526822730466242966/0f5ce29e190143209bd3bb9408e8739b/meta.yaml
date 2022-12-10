@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0f5ce29e190143209bd3bb9408e8739b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 0f5ce29e190143209bd3bb9408e8739b
+run_name: carefree-gnu-226
+run_uuid: 0f5ce29e190143209bd3bb9408e8739b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670628483927
+status: 1
+tags: []
+user_id: unknown

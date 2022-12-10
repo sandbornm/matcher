@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/961ce814e40246dd9ad0ecd1a5f6535b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 961ce814e40246dd9ad0ecd1a5f6535b
+run_name: gregarious-panda-713
+run_uuid: 961ce814e40246dd9ad0ecd1a5f6535b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670635800662
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2b3276ca4f534b0a857702df6963c57b/artifacts
+deleted_time: 1670625679358
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 2b3276ca4f534b0a857702df6963c57b
+run_name: enchanting-carp-298
+run_uuid: 2b3276ca4f534b0a857702df6963c57b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670625124991
+status: 1
+tags: []
+user_id: unknown

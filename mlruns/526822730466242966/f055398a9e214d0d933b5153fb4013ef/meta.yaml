@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f055398a9e214d0d933b5153fb4013ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f055398a9e214d0d933b5153fb4013ef
+run_name: rogue-frog-423
+run_uuid: f055398a9e214d0d933b5153fb4013ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634515312
+status: 1
+tags: []
+user_id: unknown

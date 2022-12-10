@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e6cc7e90a80447b8a6c1a02b2272c9b3/artifacts
+deleted_time: 1670625679364
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: e6cc7e90a80447b8a6c1a02b2272c9b3
+run_name: classy-skunk-507
+run_uuid: e6cc7e90a80447b8a6c1a02b2272c9b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670625121491
+status: 1
+tags: []
+user_id: unknown

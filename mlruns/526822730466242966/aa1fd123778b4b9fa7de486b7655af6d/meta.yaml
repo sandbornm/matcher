@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/aa1fd123778b4b9fa7de486b7655af6d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: aa1fd123778b4b9fa7de486b7655af6d
+run_name: judicious-toad-492
+run_uuid: aa1fd123778b4b9fa7de486b7655af6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670635554750
+status: 1
+tags: []
+user_id: unknown

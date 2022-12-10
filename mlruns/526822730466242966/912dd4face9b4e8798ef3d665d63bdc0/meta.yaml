@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/912dd4face9b4e8798ef3d665d63bdc0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 912dd4face9b4e8798ef3d665d63bdc0
+run_name: abundant-yak-613
+run_uuid: 912dd4face9b4e8798ef3d665d63bdc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670623075183
+status: 1
+tags: []
+user_id: unknown

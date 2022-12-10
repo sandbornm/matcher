@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4eaead1266cc477ba14a695651d0650d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 4eaead1266cc477ba14a695651d0650d
+run_name: auspicious-skink-73
+run_uuid: 4eaead1266cc477ba14a695651d0650d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670627202386
+status: 1
+tags: []
+user_id: unknown

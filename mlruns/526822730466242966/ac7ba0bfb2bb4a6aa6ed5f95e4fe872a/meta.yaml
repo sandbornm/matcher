@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ac7ba0bfb2bb4a6aa6ed5f95e4fe872a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ac7ba0bfb2bb4a6aa6ed5f95e4fe872a
+run_name: sassy-foal-95
+run_uuid: ac7ba0bfb2bb4a6aa6ed5f95e4fe872a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630066858
+status: 1
+tags: []
+user_id: unknown

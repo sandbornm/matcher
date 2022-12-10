@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/edde7fc2ffe147b68a8f676dba1d4bc4/artifacts
+deleted_time: 1670629601933
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: edde7fc2ffe147b68a8f676dba1d4bc4
+run_name: incongruous-lark-882
+run_uuid: edde7fc2ffe147b68a8f676dba1d4bc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670628573845
+status: 1
+tags: []
+user_id: unknown

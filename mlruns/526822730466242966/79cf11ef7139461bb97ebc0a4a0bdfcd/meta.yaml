@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/79cf11ef7139461bb97ebc0a4a0bdfcd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 79cf11ef7139461bb97ebc0a4a0bdfcd
+run_name: spiffy-crow-187
+run_uuid: 79cf11ef7139461bb97ebc0a4a0bdfcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630690587
+status: 1
+tags: []
+user_id: unknown

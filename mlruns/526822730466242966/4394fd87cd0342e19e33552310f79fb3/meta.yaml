@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4394fd87cd0342e19e33552310f79fb3/artifacts
+deleted_time: 1670629662268
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 4394fd87cd0342e19e33552310f79fb3
+run_name: masked-elk-58
+run_uuid: 4394fd87cd0342e19e33552310f79fb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629604896
+status: 1
+tags: []
+user_id: unknown

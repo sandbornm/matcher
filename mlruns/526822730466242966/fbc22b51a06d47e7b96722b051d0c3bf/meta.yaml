@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fbc22b51a06d47e7b96722b051d0c3bf/artifacts
+deleted_time: 1670633209295
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: fbc22b51a06d47e7b96722b051d0c3bf
+run_name: shivering-mouse-414
+run_uuid: fbc22b51a06d47e7b96722b051d0c3bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670632273666
+status: 1
+tags: []
+user_id: unknown

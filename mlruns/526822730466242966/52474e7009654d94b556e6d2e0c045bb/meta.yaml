@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/52474e7009654d94b556e6d2e0c045bb/artifacts
+deleted_time: 1670629601930
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 52474e7009654d94b556e6d2e0c045bb
+run_name: stylish-frog-739
+run_uuid: 52474e7009654d94b556e6d2e0c045bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629056030
+status: 1
+tags: []
+user_id: unknown

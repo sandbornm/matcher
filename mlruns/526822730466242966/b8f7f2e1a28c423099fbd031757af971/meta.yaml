@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b8f7f2e1a28c423099fbd031757af971/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b8f7f2e1a28c423099fbd031757af971
+run_name: able-kit-800
+run_uuid: b8f7f2e1a28c423099fbd031757af971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634797626
+status: 1
+tags: []
+user_id: unknown

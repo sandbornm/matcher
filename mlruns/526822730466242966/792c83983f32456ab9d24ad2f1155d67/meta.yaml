@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/792c83983f32456ab9d24ad2f1155d67/artifacts
+deleted_time: 1670625679384
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 792c83983f32456ab9d24ad2f1155d67
+run_name: resilient-rat-552
+run_uuid: 792c83983f32456ab9d24ad2f1155d67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670625079211
+status: 1
+tags: []
+user_id: unknown

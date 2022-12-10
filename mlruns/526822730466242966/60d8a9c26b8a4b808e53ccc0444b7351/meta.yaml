@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/60d8a9c26b8a4b808e53ccc0444b7351/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 60d8a9c26b8a4b808e53ccc0444b7351
+run_name: crawling-koi-48
+run_uuid: 60d8a9c26b8a4b808e53ccc0444b7351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670626488281
+status: 1
+tags: []
+user_id: unknown

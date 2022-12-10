@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a81ed1f45a5d4fd7b51a819e7620fb93/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a81ed1f45a5d4fd7b51a819e7620fb93
+run_name: stylish-robin-792
+run_uuid: a81ed1f45a5d4fd7b51a819e7620fb93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670633212248
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a25fd5f9ee2c41b4b1269b8a5066ad95/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a25fd5f9ee2c41b4b1269b8a5066ad95
+run_name: amusing-skunk-7
+run_uuid: a25fd5f9ee2c41b4b1269b8a5066ad95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670623050672
+status: 1
+tags: []
+user_id: unknown

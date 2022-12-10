@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7b7f21b6839e43c3b59ed0f34334551c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7b7f21b6839e43c3b59ed0f34334551c
+run_name: skittish-owl-810
+run_uuid: 7b7f21b6839e43c3b59ed0f34334551c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670627201878
+status: 1
+tags: []
+user_id: unknown

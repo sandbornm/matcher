@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1454ec22b1de4acbb875cad98a0f3da3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 1454ec22b1de4acbb875cad98a0f3da3
+run_name: crawling-ray-628
+run_uuid: 1454ec22b1de4acbb875cad98a0f3da3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634336110
+status: 1
+tags: []
+user_id: unknown

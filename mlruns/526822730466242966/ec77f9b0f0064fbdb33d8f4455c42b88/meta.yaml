@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ec77f9b0f0064fbdb33d8f4455c42b88/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ec77f9b0f0064fbdb33d8f4455c42b88
+run_name: beautiful-swan-716
+run_uuid: ec77f9b0f0064fbdb33d8f4455c42b88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634257022
+status: 1
+tags: []
+user_id: unknown

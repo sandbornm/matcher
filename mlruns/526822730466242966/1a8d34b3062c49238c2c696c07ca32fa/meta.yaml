@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/1a8d34b3062c49238c2c696c07ca32fa/artifacts
+deleted_time: 1670625679334
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 1a8d34b3062c49238c2c696c07ca32fa
+run_name: indecisive-ram-129
+run_uuid: 1a8d34b3062c49238c2c696c07ca32fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670625160646
+status: 1
+tags: []
+user_id: unknown

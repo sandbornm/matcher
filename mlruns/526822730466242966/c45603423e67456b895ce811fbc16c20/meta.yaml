@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c45603423e67456b895ce811fbc16c20/artifacts
+deleted_time: 1670629662265
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: c45603423e67456b895ce811fbc16c20
+run_name: luxuriant-owl-906
+run_uuid: c45603423e67456b895ce811fbc16c20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629604904
+status: 1
+tags: []
+user_id: unknown

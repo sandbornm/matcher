@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b2462716cdc44cf0bb6bc9633ebffaf5/artifacts
+deleted_time: 1670625679341
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: b2462716cdc44cf0bb6bc9633ebffaf5
+run_name: ambitious-stork-422
+run_uuid: b2462716cdc44cf0bb6bc9633ebffaf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670625137991
+status: 1
+tags: []
+user_id: unknown

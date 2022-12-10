@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/84022a908e0a42cfa6bbb8a76e6017c5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 84022a908e0a42cfa6bbb8a76e6017c5
+run_name: learned-penguin-309
+run_uuid: 84022a908e0a42cfa6bbb8a76e6017c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670624260023
+status: 1
+tags: []
+user_id: unknown

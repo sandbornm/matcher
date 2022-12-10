@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d87741179cdd4448b571928fadaf94e8/artifacts
+deleted_time: 1670625679344
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: d87741179cdd4448b571928fadaf94e8
+run_name: sassy-roo-848
+run_uuid: d87741179cdd4448b571928fadaf94e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670625137511
+status: 1
+tags: []
+user_id: unknown

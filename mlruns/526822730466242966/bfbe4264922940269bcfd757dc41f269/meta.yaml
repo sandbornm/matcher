@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bfbe4264922940269bcfd757dc41f269/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: bfbe4264922940269bcfd757dc41f269
+run_name: languid-cow-957
+run_uuid: bfbe4264922940269bcfd757dc41f269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634894590
+status: 1
+tags: []
+user_id: unknown

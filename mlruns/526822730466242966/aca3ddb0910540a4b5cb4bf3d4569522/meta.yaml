@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/aca3ddb0910540a4b5cb4bf3d4569522/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: aca3ddb0910540a4b5cb4bf3d4569522
+run_name: sassy-fly-995
+run_uuid: aca3ddb0910540a4b5cb4bf3d4569522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630788675
+status: 1
+tags: []
+user_id: unknown

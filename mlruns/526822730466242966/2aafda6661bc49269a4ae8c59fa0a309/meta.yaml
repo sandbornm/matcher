@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2aafda6661bc49269a4ae8c59fa0a309/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2aafda6661bc49269a4ae8c59fa0a309
+run_name: efficient-shrew-262
+run_uuid: 2aafda6661bc49269a4ae8c59fa0a309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670623094703
+status: 1
+tags: []
+user_id: unknown

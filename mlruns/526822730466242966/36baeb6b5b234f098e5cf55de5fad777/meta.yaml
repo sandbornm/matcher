@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/36baeb6b5b234f098e5cf55de5fad777/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 36baeb6b5b234f098e5cf55de5fad777
+run_name: melodic-cub-682
+run_uuid: 36baeb6b5b234f098e5cf55de5fad777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630066859
+status: 1
+tags: []
+user_id: unknown

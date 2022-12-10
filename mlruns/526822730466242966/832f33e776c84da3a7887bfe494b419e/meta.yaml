@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/832f33e776c84da3a7887bfe494b419e/artifacts
+deleted_time: 1670630064006
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 832f33e776c84da3a7887bfe494b419e
+run_name: colorful-rook-218
+run_uuid: 832f33e776c84da3a7887bfe494b419e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629665358
+status: 1
+tags: []
+user_id: unknown

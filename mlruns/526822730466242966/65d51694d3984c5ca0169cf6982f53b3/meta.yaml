@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/65d51694d3984c5ca0169cf6982f53b3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 65d51694d3984c5ca0169cf6982f53b3
+run_name: likeable-lamb-603
+run_uuid: 65d51694d3984c5ca0169cf6982f53b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670625682378
+status: 1
+tags: []
+user_id: unknown

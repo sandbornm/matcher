@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4f1e0542ba3d4a83b678f2a1f63f2237/artifacts
+deleted_time: 1670629601889
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 4f1e0542ba3d4a83b678f2a1f63f2237
+run_name: kindly-newt-738
+run_uuid: 4f1e0542ba3d4a83b678f2a1f63f2237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629314110
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/bfbc04785f904dd885bed787155dfcfe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: bfbc04785f904dd885bed787155dfcfe
+run_name: industrious-fly-501
+run_uuid: bfbc04785f904dd885bed787155dfcfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670633799866
+status: 1
+tags: []
+user_id: unknown

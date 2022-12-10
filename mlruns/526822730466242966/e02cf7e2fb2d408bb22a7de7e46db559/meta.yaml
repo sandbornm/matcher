@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e02cf7e2fb2d408bb22a7de7e46db559/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e02cf7e2fb2d408bb22a7de7e46db559
+run_name: unleashed-skink-801
+run_uuid: e02cf7e2fb2d408bb22a7de7e46db559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670628578192
+status: 1
+tags: []
+user_id: unknown

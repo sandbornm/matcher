@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b0a44b2bf12347b3b86ad84d52d465b1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b0a44b2bf12347b3b86ad84d52d465b1
+run_name: indecisive-snail-521
+run_uuid: b0a44b2bf12347b3b86ad84d52d465b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670635426638
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7ad3629fb0dc4b15b8d75820bcb388f5/artifacts
+deleted_time: 1670625679374
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 7ad3629fb0dc4b15b8d75820bcb388f5
+run_name: mercurial-foal-164
+run_uuid: 7ad3629fb0dc4b15b8d75820bcb388f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670625109397
+status: 1
+tags: []
+user_id: unknown

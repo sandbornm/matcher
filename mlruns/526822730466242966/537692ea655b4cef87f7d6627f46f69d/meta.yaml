@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/537692ea655b4cef87f7d6627f46f69d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 537692ea655b4cef87f7d6627f46f69d
+run_name: fearless-shoat-258
+run_uuid: 537692ea655b4cef87f7d6627f46f69d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670635878666
+status: 1
+tags: []
+user_id: unknown

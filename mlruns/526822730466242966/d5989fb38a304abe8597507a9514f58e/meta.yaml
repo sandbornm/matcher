@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d5989fb38a304abe8597507a9514f58e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: d5989fb38a304abe8597507a9514f58e
+run_name: colorful-gnat-312
+run_uuid: d5989fb38a304abe8597507a9514f58e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670635240798
+status: 1
+tags: []
+user_id: unknown

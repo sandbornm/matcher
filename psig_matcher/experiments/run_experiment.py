@@ -207,10 +207,10 @@ def run_experiment(experiment_id: int, part_type: str, part_dim: int, num_sample
         con_parts = load_part_data(part_type)
         upper_collision_rate = run_meta_markov_multivariant_analysis(client, run_id, con_parts, part_dim, num_samples, meta_pdf_ci, part_pdf_ci, confidence_bound)
         client.log_metric(run_id, "monte_carlo_upper_collision_rate", upper_collision_rate)
-        print(f"Upper collision rate: {upper_collision_rate * 100}%")
+        print(f"Upper collision rate: {upper_collision_rate * 100}% for: {part_type}, {part_dim}, {num_samples}, {meta_pdf_ci}, {part_pdf_ci}, {confidence_bound}")
     except Exception as e:
         print(f"Error: {e} - Params: {part_type}, {part_dim}, {num_samples}, {meta_pdf_ci}, {part_pdf_ci}, {confidence_bound}")
-        client.set_terminated(run_id, str(e))
+        #client.set_terminated(run_id, str(e))
 
 def main():
     """ This script can be run as such:
@@ -231,6 +231,7 @@ def delete_uncompleted_experiment_runs(experiment_id: int):
     
     runs_df = mlflow.search_runs(experiment_ids=experiment_id, max_results=10_000)
     incomplete_runs = runs_df[runs_df['metrics.monte_carlo_upper_collision_rate'].isna()]['run_id'].to_list()
+    print(f"Deleting {len(incomplete_runs)} incomplete runs")
     for run_id in incomplete_runs:
         mlflow.delete_run(run_id)
 
@@ -262,14 +263,13 @@ def run_parallel_experiment():
     delete_uncompleted_experiment_runs(experiment_id)
     completed_params = get_completed_parameters(experiment_id)
     
-    # part_types = ["BEAM", "BOX", "BRK", "CON", "CONLID", "FLG", "IMP", "LID", "SEN", "TUBE", "VNT"]
     param_values = {
         'part_type': ["BEAM", "CONTAINER", "CONLID", "LID", "SEN", "TUBE"],
-        'part_dim' : [2, 5, 10],
+        'part_dim' : [2, 3, 5],
         'num_samples': [1000],
-        'meta_pdf_ci' : [0.5, 0.8, 0.9, 0.95, 0.99, 0.999],
-        'part_pdf_ci' : [0.5, 0.8, 0.9, 0.95, 0.99, 0.999],
-        'confidence_bound' : [0.5, 0.8, 0.9, 0.95, 0.99, 0.999],
+        'meta_pdf_ci' : [0.95, 0.99, 0.999],
+        'part_pdf_ci' : [0.95, 0.99, 0.999],
+        'confidence_bound' : [0.95, 0.99, 0.999, 0.9999],
         'experiment_id': [experiment_id]}
 
     parameter_grid = list(ParameterGrid(param_values)) 

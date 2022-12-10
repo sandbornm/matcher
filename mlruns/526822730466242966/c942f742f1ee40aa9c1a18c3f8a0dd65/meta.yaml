@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c942f742f1ee40aa9c1a18c3f8a0dd65/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: c942f742f1ee40aa9c1a18c3f8a0dd65
+run_name: unleashed-fawn-619
+run_uuid: c942f742f1ee40aa9c1a18c3f8a0dd65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670628574190
+status: 1
+tags: []
+user_id: unknown

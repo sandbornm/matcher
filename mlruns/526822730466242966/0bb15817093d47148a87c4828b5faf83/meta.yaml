@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0bb15817093d47148a87c4828b5faf83/artifacts
+deleted_time: 1670630063961
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 0bb15817093d47148a87c4828b5faf83
+run_name: burly-stoat-295
+run_uuid: 0bb15817093d47148a87c4828b5faf83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629991610
+status: 1
+tags: []
+user_id: unknown

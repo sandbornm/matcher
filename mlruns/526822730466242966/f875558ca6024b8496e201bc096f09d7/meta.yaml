@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/f875558ca6024b8496e201bc096f09d7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: f875558ca6024b8496e201bc096f09d7
+run_name: lyrical-asp-930
+run_uuid: f875558ca6024b8496e201bc096f09d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670625682376
+status: 1
+tags: []
+user_id: unknown

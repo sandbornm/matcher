@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/49b0e0be8b954d27912cd29b3428b19b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 49b0e0be8b954d27912cd29b3428b19b
+run_name: thoughtful-stork-120
+run_uuid: 49b0e0be8b954d27912cd29b3428b19b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634574141
+status: 1
+tags: []
+user_id: unknown

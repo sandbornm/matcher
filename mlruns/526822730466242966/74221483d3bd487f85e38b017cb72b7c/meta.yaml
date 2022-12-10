@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/74221483d3bd487f85e38b017cb72b7c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 74221483d3bd487f85e38b017cb72b7c
+run_name: skillful-fish-751
+run_uuid: 74221483d3bd487f85e38b017cb72b7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629665361
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/89e8cb4aed494fff9ee4b9b178f490aa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 89e8cb4aed494fff9ee4b9b178f490aa
+run_name: bittersweet-goat-863
+run_uuid: 89e8cb4aed494fff9ee4b9b178f490aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634939639
+status: 1
+tags: []
+user_id: unknown

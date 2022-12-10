@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/7474ffd9699240199c1a4ef913cc66db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 7474ffd9699240199c1a4ef913cc66db
+run_name: youthful-sloth-264
+run_uuid: 7474ffd9699240199c1a4ef913cc66db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670633610868
+status: 1
+tags: []
+user_id: unknown

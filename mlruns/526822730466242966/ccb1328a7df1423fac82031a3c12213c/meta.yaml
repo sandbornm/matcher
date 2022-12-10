@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ccb1328a7df1423fac82031a3c12213c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: ccb1328a7df1423fac82031a3c12213c
+run_name: rebellious-perch-637
+run_uuid: ccb1328a7df1423fac82031a3c12213c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634888082
+status: 1
+tags: []
+user_id: unknown

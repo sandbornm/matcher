@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/76388456d1874f14b1891a10c38db8ad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 76388456d1874f14b1891a10c38db8ad
+run_name: thundering-bass-413
+run_uuid: 76388456d1874f14b1891a10c38db8ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670631922683
+status: 1
+tags: []
+user_id: unknown

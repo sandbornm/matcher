@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5205f881557d4c66bd20d295b1e55c99/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5205f881557d4c66bd20d295b1e55c99
+run_name: peaceful-trout-353
+run_uuid: 5205f881557d4c66bd20d295b1e55c99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670633850070
+status: 1
+tags: []
+user_id: unknown

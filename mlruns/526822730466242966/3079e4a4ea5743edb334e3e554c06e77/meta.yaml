@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3079e4a4ea5743edb334e3e554c06e77/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3079e4a4ea5743edb334e3e554c06e77
+run_name: efficient-swan-85
+run_uuid: 3079e4a4ea5743edb334e3e554c06e77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670631994386
+status: 1
+tags: []
+user_id: unknown

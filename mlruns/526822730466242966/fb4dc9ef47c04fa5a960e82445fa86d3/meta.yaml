@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fb4dc9ef47c04fa5a960e82445fa86d3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fb4dc9ef47c04fa5a960e82445fa86d3
+run_name: efficient-carp-259
+run_uuid: fb4dc9ef47c04fa5a960e82445fa86d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670625682377
+status: 1
+tags: []
+user_id: unknown

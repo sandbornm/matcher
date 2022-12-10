@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ed7f6a5de98b45e381aafab22730d524/artifacts
+deleted_time: 1670629601910
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: ed7f6a5de98b45e381aafab22730d524
+run_name: judicious-zebra-202
+run_uuid: ed7f6a5de98b45e381aafab22730d524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629112647
+status: 1
+tags: []
+user_id: unknown

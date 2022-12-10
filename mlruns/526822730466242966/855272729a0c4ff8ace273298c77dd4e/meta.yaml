@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/855272729a0c4ff8ace273298c77dd4e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 855272729a0c4ff8ace273298c77dd4e
+run_name: crawling-goose-168
+run_uuid: 855272729a0c4ff8ace273298c77dd4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670631134258
+status: 1
+tags: []
+user_id: unknown

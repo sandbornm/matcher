@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/3432b95f00f4474f812a021f479f20c7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 3432b95f00f4474f812a021f479f20c7
+run_name: nebulous-shrimp-307
+run_uuid: 3432b95f00f4474f812a021f479f20c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630066867
+status: 1
+tags: []
+user_id: unknown

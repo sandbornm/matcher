@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/239f63dc9e1443b3a4a07af814d00145/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 239f63dc9e1443b3a4a07af814d00145
+run_name: unruly-owl-181
+run_uuid: 239f63dc9e1443b3a4a07af814d00145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670627187238
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/fbbd22369f834f5ead54fee3f8bf5cfc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: fbbd22369f834f5ead54fee3f8bf5cfc
+run_name: sincere-smelt-332
+run_uuid: fbbd22369f834f5ead54fee3f8bf5cfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630710030
+status: 1
+tags: []
+user_id: unknown

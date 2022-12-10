@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/ba4c0a46aa804ef8bb9e712526bde36d/artifacts
+deleted_time: 1670629601923
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: ba4c0a46aa804ef8bb9e712526bde36d
+run_name: monumental-doe-443
+run_uuid: ba4c0a46aa804ef8bb9e712526bde36d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629079427
+status: 1
+tags: []
+user_id: unknown

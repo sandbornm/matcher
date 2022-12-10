@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/23d72ff9fb8f41349d3ad1a689657c4b/artifacts
+deleted_time: 1670629601903
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 23d72ff9fb8f41349d3ad1a689657c4b
+run_name: unequaled-bird-535
+run_uuid: 23d72ff9fb8f41349d3ad1a689657c4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629185054
+status: 1
+tags: []
+user_id: unknown

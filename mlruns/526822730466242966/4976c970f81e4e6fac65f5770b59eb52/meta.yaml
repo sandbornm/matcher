@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4976c970f81e4e6fac65f5770b59eb52/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 4976c970f81e4e6fac65f5770b59eb52
+run_name: secretive-lynx-930
+run_uuid: 4976c970f81e4e6fac65f5770b59eb52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670631597786
+status: 1
+tags: []
+user_id: unknown

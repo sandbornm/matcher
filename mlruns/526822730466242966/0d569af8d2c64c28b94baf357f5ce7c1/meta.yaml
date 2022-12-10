@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/0d569af8d2c64c28b94baf357f5ce7c1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 0d569af8d2c64c28b94baf357f5ce7c1
+run_name: nebulous-newt-421
+run_uuid: 0d569af8d2c64c28b94baf357f5ce7c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670633627446
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/524923b6faf140c1a47be9fccc4b850b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 524923b6faf140c1a47be9fccc4b850b
+run_name: rare-bird-269
+run_uuid: 524923b6faf140c1a47be9fccc4b850b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670625682377
+status: 1
+tags: []
+user_id: unknown

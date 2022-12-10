@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c0ecf5e0b6014348b56f57e7265b9a62/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: c0ecf5e0b6014348b56f57e7265b9a62
+run_name: calm-smelt-374
+run_uuid: c0ecf5e0b6014348b56f57e7265b9a62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670631653934
+status: 1
+tags: []
+user_id: unknown

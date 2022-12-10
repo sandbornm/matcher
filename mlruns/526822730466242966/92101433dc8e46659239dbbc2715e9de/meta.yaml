@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/92101433dc8e46659239dbbc2715e9de/artifacts
+deleted_time: 1670629601937
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 92101433dc8e46659239dbbc2715e9de
+run_name: delicate-finch-212
+run_uuid: 92101433dc8e46659239dbbc2715e9de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670628493495
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/cf3d54a7fd714b599b0934583a51a593/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: cf3d54a7fd714b599b0934583a51a593
+run_name: peaceful-fox-866
+run_uuid: cf3d54a7fd714b599b0934583a51a593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670627144774
+status: 1
+tags: []
+user_id: unknown

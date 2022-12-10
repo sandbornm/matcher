@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/95ed1beffda44c3c96c7a49b720588b4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 95ed1beffda44c3c96c7a49b720588b4
+run_name: grandiose-midge-524
+run_uuid: 95ed1beffda44c3c96c7a49b720588b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670627155906
+status: 1
+tags: []
+user_id: unknown

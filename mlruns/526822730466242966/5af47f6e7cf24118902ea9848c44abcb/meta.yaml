@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5af47f6e7cf24118902ea9848c44abcb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5af47f6e7cf24118902ea9848c44abcb
+run_name: serious-grouse-418
+run_uuid: 5af47f6e7cf24118902ea9848c44abcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670633563106
+status: 1
+tags: []
+user_id: unknown

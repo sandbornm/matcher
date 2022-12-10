@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a6087da441ce42fbbe3e9729aee4fe09/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: a6087da441ce42fbbe3e9729aee4fe09
+run_name: unruly-quail-150
+run_uuid: a6087da441ce42fbbe3e9729aee4fe09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634201338
+status: 1
+tags: []
+user_id: unknown

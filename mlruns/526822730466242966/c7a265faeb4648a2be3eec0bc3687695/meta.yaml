@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/c7a265faeb4648a2be3eec0bc3687695/artifacts
+deleted_time: 1670629662282
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: c7a265faeb4648a2be3eec0bc3687695
+run_name: gregarious-deer-58
+run_uuid: c7a265faeb4648a2be3eec0bc3687695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629604896
+status: 1
+tags: []
+user_id: unknown

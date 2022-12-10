@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/2f1bbd5845844cb4ae43d895b48aff2a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 2f1bbd5845844cb4ae43d895b48aff2a
+run_name: clean-crane-507
+run_uuid: 2f1bbd5845844cb4ae43d895b48aff2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670627208026
+status: 1
+tags: []
+user_id: unknown

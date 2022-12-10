@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/d6b625f4e7a2494e8afa6d1915f98b49/artifacts
+deleted_time: 1670629662299
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: d6b625f4e7a2494e8afa6d1915f98b49
+run_name: able-panda-95
+run_uuid: d6b625f4e7a2494e8afa6d1915f98b49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629604895
+status: 1
+tags: []
+user_id: unknown

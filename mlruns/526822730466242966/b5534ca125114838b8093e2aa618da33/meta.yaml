@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b5534ca125114838b8093e2aa618da33/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b5534ca125114838b8093e2aa618da33
+run_name: enthused-sow-350
+run_uuid: b5534ca125114838b8093e2aa618da33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670633668518
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/29a97552817848a48549cf7cdd3ab51c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 29a97552817848a48549cf7cdd3ab51c
+run_name: overjoyed-bug-685
+run_uuid: 29a97552817848a48549cf7cdd3ab51c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634053451
+status: 1
+tags: []
+user_id: unknown

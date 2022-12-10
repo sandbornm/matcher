@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/62831ce834894ef0970bed7ba0e6d443/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 62831ce834894ef0970bed7ba0e6d443
+run_name: enchanting-ram-565
+run_uuid: 62831ce834894ef0970bed7ba0e6d443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670623094386
+status: 1
+tags: []
+user_id: unknown

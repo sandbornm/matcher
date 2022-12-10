@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e3811c0b9ca04711b7d51dae5ef0748a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e3811c0b9ca04711b7d51dae5ef0748a
+run_name: skillful-rook-861
+run_uuid: e3811c0b9ca04711b7d51dae5ef0748a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670626450039
+status: 1
+tags: []
+user_id: unknown

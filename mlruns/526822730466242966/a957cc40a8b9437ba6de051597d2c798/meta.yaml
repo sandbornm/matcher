@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/a957cc40a8b9437ba6de051597d2c798/artifacts
+deleted_time: 1670629601892
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: a957cc40a8b9437ba6de051597d2c798
+run_name: nebulous-mare-359
+run_uuid: a957cc40a8b9437ba6de051597d2c798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629237478
+status: 1
+tags: []
+user_id: unknown

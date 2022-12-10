@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/da51b8c960634634a1464a29986a5c89/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: da51b8c960634634a1464a29986a5c89
+run_name: invincible-rat-846
+run_uuid: da51b8c960634634a1464a29986a5c89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630066858
+status: 1
+tags: []
+user_id: unknown

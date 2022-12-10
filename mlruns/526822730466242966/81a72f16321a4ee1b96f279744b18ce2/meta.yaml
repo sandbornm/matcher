@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/81a72f16321a4ee1b96f279744b18ce2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 81a72f16321a4ee1b96f279744b18ce2
+run_name: nosy-crab-627
+run_uuid: 81a72f16321a4ee1b96f279744b18ce2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630888059
+status: 1
+tags: []
+user_id: unknown

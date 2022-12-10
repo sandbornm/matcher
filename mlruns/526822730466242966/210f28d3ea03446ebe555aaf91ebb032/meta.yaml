@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/210f28d3ea03446ebe555aaf91ebb032/artifacts
+deleted_time: 1670633209292
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 210f28d3ea03446ebe555aaf91ebb032
+run_name: bouncy-yak-870
+run_uuid: 210f28d3ea03446ebe555aaf91ebb032
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670632281922
+status: 1
+tags: []
+user_id: unknown

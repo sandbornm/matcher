@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/e8a0c6a616794fc9bf77c9a03b0da5d1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: e8a0c6a616794fc9bf77c9a03b0da5d1
+run_name: enthused-vole-356
+run_uuid: e8a0c6a616794fc9bf77c9a03b0da5d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670630066859
+status: 1
+tags: []
+user_id: unknown

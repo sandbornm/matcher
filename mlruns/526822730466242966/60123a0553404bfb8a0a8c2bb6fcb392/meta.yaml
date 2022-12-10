@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/60123a0553404bfb8a0a8c2bb6fcb392/artifacts
+deleted_time: 1670630063989
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 60123a0553404bfb8a0a8c2bb6fcb392
+run_name: upbeat-mule-914
+run_uuid: 60123a0553404bfb8a0a8c2bb6fcb392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629665361
+status: 1
+tags: []
+user_id: unknown

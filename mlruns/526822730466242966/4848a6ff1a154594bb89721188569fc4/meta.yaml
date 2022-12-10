@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/4848a6ff1a154594bb89721188569fc4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 4848a6ff1a154594bb89721188569fc4
+run_name: vaunted-bee-624
+run_uuid: 4848a6ff1a154594bb89721188569fc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670634281682
+status: 1
+tags: []
+user_id: unknown

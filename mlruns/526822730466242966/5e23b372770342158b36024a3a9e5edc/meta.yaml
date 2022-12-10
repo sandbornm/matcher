@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5e23b372770342158b36024a3a9e5edc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5e23b372770342158b36024a3a9e5edc
+run_name: masked-bat-371
+run_uuid: 5e23b372770342158b36024a3a9e5edc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670635874978
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5900c55a74be488ca2801843e6a03f8d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5900c55a74be488ca2801843e6a03f8d
+run_name: stylish-rat-24
+run_uuid: 5900c55a74be488ca2801843e6a03f8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670635137715
+status: 1
+tags: []
+user_id: unknown

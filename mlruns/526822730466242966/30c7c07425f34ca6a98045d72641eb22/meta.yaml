@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/30c7c07425f34ca6a98045d72641eb22/artifacts
+deleted_time: 1670629662295
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 30c7c07425f34ca6a98045d72641eb22
+run_name: colorful-cow-971
+run_uuid: 30c7c07425f34ca6a98045d72641eb22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670629604895
+status: 1
+tags: []
+user_id: unknown

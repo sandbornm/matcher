@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/21d2142dffbd48d38b62f887fae9e2f7/artifacts
+deleted_time: 1670625679378
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 21d2142dffbd48d38b62f887fae9e2f7
+run_name: abundant-colt-779
+run_uuid: 21d2142dffbd48d38b62f887fae9e2f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670625107943
+status: 1
+tags: []
+user_id: unknown

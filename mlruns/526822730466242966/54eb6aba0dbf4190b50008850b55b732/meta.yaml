@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/54eb6aba0dbf4190b50008850b55b732/artifacts
+deleted_time: 1670633209303
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: deleted
+run_id: 54eb6aba0dbf4190b50008850b55b732
+run_name: exultant-hawk-553
+run_uuid: 54eb6aba0dbf4190b50008850b55b732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670632215029
+status: 1
+tags: []
+user_id: unknown
