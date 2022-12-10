@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/331286338142247220/3218418d073e471faf63f927792eedfb/artifacts
+end_time: 1670703972674
+entry_point_name: ''
+experiment_id: '331286338142247220'
+lifecycle_stage: active
+run_id: 3218418d073e471faf63f927792eedfb
+run_name: abrasive-stag-468
+run_uuid: 3218418d073e471faf63f927792eedfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670703944791
+status: 3
+tags: []
+user_id: henrygilbert

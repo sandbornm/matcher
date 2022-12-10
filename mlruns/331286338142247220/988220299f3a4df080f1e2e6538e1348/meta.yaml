@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/331286338142247220/988220299f3a4df080f1e2e6538e1348/artifacts
+end_time: 1670703996393
+entry_point_name: ''
+experiment_id: '331286338142247220'
+lifecycle_stage: active
+run_id: 988220299f3a4df080f1e2e6538e1348
+run_name: luxuriant-wasp-295
+run_uuid: 988220299f3a4df080f1e2e6538e1348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670703972684
+status: 3
+tags: []
+user_id: henrygilbert
