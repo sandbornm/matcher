@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/2/399c2678356f4f29b2e2dc349e38f0d3/artifacts
+end_time: 1670723055516
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 399c2678356f4f29b2e2dc349e38f0d3
+run_name: bald-wren-363
+run_uuid: 399c2678356f4f29b2e2dc349e38f0d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670723045045
+status: 3
+tags: []
+user_id: Xayah
