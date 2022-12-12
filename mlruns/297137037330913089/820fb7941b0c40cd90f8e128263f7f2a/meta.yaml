@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/297137037330913089/820fb7941b0c40cd90f8e128263f7f2a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '297137037330913089'
+lifecycle_stage: active
+run_id: 820fb7941b0c40cd90f8e128263f7f2a
+run_name: bedecked-asp-81
+run_uuid: 820fb7941b0c40cd90f8e128263f7f2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670824372339
+status: 1
+tags: []
+user_id: unknown

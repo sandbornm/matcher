@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/297137037330913089/86f66f12055348f0aee02889dc335fc0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '297137037330913089'
+lifecycle_stage: active
+run_id: 86f66f12055348f0aee02889dc335fc0
+run_name: honorable-mole-378
+run_uuid: 86f66f12055348f0aee02889dc335fc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670824481402
+status: 1
+tags: []
+user_id: unknown

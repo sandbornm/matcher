@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/297137037330913089/5607ae779f234f15afbf2b9633afd36a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '297137037330913089'
+lifecycle_stage: active
+run_id: 5607ae779f234f15afbf2b9633afd36a
+run_name: sedate-fish-405
+run_uuid: 5607ae779f234f15afbf2b9633afd36a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670824429746
+status: 1
+tags: []
+user_id: unknown

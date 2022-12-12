@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/597640932371113181/bff092afb41a4dfdbab2a8eec99a9080/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '597640932371113181'
+lifecycle_stage: active
+run_id: bff092afb41a4dfdbab2a8eec99a9080
+run_name: melodic-bug-689
+run_uuid: bff092afb41a4dfdbab2a8eec99a9080
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670824762637
+status: 1
+tags: []
+user_id: henrygilbert

@@ -1,5 +1,5 @@
 artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/313279154321415347/ac292c48c2c14751a6506dd164d899f3/artifacts
-end_time: null
+end_time: 1670824762634
 entry_point_name: ''
 experiment_id: '313279154321415347'
 lifecycle_stage: active
@@ -10,6 +10,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1670716527324
-status: 1
+status: 3
 tags: []
 user_id: henrygilbert

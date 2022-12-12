@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/b5f2ba0da2214959a543086270c6bc11/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: b5f2ba0da2214959a543086270c6bc11
+run_name: wistful-crow-411
+run_uuid: b5f2ba0da2214959a543086270c6bc11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670824229421
+status: 1
+tags: []
+user_id: unknown

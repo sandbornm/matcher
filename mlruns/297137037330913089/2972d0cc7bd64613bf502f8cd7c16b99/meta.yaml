@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/297137037330913089/2972d0cc7bd64613bf502f8cd7c16b99/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '297137037330913089'
+lifecycle_stage: active
+run_id: 2972d0cc7bd64613bf502f8cd7c16b99
+run_name: unique-lynx-825
+run_uuid: 2972d0cc7bd64613bf502f8cd7c16b99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670824372349
+status: 1
+tags: []
+user_id: unknown

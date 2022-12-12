@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/297137037330913089/90089448be904987b382ddd915f36a36/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '297137037330913089'
+lifecycle_stage: active
+run_id: 90089448be904987b382ddd915f36a36
+run_name: unleashed-moth-69
+run_uuid: 90089448be904987b382ddd915f36a36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670824478080
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/297137037330913089/dd771a5e55ab428c8c9dc29f4ba975dc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '297137037330913089'
+lifecycle_stage: active
+run_id: dd771a5e55ab428c8c9dc29f4ba975dc
+run_name: dapper-sponge-917
+run_uuid: dd771a5e55ab428c8c9dc29f4ba975dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670824372243
+status: 1
+tags: []
+user_id: unknown

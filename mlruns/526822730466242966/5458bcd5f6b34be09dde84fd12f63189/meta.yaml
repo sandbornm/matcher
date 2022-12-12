@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henrygilbert/GitHub/matcher/mlruns/526822730466242966/5458bcd5f6b34be09dde84fd12f63189/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '526822730466242966'
+lifecycle_stage: active
+run_id: 5458bcd5f6b34be09dde84fd12f63189
+run_name: flawless-eel-567
+run_uuid: 5458bcd5f6b34be09dde84fd12f63189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670824229421
+status: 1
+tags: []
+user_id: unknown
