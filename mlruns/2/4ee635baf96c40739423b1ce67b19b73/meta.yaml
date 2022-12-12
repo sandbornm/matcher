@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/2/4ee635baf96c40739423b1ce67b19b73/artifacts
+end_time: 1670723271099
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4ee635baf96c40739423b1ce67b19b73
+run_name: persistent-stag-169
+run_uuid: 4ee635baf96c40739423b1ce67b19b73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670723162720
+status: 3
+tags: []
+user_id: Xayah

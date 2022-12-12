@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/0cf73765ca8645348344628eceae2784/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0cf73765ca8645348344628eceae2784
+run_name: monumental-moose-697
+run_uuid: 0cf73765ca8645348344628eceae2784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711111417
+status: 1
+tags: []
+user_id: unknown

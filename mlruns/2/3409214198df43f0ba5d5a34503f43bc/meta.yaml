@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/2/3409214198df43f0ba5d5a34503f43bc/artifacts
+end_time: 1670712189878
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 3409214198df43f0ba5d5a34503f43bc
+run_name: rumbling-rook-152
+run_uuid: 3409214198df43f0ba5d5a34503f43bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670712172623
+status: 3
+tags: []
+user_id: Xayah

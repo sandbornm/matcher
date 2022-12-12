@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/2/f349c0a3f3424cdba7ffeec930e932ca/artifacts
+end_time: 1670723031949
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f349c0a3f3424cdba7ffeec930e932ca
+run_name: traveling-bee-421
+run_uuid: f349c0a3f3424cdba7ffeec930e932ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670723008313
+status: 3
+tags: []
+user_id: Xayah

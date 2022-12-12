@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/1/520408c8283445cea59271b438315476/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 520408c8283445cea59271b438315476
+run_name: useful-dove-262
+run_uuid: 520408c8283445cea59271b438315476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711111409
+status: 1
+tags: []
+user_id: unknown
