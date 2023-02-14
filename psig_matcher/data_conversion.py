@@ -34,3 +34,4 @@ for file in filelist:
     print(f"saved file: {np_file}")
 print("done")
 
+print(glob.glob('./data/*/*.npy'))
