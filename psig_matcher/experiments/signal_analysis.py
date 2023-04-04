@@ -36,6 +36,20 @@ def signal_to_byte_array(signal):
     signal_int = np.round(signal_normalized * 255).astype(np.uint8)
     return signal_int.tobytes()
 
+def subsample_signal(signal, num_samples):
+    indices = np.linspace(0, len(signal) - 1, num_samples, dtype=int)
+    return signal[indices]
+
+def euclidean_distance(a, b):
+    return np.sqrt(np.sum((a - b) ** 2))
+
+def similarity_metric(signal1, signal2, num_samples):
+    subsampled_signal1 = subsample_signal(signal1, num_samples)
+    subsampled_signal2 = subsample_signal(signal2, num_samples)
+    pairwise_distances = [euclidean_distance(a, b) for a, b in zip(subsampled_signal1, subsampled_signal2)]
+    aggregated_distance = np.mean(pairwise_distances)
+    return aggregated_distance
+
 encoded_signals = [rs.encode(signal_to_byte_array(signal)) for signal in response]
 encoded_signals_2d = np.array([[encoded_signal[i] for i in range(2)] for encoded_signal in encoded_signals])
 
