@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/2/11e085e6e5d04239a8c0e9affd41f1f2/artifacts
+end_time: 1670711818269
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 11e085e6e5d04239a8c0e9affd41f1f2
+run_name: dashing-sloth-130
+run_uuid: 11e085e6e5d04239a8c0e9affd41f1f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670711732824
+status: 3
+tags: []
+user_id: Xayah

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RAZEER/matcher/mlruns/2/db523b380a714ab58b88b36c2f11d9e0/artifacts
+end_time: 1670712611253
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: db523b380a714ab58b88b36c2f11d9e0
+run_name: dapper-shrike-201
+run_uuid: db523b380a714ab58b88b36c2f11d9e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670712600221
+status: 3
+tags: []
+user_id: Xayah
