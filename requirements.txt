@@ -65,7 +65,7 @@ perlin-noise==1.12
 pexpect==4.8.0
 pickleshare==0.7.5
 pillow==9.2.0
-pip==22.2.2
+pip==26.2
 plotly==5.10.0
 pprofile==2.1.0
 prometheus-client==0.14.1
