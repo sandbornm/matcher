@@ -64,7 +64,7 @@ parso==0.8.3
 perlin-noise==1.12
 pexpect==4.8.0
 pickleshare==0.7.5
-pillow==9.2.0
+pillow==12.3.0
 pip==22.2.2
 plotly==5.10.0
 pprofile==2.1.0
